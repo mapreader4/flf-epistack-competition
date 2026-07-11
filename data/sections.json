@@ -1,0 +1,322 @@
+[
+  {
+    "number": "1",
+    "title": "Introduction",
+    "toc_page": 4
+  },
+  {
+    "number": "1.1",
+    "title": "Background: what happened in Wuhan?",
+    "toc_page": 5
+  },
+  {
+    "number": "1.1.1",
+    "title": "Huanan Seafood Market",
+    "toc_page": 6
+  },
+  {
+    "number": "1.2",
+    "title": "Background: what is in the sars-cov-2 genome?",
+    "toc_page": 7
+  },
+  {
+    "number": "1.2.1",
+    "title": "Phylogeny of coronaviruses",
+    "toc_page": 8
+  },
+  {
+    "number": "1.2.2",
+    "title": "Furin cleavage site",
+    "toc_page": 11
+  },
+  {
+    "number": "1.3",
+    "title": "Format of the debate",
+    "toc_page": 13
+  },
+  {
+    "number": "1.3.1",
+    "title": "About this document",
+    "toc_page": 14
+  },
+  {
+    "number": "2",
+    "title": "Introduction to Bayesian computation",
+    "toc_page": 14
+  },
+  {
+    "number": "2.1",
+    "title": "Hypothesis testing and p-values",
+    "toc_page": 18
+  },
+  {
+    "number": "3",
+    "title": "Lies, damned lies, and how to get large numbers by taking powers of 2",
+    "toc_page": 20
+  },
+  {
+    "number": "3.1",
+    "title": "\"Animal\" vs \"Other\"",
+    "toc_page": 23
+  },
+  {
+    "number": "3.2",
+    "title": "Rootclaim's Bayesian calculation",
+    "toc_page": 26
+  },
+  {
+    "number": "3.3",
+    "title": "Is Bayesian reasoning suited for this problem?",
+    "toc_page": 28
+  },
+  {
+    "number": "4",
+    "title": "Location, location, location",
+    "toc_page": 29
+  },
+  {
+    "number": "4.1",
+    "title": "A model for evaluating location of the index case",
+    "toc_page": 30
+  },
+  {
+    "number": "4.2",
+    "title": "Applying model to zoonotic and lab-leak hypotheses",
+    "toc_page": 31
+  },
+  {
+    "number": "4.3",
+    "title": "Where is a person?",
+    "toc_page": 33
+  },
+  {
+    "number": "4.4",
+    "title": "Early ascertainment bias",
+    "toc_page": 34
+  },
+  {
+    "number": "4.5",
+    "title": "Is covid attracted to HSM?",
+    "toc_page": 35
+  },
+  {
+    "number": "4.5.1",
+    "title": "Rootclaim's market model",
+    "toc_page": 36
+  },
+  {
+    "number": "4.5.2",
+    "title": "Rootclaim's market model, with timeline",
+    "toc_page": 38
+  },
+  {
+    "number": "4.5.3",
+    "title": "Empirical evidence of market outbreaks",
+    "toc_page": 39
+  },
+  {
+    "number": "4.5.4",
+    "title": "Super-spreading events are highly random",
+    "toc_page": 42
+  },
+  {
+    "number": "4.5.5",
+    "title": "Are other diseases drawn to HSM?",
+    "toc_page": 44
+  },
+  {
+    "number": "4.5.6",
+    "title": "Assessment of Rootclaim's market model",
+    "toc_page": 44
+  },
+  {
+    "number": "4.6",
+    "title": "Locating sars-cov-2 within HSM",
+    "toc_page": 46
+  },
+  {
+    "number": "4.6.1",
+    "title": "Covid testing of environment and animals",
+    "toc_page": 46
+  },
+  {
+    "number": "4.6.2",
+    "title": "Correlations between animal DNA and sars-cov-2 positivity",
+    "toc_page": 49
+  },
+  {
+    "number": "4.6.3",
+    "title": "Covid testing of animal vendors",
+    "toc_page": 49
+  },
+  {
+    "number": "5",
+    "title": "Genetic evidence",
+    "toc_page": 50
+  },
+  {
+    "number": "5.1",
+    "title": "Were there two spillovers?",
+    "toc_page": 50
+  },
+  {
+    "number": "5.2",
+    "title": "Spatial distribution of lineages A and B",
+    "toc_page": 51
+  },
+  {
+    "number": "5.3",
+    "title": "CGGCGG",
+    "toc_page": 53
+  },
+  {
+    "number": "5.4",
+    "title": "Project DEFUSE",
+    "toc_page": 53
+  },
+  {
+    "number": "5.4.1",
+    "title": "Excerpts from proposal",
+    "toc_page": 54
+  },
+  {
+    "number": "5.4.2",
+    "title": "Proposed activities that would have involved WIV",
+    "toc_page": 55
+  },
+  {
+    "number": "5.4.3",
+    "title": "Previously documented research activities at WIV",
+    "toc_page": 55
+  },
+  {
+    "number": "5.4.4",
+    "title": "Summary of significance of proposal",
+    "toc_page": 56
+  },
+  {
+    "number": "5.5",
+    "title": "ACE2 binding affinity",
+    "toc_page": 56
+  },
+  {
+    "number": "5.6",
+    "title": "Leading proline",
+    "toc_page": 57
+  },
+  {
+    "number": "5.7",
+    "title": "12 nucleotide insert at FCS",
+    "toc_page": 57
+  },
+  {
+    "number": "6",
+    "title": "Can you keep a secret?",
+    "toc_page": 57
+  },
+  {
+    "number": "7",
+    "title": "Analysis",
+    "toc_page": 59
+  },
+  {
+    "number": "7.1",
+    "title": "Zoonotic prior",
+    "toc_page": 59
+  },
+  {
+    "number": "7.2",
+    "title": "Lab leak prior",
+    "toc_page": 62
+  },
+  {
+    "number": "7.3",
+    "title": "First cluster in HSM",
+    "toc_page": 64
+  },
+  {
+    "number": "7.4",
+    "title": "Environmental samples in HSM",
+    "toc_page": 64
+  },
+  {
+    "number": "7.5",
+    "title": "Genetic evidence",
+    "toc_page": 64
+  },
+  {
+    "number": "7.6",
+    "title": "Conclusion",
+    "toc_page": 65
+  },
+  {
+    "number": "A",
+    "title": "Assorted arguments presented by Rootclaim",
+    "toc_page": 68
+  },
+  {
+    "number": "A.1",
+    "title": "Lineage B outcompeted lineage A",
+    "toc_page": 68
+  },
+  {
+    "number": "A.2",
+    "title": "Connor Reed",
+    "toc_page": 68
+  },
+  {
+    "number": "A.3",
+    "title": "Mahjong hall",
+    "toc_page": 69
+  },
+  {
+    "number": "A.4",
+    "title": "Missing N-glycans",
+    "toc_page": 70
+  },
+  {
+    "number": "A.5",
+    "title": "Early mutation rate",
+    "toc_page": 70
+  },
+  {
+    "number": "B",
+    "title": "Inventory of earliest known covid cases",
+    "toc_page": 71
+  },
+  {
+    "number": "B.1",
+    "title": "WHO cases by date and connection to HSM",
+    "toc_page": 71
+  },
+  {
+    "number": "B.2",
+    "title": "Map of HSM, west half",
+    "toc_page": 72
+  },
+  {
+    "number": "B.3",
+    "title": "Vendor cases",
+    "toc_page": 74
+  },
+  {
+    "number": "C",
+    "title": "Excluded information",
+    "toc_page": 76
+  },
+  {
+    "number": "C.1",
+    "title": "Anecdotal reports of the conditions at WIV",
+    "toc_page": 77
+  },
+  {
+    "number": "C.2",
+    "title": "To play cards or to play mahjong",
+    "toc_page": 79
+  },
+  {
+    "number": "D",
+    "title": "Glossary",
+    "toc_page": 79
+  }
+]

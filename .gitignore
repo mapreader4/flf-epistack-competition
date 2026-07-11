@@ -1,0 +1,28 @@
+# Secrets
+.env
+
+# Local HippoRAG clone — not ours to vendor. Clone it yourself:
+#   git clone https://github.com/OSU-NLP-Group/HippoRAG hippo/HippoRAG
+hippo/
+
+# Environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Working output: embedding vectors (31MB) and the LLM response cache.
+# Both are regenerable via scripts/run_hipporag_index.py.
+# The publishable results are copied into artifacts/ instead.
+outputs/
+
+# Intermediate text dump from the PDF
+data/eric_decision_raw.txt
+
+# Local reference material (papers, recordings) — read, not shipped.
+# eric_decision.pdf is the exception: it is the case study and is tracked.
+*.m4a
+2025.acl-long.254.pdf
+2512.10942v2.pdf
+2604.14228v2.pdf
+Lab Leaks, Black Holes, and Eggs*.pdf

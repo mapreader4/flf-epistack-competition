@@ -1,0 +1,28 @@
+{
+  "source_document": "eric_decision.pdf",
+  "source_description": "Eric Stansifer, 'Rootclaim covid-19 origins debate: Final decision', 2023-12-18, 83pp",
+  "generated": "2026-07-11",
+  "pipeline": "HippoRAG 2 (OSU-NLP-Group/HippoRAG, main branch, unmodified)",
+  "openie_llm": {
+    "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+    "provider": "Together",
+    "temperature": 0.0,
+    "seed": 0
+  },
+  "embedding_model": {
+    "model": "intfloat/multilingual-e5-large-instruct",
+    "provider": "Together",
+    "dim": 1024
+  },
+  "synonymy_edge_sim_threshold": 0.95,
+  "synonymy_threshold_note": "HippoRAG's default is 0.8, which is calibrated for GritLM/OpenAI embeddings. e5's cosine floor between unrelated entities is ~0.77 and its median ~0.84, so 0.8 marks ~94% of all entity pairs as synonyms and collapses the graph into a near-clique. Genuine synonyms in this corpus sit at >=0.96. Re-measure this if you change the embedding model.",
+  "chunking": {
+    "n_chunks": 195,
+    "total_tokens": 47120,
+    "target_tokens_per_chunk": 300,
+    "tokenizer": "cl100k_base",
+    "boundary_rule": "chunks never cross a section boundary",
+    "chunk_id_scheme": "chunk-<md5(text)> — identical to HippoRAG's EmbeddingStore scheme, so data/chunks.json joins 1:1 onto passage nodes"
+  },
+  "reproduce": "python scripts/chunk_decision.py && python scripts/run_hipporag_index.py"
+}
