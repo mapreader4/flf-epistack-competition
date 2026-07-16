@@ -1,24 +1,24 @@
 {
-  "sections_requested": 12,
-  "sections_processed": 12,
-  "claims_extracted": 125,
-  "invalid_pairs": 0,
-  "claims_resolved": 124,
-  "claims_dropped": 1,
-  "drop_rate": 0.008,
+  "sections_requested": 64,
+  "sections_processed": 61,
+  "claims_extracted": 601,
+  "invalid_pairs": 1,
+  "claims_resolved": 590,
+  "claims_dropped": 11,
+  "drop_rate": 0.0183,
   "section_match": {
-    "exact": 112,
-    "fuzzy": 12
+    "exact": 545,
+    "fuzzy": 45
   },
   "chunk_match": {
-    "exact": 124,
-    "fuzzy": 0,
-    "split_across_chunks": 0
+    "exact": 587,
+    "fuzzy": 2,
+    "split_across_chunks": 1
   },
   "tokens": {
-    "total": 20472,
-    "new_this_run": 20472
+    "total": 117903,
+    "new_this_run": 97431
   },
-  "est_cost_usd": 0.018,
+  "est_cost_usd": 0.1038,
   "aborted_on_budget": false
 }

@@ -1,6 +1,7 @@
 # Secrets
 .env
 .claude
+CLAUDE.md
 
 # Local HippoRAG clone — not ours to vendor. Clone it yourself:
 #   git clone https://github.com/OSU-NLP-Group/HippoRAG hippo/HippoRAG
