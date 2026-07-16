@@ -27,6 +27,8 @@ More concretely, some ideas we can try:
 
 9. Once the structure exists, flag what a human cares about: the crux (the one claim that, if it flipped, would change the verdict), evidence that looks independent but traces back to a single source, and questions that still have no evidence.
 
+## Possible continuation paths for evaluation 
+
 10. Evaluation: read the first outputs by hand before deciding how to score them; every claim and link points back to the exact sentence it came from; later, try to break it — flip a key claim, or feed in a duplicate, and check the graph reacts.
 
 11. Add the other test cases. The competition names three case studies — COVID origins (our eric_decision), the LHC black-hole risk, and egg health — and judges across all of them. Get source material for the black-hole and egg cases and run the same pipeline (claims → graph) on each, so we test generality and don't tune everything to one document.
