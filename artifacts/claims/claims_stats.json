@@ -1,0 +1,24 @@
+{
+  "sections_requested": 12,
+  "sections_processed": 12,
+  "claims_extracted": 125,
+  "invalid_pairs": 0,
+  "claims_resolved": 124,
+  "claims_dropped": 1,
+  "drop_rate": 0.008,
+  "section_match": {
+    "exact": 112,
+    "fuzzy": 12
+  },
+  "chunk_match": {
+    "exact": 124,
+    "fuzzy": 0,
+    "split_across_chunks": 0
+  },
+  "tokens": {
+    "total": 20472,
+    "new_this_run": 20472
+  },
+  "est_cost_usd": 0.018,
+  "aborted_on_budget": false
+}

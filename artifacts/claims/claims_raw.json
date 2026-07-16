@@ -1,0 +1,627 @@
+[
+  {
+    "section_number": "7",
+    "claim": "The judge's choice of numbers in the Bayesian inference computation for the origin of the covid pandemic is subjective and uncertain.",
+    "quote": "with my choice of numbers being subjective and uncertain."
+  },
+  {
+    "section_number": "7",
+    "claim": "Rootclaim argues that the observational evidence is equally consistent with zoonotic spillover anywhere in Wuhan as in HSM.",
+    "quote": "as they believe the observational evidence is equally consistent with zoonotic spillover anywhere in Wuhan as in HSM"
+  },
+  {
+    "section_number": "7",
+    "claim": "The definition of Z (zoonotic spillover in HSM) is a significant narrowing of the actual hypothesis at stake.",
+    "quote": "the definition I gave for Z is quite a significant narrowing, as they believe the observational evidence is equally consistent with zoonotic spillover anywhere in Wuhan as in HSM"
+  },
+  {
+    "section_number": "7",
+    "claim": "The prior probability of Z (zoonotic spillover in HSM) would be suitably greater if one accepts Rootclaim's argument in section 3.1, but its posterior probability would be much lower.",
+    "quote": "and so Z would have a suitably greater prior (but much lower posterior)"
+  },
+  {
+    "section_number": "7",
+    "claim": "The judge will estimate the priors P(Z) and P(LL) as annual risk, which can also be interpreted as the yearly rate at which pandemics emerge from those sources.",
+    "quote": "These numbers will be given as annual risk, so can also be interpretted as the yearly rate at which pandemics emerge from those sources."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "The judge had a fundamental misunderstanding of what drives new pandemics before the debate.",
+    "quote": "Before the debate I had a fundamental misunderstanding of what drives new pandemics."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "Sarbecoviruses are a branch of betacoronaviruses, which are a branch of coronaviruses.",
+    "quote": "recall that sarbecoviruses are themselves a branch of betacoronaviruses, which are a branch of coronaviruses."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "The great diversity of viruses is driven by their high mutation rate and genetic recombination.",
+    "quote": "This great diversity of viruses is driven by their high mutation rate (compared to eukaryotes) and genetic recombination."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "Spillovers from animals to humans are rare.",
+    "quote": "Spillovers from animals to humans are rare, and when they happen they effectively sample a random virus from that continuum of viruses that exist in animals."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "The primary limitation on pandemics is not whether the animal-to-human transmission occurs but rather whether a virus with the necessary properties evolves in an animal population humans are exposed to.",
+    "quote": "Instead, it appears that (potential) spillover events are quite common, 64 and the primary limitation on pandemics is not whether the animal-to-human transmission occurs but rather whether a virus with the necessary properties evolves in an animal population humans are exposed to."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "SARS-1 had multiple known independent spillover events.",
+    "quote": "SARS-1 had multiple known independent spillover events,65 and MERS has had dozens to hundreds since its discovery in 2012 [11]."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "MERS has had dozens to hundreds of spillover events since its discovery in 2012.",
+    "quote": "SARS-1 had multiple known independent spillover events,65 and MERS has had dozens to hundreds since its discovery in 2012 [11]."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "The multiple spillovers of SARS-1 and MERS are not independent events.",
+    "quote": "The multiple spillovers of SARS-1 and MERS are not independent events; since the limiting factor seems to be the evolution of a suitable virus, not its spillover, these should only count once each."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "There are 7 known human coronaviruses.",
+    "quote": "There are 7 known human coronaviruses, two discovered in the 1960s, and the rest since 2002."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "Most of the known human coronaviruses only cause mild disease.",
+    "quote": "Most of these only cause mild disease, and may have been circulating long before their discovery;"
+  },
+  {
+    "section_number": "7.1",
+    "claim": "The 1889 pandemic that killed 1 million people may have been the spillover of hcov-oc43.",
+    "quote": "the 1889 pandemic that killed 1 million people may have been the spillover of hcov-oc43, which today typically causes only colds."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "SARS-1 and MERS are the only 'sars-like' viruses considered a suitable precedent for the emergence of SARS-CoV-2.",
+    "quote": "SARS-1 and MERS are the only \"sars-like\" viruses I consider a suitable precedent, and both emerged in humans since 2002;"
+  },
+  {
+    "section_number": "7.1",
+    "claim": "The rate of emergence of new 'sars-like' viruses is estimated to be 1.5 per 21 years or 1 per 14 years.",
+    "quote": "this would give a rate of 1.5 per 21 years or 1 per 14 years."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "More than 1 million people in southeast Asia are exposed to bat coronaviruses each year, according to Peter Daszak of EcoHealth Alliance.",
+    "quote": "According to Peter Daszak of EcoHealth Alliance, more than 1 million people in southeast asia are exposed to bat coronaviruses each year ([32], annex page 71)."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "13% of animal traders in Guangdong, where SARS-1 was discovered, had antibodies to SARS-1 despite none of them having had known illnesses.",
+    "quote": "The US CDC found in 2003 that 13% animal traders in Guangdong, where SARS-1 was discovered, had antibodies to SARS-1 despite none of them having had known illnesses;"
+  },
+  {
+    "section_number": "7.1",
+    "claim": "The risk of pandemics has grown greatly on the timescale of decades due to changes of land use, agricultural intensity, and population.",
+    "quote": "I believe the risk of pandemics has grown greatly on the timescale of decades, due to changes of land use, agricultural intensity, and population;"
+  },
+  {
+    "section_number": "7.1",
+    "claim": "The increasing size and frequency of Ebola outbreaks in the last 10 to 30 years is an example of the growing risk of pandemics.",
+    "quote": "consider the increasing size and frequency of Ebola outbreaks in the last 10 to 30 years."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "Not all sars-like viruses can cause a pandemic.",
+    "quote": "Not all sars-like viruses can cause a pandemic."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "The probability of a sars-like virus causing a pandemic is estimated to be 1/4.",
+    "quote": "Estimating from sars-cov-1 and MERS we get a (0 + 1)/(2 + 2) = 1/4 chance (I forget the name of this correction method) of it happening;"
+  },
+  {
+    "section_number": "7.1",
+    "claim": "SARS-CoV-2 seems uniquely terrible, in part due to its initially very high presymptomatic transmission rate.",
+    "quote": "and while sars-cov-1 is quite like sars-cov-2 in some ways, the sars-cov-2 virus does seem uniquely terrible, in part due to its initially very high presymptomatic transmission rate."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "A less terrible virus would not have led to a pandemic.",
+    "quote": "Perhaps a less terrible virus would not have lead to a pandemic."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "The probability of a pandemic emerging from a wildlife market in east Asia is estimated to be 1/200.",
+    "quote": "In toto I will assess this as 1 /200."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "Peter Daszak gives the probability of HSM being the location of a pandemic spillover as 1/50.",
+    "quote": "Conditioned on the emergence being a wildlife market in east Asia, Peter gives the probability of HSM as 1 /50 [8];"
+  },
+  {
+    "section_number": "7.1",
+    "claim": "Saar gives the probability of HSM being the location of a pandemic spillover as 1/500.",
+    "quote": "Saar gives it as 1 /500 [7]."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "HSM is the largest market of its kind in central China.",
+    "quote": "but Saar observed that HSM is the largest market of its kind in central China,"
+  },
+  {
+    "section_number": "7.1",
+    "claim": "HSM is atypical in the extent of its live wildlife presence.",
+    "quote": "My vague impression is that HSM is atypical in the extent of its live wildlife presence."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "Biologist Eddie Holmes and the Wuhan CDC specifically called out HSM as a possible location for a future pandemic spillover.",
+    "quote": "biologist Eddie Holmes and the Wuhan CDC specifically called out HSM as a possible location for a future pandemic spillover [26, 39]."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "Pandemics can emerge in locations other than wildlife markets.",
+    "quote": "Conversely, pandemics can emerge in locations other than wildlife markets."
+  },
+  {
+    "section_number": "7.1",
+    "claim": "The prior probability of a pandemic emerging from HSM is estimated to be 1/32000.",
+    "quote": "Overall this gives P (Z) = 1 20\u00b7 1 4\u00b7 1 2\u00b7 1 200 = 1 32000,"
+  },
+  {
+    "section_number": "7.2",
+    "claim": "The judge estimates the probability of the Wuhan Institute of Virology (WIV) conducting GoF research as 1/50",
+    "quote": "WIV conducts GoF research a la \"DEFUSE\" 1/50"
+  },
+  {
+    "section_number": "7.2",
+    "claim": "The judge estimates the annualized probability of the WIV conducting GoF research as 1/1.7",
+    "quote": "(annualized) 1/1.7"
+  },
+  {
+    "section_number": "7.2",
+    "claim": "The judge estimates the probability of the WIV using a suitable starting virus as 1/2",
+    "quote": "WIV uses suitable starting virus 1/2"
+  },
+  {
+    "section_number": "7.2",
+    "claim": "The judge estimates the probability of the WIV research being successful as 1/2",
+    "quote": "WIV research is successful 1/2"
+  },
+  {
+    "section_number": "7.2",
+    "claim": "The judge estimates the probability of a lab leak of the virus occurring at the WIV as 1/50",
+    "quote": "lab leak of that virus occurs at WIV 1/50"
+  },
+  {
+    "section_number": "7.2",
+    "claim": "The Project DEFUSE research plan looks eerily similar to SARS-CoV-2 in parts",
+    "quote": "The Project DEFUSE research plan [14, 20] looks eerily similar, in parts, to sars-cov-2"
+  },
+  {
+    "section_number": "7.2",
+    "claim": "Following Project DEFUSE exactly is not consistent with the lab-leak hypothesis",
+    "quote": "However following Project DEFUSE exactly is not consistent with LL"
+  },
+  {
+    "section_number": "7.2",
+    "claim": "The judge argues that for the lab-leak hypothesis to occur, the WIV had to undertake the contents of Project DEFUSE alone without collaborators",
+    "quote": "For LL to occur, WIV had to undertake the contents of Project DEFUSE alone without collaborators"
+  },
+  {
+    "section_number": "7.2",
+    "claim": "The judge estimates the probability of all the necessary conditions for the lab-leak hypothesis to be at most 1/50",
+    "quote": "I find the probability of all of this to be at most 1/50"
+  },
+  {
+    "section_number": "7.2",
+    "claim": "The judge assumes a Poisson distribution of lab leaks with unknown parameter",
+    "quote": "Assuming a Poisson distribution of lab leaks with unknown parameter"
+  },
+  {
+    "section_number": "7.2",
+    "claim": "The judge estimates the annualized probability of the first lab leak occurring to be at most 1 per 1.7 years",
+    "quote": "after 1.7 years the annualized probability of the first lab leak occurring is at most 1 per 1.7 years"
+  },
+  {
+    "section_number": "7.2",
+    "claim": "The judge estimates the probability of the WIV finding and choosing a sufficiently dangerous virus to start with as 1/2",
+    "quote": "This assumes that WIV is able to find the virus, though in reality only a small fraction of wild viruses are ever sampled"
+  },
+  {
+    "section_number": "7.2",
+    "claim": "Rootclaim describes the chance of SARS-CoV-2 escaping from a lab as almost certainty once it is manufactured",
+    "quote": "Rootclaim describes this as almost certainty once sars-cov-2 is manufactured"
+  },
+  {
+    "section_number": "7.2",
+    "claim": "The judge argues that the chance of a lab leak is lower than the chance that a leak is followed by an outbreak in the lab",
+    "quote": "The chance of a lab leak is surely lower than the chance that leak is followed by a outbreak in the lab"
+  },
+  {
+    "section_number": "7.2",
+    "claim": "Lab leaks of infectious agents are very rare, especially if restricted to lab leaks that had secondary infections",
+    "quote": "Also, while lab leaks of infectious agents do happen, they still are very rare, especially if you restrict to lab leaks that had secondary infections"
+  },
+  {
+    "section_number": "7.2",
+    "claim": "The judge estimates the probability of a lab leak to be no higher than 1/50",
+    "quote": "I cannot put the probability above 1 /50"
+  },
+  {
+    "section_number": "7.2",
+    "claim": "The judge calculates the probability of the lab-leak hypothesis (P(LL)) to be 1/17000",
+    "quote": "P (LL) = 1 50\u00b7 1 1.7\u00b7 1 2\u00b7 1 2\u00b7 1 50 = 1 17000"
+  },
+  {
+    "section_number": "7.2",
+    "claim": "The judge finds that the probability of the lab-leak hypothesis (P(LL)) is twice as high as the probability of the zoonotic hypothesis (P(Z))",
+    "quote": "Compared to P (Z), we see P (LL) is twice as high"
+  },
+  {
+    "section_number": "7.3",
+    "claim": "The probability of observing the index case being a resident in the west half of HSM given the zoonosis hypothesis equals 1 divided by the population of the west half of HSM",
+    "quote": "P (H|Z) = 1"
+  },
+  {
+    "section_number": "7.3",
+    "claim": "The probability of observing the index case being a resident in the west half of HSM given the lab-leak hypothesis equals 1 divided by the population of all of Wuhan",
+    "quote": "P (H|LL) = 1 / 1.2\u00b7 107"
+  },
+  {
+    "section_number": "7.3",
+    "claim": "The Bayes factor for the observation that the index case is a resident in the west half of HSM is 1 / 20000",
+    "quote": "for a Bayes factor of 1 /20000"
+  },
+  {
+    "section_number": "7.3",
+    "claim": "A market vendor is more likely to catch an illness than the average resident of Wuhan",
+    "quote": "As I do think a market vendor is more likely to catch an illness than the average resident of Wuhan"
+  },
+  {
+    "section_number": "7.3",
+    "claim": "The lab-leak hypothesis is given an extra factor of 2 because a market vendor is more likely to catch an illness than the average resident of Wuhan",
+    "quote": "I will give LL an extra factor of 2"
+  },
+  {
+    "section_number": "7.3",
+    "claim": "The assumption of a flat prior for the number of transmission between the primary case and index case is somewhat favorable to the lab-leak hypothesis",
+    "quote": "I think the assumption of a flat prior here is somewhat favorable to LL"
+  },
+  {
+    "section_number": "7.4",
+    "claim": "The distribution of positive SARS-CoV-2 samples within HSM appears to generally point to the region where live animals were kept, or more specifically to shop 6:29, which had been identified as a potential pandemic spillover location.",
+    "quote": "the distribution of positive sars-cov-2 samples within HSM appears to generally point to the region where live animals were kept, or more specifically point to shop 6:29 which had been identified as a potential pandemic spillover location."
+  },
+  {
+    "section_number": "7.4",
+    "claim": "Of the 15 shops which were sampled 10 or more times, 12 had no positives, 3 had one positive, and shop 6:29 had the other 5 positives.",
+    "quote": "Of the 15 shops which were sampled 10 or more times, 12 had no positives, 3 had one positive, and shop 6:29 had the other 5 positives."
+  },
+  {
+    "section_number": "7.4",
+    "claim": "This observation arguably has a Bayes factor of 15 in favor of Z, as LL has no viable explanation for this coincidence.",
+    "quote": "Arguably, this observation has a Bayes factor of 15 in favor of Z, as LL has no viable explanation for this coincidence."
+  },
+  {
+    "section_number": "7.4",
+    "claim": "More careful statistical analysis places 6:29 at the geographical center of the sample positivity ratio, and the positive drainage samples likewise implicate alley 6.",
+    "quote": "more careful statistical analysis places 6:29 at the geographical center of the sample positivity ratio, and the positive drainage samples likewise implicate alley 6."
+  },
+  {
+    "section_number": "7.4",
+    "claim": "The HSM environmental samples will not contribute to the Bayesian calculation.",
+    "quote": "However the HSM environmental samples will not contribute to my Bayesian calculation, as will be explained."
+  },
+  {
+    "section_number": "7.5",
+    "claim": "Most of the genetic evidence of SARS-CoV-2's origin is either already incorporated into the prior or too weak to compel anything",
+    "quote": "Most of the genetic evidence is either already incorporated into the prior or too weak to compel anything"
+  },
+  {
+    "section_number": "7.5",
+    "claim": "It is hard to find definitive proof of a virus's origin by examining its genetic sequence",
+    "quote": "it's hard to find definitive proof of a virus's origin by examining its genetic sequence"
+  },
+  {
+    "section_number": "7.5",
+    "claim": "The strange 12 nucleotide insert in SARS-CoV-2 creates a furin cleavage site",
+    "quote": "the strange 12 nucleotide insert creating a furin cleavage site"
+  },
+  {
+    "section_number": "7.5",
+    "claim": "SARS-CoV-2 has a strong affinity to bind to human ACE2 over other species",
+    "quote": "the strong affinity of sars-cov-2 to bind to human ACE2 over other species"
+  },
+  {
+    "section_number": "7.5",
+    "claim": "The presence of the furin cleavage site in SARS-CoV-2 is given a Bayes factor of 20",
+    "quote": "I give these Bayes factors of 20 and 2 respectively; the latter cannot go above 14 as that was the number of species in the study"
+  },
+  {
+    "section_number": "7.5",
+    "claim": "The strong affinity of SARS-CoV-2 to bind to human ACE2 over other species is given a Bayes factor of 2",
+    "quote": "I give these Bayes factors of 20 and 2 respectively; the latter cannot go above 14 as that was the number of species in the study"
+  },
+  {
+    "section_number": "7.5",
+    "claim": "The Bayes factor for the strong affinity of SARS-CoV-2 to bind to human ACE2 over other species cannot go above 14 because there were only 14 species in the study",
+    "quote": "the latter cannot go above 14 as that was the number of species in the study"
+  },
+  {
+    "section_number": "7.6",
+    "claim": "The judge's Bayesian calculation gives a conditional probability of a lab leak of 0.07529%",
+    "quote": "which gives a conditional probability of P (LL|O) = 0.07529%"
+  },
+  {
+    "section_number": "7.6",
+    "claim": "The judge does not believe the probability of a lab leak is only 1 in 1300 due to significant uncertainties in the analysis",
+    "quote": "Do I believe the probability of a lab leak is only 1 in 1300? No, due to the significant uncertainties in my analysis I would give it some higher probability."
+  },
+  {
+    "section_number": "7.6",
+    "claim": "The judge thinks the numerical calculation gives an undeserved illusion of certainty",
+    "quote": "I think the numerical calculation gives an undeserved illusion of certainty"
+  },
+  {
+    "section_number": "7.6",
+    "claim": "The judge prefers a more qualitative summary of the evidence",
+    "quote": "so I prefer perhaps a more qualitative summary"
+  },
+  {
+    "section_number": "7.6",
+    "claim": "The judge's qualitative assessment of the evidence is that the prior leans zoonotic, the location is strong zoonotic, the genetic/DEFUSE evidence is weak lab leak, and the secret doesn't leak is weak zoonotic",
+    "quote": "evidence strength prior lean zoonotic location strong zoonotic genetic / DEFUSE weak lab leak secret doesn't leak weak zoonotic total strong zoonotic"
+  },
+  {
+    "section_number": "7.6",
+    "claim": "The judge has excluded some items mentioned by Rootclaim because they are indistinguishable from neutral",
+    "quote": "I have excluded quite a few items mentioned by Rootclaim; not that this would impact the result, as I evaluate each of the excluded items as indistinguishable from neutral."
+  },
+  {
+    "section_number": "7.6",
+    "claim": "The judge included the location of the outbreak, genetic information, DEFUSE proposal, and the failure of the secret to escape the lab as evidence because they are essential components of the zoonotic/lab leak hypotheses or are quite strong",
+    "quote": "My basis for including evidence is loosely if it is either an essential component of the zoonotic / lab leak hypotheses, or if it is quite strong."
+  },
+  {
+    "section_number": "7.6",
+    "claim": "The judge excluded the distribution of positive environmental samples within HSM because it was not an essential component of the zoonotic hypothesis and was not convincingly strong in isolation",
+    "quote": "One piece of evidence I excluded was the distribution of positive environmental samples within HSM. While it appears to identify the origin of the HSM outbreak to be specifically the area where wild animals were kept, this particular evidence was not an essential component of the zoonotic hypothesis, nor was it so convincingly strong in isolation as to not possibly be a coincidence."
+  },
+  {
+    "section_number": "7.6",
+    "claim": "The Project DEFUSE proposal is the centerpiece of the lab leak explanation and matches several features of SARS-CoV-2",
+    "quote": "The centerpiece of the lab leak explanation is the Project DEFUSE proposal, and the observation that a number of features from that proposal match features of sars-cov-2"
+  },
+  {
+    "section_number": "7.6",
+    "claim": "The judge finds it suspicious that the Project DEFUSE proposal matches several features of SARS-CoV-2",
+    "quote": "This is sufficient to raise suspicion: how odd to see so many specific details identified in advance of the pandemic!"
+  },
+  {
+    "section_number": "7.6",
+    "claim": "The zoonotic hypothesis has an equivalent to Project DEFUSE, namely Eddie Holmes's 2014 photos",
+    "quote": "The zoonotic hypothesis has an equivalent to Project DEFUSE, namely Eddie Holmes's 2014 photos [26]."
+  },
+  {
+    "section_number": "7.6",
+    "claim": "The coincidence of location between Eddie Holmes's 2014 photos and the Wuhan CDC's visit to HSM is odd and has no explanation under the lab leak hypothesis",
+    "quote": "This coincidence of location is likewise odd, and has no explanation under LL."
+  },
+  {
+    "section_number": "7.6",
+    "claim": "The existence of the Project DEFUSE proposal and the Eddie Holmes photos are not definitive or strong evidence for the origin of SARS-CoV-2",
+    "quote": "Neither the existence of the Project DEFUSE proposal nor the Eddie Holmes photos are definitive, or even strong, evidence as to the origin of sars-cov-2; they rise only to the standard of being odd, possibly just coincidences."
+  },
+  {
+    "section_number": "7.6",
+    "claim": "Project DEFUSE is the only significant evidence suggesting the possibility of a GoF lab leak",
+    "quote": "However, Project DEFUSE is the only significant evidence suggesting the possibility of a GoF lab leak"
+  },
+  {
+    "section_number": "7.6",
+    "claim": "The physical evidence of the COVID pandemic starting in the immediate vicinity of live animals susceptible to SARS-like coronaviruses points strongly in favor of the hypothesis of zoonotic spillover",
+    "quote": "While the lab leak hypothesis has only loose circumstantial evidence in its favor, the physical evidence of the covid pandemic starting in the immediate vicinity of live animals susceptible to sars-like coronaviruses and the precedent of previous coronavirus epidemics starting in an analogous manner together point strongly in favor of the hypothesis of zoonotic spillover"
+  },
+  {
+    "section_number": "5.4",
+    "claim": "The EcoHealth Alliance submitted a grant request to DARPA for $14 million for Project DEFUSE in 2018.",
+    "quote": "In 2018, the EcoHealth Alliance submitted a grant request to DARPA for $14 million for \"Project DEFUSE\""
+  },
+  {
+    "section_number": "5.4",
+    "claim": "Project DEFUSE was a 3.5 year project on bat coronaviruses in collaboration with 5 other groups located at UNC, Duke-National University Singapore, WIV, USGS National Wildlife Health Center, and Palo Alto Research Center.",
+    "quote": "a 3.5 year project on bat coronaviruses in collaboration with 5 other groups (located at UNC, Duke-National University Singapore, WIV, USGS National Wildlife Health Center, and Palo Alto Research Center)"
+  },
+  {
+    "section_number": "5.4",
+    "claim": "The project involved collecting bat coronaviruses and performing computer and lab testing on them.",
+    "quote": "1. Collect bat coronaviruses and perform computer and lab testing on them"
+  },
+  {
+    "section_number": "5.4",
+    "claim": "The project involved deploying vaccines and immune boosting agents to wild bats.",
+    "quote": "2. Deploy vaccines and immune boosting agents to wild bats"
+  },
+  {
+    "section_number": "5.4",
+    "claim": "The project involved writing an app for soldiers to figure out how likely bats are to have dangerous diseases.",
+    "quote": "3. Write an app for soldiers to figure out how likely bats are to have dangerous diseases"
+  },
+  {
+    "section_number": "5.4.1",
+    "claim": "The proposal will screen samples for SARSr-CoV nucleic acid and high-throughput sequence full-length genomes or S genes of all SARSr-CoVs.",
+    "quote": "We will screen samples for SARSr-CoV [sars-cov-1-related coronavirus] nucleic acid [...] Full-length genomes or S [spike] genes of all SARSr-CoVs will be high-throughput sequenced followed by genome walking."
+  },
+  {
+    "section_number": "5.4.1",
+    "claim": "The proposal will analyze the S gene for its ability to bind human ACE2 by Biocore or virus entry assay.",
+    "quote": "We will analyze the S gene for its ability to bind human ACE2 by Biocore or virus entry assay."
+  },
+  {
+    "section_number": "5.4.1",
+    "claim": "The proposal will commercially synthesize SARSr-CoV S glycoprotein genes, designed for insertion into SHCO14 or WIV16 molecular clone backbones.",
+    "quote": "We will commercially synthesize SARSr-CoV S glycopro-tein genes, designed for insertion into SHCO14 or WIV16 molecu-lar clone backbones (88% and 97% S-protein identity to epidemic SARS-Urbani61)."
+  },
+  {
+    "section_number": "5.4.1",
+    "claim": "The synthesized SARSr-CoV S glycoprotein genes will be inserted into molecular clone backbones with 88% and 97% S-protein identity to epidemic SARS-Urbani61.",
+    "quote": "We will commercially synthesize SARSr-CoV S glycopro-tein genes, designed for insertion into SHCO14 or WIV16 molecu-lar clone backbones (88% and 97% S-protein identity to epidemic SARS-Urbani61)."
+  },
+  {
+    "section_number": "5.4.1",
+    "claim": "The proposal will conduct in vitro pseudovirus binding assays and live virus binding assays for isolated strains.",
+    "quote": "We will conduct in vitro [in test tube] pseudovirus binding assays, using established techniques, and live virus binding assays (at WIV to prevent delays and unnecessary dissemination of viral cultures) for isolated strains."
+  },
+  {
+    "section_number": "5.4.1",
+    "claim": "The proposal will put the genes for the spike proteins into known viruses which have been selected for their low pandemic potential.",
+    "quote": "So, they will look for sars-like viruses, sequence their spike proteins, simulate how well those spike proteins bind to human ACE2 receptors, and put the genes for those spike proteins into known viruses which have been selected for their low pandemic potential."
+  },
+  {
+    "section_number": "5.4.1",
+    "claim": "The viruses with the inserted spike protein genes will be given to mice with human ACE2 receptors.",
+    "quote": "Those viruses will be given to mice with human ACE2 receptors."
+  },
+  {
+    "section_number": "5.4.1",
+    "claim": "The proposal will analyze all SARSr-CoV S gene sequences for appropriately conserved proteolytic cleavage sites in S2 and for the presence of potential furin cleavage sites.",
+    "quote": "We will analyze all SARSr-CoV S [spike] gene sequences for appropriately conserved proteolytic cleavage sites in S2 [spike subregion 2] and for the pres-ence of potential furin cleavage sites."
+  },
+  {
+    "section_number": "5.4.1",
+    "claim": "SARSr-CoV S with mismatches in proteolytic cleavage sites can be activated by exogenous trypsin or cathepsin L.",
+    "quote": "SARSr-CoV S with mismatches in proteolytic cleavage sites can be activated by exogenous trypsin or cathepsin L."
+  },
+  {
+    "section_number": "5.4.1",
+    "claim": "The proposal will introduce appropriate human-specific cleavage sites into SARSr-CoV S with clear mismatches in proteolytic cleavage sites.",
+    "quote": "Where clear mismatches occur, we will introduce appro-priate human-specific cleavage sites and evaluate growth potential in Vero [monkey kidney] cells and HAE [human airway epithelial cells] cultures."
+  },
+  {
+    "section_number": "5.4.1",
+    "claim": "The proposal will review deep sequence data for low abundant high risk SARSr-CoV that encode functional proteolytic cleavage sites.",
+    "quote": "We will also review deep sequence data for low abundant high risk SARSr-CoV that encode functional proteolytic cleavage sites, and if so, introduce these changes into the appropriate high abundant, low risk parental strain."
+  },
+  {
+    "section_number": "5.4.2",
+    "claim": "The Wuhan Institute of Virology (WIV) would have been involved in screening bat samples for sars-like viruses and sequencing spike proteins in Phase 1, tasks 3.1 and 3.2.",
+    "quote": "1. Phase 1, tasks 3.1 and 3.2: Screen bat samples for sars-like viruses and sequence spike proteins"
+  },
+  {
+    "section_number": "5.4.2",
+    "claim": "The Wuhan Institute of Virology (WIV) would have been involved in making assays for identifying antibodies to known sars-like viruses in Task 6.1.",
+    "quote": "2. Task 6.1: make assays for identifying antibodies to known sars-like viruses"
+  },
+  {
+    "section_number": "5.4.2",
+    "claim": "The Wuhan Institute of Virology (WIV) would have been involved in verifying assays on rabbits and blood samples from people who had SARS-1 in Tasks 6.2 and 6.3.",
+    "quote": "3. Tasks 6.2 and 6.3: verify assays on rabbits and blood samples from people who had SARS-1"
+  },
+  {
+    "section_number": "5.4.2",
+    "claim": "The Wuhan Institute of Virology (WIV) would have been involved in testing assays on people in Yunnan to look for sars-like spillover events in Task 6.4.",
+    "quote": "4. Task 6.4: test assays on people in Yunnan to look for sars-like spillover events"
+  },
+  {
+    "section_number": "5.4.2",
+    "claim": "The Wuhan Institute of Virology (WIV) would have been involved in testing a viral vector vaccine on captive bats in Tasks 7.5 and 8.5.",
+    "quote": "5. Tasks 7.5 and 8.5: test viral 62 vector vaccine on captive bats"
+  },
+  {
+    "section_number": "5.4.2",
+    "claim": "The Wuhan Institute of Virology (WIV) would have been involved in identifying cave features, surveilling bats, deploying vaccines or immune boosters to caves, and surveilling bats in Phase 2, tasks 5.1 through 5.4.",
+    "quote": "6. Phase 2, tasks 5.1 through 5.4: Identify cave features; surveil bats; deploy vaccines or immune boosters to caves; surveil bats"
+  },
+  {
+    "section_number": "5.4.2",
+    "claim": "No genetic engineering would be performed at the Wuhan Institute of Virology (WIV).",
+    "quote": "As far as I can see, no genetic engineering would be performed at WIV"
+  },
+  {
+    "section_number": "5.4.2",
+    "claim": "No chimeric viruses would be brought to the Wuhan Institute of Virology (WIV), except prototype vaccines which use a raccoonpox chimera.",
+    "quote": "nor would any chimeric viruses be brought there, except prototype vaccines which use a raccoonpox chimera"
+  },
+  {
+    "section_number": "5.4.2",
+    "claim": "The Wuhan Institute of Virology (WIV) was to be involved with samples collected from bats, tests on bats, tests on people who live near bats, and experiments in bat caves.",
+    "quote": "WIV was to be involved with samples collected from bats, tests on bats, tests on people who live near bats, and experiments in bat caves"
+  },
+  {
+    "section_number": "5.4.3",
+    "claim": "Rootclaim identified two papers that described relevant laboratory work conducted at WIV.",
+    "quote": "Rootclaim [7] identified two papers that described relevant laboratory work conducted at WIV."
+  },
+  {
+    "section_number": "5.4.3",
+    "claim": "The laboratory work conducted at WIV involved editing a backbone of WIV1, a specific sars-like coronavirus genome chosen for its lack of pandemic potential.",
+    "quote": "the work involved editing a backbone of WIV1, a specific sars-like coronavirus genome chosen for its lack of \"pandemic potential\""
+  },
+  {
+    "section_number": "5.4.3",
+    "claim": "WIV1 was chosen for laboratory work at WIV because it is presumably safer to work with than a pathogenic virus due to its lack of pandemic potential.",
+    "quote": "and thus presumably safer to work with than a pathogenic virus"
+  },
+  {
+    "section_number": "5.4.3",
+    "claim": "In one project at WIV, researchers edited WIV1 by replacing its spike protein with spike proteins found in viruses collected from bats in Yunnan.",
+    "quote": "In one project, they edited WIV1 by replacing its spike protein with spike proteins found in viruses collected from bats in Yunnan"
+  },
+  {
+    "section_number": "5.4.3",
+    "claim": "Human and monkey cells were exposed to the recombinant viruses at WIV to determine their infectivity.",
+    "quote": "Human and monkey cells were then exposed to the recombinant viruses to determine its infectivity"
+  },
+  {
+    "section_number": "5.4.3",
+    "claim": "In another project at WIV, researchers removed a gene in WIV1 that is absent in sars-cov-1 to see if the virus would still work in human and monkey cells.",
+    "quote": "In another project, they removed a gene in WIV1 that is absent in sars-cov-1 to see if the virus would still work in human and monkey cells"
+  },
+  {
+    "section_number": "5.4.4",
+    "claim": "The Project DEFUSE proposal does not explicitly state it would add furin cleavage sites to viruses",
+    "quote": "The proposal does not explicitly state it would add furin cleavage sites to viruses"
+  },
+  {
+    "section_number": "5.4.4",
+    "claim": "The proposal discusses adding cleavage sites in general shortly after referring to furin cleavage sites by name",
+    "quote": "but it does discuss adding cleavage sites in general shortly after referring to furin cleavage sites by name"
+  },
+  {
+    "section_number": "5.4.4",
+    "claim": "Most of the genetic modification involved using backbones from known, pre-existing viruses",
+    "quote": "Most, but not all, of the genetic modification involved using backbones from known, pre-existing viruses"
+  },
+  {
+    "section_number": "5.4.4",
+    "claim": "The proposal does not discuss any in vivo genetic modification",
+    "quote": "The proposal does not, as far as I understand, discuss any in vivo genetic modification"
+  },
+  {
+    "section_number": "5.4.4",
+    "claim": "All editing was to be done by directly altering sequences, not by passaging through humanized mice or other organisms",
+    "quote": "all editing was to be done by directly altering sequences, not by passaging through humanized mice or other organisms"
+  },
+  {
+    "section_number": "5.4.4",
+    "claim": "Viruses would be used in vivo only for testing pathogenecity",
+    "quote": "Viruses would be used in vivo only for testing pathogenecity"
+  },
+  {
+    "section_number": "5.4.4",
+    "claim": "The proposal would screen for wild viruses with high affinity towards human ACE2",
+    "quote": "The proposal does specifically say it would screen for wild viruses with high affinity towards human ACE2"
+  },
+  {
+    "section_number": "5.4.4",
+    "claim": "The Project DEFUSE proposal is not a blueprint for building sars-cov-2",
+    "quote": "and the proposal is hardly a blueprint for building sars-cov-2"
+  },
+  {
+    "section_number": "5.4.4",
+    "claim": "The community of virologists was broadly interested in making chimeric viruses with certain features which have the potential for lab leak risk if handled improperly",
+    "quote": "Project DEFUSE is most relevant in that it shows that the community of virologists was broadly interested in making chimeric viruses with certain features which have the potential for lab leak risk if handled improperly"
+  }
+]

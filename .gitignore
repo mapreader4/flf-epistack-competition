@@ -1,5 +1,6 @@
 # Secrets
 .env
+.claude
 
 # Local HippoRAG clone — not ours to vendor. Clone it yourself:
 #   git clone https://github.com/OSU-NLP-Group/HippoRAG hippo/HippoRAG
@@ -25,4 +26,6 @@ data/eric_decision_raw.txt
 2025.acl-long.254.pdf
 2512.10942v2.pdf
 2604.14228v2.pdf
+2606.23989v2.pdf
 Lab Leaks, Black Holes, and Eggs*.pdf
+Lab Leaks, Black Holes, and Eggs_ Epistemic Case Study Competition – Future of Life Foundation.pdf

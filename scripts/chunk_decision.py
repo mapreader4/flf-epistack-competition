@@ -13,7 +13,7 @@ onto HippoRAG's graph nodes without threading anything through the library.
 import hashlib
 import json
 import re
-import unicodedata
+import sys
 from pathlib import Path
 
 import tiktoken
@@ -29,22 +29,21 @@ MIN_TOKENS = 40
 
 ENC = tiktoken.get_encoding("cl100k_base")
 
-# Ligatures and typographic characters that pdf extraction leaves in the text.
-LIGATURES = {
-    "ﬀ": "ff", "ﬁ": "fi", "ﬂ": "fl", "ﬃ": "ffi", "ﬄ": "ffl",
-    "’": "'", "‘": "'", "“": '"', "”": '"',
-    "–": "-", "—": "-", "−": "-", " ": " ",
-}
+sys.path.insert(0, str(Path(__file__).resolve().parent))  # import sibling module
+from span_match import clean, locate  # noqa: E402
+
+# Chunk texts are a deterministic whitespace-collapsed transform of the section's
+# own raw text (see pack_chunks/split_sentences below), so a real match should
+# score at or near 1.0; this is a safety net against a genuine "cannot find it"
+# case (e.g. a heavily word-split monster-sentence chunk), not a calibrated
+# fidelity threshold like extract_claims.py's (different noise profile: that one
+# tolerates a model's paraphrasing-adjacent copy errors, this one only tolerates
+# our own whitespace flattening).
+CHUNK_PAGE_MATCH_THRESHOLD = 0.85
 
 TOC_LINE = re.compile(r"^([0-9]+(?:\.[0-9]+)*|[A-E](?:\.[0-9]+)*)\s+(.*?)\s*\.{3,}\s*([0-9]+)\s*$")
 TOC_LINE_NODOTS = re.compile(r"^([0-9]+(?:\.[0-9]+)*|[A-E](?:\.[0-9]+)*)\s+(.+?)\s+([0-9]+)\s*$")
 PAGE_MARK = re.compile(r"^--- PAGE (\d+) ---$")
-
-
-def clean(text: str) -> str:
-    for bad, good in LIGATURES.items():
-        text = text.replace(bad, good)
-    return unicodedata.normalize("NFKC", text)
 
 
 def n_tokens(text: str) -> int:
@@ -210,17 +209,41 @@ def main() -> None:
         print(f"  WARNING unlocated sections: {sorted(missing)}")
 
     chunks = []
+    page_match_tiers = {"exact": 0, "fuzzy": 0, "reject": 0}
     for sec in sections:
-        raw = body[sec["start"]:sec["end"]].strip()
+        sub = body[sec["start"]:sec["end"]]
+        # raw = sub.strip() shifts the start offset by however much leading
+        # whitespace .strip() removed; track that so per-chunk offsets below
+        # convert back to real `body` coordinates correctly.
+        lead = len(sub) - len(sub.lstrip())
+        raw_start_in_body = sec["start"] + lead
+        raw = sub.strip()
         if not raw:
             continue
         number = sec["number"]
         parts = number.split(".")
         parent = ".".join(parts[:-1]) if len(parts) > 1 else None
+        search_from = 0  # chunks appear in raw in order; narrows the search window
         for order, text in enumerate(pack_chunks(raw)):
             if n_tokens(text) < 12:  # drop figure captions / stray fragments
                 continue
-            pos = sec["start"]
+            # pack_chunks() joins sentences with " " and flattens newlines, so
+            # `text` is no longer a literal substring of `raw` -- the same
+            # problem extract_claims.py solves for LLM-returned quotes. Reuse
+            # that matcher (via span_match) rather than assuming every chunk in
+            # a section starts at the section's own start offset, which is what
+            # this used to do and is wrong for every chunk after the first in a
+            # multi-chunk section.
+            r = locate(text, raw[search_from:], CHUNK_PAGE_MATCH_THRESHOLD)
+            page_match_tiers[r["tier"]] += 1
+            if r["tier"] == "reject":
+                # Rare (a heavily word-split monster-sentence chunk might miss
+                # threshold); fall back to the section start rather than
+                # crashing, and it's counted above so a regression is visible.
+                pos = raw_start_in_body
+            else:
+                pos = raw_start_in_body + search_from + r["start"]
+                search_from += r["end"]
             chunks.append({
                 "chunk_id": "chunk-" + hashlib.md5(text.encode()).hexdigest(),
                 "text": text,
@@ -233,6 +256,10 @@ def main() -> None:
                 "page": page_for_offset(offsets, pos),
                 "n_tokens": n_tokens(text),
             })
+
+    print(f"  chunk->page offsets: {page_match_tiers['exact']} exact, "
+          f"{page_match_tiers['fuzzy']} fuzzy, {page_match_tiers['reject']} "
+          f"rejected (fell back to section start)")
 
     # A duplicate chunk text would collide on chunk_id and silently merge in the
     # graph, so surface it rather than letting it pass.
