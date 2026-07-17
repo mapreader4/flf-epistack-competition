@@ -1,6 +1,7 @@
 # Meeting notes — 2026-07-16
 
 1. Improving claim extraction
+    - also, switch to gpt-oss-120b or gpt-oss-20b on low reasoning effort to save on token cost
 2. Adding evidence attribution to extraction to claim extraction. And possibly other entities later, like presumed facts(these can be other facts in the graph as well. useful later for graph construction)
 
 ## Possible continuation paths for structure
