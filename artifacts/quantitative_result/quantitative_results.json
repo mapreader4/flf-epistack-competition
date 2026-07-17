@@ -1,0 +1,1158 @@
+[
+  {
+    "node_id": "quantitative_result-17b02fa109a2ca3aff0c0e32cffd08e0",
+    "node_type": "quantitative_result",
+    "section_number": "7",
+    "chunk_id": "chunk-c300642270d05f1b62f98c141f39fba6",
+    "node_text": "P(Z) and P(LL) as annual risk",
+    "quote": "to estimate the priors P (Z) and P (LL). These numbers will be given as annual risk, so can also be interpretted as the yearly rate at which pandemics emerge from those sources.",
+    "span": [
+      900,
+      1077
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-08e9ad9cc64fcf604df878a212940dd8",
+    "node_type": "quantitative_result",
+    "section_number": "7.1",
+    "chunk_id": "chunk-6f43a5cbb96092c2da2048fe360661b8",
+    "node_text": "1 million people in southeast Asia are exposed to bat coronaviruses each year",
+    "quote": "more than 1 million people in southeast asia are exposed to bat coronaviruses each year",
+    "span": [
+      237,
+      324
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-d72c647c37b83d31d19b5c4bdb34387f",
+    "node_type": "quantitative_result",
+    "section_number": "7.1",
+    "chunk_id": "chunk-6f43a5cbb96092c2da2048fe360661b8",
+    "node_text": "13% of animal traders in Guangdong had antibodies to SARS-1",
+    "quote": "13% animal traders in Guangdong, where SARS-1 was discovered, had antibodies to SARS-1",
+    "span": [
+      380,
+      466
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-1000b7b68a85dd8d0cc696aa11fa729e",
+    "node_type": "quantitative_result",
+    "section_number": "7.1",
+    "chunk_id": "chunk-6f43a5cbb96092c2da2048fe360661b8",
+    "node_text": "73% of palm civet traders had antibodies to SARS-1",
+    "quote": "the subgroup with highest incidence was palm civet traders, at 73% (16 out of 22)",
+    "span": [
+      516,
+      597
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-6f77cf8dcea34f24558176d8f0085507",
+    "node_type": "quantitative_result",
+    "section_number": "7.1",
+    "chunk_id": "chunk-6f43a5cbb96092c2da2048fe360661b8",
+    "node_text": "1-3% of control groups had antibodies to SARS-1",
+    "quote": "compared to 1-3% in control groups",
+    "span": [
+      599,
+      633
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-5134429e2697c6c097d37fb85508e40a",
+    "node_type": "quantitative_result",
+    "section_number": "7.1",
+    "chunk_id": "chunk-6f43a5cbb96092c2da2048fe360661b8",
+    "node_text": "200 estimated spillover events of MERS",
+    "quote": "I infer the paper as implying an estimated 200 spillover events",
+    "span": [
+      690,
+      753
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-1e6535a0395c3bb99bbd5d4846a9983b",
+    "node_type": "quantitative_result",
+    "section_number": "7.1",
+    "chunk_id": "chunk-6f43a5cbb96092c2da2048fe360661b8",
+    "node_text": "1.5 novel coronaviruses per 21 years",
+    "quote": "this would give a rate of 1.5 per 21 years",
+    "span": [
+      121,
+      163
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-4ebe05c9244387a0501471bc1262f353",
+    "node_type": "quantitative_result",
+    "section_number": "7.1",
+    "chunk_id": "chunk-6f43a5cbb96092c2da2048fe360661b8",
+    "node_text": "1 novel coronavirus per 14 years",
+    "quote": "or 1 per 14 years",
+    "span": [
+      164,
+      181
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-a93c8032b0c47fc4bfe1a2c91facf7df",
+    "node_type": "quantitative_result",
+    "section_number": "7.1",
+    "chunk_id": "chunk-3eba16b6aafc47ab35b1324e7911a50a",
+    "node_text": "1 novel coronavirus per 20 years",
+    "quote": "we get an overall rate of 1 per 20 years",
+    "span": [
+      573,
+      613
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-1f19edd4fd2d6b1280466dfc1cce0aa4",
+    "node_type": "quantitative_result",
+    "section_number": "7.1",
+    "chunk_id": "chunk-3eba16b6aafc47ab35b1324e7911a50a",
+    "node_text": "1/4 chance of a sars-like virus causing a pandemic",
+    "quote": "we get a (0 + 1)/(2 + 2) = 1/4 chance",
+    "span": [
+      702,
+      739
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-008d3ca3403f77dc4db089946faf8d58",
+    "node_type": "quantitative_result",
+    "section_number": "7.1",
+    "chunk_id": "chunk-3eba16b6aafc47ab35b1324e7911a50a",
+    "node_text": "1/2 factor to account for the uniqueness of sars-cov-2",
+    "quote": "On this basis I will add another factor of 1/2",
+    "span": [
+      1051,
+      1097
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-ad7c731921ff8a11ec7d0a9f51f6ba52",
+    "node_type": "quantitative_result",
+    "section_number": "7.1",
+    "chunk_id": "chunk-7ccd7514b86112b6365c5db4bcdbcb57",
+    "node_text": "1/50 probability of HSM being the source of a new sars-like virus emergence",
+    "quote": "Conditioned on the emergence being a wildlife market in east Asia, Peter gives the probability of HSM as 1 /50",
+    "span": [
+      420,
+      530
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-e317b7b1cf767623fea6d87e7e0c547f",
+    "node_type": "quantitative_result",
+    "section_number": "7.1",
+    "chunk_id": "chunk-7ccd7514b86112b6365c5db4bcdbcb57",
+    "node_text": "1/500 probability of HSM being the source of a new sars-like virus emergence",
+    "quote": "Saar gives it as 1 /500",
+    "span": [
+      536,
+      559
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-cfc73a98f44b8a52e57faae70552b3db",
+    "node_type": "quantitative_result",
+    "section_number": "7.1",
+    "chunk_id": "chunk-80b5c20b44fd3dea9e66a09052bc80a3",
+    "node_text": "1/200 assessed probability of HSM being the source of a new sars-like virus emergence",
+    "quote": "In toto I will assess this as 1 /200",
+    "span": [
+      560,
+      596
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-71db1639d49b5db758c8d07f6a397f5d",
+    "node_type": "quantitative_result",
+    "section_number": "7.1",
+    "chunk_id": "chunk-80b5c20b44fd3dea9e66a09052bc80a3",
+    "node_text": "50% chance of spillover being in China",
+    "quote": "suppose there is a 50% chance spillover is in China",
+    "span": [
+      677,
+      728
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-40178d13b5f97205b24e3b7b0a3645c2",
+    "node_type": "quantitative_result",
+    "section_number": "7.1",
+    "chunk_id": "chunk-80b5c20b44fd3dea9e66a09052bc80a3",
+    "node_text": "50% chance of spillover being in one of the 10 largest cities in China",
+    "quote": "conditional 50% chance in one of the 10 largest cities in China",
+    "span": [
+      730,
+      793
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-14c95ffb79982c0d91e2bfdeea4b661e",
+    "node_type": "quantitative_result",
+    "section_number": "7.1",
+    "chunk_id": "chunk-80b5c20b44fd3dea9e66a09052bc80a3",
+    "node_text": "20% of relevant wild animal contact in Wuhan takes place at HSM",
+    "quote": "and 20% of the relevant wild animal contact in Wuhan takes place at HSM",
+    "span": [
+      795,
+      866
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-0ef10d06b508e8e136e8fee766f65de9",
+    "node_type": "quantitative_result",
+    "section_number": "7.1",
+    "chunk_id": "chunk-eae399b91313aef00d01af368d0b902e",
+    "node_text": "15% to 30% chance of spillover being in HSM conditioned on it being in Wuhan",
+    "quote": "Note that Rootclaim gives a figure of 15% to 30% chance of the spillover being in HSM conditioned on it being in Wuhan",
+    "span": [
+      0,
+      118
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-41dbf7f29944ef6ae6c2d18e6083cf67",
+    "node_type": "quantitative_result",
+    "section_number": "7.1",
+    "chunk_id": "chunk-eae399b91313aef00d01af368d0b902e",
+    "node_text": "P(Z) = 1/32000",
+    "quote": "which is to say that HSM should produce a pandemic akin to sars-cov-2 every 32000 years",
+    "span": [
+      181,
+      268
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-a41a9bded49af00e66293132a8219d0d",
+    "node_type": "quantitative_result",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "1/50 (annualized probability of WIV conducting GoF research)",
+    "quote": "WIV conducts GoF research a la \"DEFUSE\" 1/50",
+    "span": [
+      535,
+      579
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-194b2102ce51451022c431516e0dfe12",
+    "node_type": "quantitative_result",
+    "section_number": "7.2",
+    "chunk_id": "chunk-7e899e697fa27babd25f8f30bbb36acd",
+    "node_text": "1/1.7 (annualized probability of the first lab leak occurring)",
+    "quote": "after 1.7 years the annualized probability of the first lab leak occurring is at most 1 per 1.7 years",
+    "span": [
+      519,
+      620
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-b56bba0961163442364aa9d7c055b3aa",
+    "node_type": "quantitative_result",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "1/2 (probability of WIV using a suitable starting virus)",
+    "quote": "WIV uses suitable starting virus 1/2",
+    "span": [
+      599,
+      635
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-83a38838a94ac624384cdaa773308706",
+    "node_type": "quantitative_result",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "1/2 (probability of WIV research being successful)",
+    "quote": "WIV research is successful 1/2",
+    "span": [
+      636,
+      666
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-cc76bcaeccd091c2db1439a5a7b82d61",
+    "node_type": "quantitative_result",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "1/50 (probability of a lab leak of the virus occurring at WIV)",
+    "quote": "lab leak of that virus occurs at WIV 1/50",
+    "span": [
+      667,
+      708
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-979f9df5064554cdbd1bc89d46171417",
+    "node_type": "quantitative_result",
+    "section_number": "7.2",
+    "chunk_id": "chunk-7e899e697fa27babd25f8f30bbb36acd",
+    "node_text": "1/8 (arguable probability of a sufficiently dangerous virus existing)",
+    "quote": "Arguably the latter is the same factor of 1 /8 as fromZ",
+    "span": [
+      752,
+      807
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-8fa8cc03a61aef387465350b8a0e4d70",
+    "node_type": "quantitative_result",
+    "section_number": "7.2",
+    "chunk_id": "chunk-7e899e697fa27babd25f8f30bbb36acd",
+    "node_text": "1/2 (weakened probability of a sufficiently dangerous virus existing, considering GoF research)",
+    "quote": "but I have weakened this to 1/2 as GoF research lowers how dangerous the starting point would need to be",
+    "span": [
+      809,
+      913
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-e9d9f70a3c3a8050c06623a78cb65054",
+    "node_type": "quantitative_result",
+    "section_number": "7.2",
+    "chunk_id": "chunk-ed5004e7a35f9094e790d9729204a2f5",
+    "node_text": "1/50 (upper bound for the probability of a lab leak)",
+    "quote": "I cannot put the probability above 1 /50",
+    "span": [
+      1053,
+      1093
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-3df932451f027d02fc145b6a1c48a42b",
+    "node_type": "quantitative_result",
+    "section_number": "7.2",
+    "chunk_id": "chunk-748a6e21bad12b6fd9443792016b4133",
+    "node_text": "1/17000 (estimated probability of P(LL))",
+    "quote": "P (LL) = 1 50· 1 1.7· 1 2· 1 2· 1 50 = 1 17000",
+    "span": [
+      31,
+      77
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-f2d6fd92711b7d573cedd41e8b4485ce",
+    "node_type": "quantitative_result",
+    "section_number": "7.2",
+    "chunk_id": "chunk-748a6e21bad12b6fd9443792016b4133",
+    "node_text": "2 (Bayes factor P(LL)/P(Z))",
+    "quote": "My intuition is that the Bayes factor P (LL)/P (Z) = 2 I calculated is grossly too high",
+    "span": [
+      278,
+      365
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-fd15e5d8cf1c22e47fb29d475e6a2473",
+    "node_type": "quantitative_result",
+    "section_number": "7.2",
+    "chunk_id": "chunk-0750a6341e30806e362f3e6f8ebe71cc",
+    "node_text": "3.5 years (planned duration of Project DEFUSE)",
+    "quote": "the project was planned to last 3.5 years",
+    "span": [
+      646,
+      687
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-62266497ed7861d163e68bfdec0fea9e",
+    "node_type": "quantitative_result",
+    "section_number": "7.2",
+    "chunk_id": "chunk-ed5004e7a35f9094e790d9729204a2f5",
+    "node_text": "128 (number of sick people in Wuhan that might lead to a cluster at HSM, according to Rootclaim)",
+    "quote": "Rootclaim does not quantify the risk of a outbreak of covid at the lab origin, and suggests that 128 sick people in Wuhan might lead only to a cluster at HSM",
+    "span": [
+      116,
+      273
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-6a31f6de5588353f7c11031efacf2b1e",
+    "node_type": "quantitative_result",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "P(H|Z) = 1",
+    "quote": "P (H|Z) = 1",
+    "span": [
+      495,
+      506
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-4fda7d89c9f8ec3bcfdfd6f1cb9677e8",
+    "node_type": "quantitative_result",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "P(H|LL) = 1 / 1.2·10^7",
+    "quote": "P (H|LL) = 1 / 1.2· 107",
+    "span": [
+      507,
+      530
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.913,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-d60711475c639e6107025dbc0a9da49a",
+    "node_type": "quantitative_result",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "Bayes factor = 1 / 20000",
+    "quote": "for a Bayes factor of 1 /20000",
+    "span": [
+      529,
+      559
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-ab5450bfc2c19886ac97a1a05cf587fc",
+    "node_type": "quantitative_result",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "extra factor for LL = 2",
+    "quote": "I will give LL an extra factor of 2",
+    "span": [
+      662,
+      697
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-46de136127527b3dcc59e46d28e0f7f6",
+    "node_type": "quantitative_result",
+    "section_number": "7.4",
+    "chunk_id": "chunk-623a9078cb497bb81d8d7db9006df36a",
+    "node_text": "15 shops were sampled 10 or more times",
+    "quote": "Of the 15 shops which were sampled 10 or more times",
+    "span": [
+      271,
+      322
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-0a7b491b91875dddae9c40b9d67f04e2",
+    "node_type": "quantitative_result",
+    "section_number": "7.4",
+    "chunk_id": "chunk-623a9078cb497bb81d8d7db9006df36a",
+    "node_text": "12 shops had no positives",
+    "quote": "12 had no positives",
+    "span": [
+      324,
+      343
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-479bb4799096e3eb005fa28303caa185",
+    "node_type": "quantitative_result",
+    "section_number": "7.4",
+    "chunk_id": "chunk-623a9078cb497bb81d8d7db9006df36a",
+    "node_text": "3 shops had one positive",
+    "quote": "3 had one positive",
+    "span": [
+      345,
+      363
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-973620cee2f79b8ebe4b85e3ab33c614",
+    "node_type": "quantitative_result",
+    "section_number": "7.4",
+    "chunk_id": "chunk-623a9078cb497bb81d8d7db9006df36a",
+    "node_text": "shop 6:29 had 5 positives",
+    "quote": "and shop 6:29 had the other 5 positives",
+    "span": [
+      365,
+      404
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-9811b5e4af9e14ec067f262e9fe151e3",
+    "node_type": "quantitative_result",
+    "section_number": "7.4",
+    "chunk_id": "chunk-623a9078cb497bb81d8d7db9006df36a",
+    "node_text": "Bayes factor of 15 in favor of Z",
+    "quote": "this observation has a Bayes factor of 15 in favor of Z",
+    "span": [
+      416,
+      471
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-33c78537d1a9edd062c7127f706e63c6",
+    "node_type": "quantitative_result",
+    "section_number": "7.5",
+    "chunk_id": "chunk-0583f85f3748de26a0a4f33bbfb2997d",
+    "node_text": "12 nucleotide insert",
+    "quote": "the strange 12 nucleotide insert creating",
+    "span": [
+      240,
+      281
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-3fa45a4e2cf569b1026fb63610cc8c49",
+    "node_type": "quantitative_result",
+    "section_number": "7.5",
+    "chunk_id": "chunk-0583f85f3748de26a0a4f33bbfb2997d",
+    "node_text": "Bayes factor of 20 for the furin cleavage site",
+    "quote": "I give these Bayes factors of 20 and 2 respectively",
+    "span": [
+      481,
+      532
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-cea535d13f89e5a452e321f8cd0aedb7",
+    "node_type": "quantitative_result",
+    "section_number": "7.5",
+    "chunk_id": "chunk-0583f85f3748de26a0a4f33bbfb2997d",
+    "node_text": "Bayes factor of 2 for the affinity of sars-cov-2 to bind to human ACE2",
+    "quote": "I give these Bayes factors of 20 and 2 respectively",
+    "span": [
+      481,
+      532
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-813c80ce9b39d774a67826eae80343a4",
+    "node_type": "quantitative_result",
+    "section_number": "7.5",
+    "chunk_id": "chunk-0583f85f3748de26a0a4f33bbfb2997d",
+    "node_text": "maximum Bayes factor of 14 due to 14 species in the study",
+    "quote": "the latter cannot go above 14 as that was the number of species in the study",
+    "span": [
+      534,
+      610
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-e9433d80125cc2d2f91ffd2c2f0f4f87",
+    "node_type": "quantitative_result",
+    "section_number": "7.6",
+    "chunk_id": "chunk-bb0a81c50f1ebd73fa0b3d7010179330",
+    "node_text": "Bayes factor of -9.2 for outbreak at HSM",
+    "quote": "outbreak at HSM 1/10000 -9.2",
+    "span": [
+      170,
+      198
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-6d19e7ddfbbb016a70547e711b121949",
+    "node_type": "quantitative_result",
+    "section_number": "7.6",
+    "chunk_id": "chunk-bb0a81c50f1ebd73fa0b3d7010179330",
+    "node_text": "Bayes factor of 3 for 12 nct insert at FCS",
+    "quote": "12 nct insert at FCS 20 3",
+    "span": [
+      199,
+      224
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-7eede4201832ed67bdedf75c2356e25c",
+    "node_type": "quantitative_result",
+    "section_number": "7.6",
+    "chunk_id": "chunk-bb0a81c50f1ebd73fa0b3d7010179330",
+    "node_text": "Bayes factor of 0.69 for ACE2 affinity",
+    "quote": "ACE2 affinity 2 0 .69",
+    "span": [
+      225,
+      246
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-1768c66d71414b9e19b08b3af999fe09",
+    "node_type": "quantitative_result",
+    "section_number": "7.6",
+    "chunk_id": "chunk-bb0a81c50f1ebd73fa0b3d7010179330",
+    "node_text": "Bayes factor of -2.3 for secret doesn't leak",
+    "quote": "secret doesn't leak 1/10 -2.3",
+    "span": [
+      247,
+      276
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-1e9c829539db46dde30fee65bc31b09b",
+    "node_type": "quantitative_result",
+    "section_number": "7.6",
+    "chunk_id": "chunk-bb0a81c50f1ebd73fa0b3d7010179330",
+    "node_text": "Total Bayes log-odds of -7.19",
+    "quote": "total 0.001255 -7.19",
+    "span": [
+      277,
+      297
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-27452dc44f2362547514edae7adde3ac",
+    "node_type": "quantitative_result",
+    "section_number": "7.6",
+    "chunk_id": "chunk-bb0a81c50f1ebd73fa0b3d7010179330",
+    "node_text": "Conditional probability of P(LL|O) = 0.07529%",
+    "quote": "which gives a conditional probability of P (LL|O) = 0.07529%",
+    "span": [
+      298,
+      358
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-2e8f0fb937fff100f85fa64109585f45",
+    "node_type": "quantitative_result",
+    "section_number": "7.6",
+    "chunk_id": "chunk-bb0a81c50f1ebd73fa0b3d7010179330",
+    "node_text": "Prior probability of 1.88235",
+    "quote": "prior 1.88235 0 .63",
+    "span": [
+      150,
+      169
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-d0ed4191f6a339e9c39c7a35dbdb4b0e",
+    "node_type": "quantitative_result",
+    "section_number": "7.6",
+    "chunk_id": "chunk-bb0a81c50f1ebd73fa0b3d7010179330",
+    "node_text": "Probability of lab leak of 1 in 1300",
+    "quote": "Do I believe the probability of a lab leak is only 1 in 1300?",
+    "span": [
+      946,
+      1007
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-2eec992abad196cceec8f5b939bf3125",
+    "node_type": "quantitative_result",
+    "section_number": "7.6",
+    "chunk_id": "chunk-3db7374b026cba89a2f4c5880aa55556",
+    "node_text": "Original Bayes factor of 1/64 for secret doesn't leak",
+    "quote": "I gave it 1 / 64 before conservatively adjusting the Bayes factor to 1 / 10",
+    "span": [
+      792,
+      867
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-ab05cb36f7efa7fce9ce2d7085befbf4",
+    "node_type": "quantitative_result",
+    "section_number": "7.6",
+    "chunk_id": "chunk-dc0bde058d55cd8e718d2fd5a6a72cca",
+    "node_text": "Bayes factor of 1 for CGGCGG, no known intermediate animal host, and 'adjust for BSL-2'",
+    "quote": "none of which I think are distinguishable from a Bayes factor of 1",
+    "span": [
+      644,
+      710
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-3aee736b1c69569a11e60b1296045a2c",
+    "node_type": "quantitative_result",
+    "section_number": "7.6",
+    "chunk_id": "chunk-dc0bde058d55cd8e718d2fd5a6a72cca",
+    "node_text": "Bayes factor of 2 as threshold for significant evidence",
+    "quote": "Looking through the Bayesian calculation presented by Rootclaim, the remaining pieces of evidence they give a Bayes factor larger than 2",
+    "span": [
+      435,
+      571
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-40006c46e91385f6863a725bdd8c0163",
+    "node_type": "quantitative_result",
+    "section_number": "5.4",
+    "chunk_id": "chunk-fc514f5a88b0d0224047776bafd6aa34",
+    "node_text": "14 million dollars",
+    "quote": "$14 million",
+    "span": [
+      71,
+      82
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-cd0bc19e8bfe57c3fa47add891288edc",
+    "node_type": "quantitative_result",
+    "section_number": "5.4",
+    "chunk_id": "chunk-fc514f5a88b0d0224047776bafd6aa34",
+    "node_text": "3.5 years",
+    "quote": "a 3.5 year project",
+    "span": [
+      105,
+      123
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-f965e49457d69a7216c67234fdba83a4",
+    "node_type": "quantitative_result",
+    "section_number": "5.4",
+    "chunk_id": "chunk-fc514f5a88b0d0224047776bafd6aa34",
+    "node_text": "5 other groups",
+    "quote": "in collaboration with 5 other groups",
+    "span": [
+      145,
+      181
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-a1d00044504a03bf356d6c6908498d7b",
+    "node_type": "quantitative_result",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-4e7811bac13482229c68ce4eb9900fe5",
+    "node_text": "88% S-protein identity to epidemic SARS-Urbani61",
+    "quote": "88% and 97% S-protein identity to epidemic SARS-Urbani61",
+    "span": [
+      604,
+      660
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-109388fb2c6904a94bd4915b39335ba4",
+    "node_type": "quantitative_result",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-4e7811bac13482229c68ce4eb9900fe5",
+    "node_text": "97% S-protein identity to epidemic SARS-Urbani61",
+    "quote": "88% and 97% S-protein identity to epidemic SARS-Urbani61",
+    "span": [
+      604,
+      660
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-35779f2467a3c9c5ba17310038231761",
+    "node_type": "quantitative_result",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-07afdefd72654f86be09b17c4ab96844",
+    "node_text": "46 years old",
+    "quote": "He died of SARS-1 at age 46",
+    "span": [
+      623,
+      650
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-c9a1f6f6b72c70cac40470179db019cc",
+    "node_type": "quantitative_result",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "61 tasks",
+    "quote": "a detailed breakdown of the planned activities into 61 tasks",
+    "span": [
+      27,
+      87
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-8591d3d4a2cd2b390599287ac0ab2204",
+    "node_type": "quantitative_result",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "2 tasks (3.1 and 3.2)",
+    "quote": "Phase 1, tasks 3.1 and 3.2: Screen bat samples for sars-like viruses and sequence spike proteins",
+    "span": [
+      200,
+      296
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-84f30e27e7a2e9cb283a76b74fad586f",
+    "node_type": "quantitative_result",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "2 tasks (6.2 and 6.3)",
+    "quote": "Tasks 6.2 and 6.3: verify assays on rabbits and blood samples from people who had SARS-1",
+    "span": [
+      379,
+      467
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-76182cc5f06089fa7959917eafe82325",
+    "node_type": "quantitative_result",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "2 tasks (7.5 and 8.5)",
+    "quote": "Tasks 7.5 and 8.5: test viral 62 vector vaccine on captive bats",
+    "span": [
+      555,
+      618
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-ff30d5a03471901bf9d238f16232269a",
+    "node_type": "quantitative_result",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "4 tasks (5.1 through 5.4)",
+    "quote": "Phase 2, tasks 5.1 through 5.4: Identify cave features; surveil bats; deploy vaccines or immune boosters to caves; surveil bats",
+    "span": [
+      622,
+      749
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-6735b8fdbd6f4ce9ce1cfad3970fe91b",
+    "node_type": "quantitative_result",
+    "section_number": "5.4.3",
+    "chunk_id": "chunk-3f642681bf8e8f93ca3c82d95e95cd1c",
+    "node_text": "2 papers described relevant laboratory work conducted at WIV",
+    "quote": "In response to written questions, Rootclaim [7] identified two papers that described relevant laboratory work conducted at WIV",
+    "span": [
+      0,
+      126
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-76c1980957d1558376a16c66bd82cb3e",
+    "node_type": "quantitative_result",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "most, but not all, of the genetic modification involved using backbones from known, pre-existing viruses",
+    "quote": "Most, but not all, of the genetic modification involved using backbones from known, pre-existing viruses",
+    "span": [
+      195,
+      299
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9904,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  }
+]

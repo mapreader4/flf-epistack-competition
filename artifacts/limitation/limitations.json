@@ -1,0 +1,852 @@
+[
+  {
+    "node_id": "limitation-738cc4f6776ae4d9b0541e55cbcc70c3",
+    "node_type": "limitation",
+    "section_number": "7",
+    "chunk_id": "chunk-c300642270d05f1b62f98c141f39fba6",
+    "node_text": "The choice of numbers in the Bayesian inference computation is subjective and uncertain.",
+    "quote": "with my choice of numbers being subjective and uncertain",
+    "span": [
+      269,
+      325
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-d2bf9660646a83e54154a6ea389981a1",
+    "node_type": "limitation",
+    "section_number": "7",
+    "chunk_id": "chunk-c300642270d05f1b62f98c141f39fba6",
+    "node_text": "The definition of hypothesis Z is a significant narrowing of the actual hypothesis at stake.",
+    "quote": "the definition I gave for Z is quite a significant narrowing",
+    "span": [
+      607,
+      667
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-d21495ae057105b6e6c44a6bfb2f46d8",
+    "node_type": "limitation",
+    "section_number": "7",
+    "chunk_id": "chunk-c300642270d05f1b62f98c141f39fba6",
+    "node_text": "The estimation of priors P(Z) and P(LL) is challenging.",
+    "quote": "The first step is the most challenging, to estimate the priors P (Z) and P (LL)",
+    "span": [
+      860,
+      939
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-7f6d5158b849f742109c035de97a70cf",
+    "node_type": "limitation",
+    "section_number": "7.1",
+    "chunk_id": "chunk-eb66d8f46539dadc2223da3edda7903e",
+    "node_text": "The emergence of previous human coronaviruses may not be independent events, as the limiting factor seems to be the evolution of a suitable virus, not its spillover.",
+    "quote": "The multiple spillovers of SARS-1 and MERS are not independent events; since the limiting factor seems to be the evolution of a suitable virus, not its spillover, these should only count once each.",
+    "span": [
+      582,
+      779
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-dc98baf63edea7602f34f879c675061b",
+    "node_type": "limitation",
+    "section_number": "7.1",
+    "chunk_id": "chunk-3eba16b6aafc47ab35b1324e7911a50a",
+    "node_text": "The rate of emergence of novel coronaviruses may be affected by changes in land use, agricultural intensity, and population over the last few decades.",
+    "quote": "I believe the risk of pandemics has grown greatly on the timescale of decades, due to changes of land use, agricultural intensity, and population; consider the increasing size and frequency of Ebola outbreaks in the last 10 to 30 years.",
+    "span": [
+      192,
+      428
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-663af727f79bf63830410ada83bb04ff",
+    "node_type": "limitation",
+    "section_number": "7.1",
+    "chunk_id": "chunk-3eba16b6aafc47ab35b1324e7911a50a",
+    "node_text": "Not all sars-like viruses can cause a pandemic, and estimating the probability of a pandemic from sars-cov-1 and MERS may not be accurate.",
+    "quote": "Not all sars-like viruses can cause a pandemic. Estimating from sars-cov-1 and MERS we get a (0 + 1)/(2 + 2) = 1/4 chance (I forget the name of this correction method) of it happening;",
+    "span": [
+      618,
+      802
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-bb35eefc5d27b64dfc24b60991f50a58",
+    "node_type": "limitation",
+    "section_number": "7.1",
+    "chunk_id": "chunk-7ccd7514b86112b6365c5db4bcdbcb57",
+    "node_text": "The calculation of the probability of HSM being the location of a pandemic spillover may be an underestimate due to the use of raw population figures.",
+    "quote": "but Saar observed that HSM is the largest market of its kind in central China, so using raw population figures probably yields an underestimate.",
+    "span": [
+      680,
+      824
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-631dc17569d3d05952f5c7d5ed6e857c",
+    "node_type": "limitation",
+    "section_number": "7.1",
+    "chunk_id": "chunk-80b5c20b44fd3dea9e66a09052bc80a3",
+    "node_text": "The assessment of the probability of HSM being the location of a pandemic spillover is vague and based on crude calculations.",
+    "quote": "(One could also get 1/200 through a very crude calculation like the following: suppose there is a 50% chance spillover is in China, conditional 50% chance in one of the 10 largest cities in China, and 20% of the relevant wild animal contact in Wuhan takes place at HSM.",
+    "span": [
+      598,
+      867
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-e67e1fd2fe00755023a0594dcf7987e8",
+    "node_type": "limitation",
+    "section_number": "7.1",
+    "chunk_id": "chunk-eae399b91313aef00d01af368d0b902e",
+    "node_text": "The dynamics of flu evolution is fundamentally different from that of coronaviruses, which limits the usefulness of flu pandemics/epidemics/outbreaks for assessing the prior P(Z).",
+    "quote": "Because the dynamics of flu evolution is fundamentally different than that of coronaviruses, I do not find flu pandemics/epidemics/outbreaks useful for assessing the prior P (Z).",
+    "span": [
+      270,
+      448
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-66ee7fd3207507214e95ea0703430ed7",
+    "node_type": "limitation",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "The approach to estimate P(LL) is error-prone due to lack of knowledge about the lab's activities and safety",
+    "quote": "This is an error-prone approach, not just because it requires speculating about the activities and safety of a lab I have no first- or second-hand knowledge of",
+    "span": [
+      123,
+      282
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-88747819425cb202bcdadd8dd6cee635",
+    "node_type": "limitation",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "The numbers used in the estimation are conjectural and lack a solid basis",
+    "quote": "As my numbers are more-or-less conjecture from thin air",
+    "span": [
+      439,
+      494
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-d3aae14d28d94deb7c1dde043af230e3",
+    "node_type": "limitation",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "The estimation of P(LL) does not account for the potential biases and uncertainties in the Project DEFUSE research plan",
+    "quote": "However following Project DEFUSE exactly is not consistent with LL",
+    "span": [
+      798,
+      864
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-b17dbdfaaab8cd8b8f98d3af805067fd",
+    "node_type": "limitation",
+    "section_number": "7.2",
+    "chunk_id": "chunk-0750a6341e30806e362f3e6f8ebe71cc",
+    "node_text": "The assumption that WIV would undertake the contents of Project DEFUSE alone without collaborators is uncertain",
+    "quote": "For LL to occur, WIV had to undertake the contents of Project DEFUSE alone without collaborators",
+    "span": [
+      872,
+      968
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-c71789a7adde30f3bf48ae32e23f9357",
+    "node_type": "limitation",
+    "section_number": "7.2",
+    "chunk_id": "chunk-7e899e697fa27babd25f8f30bbb36acd",
+    "node_text": "The probability of WIV finding and choosing a sufficiently dangerous virus to start with is uncertain",
+    "quote": "Under LL, WIV must find and choose a sufficiently dangerous virus to start with, which at minimum requires such a virus to exist",
+    "span": [
+      622,
+      750
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-b3881ac155a87a557afbafd661de6b20",
+    "node_type": "limitation",
+    "section_number": "7.2",
+    "chunk_id": "chunk-7e899e697fa27babd25f8f30bbb36acd",
+    "node_text": "The estimation of the annualized probability of the first lab leak occurring is based on an unknown parameter",
+    "quote": "Assuming a Poisson distribution of lab leaks with unknown parameter, after 1.7 years the annualized probability of the first lab leak occurring is at most 1 per 1.7 years",
+    "span": [
+      450,
+      620
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-8fe41d8303c2a2d9eeca23ff69884aae",
+    "node_type": "limitation",
+    "section_number": "7.2",
+    "chunk_id": "chunk-ed5004e7a35f9094e790d9729204a2f5",
+    "node_text": "The risk of a lab leak leading to an outbreak is difficult to quantify and may be lower than estimated",
+    "quote": "Rootclaim describes this as almost certainty once sars-cov-2 is manufactured, but I cannot take this seriously when Rootclaim does not quantify the risk of a outbreak of covid at the lab origin",
+    "span": [
+      0,
+      193
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-826be283e4460c8672b384ca0266873f",
+    "node_type": "limitation",
+    "section_number": "7.2",
+    "chunk_id": "chunk-ed5004e7a35f9094e790d9729204a2f5",
+    "node_text": "The probability of a lab leak is rare, especially if restricted to lab leaks with secondary infections",
+    "quote": "Also, while lab leaks of infectious agents do happen, they still are very rare, especially if you restrict to lab leaks that had secondary infections",
+    "span": [
+      832,
+      981
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-21030c1a20bdc7bc704ecdf054fe648b",
+    "node_type": "limitation",
+    "section_number": "7.2",
+    "chunk_id": "chunk-748a6e21bad12b6fd9443792016b4133",
+    "node_text": "The Bayes factor P(LL)/P(Z) may be grossly too high due to uncertainties in the estimation",
+    "quote": "My intuition is that the Bayes factor P (LL)/P (Z) = 2 I calculated is grossly too high",
+    "span": [
+      278,
+      365
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-5cd7e2cdd2eef2f1bb2963049b8ba68a",
+    "node_type": "limitation",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "the assumption of a flat prior for the number of transmission between the primary case and index case may be somewhat favorable to LL",
+    "quote": "I think the assumption of a flat prior here is somewhat favorable to LL",
+    "span": [
+      936,
+      1007
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-cc5d50ac5b5b0ef697199f502cf2ea71",
+    "node_type": "limitation",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "the model does not account for the potential difference in likelihood of a market vendor catching an illness compared to the average resident of Wuhan, although an extra factor of 2 is given to LL to partially address this",
+    "quote": "As I do think a market vendor is more likely to catch an illness than the average resident of Wuhan, I will give LL an extra factor of 2",
+    "span": [
+      561,
+      697
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-536892772a8864f7b95f12326c45385f",
+    "node_type": "limitation",
+    "section_number": "7.4",
+    "chunk_id": "chunk-623a9078cb497bb81d8d7db9006df36a",
+    "node_text": "the observation is very post hoc",
+    "quote": "this observation is certainly very post hoc",
+    "span": [
+      533,
+      576
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-ed3c3424555a831a58b29e150eb943b1",
+    "node_type": "limitation",
+    "section_number": "7.4",
+    "chunk_id": "chunk-623a9078cb497bb81d8d7db9006df36a",
+    "node_text": "the HSM environmental samples will not contribute to the Bayesian calculation",
+    "quote": "the HSM environmental samples will not contribute to my Bayesian calculation, as will be explained",
+    "span": [
+      753,
+      851
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-f5deaccb8957b3b6babd465cb4d90fe5",
+    "node_type": "limitation",
+    "section_number": "7.5",
+    "chunk_id": "chunk-0583f85f3748de26a0a4f33bbfb2997d",
+    "node_text": "genetic evidence is too weak to compel anything",
+    "quote": "Most of the genetic evidence is either already incorporated into the prior or too weak to compel anything",
+    "span": [
+      0,
+      105
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-d0757a5b0c3580e97ac1db48421221cd",
+    "node_type": "limitation",
+    "section_number": "7.5",
+    "chunk_id": "chunk-0583f85f3748de26a0a4f33bbfb2997d",
+    "node_text": "it's hard to find definitive proof of a virus's origin by examining its genetic sequence",
+    "quote": "it's hard to find definitive proof of a virus's origin by examining its genetic sequence",
+    "span": [
+      107,
+      195
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-41dc4f9b5a50c9367204e2557a40f23c",
+    "node_type": "limitation",
+    "section_number": "7.5",
+    "chunk_id": "chunk-0583f85f3748de26a0a4f33bbfb2997d",
+    "node_text": "the Bayes factor for the strong affinity of sars-cov-2 to bind to human ACE2 cannot go above 14 due to the limited number of species in the study",
+    "quote": "the latter cannot go above 14 as that was the number of species in the study",
+    "span": [
+      534,
+      610
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-410f00f67b02d84d2678f80b3d3162ab",
+    "node_type": "limitation",
+    "section_number": "7.6",
+    "chunk_id": "chunk-bb0a81c50f1ebd73fa0b3d7010179330",
+    "node_text": "The analysis has significant uncertainties, which may affect the estimated probability of a lab leak.",
+    "quote": "Due to the significant uncertainties in my analysis I would give it some higher probability.",
+    "span": [
+      1012,
+      1104
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-91db60b56fa9f8197301698edb4935c8",
+    "node_type": "limitation",
+    "section_number": "7.6",
+    "chunk_id": "chunk-945c6d4d7cdc30208982bdd9644a68dd",
+    "node_text": "Many components in the calculation should be dampened towards neutrality to account for uncertainty.",
+    "quote": "Many of the components in my calculation should be dampened towards neutrality to account for the uncertainty in them.",
+    "span": [
+      0,
+      118
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-7b42a407ff36227e501cbec79b000578",
+    "node_type": "limitation",
+    "section_number": "7.6",
+    "chunk_id": "chunk-945c6d4d7cdc30208982bdd9644a68dd",
+    "node_text": "The Bayesian calculation may not be an appropriate way to estimate the relative posterior probability of Z and LL.",
+    "quote": "Moreover I am not convinced that this Bayesian calculation is even an appropriate way to estimate the relative posterior probability of Z and LL;",
+    "span": [
+      369,
+      514
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-5b3b678f9467c39f586169d53d18787e",
+    "node_type": "limitation",
+    "section_number": "7.6",
+    "chunk_id": "chunk-945c6d4d7cdc30208982bdd9644a68dd",
+    "node_text": "The numerical calculation gives an undeserved illusion of certainty.",
+    "quote": "I think the numerical calculation gives an undeserved illusion of certainty,",
+    "span": [
+      632,
+      708
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-c788afcb3672f3a620627cfbd3473ab0",
+    "node_type": "limitation",
+    "section_number": "7.6",
+    "chunk_id": "chunk-3db7374b026cba89a2f4c5880aa55556",
+    "node_text": "The selection of evidence may be motivated or not sensible.",
+    "quote": "It is worthwhile to at least briefly consider whether my selection of evidence is sensible or motivated.",
+    "span": [
+      0,
+      104
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-5ef05a4f89a6bf7210d92d78f833086f",
+    "node_type": "limitation",
+    "section_number": "7.6",
+    "chunk_id": "chunk-3db7374b026cba89a2f4c5880aa55556",
+    "node_text": "The exclusion of certain evidence items may impact the result.",
+    "quote": "I have excluded quite a few items mentioned by Rootclaim; not that this would impact the result, as I evaluate each of the excluded items as indistinguishable from neutral.",
+    "span": [
+      105,
+      277
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-8a4b589c31a043b30c7d73203d73f61e",
+    "node_type": "limitation",
+    "section_number": "7.6",
+    "chunk_id": "chunk-dc0bde058d55cd8e718d2fd5a6a72cca",
+    "node_text": "The evidence for the lab leak hypothesis is loose and circumstantial.",
+    "quote": "While the lab leak hypothesis has only loose circumstantial evidence in its favor,",
+    "span": [
+      712,
+      794
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-33fbb627015fad81021166dbbdc88181",
+    "node_type": "limitation",
+    "section_number": "7.6",
+    "chunk_id": "chunk-dc0bde058d55cd8e718d2fd5a6a72cca",
+    "node_text": "The Project DEFUSE proposal and Eddie Holmes's photos are not definitive or strong evidence.",
+    "quote": "Neither the existence of the Project DEFUSE proposal nor the Eddie Holmes photos are definitive, or even strong, evidence as to the origin of sars-cov-2;",
+    "span": [
+      101,
+      254
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-6cffc512b40dbce7f50c9d80f8ad5b6b",
+    "node_type": "limitation",
+    "section_number": "7.6",
+    "chunk_id": "chunk-945c6d4d7cdc30208982bdd9644a68dd",
+    "node_text": "The 1/10000 factor may need significant dampening.",
+    "quote": "Most obviously the 1/10000 factor sticks out as needing significant dampening;",
+    "span": [
+      759,
+      837
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-560338dc7fedbe1b5f8fc2a0005120cc",
+    "node_type": "limitation",
+    "section_number": "5.4",
+    "chunk_id": "chunk-fc514f5a88b0d0224047776bafd6aa34",
+    "node_text": "The project DEFUSE was not funded.",
+    "quote": "To my knowledge, the project was not funded.",
+    "span": [
+      319,
+      363
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-9d1107ed32303f5e8a505d2754d197be",
+    "node_type": "limitation",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-4e7811bac13482229c68ce4eb9900fe5",
+    "node_text": "The proposal omits details about irrelevant activities",
+    "quote": "I will be omitting quite a few details about irrelevant activities in the proposal",
+    "span": [
+      0,
+      82
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-a5cb81d403e688ba86c20cc2907909e6",
+    "node_type": "limitation",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-07afdefd72654f86be09b17c4ab96844",
+    "node_text": "Uncertainty about whether furin is human-specific",
+    "quote": "it is unclear to me whether furin is human-specific",
+    "span": [
+      910,
+      961
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-36c040df561303dbd4ec01645d297ce1",
+    "node_type": "limitation",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-4e7811bac13482229c68ce4eb9900fe5",
+    "node_text": "Restriction to BSL-3, not select agents or subject to P3CO, for the synthesized SARSr-CoV S glycoprotein genes",
+    "quote": "These are BSL-3, not select agents or subject to P3CO (they use bat SARSr-CoV backbones which are exempt)",
+    "span": [
+      663,
+      768
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-fcfa62e6e8ad3bfa4a34589c8f6ba2af",
+    "node_type": "limitation",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-4e7811bac13482229c68ce4eb9900fe5",
+    "node_text": "Limited scope to pathogenicity in hACE2 transgenic mice",
+    "quote": "and are pathogenic to hACE2 [human ACE2] transgenic mice",
+    "span": [
+      769,
+      825
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-af3656c96ea4f2766e0daf891f4915ba",
+    "node_type": "limitation",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-6197f750ce57000d30c32357e0590b6c",
+    "node_text": "Potential for mismatches in proteolytic cleavage sites in SARSr-CoV S gene sequences",
+    "quote": "SARSr-CoV S with mismatches in proteolytic cleavage sites can be activated by exogenous trypsin or cathepsin L",
+    "span": [
+      821,
+      931
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-e81fe34ebf9b38c159f1353aa81a0889",
+    "node_type": "limitation",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-07afdefd72654f86be09b17c4ab96844",
+    "node_text": "Uncertainty about the impact of introducing human-specific cleavage sites on virus replication and pathogenesis",
+    "quote": "and evaluate the impact of select SARSr-CoV S changes on virus replication and pathogenesis",
+    "span": [
+      106,
+      197
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-9e71467a9287ea345aeff68d76595299",
+    "node_type": "limitation",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "The proposal does not explicitly state whether genetic engineering or chimeric viruses would be completely excluded from WIV",
+    "quote": "As far as I can see, no genetic engineering would be performed at WIV, nor would any chimeric viruses be brought there, except prototype vaccines which use a raccoonpox chimera",
+    "span": [
+      750,
+      926
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-522021ad564a6a68d3afc4cb7fdf7f28",
+    "node_type": "limitation",
+    "section_number": "5.4.3",
+    "chunk_id": "chunk-3f642681bf8e8f93ca3c82d95e95cd1c",
+    "node_text": "The research at WIV involved editing a backbone of WIV1, a sars-like coronavirus genome chosen for its lack of pandemic potential, which may not be representative of more pathogenic viruses.",
+    "quote": "a specific sars-like coronavirus genome chosen for its lack of 'pandemic potential', and thus presumably safer to work with than a pathogenic virus.",
+    "span": [
+      188,
+      336
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9865,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-f8123235de10f73f386c6e04354c4144",
+    "node_type": "limitation",
+    "section_number": "5.4.3",
+    "chunk_id": "chunk-3f642681bf8e8f93ca3c82d95e95cd1c",
+    "node_text": "The experiments only tested the infectivity of the recombinant viruses in human and monkey cells, which may not be representative of other cell types or species.",
+    "quote": "Human and monkey cells were then exposed to the recombinant viruses to determine its infectivity.",
+    "span": [
+      474,
+      571
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-ec7b7f939989db35ab38341bfd6a37e8",
+    "node_type": "limitation",
+    "section_number": "5.4.3",
+    "chunk_id": "chunk-3f642681bf8e8f93ca3c82d95e95cd1c",
+    "node_text": "The research only removed a gene in WIV1 that is absent in sars-cov-1, which may not be sufficient to understand the full range of viral behaviors.",
+    "quote": "they removed a gene in WIV1 that is absent in sars-cov-1 to see if the virus would still work in human and monkey cells",
+    "span": [
+      592,
+      711
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-28a22c34ea58e0d59ebe3ad0be3259eb",
+    "node_type": "limitation",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "The proposal does not explicitly state it would add furin cleavage sites to viruses",
+    "quote": "The proposal does not explicitly state it would add furin cleavage sites to viruses, but it",
+    "span": [
+      0,
+      91
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-e9544aa7f83cb602ebb33f6a2d0597b4",
+    "node_type": "limitation",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "Not all genetic modification involved using backbones from known, pre-existing viruses",
+    "quote": "Most, but not all, of the genetic modification involved using backbones from known, pre-existing viruses",
+    "span": [
+      195,
+      299
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9904,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-d2ce285b9cc84b28341b7391a2c2e94a",
+    "node_type": "limitation",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "The proposal does not discuss any in vivo genetic modification",
+    "quote": "The proposal does not, as far as I understand, discuss any in vivo genetic modification; all",
+    "span": [
+      302,
+      394
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-e60848901051a35379fe17411e357b91",
+    "node_type": "limitation",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "The proposal is hardly a blueprint for building sars-cov-2, containing many irrelevancies and missing key components",
+    "quote": "However these features were previously known or suspected to be important to human coronaviruses, and the proposal is hardly a blueprint for building sars-cov-2, containing many irrelevancies and missing key components",
+    "span": [
+      808,
+      1026
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-4c5432697c1818bebe854b720275ea5a",
+    "node_type": "limitation",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "Project DEFUSE is not evidence that WIV planned to do a particular research path that would lead to creating sars-cov-2",
+    "quote": "and not that WIV in specific planned to do a particular research path that would lead to creating sars-cov-2",
+    "span": [
+      1249,
+      1357
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  }
+]

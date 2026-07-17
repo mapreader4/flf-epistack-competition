@@ -1,0 +1,302 @@
+[
+  {
+    "section_number": "7",
+    "node_type": "limitation",
+    "node_text": "The choice of numbers in the Bayesian inference computation is subjective and uncertain.",
+    "quote": "with my choice of numbers being subjective and uncertain"
+  },
+  {
+    "section_number": "7",
+    "node_type": "limitation",
+    "node_text": "The definition of hypothesis Z is a significant narrowing of the actual hypothesis at stake.",
+    "quote": "the definition I gave for Z is quite a significant narrowing"
+  },
+  {
+    "section_number": "7",
+    "node_type": "limitation",
+    "node_text": "The estimation of priors P(Z) and P(LL) is challenging.",
+    "quote": "The first step is the most challenging, to estimate the priors P (Z) and P (LL)"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "limitation",
+    "node_text": "The emergence of previous human coronaviruses may not be independent events, as the limiting factor seems to be the evolution of a suitable virus, not its spillover.",
+    "quote": "The multiple spillovers of SARS-1 and MERS are not independent events; since the limiting factor seems to be the evolution of a suitable virus, not its spillover, these should only count once each."
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "limitation",
+    "node_text": "The rate of emergence of novel coronaviruses may be affected by changes in land use, agricultural intensity, and population over the last few decades.",
+    "quote": "I believe the risk of pandemics has grown greatly on the timescale of decades, due to changes of land use, agricultural intensity, and population; consider the increasing size and frequency of Ebola outbreaks in the last 10 to 30 years."
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "limitation",
+    "node_text": "Not all sars-like viruses can cause a pandemic, and estimating the probability of a pandemic from sars-cov-1 and MERS may not be accurate.",
+    "quote": "Not all sars-like viruses can cause a pandemic. Estimating from sars-cov-1 and MERS we get a (0 + 1)/(2 + 2) = 1/4 chance (I forget the name of this correction method) of it happening;"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "limitation",
+    "node_text": "The calculation of the probability of HSM being the location of a pandemic spillover may be an underestimate due to the use of raw population figures.",
+    "quote": "but Saar observed that HSM is the largest market of its kind in central China, so using raw population figures probably yields an underestimate."
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "limitation",
+    "node_text": "The assessment of the probability of HSM being the location of a pandemic spillover is vague and based on crude calculations.",
+    "quote": "(One could also get 1/200 through a very crude calculation like the following: suppose there is a 50% chance spillover is in China, conditional 50% chance in one of the 10 largest cities in China, and 20% of the relevant wild animal contact in Wuhan takes place at HSM."
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "limitation",
+    "node_text": "The dynamics of flu evolution is fundamentally different from that of coronaviruses, which limits the usefulness of flu pandemics/epidemics/outbreaks for assessing the prior P(Z).",
+    "quote": "Because the dynamics of flu evolution is fundamentally different than that of coronaviruses, I do not find flu pandemics/epidemics/outbreaks useful for assessing the prior P (Z)."
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "limitation",
+    "node_text": "The approach to estimate P(LL) is error-prone due to lack of knowledge about the lab's activities and safety",
+    "quote": "This is an error-prone approach, not just because it requires speculating about the activities and safety of a lab I have no first- or second-hand knowledge of"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "limitation",
+    "node_text": "The numbers used in the estimation are conjectural and lack a solid basis",
+    "quote": "As my numbers are more-or-less conjecture from thin air"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "limitation",
+    "node_text": "The estimation of P(LL) does not account for the potential biases and uncertainties in the Project DEFUSE research plan",
+    "quote": "However following Project DEFUSE exactly is not consistent with LL"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "limitation",
+    "node_text": "The assumption that WIV would undertake the contents of Project DEFUSE alone without collaborators is uncertain",
+    "quote": "For LL to occur, WIV had to undertake the contents of Project DEFUSE alone without collaborators"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "limitation",
+    "node_text": "The probability of WIV finding and choosing a sufficiently dangerous virus to start with is uncertain",
+    "quote": "Under LL, WIV must find and choose a sufficiently dangerous virus to start with, which at minimum requires such a virus to exist"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "limitation",
+    "node_text": "The estimation of the annualized probability of the first lab leak occurring is based on an unknown parameter",
+    "quote": "Assuming a Poisson distribution of lab leaks with unknown parameter, after 1.7 years the annualized probability of the first lab leak occurring is at most 1 per 1.7 years"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "limitation",
+    "node_text": "The risk of a lab leak leading to an outbreak is difficult to quantify and may be lower than estimated",
+    "quote": "Rootclaim describes this as almost certainty once sars-cov-2 is manufactured, but I cannot take this seriously when Rootclaim does not quantify the risk of a outbreak of covid at the lab origin"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "limitation",
+    "node_text": "The probability of a lab leak is rare, especially if restricted to lab leaks with secondary infections",
+    "quote": "Also, while lab leaks of infectious agents do happen, they still are very rare, especially if you restrict to lab leaks that had secondary infections"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "limitation",
+    "node_text": "The Bayes factor P(LL)/P(Z) may be grossly too high due to uncertainties in the estimation",
+    "quote": "My intuition is that the Bayes factor P (LL)/P (Z) = 2 I calculated is grossly too high"
+  },
+  {
+    "section_number": "7.3",
+    "node_type": "limitation",
+    "node_text": "the assumption of a flat prior for the number of transmission between the primary case and index case may be somewhat favorable to LL",
+    "quote": "I think the assumption of a flat prior here is somewhat favorable to LL"
+  },
+  {
+    "section_number": "7.3",
+    "node_type": "limitation",
+    "node_text": "the model does not account for the potential difference in likelihood of a market vendor catching an illness compared to the average resident of Wuhan, although an extra factor of 2 is given to LL to partially address this",
+    "quote": "As I do think a market vendor is more likely to catch an illness than the average resident of Wuhan, I will give LL an extra factor of 2"
+  },
+  {
+    "section_number": "7.4",
+    "node_type": "limitation",
+    "node_text": "the observation is very post hoc",
+    "quote": "this observation is certainly very post hoc"
+  },
+  {
+    "section_number": "7.4",
+    "node_type": "limitation",
+    "node_text": "the HSM environmental samples will not contribute to the Bayesian calculation",
+    "quote": "the HSM environmental samples will not contribute to my Bayesian calculation, as will be explained"
+  },
+  {
+    "section_number": "7.5",
+    "node_type": "limitation",
+    "node_text": "genetic evidence is too weak to compel anything",
+    "quote": "Most of the genetic evidence is either already incorporated into the prior or too weak to compel anything"
+  },
+  {
+    "section_number": "7.5",
+    "node_type": "limitation",
+    "node_text": "it's hard to find definitive proof of a virus's origin by examining its genetic sequence",
+    "quote": "it's hard to find definitive proof of a virus's origin by examining its genetic sequence"
+  },
+  {
+    "section_number": "7.5",
+    "node_type": "limitation",
+    "node_text": "the Bayes factor for the strong affinity of sars-cov-2 to bind to human ACE2 cannot go above 14 due to the limited number of species in the study",
+    "quote": "the latter cannot go above 14 as that was the number of species in the study"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "limitation",
+    "node_text": "The analysis has significant uncertainties, which may affect the estimated probability of a lab leak.",
+    "quote": "Due to the significant uncertainties in my analysis I would give it some higher probability."
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "limitation",
+    "node_text": "Many components in the calculation should be dampened towards neutrality to account for uncertainty.",
+    "quote": "Many of the components in my calculation should be dampened towards neutrality to account for the uncertainty in them."
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "limitation",
+    "node_text": "The Bayesian calculation may not be an appropriate way to estimate the relative posterior probability of Z and LL.",
+    "quote": "Moreover I am not convinced that this Bayesian calculation is even an appropriate way to estimate the relative posterior probability of Z and LL;"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "limitation",
+    "node_text": "The numerical calculation gives an undeserved illusion of certainty.",
+    "quote": "I think the numerical calculation gives an undeserved illusion of certainty,"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "limitation",
+    "node_text": "The selection of evidence may be motivated or not sensible.",
+    "quote": "It is worthwhile to at least briefly consider whether my selection of evidence is sensible or motivated."
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "limitation",
+    "node_text": "The exclusion of certain evidence items may impact the result.",
+    "quote": "I have excluded quite a few items mentioned by Rootclaim; not that this would impact the result, as I evaluate each of the excluded items as indistinguishable from neutral."
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "limitation",
+    "node_text": "The evidence for the lab leak hypothesis is loose and circumstantial.",
+    "quote": "While the lab leak hypothesis has only loose circumstantial evidence in its favor,"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "limitation",
+    "node_text": "The Project DEFUSE proposal and Eddie Holmes's photos are not definitive or strong evidence.",
+    "quote": "Neither the existence of the Project DEFUSE proposal nor the Eddie Holmes photos are definitive, or even strong, evidence as to the origin of sars-cov-2;"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "limitation",
+    "node_text": "The 1/10000 factor may need significant dampening.",
+    "quote": "Most obviously the 1/10000 factor sticks out as needing significant dampening;"
+  },
+  {
+    "section_number": "5.4",
+    "node_type": "limitation",
+    "node_text": "The project DEFUSE was not funded.",
+    "quote": "To my knowledge, the project was not funded."
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "limitation",
+    "node_text": "The proposal omits details about irrelevant activities",
+    "quote": "I will be omitting quite a few details about irrelevant activities in the proposal"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "limitation",
+    "node_text": "Uncertainty about whether furin is human-specific",
+    "quote": "it is unclear to me whether furin is human-specific"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "limitation",
+    "node_text": "Restriction to BSL-3, not select agents or subject to P3CO, for the synthesized SARSr-CoV S glycoprotein genes",
+    "quote": "These are BSL-3, not select agents or subject to P3CO (they use bat SARSr-CoV backbones which are exempt)"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "limitation",
+    "node_text": "Limited scope to pathogenicity in hACE2 transgenic mice",
+    "quote": "and are pathogenic to hACE2 [human ACE2] transgenic mice"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "limitation",
+    "node_text": "Potential for mismatches in proteolytic cleavage sites in SARSr-CoV S gene sequences",
+    "quote": "SARSr-CoV S with mismatches in proteolytic cleavage sites can be activated by exogenous trypsin or cathepsin L"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "limitation",
+    "node_text": "Uncertainty about the impact of introducing human-specific cleavage sites on virus replication and pathogenesis",
+    "quote": "and evaluate the impact of select SARSr-CoV S changes on virus replication and pathogenesis"
+  },
+  {
+    "section_number": "5.4.2",
+    "node_type": "limitation",
+    "node_text": "The proposal does not explicitly state whether genetic engineering or chimeric viruses would be completely excluded from WIV",
+    "quote": "As far as I can see, no genetic engineering would be performed at WIV, nor would any chimeric viruses be brought there, except prototype vaccines which use a raccoonpox chimera"
+  },
+  {
+    "section_number": "5.4.3",
+    "node_type": "limitation",
+    "node_text": "The research at WIV involved editing a backbone of WIV1, a sars-like coronavirus genome chosen for its lack of pandemic potential, which may not be representative of more pathogenic viruses.",
+    "quote": "a specific sars-like coronavirus genome chosen for its lack of 'pandemic potential', and thus presumably safer to work with than a pathogenic virus."
+  },
+  {
+    "section_number": "5.4.3",
+    "node_type": "limitation",
+    "node_text": "The experiments only tested the infectivity of the recombinant viruses in human and monkey cells, which may not be representative of other cell types or species.",
+    "quote": "Human and monkey cells were then exposed to the recombinant viruses to determine its infectivity."
+  },
+  {
+    "section_number": "5.4.3",
+    "node_type": "limitation",
+    "node_text": "The research only removed a gene in WIV1 that is absent in sars-cov-1, which may not be sufficient to understand the full range of viral behaviors.",
+    "quote": "they removed a gene in WIV1 that is absent in sars-cov-1 to see if the virus would still work in human and monkey cells"
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "limitation",
+    "node_text": "The proposal does not explicitly state it would add furin cleavage sites to viruses",
+    "quote": "The proposal does not explicitly state it would add furin cleavage sites to viruses, but it"
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "limitation",
+    "node_text": "Not all genetic modification involved using backbones from known, pre-existing viruses",
+    "quote": "Most, but not all, of the genetic modification involved using backbones from known, pre-existing viruses"
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "limitation",
+    "node_text": "The proposal does not discuss any in vivo genetic modification",
+    "quote": "The proposal does not, as far as I understand, discuss any in vivo genetic modification; all"
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "limitation",
+    "node_text": "The proposal is hardly a blueprint for building sars-cov-2, containing many irrelevancies and missing key components",
+    "quote": "However these features were previously known or suspected to be important to human coronaviruses, and the proposal is hardly a blueprint for building sars-cov-2, containing many irrelevancies and missing key components"
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "limitation",
+    "node_text": "Project DEFUSE is not evidence that WIV planned to do a particular research path that would lead to creating sars-cov-2",
+    "quote": "and not that WIV in specific planned to do a particular research path that would lead to creating sars-cov-2"
+  }
+]

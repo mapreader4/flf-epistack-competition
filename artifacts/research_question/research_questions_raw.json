@@ -1,0 +1,314 @@
+[
+  {
+    "section_number": "7",
+    "node_type": "research_question",
+    "node_text": "What is the origin of the COVID-19 pandemic?",
+    "quote": "the origin of the covid pandemic"
+  },
+  {
+    "section_number": "7",
+    "node_type": "research_question",
+    "node_text": "What is the probability of COVID-19 emerging from a zoonotic spillover in HSM?",
+    "quote": "LetZ be the hypothesis that covid emerged from a zoonotic spillover in HSM"
+  },
+  {
+    "section_number": "7",
+    "node_type": "research_question",
+    "node_text": "What is the probability of COVID-19 resulting from gain-of-function research in WIV?",
+    "quote": "LL that covid resulted from gain-of-function research in WIV"
+  },
+  {
+    "section_number": "7",
+    "node_type": "research_question",
+    "node_text": "How can the priors P(Z) and P(LL) be estimated?",
+    "quote": "The first step is the most challenging, to estimate the priors P (Z) and P (LL)"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "research_question",
+    "node_text": "What drives new pandemics?",
+    "quote": "Before the debate I had a fundamental misunderstanding of what drives new pandemics."
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "research_question",
+    "node_text": "How often do spillover events from animals to humans occur?",
+    "quote": "Spillovers from animals to humans are rare, and when they happen they effectively sample a random virus from that continuum of viruses that exist in animals."
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "research_question",
+    "node_text": "What is the primary limitation on pandemics?",
+    "quote": "the primary limitation on pandemics is not whether the animal-to-human transmission occurs but rather whether a virus with the necessary properties evolves in an animal population humans are exposed to."
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "research_question",
+    "node_text": "What is the expected gap between consecutive novel coronaviruses?",
+    "quote": "What we want to know is the expected gap between consecutive novel coronaviruses; ignoring sars-cov-2, from 2002 to 2023 there were sars-cov-1 in 2002 and MERS in 2012."
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "research_question",
+    "node_text": "How has the risk of pandemics changed over time due to changes in land use, agricultural intensity, and population?",
+    "quote": "I believe the risk of pandemics has grown greatly on the timescale of decades, due to changes of land use, agricultural intensity, and population;"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "research_question",
+    "node_text": "What is the probability of a new sars-like virus emerging and causing a pandemic?",
+    "quote": "Not all sars-like viruses can cause a pandemic. Estimating from sars-cov-1 and MERS we get a (0 + 1)/(2 + 2) = 1/4 chance"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "research_question",
+    "node_text": "Where are novel zoonotic diseases most likely to emerge?",
+    "quote": "A large fraction of novel zoonotic diseases are expected to emerge in south or east asia; in addition to population density, other important factors are 'forested tropical regions experiencing land-use changes and where wildlife biodiversity (mammal species richness) is high'."
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "research_question",
+    "node_text": "What is the probability of a pandemic emerging from a wildlife market in east Asia, specifically from the Huanan Seafood Market (HSM)?",
+    "quote": "Conditioned on the emergence being a wildlife market in east Asia, Peter gives the probability of HSM as 1 /50 [8]; Saar gives it as 1 /500 [7]."
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "research_question",
+    "node_text": "What is the probability of a lab leak occurring at the Wuhan Institute of Virology (WIV)?",
+    "quote": "To estimate P (LL), rather than extrapolating from historical lab leak events, I will work forwards from first principles."
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "research_question",
+    "node_text": "How likely is it for WIV to undertake gain-of-function research as described in Project DEFUSE?",
+    "quote": "For LL to occur, WIV had to undertake the contents of Project DEFUSE alone without collaborators"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "research_question",
+    "node_text": "What is the annual risk of a lab leak occurring at WIV?",
+    "quote": "Assuming a Poisson distribution of lab leaks with unknown parameter, after 1.7 years the annualized probability of the first lab leak occurring is at most 1 per 1.7 years."
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "research_question",
+    "node_text": "How likely is it for WIV to find and choose a sufficiently dangerous virus to start with?",
+    "quote": "Under LL, WIV must find and choose a sufficiently dangerous virus to start with, which at minimum requires such a virus to exist."
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "research_question",
+    "node_text": "What is the chance of the virus actually escaping from WIV?",
+    "quote": "Finally, we estimate the chance of the virus actually escaping."
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "research_question",
+    "node_text": "How does the risk of a lab leak compare to the risk of a zoonotic pandemic?",
+    "quote": "Compared to P (Z), we see P (LL) is twice as high."
+  },
+  {
+    "section_number": "7.3",
+    "node_type": "research_question",
+    "node_text": "What is the probability of observing the index case in the west half of HSM given the primary case is in the same location?",
+    "quote": "LetH be the observation that the index case is a resident in the west half of HSM"
+  },
+  {
+    "section_number": "7.3",
+    "node_type": "research_question",
+    "node_text": "How does the location of the primary case and index case affect the probability of observing the first significant COVID cluster?",
+    "quote": "the probability of observing H equals 1 divided by the population of the smallest epidemiological circle that contains both the primary case and the index case"
+  },
+  {
+    "section_number": "7.3",
+    "node_type": "research_question",
+    "node_text": "Is a market vendor more likely to catch an illness than the average resident of Wuhan?",
+    "quote": "As I do think a market vendor is more likely to catch an illness than the average resident of Wuhan"
+  },
+  {
+    "section_number": "7.3",
+    "node_type": "research_question",
+    "node_text": "What is the effect of using a flat prior for the number of transmissions between the primary case and index case on the Bayes factor?",
+    "quote": "As per previous discussion, we are using a flat prior for the number of transmission between the primary case and index case, so both P (H|Z) and P (H|LL) should be smaller by the same factor, which has no influence on the Bayes factor"
+  },
+  {
+    "section_number": "7.4",
+    "node_type": "research_question",
+    "node_text": "What is the explanation for the distribution of positive SARS-CoV-2 samples within HSM?",
+    "quote": "Of the 15 shops which were sampled 10 or more times, 12 had no positives, 3 had one positive, and shop 6:29 had the other 5 positives."
+  },
+  {
+    "section_number": "7.4",
+    "node_type": "research_question",
+    "node_text": "What is the significance of the geographical center of the sample positivity ratio in HSM?",
+    "quote": "more careful statistical analysis places 6:29 at the geographical center of the sample positivity ratio, and the positive drainage samples likewise implicate alley 6."
+  },
+  {
+    "section_number": "7.4",
+    "node_type": "research_question",
+    "node_text": "Can the observation of positive SARS-CoV-2 samples in HSM be explained by hypothesis LL?",
+    "quote": "Arguably, this observation has a Bayes factor of 15 in favor of Z, as LL has no viable explanation for this coincidence."
+  },
+  {
+    "section_number": "7.5",
+    "node_type": "research_question",
+    "node_text": "What is the origin of a virus based on its genetic sequence?",
+    "quote": "it's hard to find definitive proof of a virus's origin by examining its genetic sequence"
+  },
+  {
+    "section_number": "7.5",
+    "node_type": "research_question",
+    "node_text": "What is the significance of the 12 nucleotide insert creating a furin cleavage site in SARS-CoV-2?",
+    "quote": "the strange 12 nucleotide insert creating a furin cleavage site"
+  },
+  {
+    "section_number": "7.5",
+    "node_type": "research_question",
+    "node_text": "Why does SARS-CoV-2 have a strong affinity to bind to human ACE2 over other species?",
+    "quote": "the strong affinity of sars-cov-2 to bind to human ACE2 over other species"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "research_question",
+    "node_text": "What is the probability of a lab leak being the origin of COVID-19?",
+    "quote": "Do I believe the probability of a lab leak is only 1 in 1300?"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "research_question",
+    "node_text": "Is the Bayesian calculation an appropriate way to estimate the relative posterior probability of zoonotic and lab leak hypotheses?",
+    "quote": "Moreover I am not convinced that this Bayesian calculation is even an appropriate way to estimate the relative posterior probability of Z and LL;"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "research_question",
+    "node_text": "What is the significance of the Project DEFUSE proposal in relation to the lab leak hypothesis?",
+    "quote": "The centerpiece of the lab leak explanation is the Project DEFUSE proposal, and the observation that a number of features from that proposal match features of sars-cov-2:"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "research_question",
+    "node_text": "How does the lack of a known intermediate host for SARS-CoV-2 relate to the zoonotic theory?",
+    "quote": "Conversely, the lack of a known intermediate host for sars-cov-2 could be analogously considered an essential 'step' to the zoonotic theory;"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "research_question",
+    "node_text": "What is the relevance of the distribution of positive environmental samples within HSM to the zoonotic hypothesis?",
+    "quote": "One piece of evidence I excluded was the distribution of positive environmental samples within HSM."
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "research_question",
+    "node_text": "How does the existence of the Project DEFUSE proposal and the Eddie Holmes photos relate to the origin of SARS-CoV-2?",
+    "quote": "Neither the existence of the Project DEFUSE proposal nor the Eddie Holmes photos are definitive, or even strong, evidence as to the origin of sars-cov-2;"
+  },
+  {
+    "section_number": "5.4",
+    "node_type": "research_question",
+    "node_text": "What are the goals and steps of Project DEFUSE?",
+    "quote": "The project involved quite a large number of goals and steps and can be organized as follows:"
+  },
+  {
+    "section_number": "5.4",
+    "node_type": "research_question",
+    "node_text": "How likely are bats to have dangerous diseases?",
+    "quote": "Write an app for soldiers to figure out how likely bats are to have dangerous diseases"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "research_question",
+    "node_text": "What SARSr-CoV nucleic acid sequences will be identified in the samples?",
+    "quote": "We will screen samples for SARSr-CoV [sars-cov-1-related coronavirus] nucleic acid"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "research_question",
+    "node_text": "How well do the SARSr-CoV S genes bind to human ACE2 receptors?",
+    "quote": "We will analyze the S gene for its ability to bind human ACE2 by Biocore or virus entry assay"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "research_question",
+    "node_text": "What is the effect of introducing human-specific cleavage sites into SARSr-CoV S genes on virus replication and pathogenesis?",
+    "quote": "We will introduce appropriate human-specific cleavage sites and evaluate growth potential in Vero [monkey kidney] cells and HAE [human airway epithelial cells] cultures"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "research_question",
+    "node_text": "Do SARSr-CoV S genes with mismatches in proteolytic cleavage sites have the potential to be activated by exogenous trypsin or cathepsin L?",
+    "quote": "SARSr-CoV S with mismatches in proteolytic cleavage sites can be activated by exogenous trypsin or cathepsin L"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "research_question",
+    "node_text": "What is the impact of select SARSr-CoV S changes on virus replication and pathogenesis?",
+    "quote": "and evaluate the impact of select SARSr-CoV S changes on virus replication and pathogenesis"
+  },
+  {
+    "section_number": "5.4.2",
+    "node_type": "research_question",
+    "node_text": "What activities would WIV have been involved in according to the proposal?",
+    "quote": "Here I have summarized each step that WIV would have been involved in:"
+  },
+  {
+    "section_number": "5.4.2",
+    "node_type": "research_question",
+    "node_text": "Would genetic engineering be performed at WIV?",
+    "quote": "As far as I can see, no genetic engineering would be performed at WIV,"
+  },
+  {
+    "section_number": "5.4.2",
+    "node_type": "research_question",
+    "node_text": "Would chimeric viruses be brought to WIV?",
+    "quote": "nor would any chimeric viruses be brought there, except prototype vaccines which use a raccoonpox chimera."
+  },
+  {
+    "section_number": "5.4.3",
+    "node_type": "research_question",
+    "node_text": "What is the infectivity of a recombinant virus created by replacing the spike protein of WIV1 with spike proteins found in viruses collected from bats in Yunnan?",
+    "quote": "Human and monkey cells were then exposed to the recombinant viruses to determine its infectivity"
+  },
+  {
+    "section_number": "5.4.3",
+    "node_type": "research_question",
+    "node_text": "Will a virus still be infectious in human and monkey cells if a gene absent in sars-cov-1 is removed from WIV1?",
+    "quote": "they removed a gene in WIV1 that is absent in sars-cov-1 to see if the virus would still work in human and monkey cells"
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "research_question",
+    "node_text": "Would the proposal add furin cleavage sites to viruses?",
+    "quote": "The proposal does not explicitly state it would add furin cleavage sites to viruses, but it"
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "research_question",
+    "node_text": "What genetic modifications were involved in the proposal?",
+    "quote": "Most, but not all, of the genetic modification involved using backbones from known, pre-existing viruses."
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "research_question",
+    "node_text": "Did the proposal discuss in vivo genetic modification?",
+    "quote": "The proposal does not, as far as I understand, discuss any in vivo genetic modification; all"
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "research_question",
+    "node_text": "What was the purpose of screening for wild viruses in the proposal?",
+    "quote": "The proposal does specifically say it would screen for wild viruses with high affinity towards human ACE2."
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "research_question",
+    "node_text": "Is the Project DEFUSE proposal a blueprint for building sars-cov-2?",
+    "quote": "the proposal is hardly a blueprint for building sars-cov-2, containing many irrelevancies and missing key components."
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "research_question",
+    "node_text": "What features were the community of virologists interested in making chimeric viruses with?",
+    "quote": "Project DEFUSE is most relevant in that it shows that the community of virologists was broadly interested in making chimeric viruses with certain features which have the potential for lab leak risk if handled improperly,"
+  }
+]

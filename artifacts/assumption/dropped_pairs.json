@@ -1,0 +1,8 @@
+[
+  {
+    "section_number": "7.2",
+    "node_type": "assumption",
+    "node_text": "The starting point for GoF research does not need to be as dangerous due to the research itself.",
+    "quote": "This assumes that WIV is able to find the virus, though in reality only a small fraction of wild viruses are ever sampled. Arguably the latter is the same factor of 1 /8 as fromZ, but I have weakened this to 1/2 as GoF research lowers how dangerous the starting point would need to be."
+  }
+]

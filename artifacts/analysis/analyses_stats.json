@@ -1,0 +1,25 @@
+{
+  "node_type": "analysis",
+  "sections_requested": 12,
+  "sections_processed": 12,
+  "nodes_extracted": 59,
+  "invalid_pairs": 0,
+  "nodes_resolved": 58,
+  "nodes_dropped": 1,
+  "drop_rate": 0.0169,
+  "section_match": {
+    "exact": 50,
+    "fuzzy": 8
+  },
+  "chunk_match": {
+    "exact": 58,
+    "fuzzy": 0,
+    "split_across_chunks": 0
+  },
+  "tokens": {
+    "total": 18551,
+    "new_this_run": 18551
+  },
+  "estimated_cost_usd": 0.0163,
+  "aborted_on_budget": false
+}

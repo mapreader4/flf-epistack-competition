@@ -1,0 +1,1447 @@
+[
+  {
+    "node_id": "evidence-915ae26328420b3743202396aa29ba8c",
+    "node_type": "evidence",
+    "section_number": "7",
+    "chunk_id": "chunk-c300642270d05f1b62f98c141f39fba6",
+    "node_text": "Rootclaim's argument in section 3.1 suggests that the observational evidence is equally consistent with zoonotic spillover anywhere in Wuhan as in HSM",
+    "quote": "if you accept Rootclaim's argument in section 3.1, then the definition I gave for Z is quite a significant narrowing, as they believe the observational evidence is equally consistent with zoonotic spillover anywhere in Wuhan as in HSM",
+    "span": [
+      551,
+      785
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-897d25149ee37c06dd685e83dbedd374",
+    "node_type": "evidence",
+    "section_number": "7.1",
+    "chunk_id": "chunk-6f43a5cbb96092c2da2048fe360661b8",
+    "node_text": "More than 1 million people in southeast Asia are exposed to bat coronaviruses each year",
+    "quote": "According to Peter Daszak of EcoHealth Alliance, more than 1 million people in southeast asia are exposed to bat coronaviruses each year",
+    "span": [
+      188,
+      324
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-dc48963cd9a36a6f83f1e2ff10b776ff",
+    "node_type": "evidence",
+    "section_number": "7.1",
+    "chunk_id": "chunk-6f43a5cbb96092c2da2048fe360661b8",
+    "node_text": "13% of animal traders in Guangdong had antibodies to SARS-1 despite none of them having had known illnesses",
+    "quote": "The US CDC found in 2003 that 13% animal traders in Guangdong, where SARS-1 was discovered, had antibodies to SARS-1 despite none of them having had known illnesses",
+    "span": [
+      350,
+      514
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-079c7ad52b1ed2386ef5bbd1a3cc5af8",
+    "node_type": "evidence",
+    "section_number": "7.1",
+    "chunk_id": "chunk-6f43a5cbb96092c2da2048fe360661b8",
+    "node_text": "73% of palm civet traders in Guangdong had antibodies to SARS-1",
+    "quote": "the subgroup with highest incidence was palm civet traders, at 73% (16 out of 22), compared to 1-3% in control groups",
+    "span": [
+      516,
+      633
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-346afc3f80b926e3e8952bb0e682fcc0",
+    "node_type": "evidence",
+    "section_number": "7.1",
+    "chunk_id": "chunk-eb66d8f46539dadc2223da3edda7903e",
+    "node_text": "There were 7 known human coronaviruses, with 2 discovered in the 1960s and the rest since 2002",
+    "quote": "There are 7 known human coronaviruses, two discovered in the 1960s, and the rest since 2002",
+    "span": [
+      780,
+      871
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-fe066c86c541973d1af49125710192b5",
+    "node_type": "evidence",
+    "section_number": "7.1",
+    "chunk_id": "chunk-eb66d8f46539dadc2223da3edda7903e",
+    "node_text": "The 1889 pandemic that killed 1 million people may have been the spillover of hcov-oc43",
+    "quote": "the 1889 pandemic that killed 1 million people may have been the spillover of hcov-oc43, which today typically causes only colds",
+    "span": [
+      971,
+      1099
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-b0b3ae4c6f96df066377cdfce50577fd",
+    "node_type": "evidence",
+    "section_number": "7.1",
+    "chunk_id": "chunk-eb66d8f46539dadc2223da3edda7903e",
+    "node_text": "SARS-1 and MERS had multiple known independent spillover events",
+    "quote": "SARS-1 had multiple known independent spillover events,65 and MERS has had dozens to hundreds since its discovery in 2012",
+    "span": [
+      363,
+      484
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-11ca1c0580d24d19c1d430ef8b08bc05",
+    "node_type": "evidence",
+    "section_number": "7.1",
+    "chunk_id": "chunk-7ccd7514b86112b6365c5db4bcdbcb57",
+    "node_text": "A large fraction of novel zoonotic diseases are expected to emerge in south or east Asia",
+    "quote": "A large fraction of novel zoonotic diseases are expected to emerge in south or east asia",
+    "span": [
+      0,
+      88
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-f034ff8ca745bdca9bb6aa070a23afd0",
+    "node_type": "evidence",
+    "section_number": "7.1",
+    "chunk_id": "chunk-7ccd7514b86112b6365c5db4bcdbcb57",
+    "node_text": "Important factors for zoonotic disease emergence include population density, forested tropical regions experiencing land-use changes, and wildlife biodiversity",
+    "quote": "in addition to population density, other important factors are \"forested tropical regions experiencing land-use changes and where wildlife biodiversity (mammal species richness) is high\"",
+    "span": [
+      90,
+      276
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-e93dbc7bed659783334c03d52023064a",
+    "node_type": "evidence",
+    "section_number": "7.1",
+    "chunk_id": "chunk-7ccd7514b86112b6365c5db4bcdbcb57",
+    "node_text": "HSM is the largest market of its kind in central China",
+    "quote": "HSM is the largest market of its kind in central China",
+    "span": [
+      703,
+      757
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-a4d73df45aa1e112486ddb25dddee6bb",
+    "node_type": "evidence",
+    "section_number": "7.1",
+    "chunk_id": "chunk-80b5c20b44fd3dea9e66a09052bc80a3",
+    "node_text": "Biologist Eddie Holmes and the Wuhan CDC specifically called out HSM as a possible location for a future pandemic spillover",
+    "quote": "biologist Eddie Holmes and the Wuhan CDC specifically called out HSM as a possible location for a future pandemic spillover",
+    "span": [
+      348,
+      471
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9106,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-7e68aeb8fd05c9ade7d08e59c412fb13",
+    "node_type": "evidence",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "WIV conducts GoF research similar to Project DEFUSE",
+    "quote": "WIV conducts GoF research a la \"DEFUSE\"",
+    "span": [
+      535,
+      574
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-d49862f831abd4c30768cba4578753df",
+    "node_type": "evidence",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "Project DEFUSE research plan looks similar to sars-cov-2",
+    "quote": "The Project DEFUSE research plan [14, 20] looks eerily similar, in parts, to sars-cov-2",
+    "span": [
+      709,
+      796
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-37fe8ae265242495c6ea48429b2dff50",
+    "node_type": "evidence",
+    "section_number": "7.2",
+    "chunk_id": "chunk-0750a6341e30806e362f3e6f8ebe71cc",
+    "node_text": "Project DEFUSE was a collaboration of multiple research groups",
+    "quote": "Project DEFUSE was a collaboration of multiple research groups",
+    "span": [
+      53,
+      115
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-e3a27902face22d90979c049bbfb4c40",
+    "node_type": "evidence",
+    "section_number": "7.2",
+    "chunk_id": "chunk-0750a6341e30806e362f3e6f8ebe71cc",
+    "node_text": "Most of the work in Project DEFUSE was to be done in UNC or other US labs",
+    "quote": "most of the work, including all work on virus chimeras, was to be done in UNC or other US labs",
+    "span": [
+      203,
+      297
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-49f6783c353ca6a2a9d70311f37ca956",
+    "node_type": "evidence",
+    "section_number": "7.2",
+    "chunk_id": "chunk-0750a6341e30806e362f3e6f8ebe71cc",
+    "node_text": "Project DEFUSE was planned to last 3.5 years",
+    "quote": "the project was planned to last 3.5 years",
+    "span": [
+      646,
+      687
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-02a92e99be30f56e8912240fd2005251",
+    "node_type": "evidence",
+    "section_number": "7.2",
+    "chunk_id": "chunk-0750a6341e30806e362f3e6f8ebe71cc",
+    "node_text": "Project DEFUSE was interested in viruses related to sars-cov-1",
+    "quote": "the project was interested in viruses related to sars-cov-1",
+    "span": [
+      690,
+      749
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-14eb612ed29f81892b63f4a605789ed1",
+    "node_type": "evidence",
+    "section_number": "7.2",
+    "chunk_id": "chunk-0750a6341e30806e362f3e6f8ebe71cc",
+    "node_text": "Project DEFUSE planned on using backbones from previously known viruses",
+    "quote": "the project planned on using backbones from previously known viruses, selected for lack of pandemic potential in humans",
+    "span": [
+      752,
+      871
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-08b4b6274ec8c07208af42aa03b2d85f",
+    "node_type": "evidence",
+    "section_number": "7.2",
+    "chunk_id": "chunk-7e899e697fa27babd25f8f30bbb36acd",
+    "node_text": "WIV constructed a chimera of the WIV1 backbone with spike gene collected from wild viruses",
+    "quote": "The only known precedent for activities like this taking place at WIV is the construction of a chimera of the WIV1 backbone with spike gene collected from wild viruses",
+    "span": [
+      0,
+      167
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-73f8edb3d8abdb42813cf0eb3024dd41",
+    "node_type": "evidence",
+    "section_number": "7.2",
+    "chunk_id": "chunk-ed5004e7a35f9094e790d9729204a2f5",
+    "node_text": "Rootclaim describes the risk of a lab leak as almost certainty once sars-cov-2 is manufactured",
+    "quote": "Rootclaim describes this as almost certainty once sars-cov-2 is manufactured",
+    "span": [
+      0,
+      76
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-dee566639146a5bb402716319dbfd9a4",
+    "node_type": "evidence",
+    "section_number": "7.2",
+    "chunk_id": "chunk-ed5004e7a35f9094e790d9729204a2f5",
+    "node_text": "Lab leaks of infectious agents are very rare, especially with secondary infections",
+    "quote": "Also, while lab leaks of infectious agents do happen, they still are very rare, especially if you restrict to lab leaks that had secondary infections",
+    "span": [
+      832,
+      981
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-68dd42e60871801a15a59efbb9f49431",
+    "node_type": "evidence",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "The index case is a resident in the west half of HSM",
+    "quote": "LetH be the observation that the index case is a resident in the west half of HSM",
+    "span": [
+      0,
+      81
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-af353f10e7f25c2691928f425da81f07",
+    "node_type": "evidence",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "The first significant covid cluster is centered among the residents in the west half of HSM",
+    "quote": "or, more precisely, that the first significant covid cluster is centered among the residents in the west half of HSM",
+    "span": [
+      83,
+      199
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-3bdd30fc76fdd1d6196900a180b6dba6",
+    "node_type": "evidence",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "The population of the smallest epidemiological circle that contains both the primary case and the index case for Z is the west half of HSM",
+    "quote": "For Z this is simply the west half of HSM",
+    "span": [
+      409,
+      450
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-8ed5ede55d8780030df0f5e441afbfb8",
+    "node_type": "evidence",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "The population of the smallest epidemiological circle that contains both the primary case and the index case for LL is all of Wuhan",
+    "quote": "For LL this is all of Wuhan",
+    "span": [
+      456,
+      483
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-f221dc6d61488fca0d9f1e852d1e5a4c",
+    "node_type": "evidence",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "The probability of observing H given Z equals 1 divided by the population of the smallest epidemiological circle that contains both the primary case and the index case",
+    "quote": "the probability of observing H equals 1 divided by the population of the smallest epidemiological circle that contains both the primary case and the index case",
+    "span": [
+      248,
+      407
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-460beb379b145608ad3ed02495db16ba",
+    "node_type": "evidence",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "A market vendor is more likely to catch an illness than the average resident of Wuhan",
+    "quote": "As I do think a market vendor is more likely to catch an illness than the average resident of Wuhan",
+    "span": [
+      561,
+      660
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-29af876904efa8acdf605f311750ad1f",
+    "node_type": "evidence",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "A flat prior is used for the number of transmission between the primary case and index case",
+    "quote": "As per previous discussion, we are using a flat prior for the number of transmission between the primary case and index case",
+    "span": [
+      699,
+      823
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-480252b14537002e347e157fbd497faa",
+    "node_type": "evidence",
+    "section_number": "7.4",
+    "chunk_id": "chunk-623a9078cb497bb81d8d7db9006df36a",
+    "node_text": "15 shops were sampled 10 or more times",
+    "quote": "Of the 15 shops which were sampled 10 or more times",
+    "span": [
+      271,
+      322
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-1a404992277340d0152ea8465395b7ec",
+    "node_type": "evidence",
+    "section_number": "7.4",
+    "chunk_id": "chunk-623a9078cb497bb81d8d7db9006df36a",
+    "node_text": "12 shops had no positive sars-cov-2 samples",
+    "quote": "12 had no positives",
+    "span": [
+      324,
+      343
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-d1213a9e7e3b62b0a9138be749f2a0fa",
+    "node_type": "evidence",
+    "section_number": "7.4",
+    "chunk_id": "chunk-623a9078cb497bb81d8d7db9006df36a",
+    "node_text": "3 shops had one positive sars-cov-2 sample",
+    "quote": "3 had one positive",
+    "span": [
+      345,
+      363
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-b5254683c9c0aed9fd44058f30ea42f5",
+    "node_type": "evidence",
+    "section_number": "7.4",
+    "chunk_id": "chunk-623a9078cb497bb81d8d7db9006df36a",
+    "node_text": "Shop 6:29 had 5 positive sars-cov-2 samples",
+    "quote": "and shop 6:29 had the other 5 positives",
+    "span": [
+      365,
+      404
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-8f22b6978bdf04508196a3f3c078902e",
+    "node_type": "evidence",
+    "section_number": "7.4",
+    "chunk_id": "chunk-623a9078cb497bb81d8d7db9006df36a",
+    "node_text": "Shop 6:29 is at the geographical center of the sample positivity ratio",
+    "quote": "more careful statistical analysis places 6:29 at the geographical center of the sample positivity ratio",
+    "span": [
+      578,
+      681
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-d4f1ef49f565098a00f680c885128ba8",
+    "node_type": "evidence",
+    "section_number": "7.4",
+    "chunk_id": "chunk-623a9078cb497bb81d8d7db9006df36a",
+    "node_text": "Positive drainage samples implicate alley 6",
+    "quote": "and the positive drainage samples likewise implicate alley 6",
+    "span": [
+      683,
+      743
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-7ee56c601959e2fff88e9b99b06cd3b6",
+    "node_type": "evidence",
+    "section_number": "7.5",
+    "chunk_id": "chunk-0583f85f3748de26a0a4f33bbfb2997d",
+    "node_text": "SARS-CoV-2 has a strong affinity to bind to human ACE2 over other species",
+    "quote": "the strong affinity of sars-cov-2 to bind to human ACE2 over other species",
+    "span": [
+      405,
+      479
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-d2f96ab5133cca8578dc67603f011e23",
+    "node_type": "evidence",
+    "section_number": "7.5",
+    "chunk_id": "chunk-0583f85f3748de26a0a4f33bbfb2997d",
+    "node_text": "A study compared SARS-CoV-2 binding affinity to ACE2 across 14 species",
+    "quote": "the latter cannot go above 14 as that was the number of species in the study",
+    "span": [
+      534,
+      610
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-f81c8682dc32d1d1591c5c9f60c86345",
+    "node_type": "evidence",
+    "section_number": "7.6",
+    "chunk_id": "chunk-ce047fa58a6a9a1b1473c58519593f7e",
+    "node_text": "The outbreak of COVID-19 started in Wuhan",
+    "quote": "Sars-cov-2 first appeared in Wuhan, the same city as one of the labs involved in DEFUSE",
+    "span": [
+      173,
+      260
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-baa979c72802161d3ac35f562a61fe72",
+    "node_type": "evidence",
+    "section_number": "7.6",
+    "chunk_id": "chunk-ce047fa58a6a9a1b1473c58519593f7e",
+    "node_text": "Sars-cov-2 has an FCS that looks artificially inserted when compared to banal-52",
+    "quote": "Sars-cov-2 has an FCS that looks artificially inserted when compared to banal-52",
+    "span": [
+      263,
+      343
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-8e212b5d26a477fe6dec37a4c1c89d7a",
+    "node_type": "evidence",
+    "section_number": "7.6",
+    "chunk_id": "chunk-ce047fa58a6a9a1b1473c58519593f7e",
+    "node_text": "Sars-cov-2 has a strong affinity to human ACE2",
+    "quote": "Sars-cov-2 has a strong affinity to human ACE2",
+    "span": [
+      346,
+      392
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-8c2972fb0bfce94d285cf4c3dc5ca698",
+    "node_type": "evidence",
+    "section_number": "7.6",
+    "chunk_id": "chunk-ce047fa58a6a9a1b1473c58519593f7e",
+    "node_text": "The Project DEFUSE proposal matches features of sars-cov-2",
+    "quote": "The centerpiece of the lab leak explanation is the Project DEFUSE proposal, and the observation that a number of features from that proposal match features of sars-cov-2",
+    "span": [
+      0,
+      169
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-45e8ae45f6709f184afa74c7d2a04fa0",
+    "node_type": "evidence",
+    "section_number": "7.6",
+    "chunk_id": "chunk-ce047fa58a6a9a1b1473c58519593f7e",
+    "node_text": "Eddie Holmes's 2014 photos show potential zoonotic spillover sites at HSM",
+    "quote": "It is a remarkable coincidence that, when searching for potential zoonotic spillover sites, the Wuhan CDC took him to HSM, specifically to the very shop 6:29 which had the greatest number of positive environmental samples",
+    "span": [
+      873,
+      1094
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-1d2f81aac12053045927b674491ddf8b",
+    "node_type": "evidence",
+    "section_number": "7.6",
+    "chunk_id": "chunk-ce047fa58a6a9a1b1473c58519593f7e",
+    "node_text": "The Wuhan CDC took Eddie Holmes to shop 6:29 in HSM, which had the greatest number of positive environmental samples",
+    "quote": "the Wuhan CDC took him to HSM, specifically to the very shop 6:29 which had the greatest number of positive environmental samples",
+    "span": [
+      965,
+      1094
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-ae67a0b17bbd099b45f0f87725ad19a6",
+    "node_type": "evidence",
+    "section_number": "7.6",
+    "chunk_id": "chunk-ce047fa58a6a9a1b1473c58519593f7e",
+    "node_text": "The owner of shop 6:29 in HSM was fined for selling illegal wildlife",
+    "quote": "whose owner was fined for selling illegal wildlife",
+    "span": [
+      1100,
+      1150
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-1f6a8dc9036c27b1203758f96d94ea7b",
+    "node_type": "evidence",
+    "section_number": "7.6",
+    "chunk_id": "chunk-dc0bde058d55cd8e718d2fd5a6a72cca",
+    "node_text": "The COVID-19 pandemic started in the immediate vicinity of live animals susceptible to sars-like coronaviruses",
+    "quote": "the physical evidence of the covid pandemic starting in the immediate vicinity of live animals susceptible to sars-like coronaviruses",
+    "span": [
+      795,
+      928
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-1bb49cc4a35b441941d36a61030b1d53",
+    "node_type": "evidence",
+    "section_number": "7.6",
+    "chunk_id": "chunk-dc0bde058d55cd8e718d2fd5a6a72cca",
+    "node_text": "Previous coronavirus epidemics started in an analogous manner to the COVID-19 pandemic",
+    "quote": "the precedent of previous coronavirus epidemics starting in an analogous manner",
+    "span": [
+      933,
+      1012
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-c54b552ca792db7de61d4b5a4adbd5f7",
+    "node_type": "evidence",
+    "section_number": "7.6",
+    "chunk_id": "chunk-ce047fa58a6a9a1b1473c58519593f7e",
+    "node_text": "There is no known intermediate host for sars-cov-2",
+    "quote": "the lack of a known intermediate host for sars-cov-2",
+    "span": [
+      442,
+      494
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-a06bdbd3a7aa1d088d87419e68cc8e36",
+    "node_type": "evidence",
+    "section_number": "7.6",
+    "chunk_id": "chunk-3db7374b026cba89a2f4c5880aa55556",
+    "node_text": "The distribution of positive environmental samples within HSM identifies the origin of the HSM outbreak to be specifically the area where wild animals were kept",
+    "quote": "the distribution of positive environmental samples within HSM. While it appears to identify the origin of the HSM outbreak to be specifically the area where wild animals were kept",
+    "span": [
+      967,
+      1146
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-794f51eb1a64e8aeac5ea614637e231f",
+    "node_type": "evidence",
+    "section_number": "5.4",
+    "chunk_id": "chunk-fc514f5a88b0d0224047776bafd6aa34",
+    "node_text": "The EcoHealth Alliance submitted a grant request to DARPA for $14 million for Project DEFUSE in 2018",
+    "quote": "In 2018, the EcoHealth Alliance submitted a grant request to DARPA for $14 million for",
+    "span": [
+      0,
+      86
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-c7c5e3ce446ba7593a9b8e97380d0ea1",
+    "node_type": "evidence",
+    "section_number": "5.4",
+    "chunk_id": "chunk-fc514f5a88b0d0224047776bafd6aa34",
+    "node_text": "Project DEFUSE was a 3.5 year project on bat coronaviruses in collaboration with 5 other groups",
+    "quote": "a 3.5 year project on bat coronaviruses in collaboration with 5 other groups",
+    "span": [
+      105,
+      181
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-484123840f44262147344f4d010a10e9",
+    "node_type": "evidence",
+    "section_number": "5.4",
+    "chunk_id": "chunk-fc514f5a88b0d0224047776bafd6aa34",
+    "node_text": "Project DEFUSE involved collaboration with groups located at UNC, Duke-National University Singapore, WIV, USGS National Wildlife Health Center, and Palo Alto Research Center",
+    "quote": "in collaboration with 5 other groups (located at UNC, Duke-National University Singapore, WIV, USGS National Wildlife Health Center, and Palo Alto Research Center)",
+    "span": [
+      145,
+      308
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-764d88f26586600432f13219b7c065b0",
+    "node_type": "evidence",
+    "section_number": "5.4",
+    "chunk_id": "chunk-fc514f5a88b0d0224047776bafd6aa34",
+    "node_text": "The project was not funded, to the judge's knowledge",
+    "quote": "To my knowledge, the project was not funded",
+    "span": [
+      319,
+      362
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-ad69d1bc9611a30aad509e77857274f5",
+    "node_type": "evidence",
+    "section_number": "5.4",
+    "chunk_id": "chunk-fc514f5a88b0d0224047776bafd6aa34",
+    "node_text": "Project DEFUSE involved collecting bat coronaviruses and performing computer and lab testing on them",
+    "quote": "1. Collect bat coronaviruses and perform computer and lab testing on them",
+    "span": [
+      458,
+      531
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-7ffe0bf0ae5f2777cfbe8da7f3fe4f35",
+    "node_type": "evidence",
+    "section_number": "5.4",
+    "chunk_id": "chunk-fc514f5a88b0d0224047776bafd6aa34",
+    "node_text": "Project DEFUSE involved deploying vaccines and immune boosting agents to wild bats",
+    "quote": "2. Deploy vaccines and immune boosting agents to wild bats",
+    "span": [
+      532,
+      590
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-1d170200139e04a7f9058f2cbc7d8bfb",
+    "node_type": "evidence",
+    "section_number": "5.4",
+    "chunk_id": "chunk-fc514f5a88b0d0224047776bafd6aa34",
+    "node_text": "Project DEFUSE involved writing an app for soldiers to figure out how likely bats are to have dangerous diseases",
+    "quote": "3. Write an app for soldiers to figure out how likely bats are to have dangerous diseases",
+    "span": [
+      591,
+      680
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-5f6decbd328637a136b4123644f302e9",
+    "node_type": "evidence",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-4e7811bac13482229c68ce4eb9900fe5",
+    "node_text": "SARSr-CoV nucleic acid will be screened in samples",
+    "quote": "We will screen samples for SARSr-CoV [sars-cov-1-related coronavirus] nucleic acid",
+    "span": [
+      117,
+      199
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-5160d9fcd70abed53aa27fef3dd7f538",
+    "node_type": "evidence",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-4e7811bac13482229c68ce4eb9900fe5",
+    "node_text": "Full-length genomes or S genes of all SARSr-CoVs will be high-throughput sequenced",
+    "quote": "Full-length genomes or S [spike] genes of all SARSr-CoVs will be high-throughput sequenced",
+    "span": [
+      207,
+      297
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9889,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-8ea31c8072cefe0f37b16a2bec0a10fe",
+    "node_type": "evidence",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-4e7811bac13482229c68ce4eb9900fe5",
+    "node_text": "S gene will be analyzed for its ability to bind human ACE2",
+    "quote": "We will analyze the S gene for its ability to bind human ACE2 by Biocore or virus entry assay",
+    "span": [
+      326,
+      419
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-f5435240cbeaeb85021a7d8a07c3e32d",
+    "node_type": "evidence",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-4e7811bac13482229c68ce4eb9900fe5",
+    "node_text": "Chimeric Novel SARSr-CoV will be commercially synthesized",
+    "quote": "We will commercially synthesize SARSr-CoV S glycopro-tein genes, designed for insertion into SHCO14 or WIV16 molecu-lar clone backbones",
+    "span": [
+      465,
+      600
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9852,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-12e4c31759678fe7a6630e88fa9f8356",
+    "node_type": "evidence",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-4e7811bac13482229c68ce4eb9900fe5",
+    "node_text": "SHCO14 and WIV16 molecular clone backbones have 88% and 97% S-protein identity to epidemic SARS-Urbani61",
+    "quote": "designed for insertion into SHCO14 or WIV16 molecu-lar clone backbones (88% and 97% S-protein identity to epidemic SARS-Urbani61)",
+    "span": [
+      532,
+      661
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9922,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-1127ac3e50711ced283ec0dfa6988fa8",
+    "node_type": "evidence",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-4e7811bac13482229c68ce4eb9900fe5",
+    "node_text": "The synthesized viruses are pathogenic to hACE2 transgenic mice",
+    "quote": "and are pathogenic to hACE2 [human ACE2] transgenic mice",
+    "span": [
+      769,
+      825
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-3560116e64c6c5dd86f311da446e51f4",
+    "node_type": "evidence",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-4e7811bac13482229c68ce4eb9900fe5",
+    "node_text": "In vitro pseudovirus binding assays and live virus binding assays will be conducted",
+    "quote": "We will conduct in vitro [in test tube] pseudovirus binding assays, using established techniques, and live virus binding assays",
+    "span": [
+      833,
+      960
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-220b592f291da096efc563894a650252",
+    "node_type": "evidence",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-6197f750ce57000d30c32357e0590b6c",
+    "node_text": "SARSr-CoV S gene sequences will be analyzed for proteolytic cleavage sites",
+    "quote": "We will analyze all SARSr-CoV S [spike] gene sequences for appropriately conserved proteolytic cleavage sites in S2 [spike subregion 2]",
+    "span": [
+      627,
+      762
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-d4b11cff6140ea4557846b13df052ff8",
+    "node_type": "evidence",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-6197f750ce57000d30c32357e0590b6c",
+    "node_text": "SARSr-CoV S with mismatches in proteolytic cleavage sites can be activated by exogenous trypsin or cathepsin L",
+    "quote": "SARSr-CoV S with mismatches in proteolytic cleavage sites can be activated by exogenous trypsin or cathepsin L",
+    "span": [
+      821,
+      931
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-83f98bea9d49aaced3b13a738b6d8599",
+    "node_type": "evidence",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-07afdefd72654f86be09b17c4ab96844",
+    "node_text": "Deep sequence data will be reviewed for low abundant high risk SARSr-CoV that encode functional proteolytic cleavage sites",
+    "quote": "We will also review deep sequence data for low abundant high risk SARSr-CoV that encode functional proteolytic cleavage sites",
+    "span": [
+      199,
+      324
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-83a43996ac3dba60ed0c58b6a028aa51",
+    "node_type": "evidence",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "WIV was involved in screening bat samples for sars-like viruses and sequencing spike proteins",
+    "quote": "Phase 1, tasks 3.1 and 3.2: Screen bat samples for sars-like viruses and sequence spike proteins",
+    "span": [
+      200,
+      296
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-97d814aec45762cd6d9239f47931bd1f",
+    "node_type": "evidence",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "WIV was involved in making assays for identifying antibodies to known sars-like viruses",
+    "quote": "Task 6.1: make assays for identifying antibodies to known sars-like viruses",
+    "span": [
+      300,
+      375
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-9b60e66babaceb4be46e35313ee79878",
+    "node_type": "evidence",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "WIV was involved in verifying assays on rabbits and blood samples from people who had SARS-1",
+    "quote": "Tasks 6.2 and 6.3: verify assays on rabbits and blood samples from people who had SARS-1",
+    "span": [
+      379,
+      467
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-2128b8fc844b6b6c8ae30cdd92c00ebb",
+    "node_type": "evidence",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "WIV was involved in testing assays on people in Yunnan to look for sars-like spillover events",
+    "quote": "Task 6.4: test assays on people in Yunnan to look for sars-like spillover events",
+    "span": [
+      471,
+      551
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-6970185c7f6d9428382274a635ad01c9",
+    "node_type": "evidence",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "WIV was involved in testing viral vector vaccine on captive bats",
+    "quote": "Tasks 7.5 and 8.5: test viral 62 vector vaccine on captive bats",
+    "span": [
+      555,
+      618
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-fa52e1066da4c879fdec36f315b26e17",
+    "node_type": "evidence",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "WIV was involved in identifying cave features, surveilling bats, deploying vaccines or immune boosters to caves, and surveilling bats",
+    "quote": "Phase 2, tasks 5.1 through 5.4: Identify cave features; surveil bats; deploy vaccines or immune boosters to caves; surveil bats",
+    "span": [
+      622,
+      749
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-fc6c42ad6408c1a5b728a4624938ca01",
+    "node_type": "evidence",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "No genetic engineering would be performed at WIV",
+    "quote": "As far as I can see, no genetic engineering would be performed at WIV",
+    "span": [
+      750,
+      819
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-7ef209e2df477ba0eccba93ac4240ac0",
+    "node_type": "evidence",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "No chimeric viruses would be brought to WIV, except prototype vaccines which use a raccoonpox chimera",
+    "quote": "nor would any chimeric viruses be brought there, except prototype vaccines which use a raccoonpox chimera",
+    "span": [
+      821,
+      926
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-eb0d89fe441a4b9a5609239b87e94e13",
+    "node_type": "evidence",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "WIV was involved with samples collected from bats, tests on bats, tests on people who live near bats, and experiments in bat caves",
+    "quote": "WIV was to be involved with samples collected from bats, tests on bats, tests on people who live near bats, and experiments in bat caves",
+    "span": [
+      928,
+      1064
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-3d5a0b0ce3bcd644d5cb2587cdfd6c7d",
+    "node_type": "evidence",
+    "section_number": "5.4.3",
+    "chunk_id": "chunk-3f642681bf8e8f93ca3c82d95e95cd1c",
+    "node_text": "Two papers described laboratory work conducted at WIV, involving editing a backbone of WIV1, a sars-like coronavirus genome.",
+    "quote": "In response to written questions, Rootclaim [7] identified two papers that described relevant laboratory work conducted at WIV.",
+    "span": [
+      0,
+      127
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-249f24db952849cc871a8165cc8ac4f3",
+    "node_type": "evidence",
+    "section_number": "5.4.3",
+    "chunk_id": "chunk-3f642681bf8e8f93ca3c82d95e95cd1c",
+    "node_text": "WIV1 was chosen for its lack of 'pandemic potential', and thus presumably safer to work with than a pathogenic virus.",
+    "quote": "a specific sars-like coronavirus genome chosen for its lack of 'pandemic potential', and thus presumably safer to work with than a pathogenic virus.",
+    "span": [
+      188,
+      336
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9865,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-9b9140ab0706ada07c8deb50d2a166c0",
+    "node_type": "evidence",
+    "section_number": "5.4.3",
+    "chunk_id": "chunk-3f642681bf8e8f93ca3c82d95e95cd1c",
+    "node_text": "Researchers edited WIV1 by replacing its spike protein with spike proteins found in viruses collected from bats in Yunnan.",
+    "quote": "In one project, they edited WIV1 by replacing its spike protein with spike proteins found in viruses collected from bats in Yunnan [19].",
+    "span": [
+      337,
+      473
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-355835c349ee73c72e17b4660dc90931",
+    "node_type": "evidence",
+    "section_number": "5.4.3",
+    "chunk_id": "chunk-3f642681bf8e8f93ca3c82d95e95cd1c",
+    "node_text": "Human and monkey cells were exposed to the recombinant viruses to determine its infectivity.",
+    "quote": "Human and monkey cells were then exposed to the recombinant viruses to determine its infectivity.",
+    "span": [
+      474,
+      571
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-f580d54d7371c11c7b8f876b263b20a2",
+    "node_type": "evidence",
+    "section_number": "5.4.3",
+    "chunk_id": "chunk-3f642681bf8e8f93ca3c82d95e95cd1c",
+    "node_text": "Researchers removed a gene in WIV1 that is absent in sars-cov-1 to see if the virus would still work in human and monkey cells.",
+    "quote": "In another project, they removed a gene in WIV1 that is absent in sars-cov-1 to see if the virus would still work in human and monkey cells [37].",
+    "span": [
+      572,
+      717
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-1f46a1a1a9dafaf138d1657166a7d67b",
+    "node_type": "evidence",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "The proposal discusses adding cleavage sites in general, including furin cleavage sites by name.",
+    "quote": "but it does discuss adding cleavage sites in general shortly after referring to furin cleavage sites by name.",
+    "span": [
+      85,
+      194
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-5132ce0fbce69dd7ecb50f4c0c2f09d6",
+    "node_type": "evidence",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "Most genetic modification involved using backbones from known, pre-existing viruses.",
+    "quote": "Most, but not all, of the genetic modification involved using backbones from known, pre-existing viruses.",
+    "span": [
+      195,
+      300
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9905,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-7e9c39e3f909d0190439788b825b74d5",
+    "node_type": "evidence",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "All editing was to be done by directly altering sequences, not by passaging through humanized mice or other organisms.",
+    "quote": "all editing was to be done by directly altering sequences, not by passaging through humanized mice or other organisms.",
+    "span": [
+      391,
+      509
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-c10fafebb01625d7b87010d6c6559b32",
+    "node_type": "evidence",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "Viruses would be used in vivo only for testing pathogenecity.",
+    "quote": "Viruses would be used in vivo only for testing pathogenecity.",
+    "span": [
+      510,
+      571
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-76d7fe38593080ffb63ff539c7499b13",
+    "node_type": "evidence",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "The proposal would screen for wild viruses with high affinity towards human ACE2.",
+    "quote": "The proposal does specifically say it would screen for wild viruses with high affinity towards human ACE2.",
+    "span": [
+      572,
+      678
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-01f03512460fe6abadcc6e52b9d078e3",
+    "node_type": "evidence",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "Features distinct in SARS-CoV-2 were previously known or suspected to be important to human coronaviruses.",
+    "quote": "However these features were previously known or suspected to be important to human coronaviruses,",
+    "span": [
+      808,
+      905
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "evidence-f3c4b622ad4ab99f4e7e1f090768b0de",
+    "node_type": "evidence",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "The community of virologists was broadly interested in making chimeric viruses with certain features that have the potential for lab leak risk if handled improperly.",
+    "quote": "Project DEFUSE is most relevant in that it shows that the community of virologists was broadly interested in making chimeric viruses with certain features which have the potential for lab leak risk if handled improperly,",
+    "span": [
+      1028,
+      1248
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  }
+]

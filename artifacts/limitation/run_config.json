@@ -1,0 +1,25 @@
+{
+  "node_type": "limitation",
+  "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+  "prompt_version": "epistemic-nodes-v1",
+  "fuzzy_threshold": 0.9,
+  "sections": [
+    "7",
+    "7.1",
+    "7.2",
+    "7.3",
+    "7.4",
+    "7.5",
+    "7.6",
+    "5.4",
+    "5.4.1",
+    "5.4.2",
+    "5.4.3",
+    "5.4.4"
+  ],
+  "extraction_unit": "section",
+  "max_tokens_budget": 200000,
+  "generated": "2026-07-16T21:34:07",
+  "reproduce": "python scripts/extract_epistemic_nodes.py --node-type limitation --sections 7,7.1,7.2,7.3,7.4,7.5,7.6,5.4,5.4.1,5.4.2,5.4.3,5.4.4 --threshold 0.9",
+  "note": "Quotes are resolved deterministically after LLM extraction. The model is never asked for offsets. Span values are chunk-relative [start, end)."
+}

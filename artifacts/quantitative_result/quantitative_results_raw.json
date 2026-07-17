@@ -1,0 +1,416 @@
+[
+  {
+    "section_number": "7",
+    "node_type": "quantitative_result",
+    "node_text": "P(Z) and P(LL) as annual risk",
+    "quote": "to estimate the priors P (Z) and P (LL). These numbers will be given as annual risk, so can also be interpretted as the yearly rate at which pandemics emerge from those sources."
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "quantitative_result",
+    "node_text": "1 million people in southeast Asia are exposed to bat coronaviruses each year",
+    "quote": "more than 1 million people in southeast asia are exposed to bat coronaviruses each year"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "quantitative_result",
+    "node_text": "13% of animal traders in Guangdong had antibodies to SARS-1",
+    "quote": "13% animal traders in Guangdong, where SARS-1 was discovered, had antibodies to SARS-1"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "quantitative_result",
+    "node_text": "73% of palm civet traders had antibodies to SARS-1",
+    "quote": "the subgroup with highest incidence was palm civet traders, at 73% (16 out of 22)"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "quantitative_result",
+    "node_text": "1-3% of control groups had antibodies to SARS-1",
+    "quote": "compared to 1-3% in control groups"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "quantitative_result",
+    "node_text": "200 estimated spillover events of MERS",
+    "quote": "I infer the paper as implying an estimated 200 spillover events"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "quantitative_result",
+    "node_text": "1.5 novel coronaviruses per 21 years",
+    "quote": "this would give a rate of 1.5 per 21 years"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "quantitative_result",
+    "node_text": "1 novel coronavirus per 14 years",
+    "quote": "or 1 per 14 years"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "quantitative_result",
+    "node_text": "1 novel coronavirus per 20 years",
+    "quote": "we get an overall rate of 1 per 20 years"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "quantitative_result",
+    "node_text": "1/4 chance of a sars-like virus causing a pandemic",
+    "quote": "we get a (0 + 1)/(2 + 2) = 1/4 chance"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "quantitative_result",
+    "node_text": "1/2 factor to account for the uniqueness of sars-cov-2",
+    "quote": "On this basis I will add another factor of 1/2"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "quantitative_result",
+    "node_text": "1/50 probability of HSM being the source of a new sars-like virus emergence",
+    "quote": "Conditioned on the emergence being a wildlife market in east Asia, Peter gives the probability of HSM as 1 /50"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "quantitative_result",
+    "node_text": "1/500 probability of HSM being the source of a new sars-like virus emergence",
+    "quote": "Saar gives it as 1 /500"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "quantitative_result",
+    "node_text": "1/200 assessed probability of HSM being the source of a new sars-like virus emergence",
+    "quote": "In toto I will assess this as 1 /200"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "quantitative_result",
+    "node_text": "50% chance of spillover being in China",
+    "quote": "suppose there is a 50% chance spillover is in China"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "quantitative_result",
+    "node_text": "50% chance of spillover being in one of the 10 largest cities in China",
+    "quote": "conditional 50% chance in one of the 10 largest cities in China"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "quantitative_result",
+    "node_text": "20% of relevant wild animal contact in Wuhan takes place at HSM",
+    "quote": "and 20% of the relevant wild animal contact in Wuhan takes place at HSM"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "quantitative_result",
+    "node_text": "15% to 30% chance of spillover being in HSM conditioned on it being in Wuhan",
+    "quote": "Note that Rootclaim gives a figure of 15% to 30% chance of the spillover being in HSM conditioned on it being in Wuhan"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "quantitative_result",
+    "node_text": "P(Z) = 1/32000",
+    "quote": "which is to say that HSM should produce a pandemic akin to sars-cov-2 every 32000 years"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "quantitative_result",
+    "node_text": "1/50 (annualized probability of WIV conducting GoF research)",
+    "quote": "WIV conducts GoF research a la \"DEFUSE\" 1/50"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "quantitative_result",
+    "node_text": "1/1.7 (annualized probability of the first lab leak occurring)",
+    "quote": "after 1.7 years the annualized probability of the first lab leak occurring is at most 1 per 1.7 years"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "quantitative_result",
+    "node_text": "1/2 (probability of WIV using a suitable starting virus)",
+    "quote": "WIV uses suitable starting virus 1/2"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "quantitative_result",
+    "node_text": "1/2 (probability of WIV research being successful)",
+    "quote": "WIV research is successful 1/2"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "quantitative_result",
+    "node_text": "1/50 (probability of a lab leak of the virus occurring at WIV)",
+    "quote": "lab leak of that virus occurs at WIV 1/50"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "quantitative_result",
+    "node_text": "1/8 (arguable probability of a sufficiently dangerous virus existing)",
+    "quote": "Arguably the latter is the same factor of 1 /8 as fromZ"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "quantitative_result",
+    "node_text": "1/2 (weakened probability of a sufficiently dangerous virus existing, considering GoF research)",
+    "quote": "but I have weakened this to 1/2 as GoF research lowers how dangerous the starting point would need to be"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "quantitative_result",
+    "node_text": "1/50 (upper bound for the probability of a lab leak)",
+    "quote": "I cannot put the probability above 1 /50"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "quantitative_result",
+    "node_text": "1/17000 (estimated probability of P(LL))",
+    "quote": "P (LL) = 1 50· 1 1.7· 1 2· 1 2· 1 50 = 1 17000"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "quantitative_result",
+    "node_text": "2 (Bayes factor P(LL)/P(Z))",
+    "quote": "My intuition is that the Bayes factor P (LL)/P (Z) = 2 I calculated is grossly too high"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "quantitative_result",
+    "node_text": "3.5 years (planned duration of Project DEFUSE)",
+    "quote": "the project was planned to last 3.5 years"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "quantitative_result",
+    "node_text": "128 (number of sick people in Wuhan that might lead to a cluster at HSM, according to Rootclaim)",
+    "quote": "Rootclaim does not quantify the risk of a outbreak of covid at the lab origin, and suggests that 128 sick people in Wuhan might lead only to a cluster at HSM"
+  },
+  {
+    "section_number": "7.3",
+    "node_type": "quantitative_result",
+    "node_text": "P(H|Z) = 1",
+    "quote": "P (H|Z) = 1"
+  },
+  {
+    "section_number": "7.3",
+    "node_type": "quantitative_result",
+    "node_text": "P(H|LL) = 1 / 1.2·10^7",
+    "quote": "P (H|LL) = 1 / 1.2· 107"
+  },
+  {
+    "section_number": "7.3",
+    "node_type": "quantitative_result",
+    "node_text": "Bayes factor = 1 / 20000",
+    "quote": "for a Bayes factor of 1 /20000"
+  },
+  {
+    "section_number": "7.3",
+    "node_type": "quantitative_result",
+    "node_text": "extra factor for LL = 2",
+    "quote": "I will give LL an extra factor of 2"
+  },
+  {
+    "section_number": "7.4",
+    "node_type": "quantitative_result",
+    "node_text": "15 shops were sampled 10 or more times",
+    "quote": "Of the 15 shops which were sampled 10 or more times"
+  },
+  {
+    "section_number": "7.4",
+    "node_type": "quantitative_result",
+    "node_text": "12 shops had no positives",
+    "quote": "12 had no positives"
+  },
+  {
+    "section_number": "7.4",
+    "node_type": "quantitative_result",
+    "node_text": "3 shops had one positive",
+    "quote": "3 had one positive"
+  },
+  {
+    "section_number": "7.4",
+    "node_type": "quantitative_result",
+    "node_text": "shop 6:29 had 5 positives",
+    "quote": "and shop 6:29 had the other 5 positives"
+  },
+  {
+    "section_number": "7.4",
+    "node_type": "quantitative_result",
+    "node_text": "Bayes factor of 15 in favor of Z",
+    "quote": "this observation has a Bayes factor of 15 in favor of Z"
+  },
+  {
+    "section_number": "7.5",
+    "node_type": "quantitative_result",
+    "node_text": "12 nucleotide insert",
+    "quote": "the strange 12 nucleotide insert creating"
+  },
+  {
+    "section_number": "7.5",
+    "node_type": "quantitative_result",
+    "node_text": "Bayes factor of 20 for the furin cleavage site",
+    "quote": "I give these Bayes factors of 20 and 2 respectively"
+  },
+  {
+    "section_number": "7.5",
+    "node_type": "quantitative_result",
+    "node_text": "Bayes factor of 2 for the affinity of sars-cov-2 to bind to human ACE2",
+    "quote": "I give these Bayes factors of 20 and 2 respectively"
+  },
+  {
+    "section_number": "7.5",
+    "node_type": "quantitative_result",
+    "node_text": "maximum Bayes factor of 14 due to 14 species in the study",
+    "quote": "the latter cannot go above 14 as that was the number of species in the study"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "quantitative_result",
+    "node_text": "Bayes factor of -9.2 for outbreak at HSM",
+    "quote": "outbreak at HSM 1/10000 -9.2"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "quantitative_result",
+    "node_text": "Bayes factor of 3 for 12 nct insert at FCS",
+    "quote": "12 nct insert at FCS 20 3"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "quantitative_result",
+    "node_text": "Bayes factor of 0.69 for ACE2 affinity",
+    "quote": "ACE2 affinity 2 0 .69"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "quantitative_result",
+    "node_text": "Bayes factor of -2.3 for secret doesn't leak",
+    "quote": "secret doesn't leak 1/10 -2.3"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "quantitative_result",
+    "node_text": "Total Bayes log-odds of -7.19",
+    "quote": "total 0.001255 -7.19"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "quantitative_result",
+    "node_text": "Conditional probability of P(LL|O) = 0.07529%",
+    "quote": "which gives a conditional probability of P (LL|O) = 0.07529%"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "quantitative_result",
+    "node_text": "Prior probability of 1.88235",
+    "quote": "prior 1.88235 0 .63"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "quantitative_result",
+    "node_text": "Probability of lab leak of 1 in 1300",
+    "quote": "Do I believe the probability of a lab leak is only 1 in 1300?"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "quantitative_result",
+    "node_text": "Bayes factor of 1/10 for secret doesn't leak after conservative adjustment",
+    "quote": "and arguably an essential 'step' in the lab leak theory. 72 One piece of evidence I excluded was the distribution of positive environmental samples within HSM. ...  I gave it 1 / 64 before conservatively adjusting the Bayes factor to 1 / 10"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "quantitative_result",
+    "node_text": "Original Bayes factor of 1/64 for secret doesn't leak",
+    "quote": "I gave it 1 / 64 before conservatively adjusting the Bayes factor to 1 / 10"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "quantitative_result",
+    "node_text": "Bayes factor of 1 for CGGCGG, no known intermediate animal host, and 'adjust for BSL-2'",
+    "quote": "none of which I think are distinguishable from a Bayes factor of 1"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "quantitative_result",
+    "node_text": "Bayes factor of 2 as threshold for significant evidence",
+    "quote": "Looking through the Bayesian calculation presented by Rootclaim, the remaining pieces of evidence they give a Bayes factor larger than 2"
+  },
+  {
+    "section_number": "5.4",
+    "node_type": "quantitative_result",
+    "node_text": "14 million dollars",
+    "quote": "$14 million"
+  },
+  {
+    "section_number": "5.4",
+    "node_type": "quantitative_result",
+    "node_text": "3.5 years",
+    "quote": "a 3.5 year project"
+  },
+  {
+    "section_number": "5.4",
+    "node_type": "quantitative_result",
+    "node_text": "5 other groups",
+    "quote": "in collaboration with 5 other groups"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "quantitative_result",
+    "node_text": "88% S-protein identity to epidemic SARS-Urbani61",
+    "quote": "88% and 97% S-protein identity to epidemic SARS-Urbani61"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "quantitative_result",
+    "node_text": "97% S-protein identity to epidemic SARS-Urbani61",
+    "quote": "88% and 97% S-protein identity to epidemic SARS-Urbani61"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "quantitative_result",
+    "node_text": "46 years old",
+    "quote": "He died of SARS-1 at age 46"
+  },
+  {
+    "section_number": "5.4.2",
+    "node_type": "quantitative_result",
+    "node_text": "61 tasks",
+    "quote": "a detailed breakdown of the planned activities into 61 tasks"
+  },
+  {
+    "section_number": "5.4.2",
+    "node_type": "quantitative_result",
+    "node_text": "2 tasks (3.1 and 3.2)",
+    "quote": "Phase 1, tasks 3.1 and 3.2: Screen bat samples for sars-like viruses and sequence spike proteins"
+  },
+  {
+    "section_number": "5.4.2",
+    "node_type": "quantitative_result",
+    "node_text": "2 tasks (6.2 and 6.3)",
+    "quote": "Tasks 6.2 and 6.3: verify assays on rabbits and blood samples from people who had SARS-1"
+  },
+  {
+    "section_number": "5.4.2",
+    "node_type": "quantitative_result",
+    "node_text": "2 tasks (7.5 and 8.5)",
+    "quote": "Tasks 7.5 and 8.5: test viral 62 vector vaccine on captive bats"
+  },
+  {
+    "section_number": "5.4.2",
+    "node_type": "quantitative_result",
+    "node_text": "4 tasks (5.1 through 5.4)",
+    "quote": "Phase 2, tasks 5.1 through 5.4: Identify cave features; surveil bats; deploy vaccines or immune boosters to caves; surveil bats"
+  },
+  {
+    "section_number": "5.4.3",
+    "node_type": "quantitative_result",
+    "node_text": "2 papers described relevant laboratory work conducted at WIV",
+    "quote": "In response to written questions, Rootclaim [7] identified two papers that described relevant laboratory work conducted at WIV"
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "quantitative_result",
+    "node_text": "most, but not all, of the genetic modification involved using backbones from known, pre-existing viruses",
+    "quote": "Most, but not all, of the genetic modification involved using backbones from known, pre-existing viruses"
+  }
+]

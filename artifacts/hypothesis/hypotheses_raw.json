@@ -1,0 +1,284 @@
+[
+  {
+    "section_number": "7",
+    "node_type": "hypothesis",
+    "node_text": "COVID-19 emerged from a zoonotic spillover in HSM",
+    "quote": "LetZ be the hypothesis that covid emerged from a zoonotic spillover in HSM"
+  },
+  {
+    "section_number": "7",
+    "node_type": "hypothesis",
+    "node_text": "COVID-19 resulted from gain-of-function research in WIV",
+    "quote": "LL that covid resulted from gain-of-function research in WIV"
+  },
+  {
+    "section_number": "7",
+    "node_type": "hypothesis",
+    "node_text": "COVID-19 emerged from a zoonotic spillover anywhere in Wuhan",
+    "quote": "they believe the observational evidence is equally consistent with zoonotic spillover anywhere in Wuhan as in HSM"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "hypothesis",
+    "node_text": "The emergence of SARS-CoV-2 is due to a zoonotic spillover event from an animal population to humans.",
+    "quote": "Spillovers from animals to humans are rare, and when they happen they effectively sample a random virus from that continuum of viruses that exist in animals."
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "hypothesis",
+    "node_text": "The primary limitation on pandemics is not whether the animal-to-human transmission occurs but rather whether a virus with the necessary properties evolves in an animal population humans are exposed to.",
+    "quote": "Instead, it appears that (potential) spillover events are quite common, 64 and the primary limitation on pandemics is not whether the animal-to-human transmission occurs but rather whether a virus with the necessary properties evolves in an animal population humans are exposed to."
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "hypothesis",
+    "node_text": "The risk of pandemics has grown greatly on the timescale of decades, due to changes of land use, agricultural intensity, and population.",
+    "quote": "I believe the risk of pandemics has grown greatly on the timescale of decades, due to changes of land use, agricultural intensity, and population; consider the increasing size and frequency of Ebola outbreaks in the last 10 to 30 years."
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "hypothesis",
+    "node_text": "Not all sars-like viruses can cause a pandemic, with an estimated 1/4 chance of it happening based on SARS-CoV-1 and MERS.",
+    "quote": "Not all sars-like viruses can cause a pandemic. Estimating from sars-cov-1 and MERS we get a (0 + 1)/(2 + 2) = 1/4 chance (I forget the name of this correction method) of it happening;"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "hypothesis",
+    "node_text": "The Huanan Seafood Market (HSM) in Wuhan is a likely location for a pandemic spillover event, with an estimated 1/200 chance.",
+    "quote": "In toto I will assess this as 1 /200."
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "hypothesis",
+    "node_text": "The emergence of a new sars-like virus is more likely to occur in east Asia, particularly in areas with high wildlife biodiversity and land-use changes.",
+    "quote": "A large fraction of novel zoonotic diseases are expected to emerge in south or east asia; in addition to population density, other important factors are \"forested tropical regions experiencing land-use changes and where wildlife biodiversity (mammal species richness) is high\"."
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "hypothesis",
+    "node_text": "The SARS-CoV-2 virus originated from a lab leak at the Wuhan Institute of Virology (WIV) due to gain-of-function (GoF) research",
+    "quote": "WIV conducts GoF research a la \"DEFUSE\" 1/50"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "hypothesis",
+    "node_text": "The Project DEFUSE research plan is similar to the SARS-CoV-2 virus, but with discrepancies that make it inconsistent with a lab leak",
+    "quote": "The Project DEFUSE research plan [14, 20] looks eerily similar, in parts, to sars-cov-2"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "hypothesis",
+    "node_text": "The WIV had to undertake the contents of Project DEFUSE alone, without collaborators, and make significant changes to the original plan for a lab leak to occur",
+    "quote": "For LL to occur, WIV had to undertake the contents of Project DEFUSE alone without collaborators"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "hypothesis",
+    "node_text": "The probability of a lab leak at WIV is at most 1/50, considering the necessary conditions and precedents",
+    "quote": "I find the probability of all of this to be at most 1/50"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "hypothesis",
+    "node_text": "The annualized probability of a lab leak at WIV is at most 1 per 1.7 years, assuming a Poisson distribution",
+    "quote": "After 1.7 years the annualized probability of the first lab leak occurring is at most 1 per 1.7 years"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "hypothesis",
+    "node_text": "The SARS-CoV-2 virus originated from a zoonotic source, with a higher probability than a lab leak",
+    "quote": "While zoonotic pandemics are much more likely than GoF lab leak pandemics globally"
+  },
+  {
+    "section_number": "7.3",
+    "node_type": "hypothesis",
+    "node_text": "The index case is a resident in the west half of HSM",
+    "quote": "LetH be the observation that the index case is a resident in the west half of HSM"
+  },
+  {
+    "section_number": "7.3",
+    "node_type": "hypothesis",
+    "node_text": "The first significant covid cluster is centered among the residents in the west half of HSM",
+    "quote": "or, more precisely, that the first significant covid cluster is centered among the residents in the west half of HSM"
+  },
+  {
+    "section_number": "7.3",
+    "node_type": "hypothesis",
+    "node_text": "A market vendor is more likely to catch an illness than the average resident of Wuhan",
+    "quote": "As I do think a market vendor is more likely to catch an illness than the average resident of Wuhan"
+  },
+  {
+    "section_number": "7.3",
+    "node_type": "hypothesis",
+    "node_text": "The primary case and index case have the same number of transmissions regardless of the location",
+    "quote": "As per previous discussion, we are using a flat prior for the number of transmission between the primary case and index case"
+  },
+  {
+    "section_number": "7.4",
+    "node_type": "hypothesis",
+    "node_text": "The distribution of positive SARS-CoV-2 samples within HSM points to the region where live animals were kept, specifically shop 6:29, as a potential pandemic spillover location.",
+    "quote": "appears to generally point to the region where live animals were kept, or more specifically point to shop 6:29 which had been identified as a potential pandemic spillover location."
+  },
+  {
+    "section_number": "7.4",
+    "node_type": "hypothesis",
+    "node_text": "LL has no viable explanation for the coincidence of positive SARS-CoV-2 samples in shop 6:29.",
+    "quote": "LL has no viable explanation for this coincidence."
+  },
+  {
+    "section_number": "7.4",
+    "node_type": "hypothesis",
+    "node_text": "The observation of positive SARS-CoV-2 samples in shop 6:29 has a Bayes factor of 15 in favor of Z.",
+    "quote": "this observation has a Bayes factor of 15 in favor of Z,"
+  },
+  {
+    "section_number": "7.5",
+    "node_type": "hypothesis",
+    "node_text": "The strange 12 nucleotide insert creating a furin cleavage site is evidence of the origin of SARS-CoV-2",
+    "quote": "the strange 12 nucleotide insert creating a furin cleavage site"
+  },
+  {
+    "section_number": "7.5",
+    "node_type": "hypothesis",
+    "node_text": "The strong affinity of SARS-CoV-2 to bind to human ACE2 over other species is evidence of its origin",
+    "quote": "the strong affinity of sars-cov-2 to bind to human ACE2 over other species"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "hypothesis",
+    "node_text": "The COVID-19 pandemic originated from a lab leak.",
+    "quote": "the lab leak hypothesis"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "hypothesis",
+    "node_text": "The COVID-19 pandemic originated from zoonotic spillover.",
+    "quote": "the zoonotic hypothesis"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "hypothesis",
+    "node_text": "The Project DEFUSE proposal is evidence of a potential GoF lab leak.",
+    "quote": "Project DEFUSE is the only significant evidence suggesting the possibility of a GoF lab leak"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "hypothesis",
+    "node_text": "The COVID-19 pandemic started in the immediate vicinity of live animals susceptible to sars-like coronaviruses due to zoonotic spillover.",
+    "quote": "the physical evidence of the covid pandemic starting in the immediate vicinity of live animals susceptible to sars-like coronaviruses and the precedent of previous coronavirus epidemics starting in an analogous manner together point strongly in favor of the hypothesis of zoonotic spillover"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "hypothesis",
+    "node_text": "The lack of a known intermediate host for sars-cov-2 is an essential step to the zoonotic theory.",
+    "quote": "the lack of a known intermediate host for sars-cov-2 could be analogously considered an essential 'step' to the zoonotic theory"
+  },
+  {
+    "section_number": "5.4",
+    "node_type": "hypothesis",
+    "node_text": "Bat coronaviruses can be collected and tested to understand their potential to cause dangerous diseases.",
+    "quote": "Collect bat coronaviruses and perform computer and lab testing on them"
+  },
+  {
+    "section_number": "5.4",
+    "node_type": "hypothesis",
+    "node_text": "Vaccines and immune boosting agents can be deployed to wild bats to prevent the spread of dangerous diseases.",
+    "quote": "Deploy vaccines and immune boosting agents to wild bats"
+  },
+  {
+    "section_number": "5.4",
+    "node_type": "hypothesis",
+    "node_text": "An app can be developed to predict the likelihood of bats carrying dangerous diseases.",
+    "quote": "Write an app for soldiers to figure out how likely bats are to have dangerous diseases"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "hypothesis",
+    "node_text": "The SARSr-CoV S gene has the ability to bind human ACE2",
+    "quote": "We will analyze the S gene for its ability to bind human ACE2 by Biocore or virus entry assay"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "hypothesis",
+    "node_text": "Introduction of human-specific cleavage sites into SARSr-CoV S gene will affect virus replication and pathogenesis",
+    "quote": "We will introduce appropriate human-specific cleavage sites and evaluate growth potential in Vero cells and HAE cultures"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "hypothesis",
+    "node_text": "SARSr-CoV with mismatches in proteolytic cleavage sites can be activated by exogenous trypsin or cathepsin L",
+    "quote": "SARSr-CoV S with mismatches in proteolytic cleavage sites can be activated by exogenous trypsin or cathepsin L"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "hypothesis",
+    "node_text": "The presence of furin cleavage sites in SARSr-CoV S gene is associated with high risk",
+    "quote": "We will review deep sequence data for low abundant high risk SARSr-CoV that encode functional proteolytic cleavage sites"
+  },
+  {
+    "section_number": "5.4.2",
+    "node_type": "hypothesis",
+    "node_text": "The Wuhan Institute of Virology (WIV) would not have performed genetic engineering",
+    "quote": "As far as I can see, no genetic engineering would be performed at WIV"
+  },
+  {
+    "section_number": "5.4.2",
+    "node_type": "hypothesis",
+    "node_text": "Chimeric viruses would not be brought to WIV, except for prototype vaccines using a raccoonpox chimera",
+    "quote": "nor would any chimeric viruses be brought there, except prototype vaccines which use a raccoonpox chimera"
+  },
+  {
+    "section_number": "5.4.2",
+    "node_type": "hypothesis",
+    "node_text": "WIV's involvement would include working with samples collected from bats, tests on bats, tests on people who live near bats, and experiments in bat caves",
+    "quote": "WIV was to be involved with samples collected from bats, tests on bats, tests on people who live near bats, and experiments in bat caves"
+  },
+  {
+    "section_number": "5.4.3",
+    "node_type": "hypothesis",
+    "node_text": "The WIV1 coronavirus genome has no pandemic potential",
+    "quote": "a specific sars-like coronavirus genome chosen for its lack of 'pandemic potential'"
+  },
+  {
+    "section_number": "5.4.3",
+    "node_type": "hypothesis",
+    "node_text": "Replacing the spike protein of WIV1 with spike proteins from viruses collected from bats in Yunnan affects its infectivity",
+    "quote": "they edited WIV1 by replacing its spike protein with spike proteins found in viruses collected from bats in Yunnan [19]"
+  },
+  {
+    "section_number": "5.4.3",
+    "node_type": "hypothesis",
+    "node_text": "Removing a gene in WIV1 that is absent in sars-cov-1 affects the virus's ability to work in human and monkey cells",
+    "quote": "they removed a gene in WIV1 that is absent in sars-cov-1 to see if the virus would still work in human and monkey cells [37]"
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "hypothesis",
+    "node_text": "The Project DEFUSE proposal was a blueprint for building sars-cov-2",
+    "quote": "the proposal is hardly a blueprint for building sars-cov-2"
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "hypothesis",
+    "node_text": "The community of virologists was broadly interested in making chimeric viruses with certain features which have the potential for lab leak risk if handled improperly",
+    "quote": "Project DEFUSE is most relevant in that it shows that the community of virologists was broadly interested in making chimeric viruses with certain features which have the potential for lab leak risk if handled improperly"
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "hypothesis",
+    "node_text": "WIV planned to do a particular research path that would lead to creating sars-cov-2",
+    "quote": "and not that WIV in specific planned to do a particular research path that would lead to creating sars-cov-2"
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "hypothesis",
+    "node_text": "The proposal would add furin cleavage sites to viruses",
+    "quote": "The proposal does not explicitly state it would add furin cleavage sites to viruses"
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "hypothesis",
+    "node_text": "The proposal discusses in vivo genetic modification",
+    "quote": "The proposal does not, as far as I understand, discuss any in vivo genetic modification"
+  }
+]
