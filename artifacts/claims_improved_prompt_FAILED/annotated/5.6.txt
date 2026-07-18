@@ -1,0 +1,32 @@
+5.6  Leading proline
+
+⟦1⟧ The amino acids near the sars-cov-2 FCS are
+QTQTNSPRRARSVAS
+⟦2⟧ whereas the most closely related known virus banal-20-52 has
+QTQTNSRSVAS
+at this location. ⟦3⟧ The difference between these is PRRA.
+⟦4⟧ The RRAR subsequence constitutes an FCS, which explains why a laboratory worker might
+insert a sequence like RRA, but wherefore the proline P?
+⟦5⟧ I see no satisfying explanation for what might motivate the decision to include a proline
+at this location, ⟦6⟧ and it seems quite unlikely that the natural precursor virus happened to
+have such an inserted proline at the exact location that researchers add an additional insert.
+⟦7⟧ However we should not expect every decision someone makes to have an obvious post hoc
+explanation. ⟦8⟧ There are many arbitrary choices during the course of a genetic engineering
+experiment, ⟦9⟧ and it is hardly strange if a few of them are not the most canonical or optimal.
+⟦10⟧ I do not think the proline requires a specific explanation under the lab leak theory ⟦11*⟧ (and
+likewise the "out-of-frame" nature of the insert).
+
+Claims:
+⟦1⟧ The amino acids near the sars-cov-2 FCS are QTQTNSPRRARSVAS.
+⟦2⟧ The most closely related known virus banal-20-52 has QTQTNSRSVAS at this location.
+⟦3⟧ The difference between these is PRRA.
+⟦4⟧ The RRAR subsequence constitutes an FCS, which explains why a laboratory worker might insert a sequence like RRA.
+⟦5⟧ There is no satisfying explanation for what might motivate the decision to include a proline at this location.
+⟦6⟧ It seems quite unlikely that the natural precursor virus happened to have such an inserted proline at the exact location that researchers add an additional insert.
+⟦7⟧ We should not expect every decision someone makes to have an obvious post hoc explanation.
+⟦8⟧ There are many arbitrary choices during the course of a genetic engineering experiment.
+⟦9⟧ It is hardly strange if a few of them are not the most canonical or optimal.
+⟦10⟧ The proline does not require a specific explanation under the lab leak theory.
+⟦11*⟧ The out-of-frame nature of the insert does not require a specific explanation under the lab leak theory.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

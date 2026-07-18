@@ -163,6 +163,42 @@ def _try_json(s: str):
         return None
 
 
+# Matches "claim": "<claim>", "quote": "<quote>" } using the literal field
+# delimiters as anchors rather than requiring the surrounding response to be
+# valid JSON. Regex backtracking makes this safe against a stray unescaped
+# quote inside <claim>/<quote> (the model's most common JSON error -- it
+# quotes a phrase from the source text without escaping the inner marks,
+# which breaks json.loads and, since the bad character persists, every
+# {...}/[...] substring re-parse too): a "\"" that isn't immediately followed
+# by the next field's exact delimiter doesn't satisfy the pattern, so the
+# match keeps extending past it to the real field boundary instead of
+# terminating early.
+_PAIR_RE = re.compile(
+    r'"claim"\s*:\s*"(.*?)"\s*,\s*"quote"\s*:\s*"(.*?)"\s*\}',
+    re.DOTALL,
+)
+
+
+def _unescape_lenient(s: str) -> str:
+    """Undo the handful of JSON escapes the model actually uses, for text
+    captured by regex rather than a real JSON parser. Protecting "\\\\" first
+    keeps a literal backslash from being mistaken for the start of one of the
+    other escapes handled below."""
+    s = s.replace("\\\\", "\x00")
+    s = s.replace('\\"', '"').replace("\\n", "\n").replace("\\t", "\t")
+    return s.replace("\x00", "\\")
+
+
+def _regex_extract_pairs(text: str) -> list[dict]:
+    pairs = []
+    for m in _PAIR_RE.finditer(text):
+        claim = _unescape_lenient(m.group(1).strip())
+        quote = _unescape_lenient(m.group(2).strip())
+        if claim and quote:
+            pairs.append({"claim": claim, "quote": quote})
+    return pairs
+
+
 def parse_claims(text: str) -> tuple[list[dict], int]:
     """Tolerantly pull {claim, quote} pairs out of the model's response.
 
@@ -183,7 +219,10 @@ def parse_claims(text: str) -> tuple[list[dict], int]:
                 if data is not None:
                     break
     if data is None:
-        return [], 0
+        # Strict JSON parsing failed everywhere -- fall back to a structural
+        # match on the known claim/quote field pattern instead of dropping
+        # the whole response's claims silently.
+        return _regex_extract_pairs(t), 0
 
     if isinstance(data, dict):
         if isinstance(data.get("claims"), list):

@@ -1,0 +1,57 @@
+1.1.1  Huanan Seafood Market
+
+So; what is the significance of HSM? ⟦1⟧ HSM is a large urban market with at least 1200
+employees9 working in 680 shops, ⟦2⟧ located on the first story of a multistory building; while
+each avenue of stalls is roofed, the ends are not, and a major road divides the market into
+west and east halves. ⟦3⟧ The market sold a variety of goods, some of which included wild or
+exotic live animals. ⟦4⟧ At least some of the trade in animals was likely illegal. ⟦5⟧ While sars-cov-2
+originated in bats, ⟦6⟧ it is not known that any bats were sold in the market; any intermediate
+species between bats and humans are unknown. ⟦7⟧ The market did have live animals that
+were susceptible to sars-like coronaviruses and were imported from south China, ⟦8⟧ where the
+progenitor of sars-cov-2 is almost certainly found [12].
+⟦9⟧ Thus when multiple people who were employed at HSM became sick with a virus resembling
+sars-cov-1, it was natural to suspect the possibility of an animal host at the market being
+responsible; ⟦10⟧ indeed in early January, before there existed adequate capacity for testing for
+covid, having an epidemiological link to the market was one component of a diagnosis of
+covid.
+⟦11⟧ In the time from 2019 December 10, when the earliest known covid case, Wei Guixian,
+became ill, and the market closure on January 1, approximately 200 people are known 10 to
+7ie, "South China"
+8Being off-topic, I elsewhere refrain from giving my extremely vehement opinions about the extraordinary
+incompetence collectively demonstrated by industrialized western countries in the face of the initial covid
+outbreak, made all the more embarrassing by the fact that the WHO gave advance warning with explicit
+action items, and China was successful even without those. I think the US should take a hard look at how
+other countries handle certain issues and have the ambition to at least try to be a world leader; compare
+how the US has 80 km of high-speed rail (the Acela corridor) and plans to build another 192 km by 2033 (in
+California), whereas China has built 42000 km since 2008. While disease control is easier in an autocracy,
+I hasten to point out that New Zealand and Taiwan both successfully eliminated covid until omicron. Had
+the US the same death rate as New Zealand, Taiwan, Australia, Japan, or South Korea, about 1m of the
+estimated 1.2m US covid deaths would have been averted. There needs to be an accounting for the US's
+actions that asks why we let 1 million people die.
+9⟦12⟧ There are 1162 vendors according to [32] annex page 182, and presumably a variety of other full time
+employees as well.
+10You'd think that although we don't know how many people had covid in 2019 December, surely we'd
+know how many we know of. Alas not. This is the elusive "unknown known" of the Rumsfeld quadrafecta.
+Figure 1: Two photographs from the west half of HSM, showing the varying air circulation
+conditions within the market. The first image looks south along the main corridor from
+alley 13, the second is located within alley 9. These images were taken from http://
+babarlelephant.free-hoster.net/visiting-the-wuhan-seafood-market/ ; click on the
+yellow dot above the 13 and two to the left of the 9.
+have had onset of covid, ⟦13⟧ of which 62 or 63 were vendors at the market ⟦14⟧ and others had known
+epidemiological connections to it.
+
+Claims:
+⟦1⟧ HSM is a large urban market with at least 1200 employees working in 680 shops.
+⟦2⟧ The market is located on the first story of a multistory building, with each avenue of stalls roofed but the ends not, and a major road divides the market into west and east halves.
+⟦3⟧ The market sold a variety of goods, including wild or exotic live animals.
+⟦4⟧ At least some of the trade in animals at the market was likely illegal.
+⟦5⟧ Sars-cov-2 originated in bats.
+⟦6⟧ It is not known that any bats were sold in the market.
+⟦7⟧ The market had live animals that were susceptible to sars-like coronaviruses and were imported from south China.
+⟦8⟧ The progenitor of sars-cov-2 is almost certainly found in south China.
+⟦9⟧ When multiple people who were employed at HSM became sick with a virus resembling sars-cov-1, it was natural to suspect the possibility of an animal host at the market being responsible.
+⟦10⟧ Having an epidemiological link to the market was one component of a diagnosis of covid in early January, before there existed adequate capacity for testing for covid.
+⟦11⟧ The earliest known covid case, Wei Guixian, became ill on December 10, 2019.
+⟦12⟧ The market has 1162 vendors according to annex page 182 of reference [32].
+⟦13⟧ 62 or 63 of the people who had onset of covid were vendors at the market.
+⟦14⟧ Others who had onset of covid had known epidemiological connections to the market.

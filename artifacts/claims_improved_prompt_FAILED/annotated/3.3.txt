@@ -1,0 +1,81 @@
+3.3  Is Bayesian reasoning suited for this problem?
+
+Outside of simple toy problems that do not reflect the complexities of the real world, ⟦1⟧ Bayesian
+reasoning is best suited for dealing with a small number of strong but conflicting pieces of
+evidence. (Of course, if they were not conflicting, one wouldn't need to do any calculations
+at all.) ⟦2⟧ Each additional multiplicand introduces a great deal of error in the final result,
+both from the uncertainty of its value, but also from the potential sources of bias. ⟦3⟧ Including
+another factor of 2 has the potential to do more harm than good if you cannot be highly
+confident of controlling the error.
+⟦4*⟧ Ideally, one would assemble a list of evidence that is either canonical in some way, pre-
+registered (ie you decide which evidence to include before you know which hypothesis it
+favors), and/or extremely persuasive (has a large Bayes factor that is unlikely to arise from
+chance). ⟦5⟧ Most likely, any naively-computed Bayes factors would have to be renormalized
+towards 1 to account for the steel-manning of both hypotheses; as Saar correctly observed,
+⟦6⟧ if you have any Bayes factors of 1000 and you are not doing a physics experiment then your
+calculation is probably flawed. 27
+⟦7⟧ Rootclaim's mission is to improve upon brittle intuitive reasoning with the use of careful
+Bayesian calculations; certainly a worthy goal and worthwhile method. However I take issue
+with their labeling more traditional methods - what I would call deductive reasoning - as
+"human inference", as ⟦8⟧ the human component of the reasoning method has not been removed
+in their approach.
+⟦9⟧ During the debates I asked Saar ([2] at 1:17:55) if he could give some justification for why
+one expects Bayesian reasoning to give the right answer, either in general or for this specific
+application. ⟦10⟧ Part of justifying a method would be to identify the potential flaws of the
+method, so that one can know how to avoid them. ⟦11⟧ Certainly Rootclaim are no fools, and are
+aware of the importance of careful analysis; they make a point of how their conclusions are
+robust against the possibility that one or more of their observations have errors. ⟦12⟧ However
+their conclusions remain brittle against the possibility of small, consistent bias; ⟦13⟧ a factor of 2
+too generous applied to 20 observations yields million to one odds.
+⟦14⟧ The goal of my calculations at the beginning of this section is to serve as a partial answer
+to my question. By understanding the potential ways that the Bayesian calculation can
+reach a flawed answer from valid data, we can accomplish two goals: we can reject Bayesian
+27Say you make some real-world observation that appears to be a 1-in-1000 coincidence; what is the best
+explanation for that observation? The odds of a measurement error, or that you failed to understand the
+situation correctly, could easily be greater than 1-in-1000. If any particular observation carries a 95% chance
+that you fully understand it and have made no error, then the greatest Bayes factor you can get out of any
+single piece of evidence is 20.
+arguments that are vulnerable to these flaws, and gain confidence in Bayesian arguments
+that do not.
+To reduce errors in Bayesian reasoning, I suggest three (four) things:
+⟦15⟧ 1. Reduce one's bias. The best way to win more basketball games is to score more points
+- facile and useless advice, but true.
+⟦16⟧ 2. Focus on only the most extreme observations: it is harder to introduce a bias with 3
+factors of 100 each than 20 factors of 2 each. Of course, this requires having extreme
+observations available.
+⟦17⟧ 3. Alternatively, use some canonical or clearly unmotivated selection of evidence. Root-
+claim attempts to do this by using all the evidence, which certainly would be a canon-
+ical selection if it were possible; in practice I believe Rootclaim is aiming to include all
+the relevant evidence, which is much harder to do without human bias interfering.
+⟦18⟧ 4. Conservatively add a bias towards the zero point. ⟦19⟧ If the bias you deliberately add
+against your side is larger than whatever bias you inadvertently add towards your side,
+then your result will be conservative. ⟦20⟧ Rootclaim explicitly adds such a bias already.
+⟦21⟧ Rootclaim is certainly aware of the potential for errors in Bayesian reasoning, and already
+tries to follow most of my suggestions above. And perhaps I am not the right person to be
+giving advice here; I do not trust myself to use a Bayesian calculation akin to Rootclaim's
+for this application.
+
+Claims:
+⟦1⟧ Bayesian reasoning is best suited for dealing with a small number of strong but conflicting pieces of evidence.
+⟦2⟧ Each additional multiplicand introduces a great deal of error in the final result, both from the uncertainty of its value, but also from the potential sources of bias.
+⟦3⟧ Including another factor of 2 has the potential to do more harm than good if you cannot be highly confident of controlling the error.
+⟦4*⟧ Ideally, one would assemble a list of evidence that is either canonical in some way, pre-registered, and/or extremely persuasive.
+⟦5⟧ Most likely, any naively-computed Bayes factors would have to be renormalized towards 1 to account for the steel-manning of both hypotheses.
+⟦6⟧ If you have any Bayes factors of 1000 and you are not doing a physics experiment then your calculation is probably flawed.
+⟦7⟧ Rootclaim's mission is to improve upon brittle intuitive reasoning with the use of careful Bayesian calculations.
+⟦8⟧ The human component of the reasoning method has not been removed in Rootclaim's approach.
+⟦9⟧ Saar was asked if he could give some justification for why one expects Bayesian reasoning to give the right answer, either in general or for this specific application.
+⟦10⟧ Part of justifying a method would be to identify the potential flaws of the method, so that one can know how to avoid them.
+⟦11⟧ Rootclaim are aware of the importance of careful analysis.
+⟦12⟧ Rootclaim's conclusions remain brittle against the possibility of small, consistent bias.
+⟦13⟧ A factor of 2 too generous applied to 20 observations yields million to one odds.
+⟦14⟧ The goal of the calculations at the beginning of this section is to serve as a partial answer to the question of why one expects Bayesian reasoning to give the right answer.
+⟦15⟧ To reduce errors in Bayesian reasoning, one should reduce one's bias.
+⟦16⟧ To reduce errors in Bayesian reasoning, one should focus on only the most extreme observations.
+⟦17⟧ To reduce errors in Bayesian reasoning, one should use some canonical or clearly unmotivated selection of evidence.
+⟦18⟧ To reduce errors in Bayesian reasoning, one should conservatively add a bias towards the zero point.
+⟦19⟧ If the bias you deliberately add against your side is larger than whatever bias you inadvertently add towards your side, then your result will be conservative.
+⟦20⟧ Rootclaim explicitly adds a bias towards the zero point.
+⟦21⟧ Rootclaim is aware of the potential for errors in Bayesian reasoning, and already tries to follow most of the suggestions for reducing errors.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

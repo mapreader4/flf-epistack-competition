@@ -1,0 +1,39 @@
+5.5  ACE2 binding affinity
+
+⟦1⟧ Piplani et al [28] found in computer simulations that sars-cov-2 binds best to human ACE2
+receptors out of 14 species studied; ⟦2⟧ note that other studies found conflicting results.
+⟦3⟧ This is hard to explain under zoonotic theory, ⟦4⟧ as the sars-cov-2 sample used was from 2019,
+before significant evolution in human hosts should have happened. However, ⟦5⟧ the second
+highest affinity studied was pangolin ACE2, ⟦6⟧ which is similar to human ACE2; ⟦7⟧ if pangolins
+were an intermediate host, then sars-cov-2 could have adapted to pangolin ACE2 and thus
+partially to human ACE2.
+⟦8⟧ Under the lab leak theory, this observation is explained as a result of lab workers screening
+many different wild viruses to identify those that bind well to human ACE2, ⟦9⟧ and possible
+then passaging the virus through mouse hosts that have been genetically modified to have
+human ACE2 receptors. ⟦10⟧ While this may be a better explanation then the zoonotic theory,
+it is still not a great explanation. ⟦11⟧ This process requires screening a large pool of wild viruses
+to find one that happens to be well-adapted to humans already; ⟦12⟧ and presumably researchers
+are screening to find which one best binds to humans, indifferent to whether it binds better
+to humans than other animals. ⟦13⟧ Also, this screening process may use different simulations
+than Piplani et al used.
+⟦14⟧ A control is also required; maybe human ACE2, either in reality or in the simulation of
+Piplani et al, is just particularly good at binding to spike proteins?
+⟦15⟧ The high binding affinity found by Piplani et al appears to be weak circumstantial evidence
+in favor of the lab leak hypothesis.
+
+Claims:
+⟦1⟧ Piplani et al found that sars-cov-2 binds best to human ACE2 receptors out of 14 species studied
+⟦2⟧ Other studies found conflicting results regarding the binding affinity of sars-cov-2 to ACE2 receptors
+⟦3⟧ The high binding affinity of sars-cov-2 to human ACE2 receptors is hard to explain under zoonotic theory
+⟦4⟧ The sars-cov-2 sample used by Piplani et al was from 2019, before significant evolution in human hosts should have happened
+⟦5⟧ Pangolin ACE2 has the second highest affinity to sars-cov-2 among the species studied by Piplani et al
+⟦6⟧ Pangolin ACE2 is similar to human ACE2
+⟦7⟧ If pangolins were an intermediate host, sars-cov-2 could have adapted to pangolin ACE2 and thus partially to human ACE2
+⟦8⟧ Under the lab leak theory, the observation that sars-cov-2 binds well to human ACE2 receptors can be explained by lab workers screening many different wild viruses
+⟦9⟧ Lab workers may have passaged the virus through mouse hosts that have been genetically modified to have human ACE2 receptors
+⟦10⟧ The lab leak theory may be a better explanation for the observation than the zoonotic theory, but it is still not a great explanation
+⟦11⟧ The screening process for wild viruses that bind well to human ACE2 receptors requires screening a large pool of viruses
+⟦12⟧ Researchers are screening to find which virus best binds to humans, indifferent to whether it binds better to humans than other animals
+⟦13⟧ The screening process may use different simulations than Piplani et al used
+⟦14⟧ A control is required to determine whether human ACE2 is particularly good at binding to spike proteins
+⟦15⟧ The high binding affinity found by Piplani et al appears to be weak circumstantial evidence in favor of the lab leak hypothesis

@@ -1,0 +1,55 @@
+1.2.2  Furin cleavage site
+
+While most of the disagreements between sars-cov-2 and banal-20-52 and other bat coron-
+aviruses are point mutations, there is one important larger difference. ⟦1⟧ Recall that when the
+spike protein S binds to the ACE2 receptor on a human target cell, to facilitate fusion with
+the cell the spike protein must be cut into two subregions, called S1 and S2. ⟦2⟧ In sars-cov-2
+infections in humans, this cutting process is performed by the furin enzyme.
+⟦3⟧ Furin recognizes proteins with an amino acid sequence of the form RxxR or especially RRxR
+(here, "x" stands for any amino acid and R stands for arginine), cutting them; thus any such
+amino acid sequence is referred to as a furin cleavage site (FCS). ⟦4⟧ The proper functioning of
+sars-cov-2 therefore necessitates that the boundary between S1 and S2 is an FCS. Indeed:
+CAG ACT CAG ACT AAT TCT CCT CGG CGG GCA CGT AGT GTA GCT AGT
+Figure 5: Unrooted phylogenetic "tree" of early sars-cov-2 samples collected in Wuhan. Each
+circle represents a collection of samples with identical genome; the size of the circle is the
+number of samples, and the color(s) of the circle is the date of illness onset for those people.
+Bluer circles are earlier illnesses, and redder circles are later. The number of tick marks
+on a line indicates the number of nucleotides difference between two genomes. The left
+cluster are lineage B cases, and the right cluster are lineage A cases, with a few ambiguous
+cases in between. The middle arrow identifies the first known case, a Mr Chen with onset
+2019 December 8, although he may have become ill on December 12. (Technically this is a
+haplotype network, not a phylogenetic tree, in that it shows only the genetic similarity of
+different cases without any attempt to identify which are ancestral/related to each other.
+It is possible for distantly related samples to have similar genomes by chance, as the same
+mutations can arise more than once independently.) Figure from [32], page 79. See also page
+69 for a larger tree.
+Q T Q T N S P R R A R S V A S
+Shown is an excerpt from the nucleotide sequence and corresponding amino acid sequence
+for Wuhan-Hu-1, the reference genome for sars-cov-2, collected in 2019 December [25]. ⟦5⟧ The
+RRAR subsequence constitutes an FCS.
+⟦6⟧ While sars-cov-2 passes between humans primarily through respiratory droplets, ⟦7⟧ this is not
+the case for bat coronaviruses, which are spread through droppings and therefore must
+survive the gastrointestinal tract. ⟦8⟧ This creates a different life cycle for virus replication, and
+consequentially an FCS may be evolutionarily harmful. We can compare sars-cov-2 to the
+closest known wild virus banal-20-52 at this location ([3] at 35:30):
+CAG ACT CAa ACT AAT TCA CGT AGT GTg GCa AGT
+Q T Q T N S R S V A S
+⟦9*⟧ I have marked the three point mutations in this section with lower-case letters; each is syn-
+onymous. (⟦10⟧ There are about 1000 point mutations in the 30000 nucleotides.) ⟦11⟧ More notably,
+however, is that banal-20-52 is 12 nucleotides shorter here, as it is missing the sequence T
+CCT CGG CGG GC .14
+
+Claims:
+⟦1⟧ The spike protein S of sars-cov-2 must be cut into two subregions, called S1 and S2, to facilitate fusion with a human target cell.
+⟦2⟧ The cutting process of the spike protein S of sars-cov-2 is performed by the furin enzyme.
+⟦3⟧ Furin recognizes proteins with an amino acid sequence of the form RxxR or especially RRxR.
+⟦4⟧ The boundary between S1 and S2 of the spike protein S of sars-cov-2 is a furin cleavage site (FCS).
+⟦5⟧ The RRAR subsequence in the amino acid sequence of Wuhan-Hu-1 constitutes an FCS.
+⟦6⟧ Sars-cov-2 is primarily spread between humans through respiratory droplets.
+⟦7⟧ Bat coronaviruses are spread through droppings and must survive the gastrointestinal tract.
+⟦8⟧ An FCS may be evolutionarily harmful for bat coronaviruses due to their different life cycle for virus replication.
+⟦9*⟧ The three point mutations in the sequence of banal-20-52 are synonymous.
+⟦10⟧ There are about 1000 point mutations in the 30000 nucleotides of the sars-cov-2 genome.
+⟦11⟧ Banal-20-52 has a 12-nucleotide shorter sequence than sars-cov-2 at a specific location.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

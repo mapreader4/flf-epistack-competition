@@ -1,0 +1,31 @@
+B.2  Map of HSM, west half
+
+⟦1⟧ I have only found one map of HSM which labels the individual stalls; I have included the
+west half in figure 12.
+⟦2⟧ Shown in figure 12 is the west half of the HSM market. ⟦3⟧ The market is organized into streets or
+alleys which are numbered 1 to 15; ⟦4⟧ each alley has many individual shops. Here the numbers
+are given on a regular grid, ⟦5⟧ but in the WHO report some shops span multiple grid cells, and
+thus presumably have multiple numbers. ⟦6⟧ I have used the locations of cases as marked on the
+WHO map and compared those locations with this map to identify the stall numbers of those
+cases; ⟦7⟧ the results were in quite good agreement with other sources that reported early cases
+by stall numbers. ⟦8⟧ I think this map is erroneous in prefixing an 'X' on stall numbers in alley
+13. ⟦9⟧ I think this map is not to scale. ⟦10⟧ Orange-red shading are locations with environmental
+samples positive for covid; ⟦11⟧ sky blue for those with environmental samples which were all
+negative. ⟦12⟧ Unshaded locations had no environmental samples. ⟦13⟧ This is taken from figure S1B
+of [12].
+Figure 12: See text of section B.2.
+
+Claims:
+⟦1⟧ The author has only found one map of Huanan Seafood Market (HSM) which labels the individual stalls.
+⟦2⟧ The west half of the HSM market is shown in figure 12.
+⟦3⟧ The HSM market is organized into streets or alleys which are numbered 1 to 15.
+⟦4⟧ Each alley in the HSM market has many individual shops.
+⟦5⟧ In the WHO report, some shops in the HSM market span multiple grid cells and thus presumably have multiple numbers.
+⟦6⟧ The author used the locations of cases as marked on the WHO map and compared those locations with the map in figure 12 to identify the stall numbers of those cases.
+⟦7⟧ The results of the author's comparison of the WHO map and the map in figure 12 were in quite good agreement with other sources that reported early cases by stall numbers.
+⟦8⟧ The author thinks that the map in figure 12 is erroneous in prefixing an 'X' on stall numbers in alley 13.
+⟦9⟧ The author thinks that the map in figure 12 is not to scale.
+⟦10⟧ Orange-red shading on the map in figure 12 indicates locations with environmental samples positive for COVID-19.
+⟦11⟧ Sky blue shading on the map in figure 12 indicates locations with environmental samples which were all negative for COVID-19.
+⟦12⟧ Unshaded locations on the map in figure 12 had no environmental samples.
+⟦13⟧ The map in figure 12 is taken from figure S1B of reference [12].

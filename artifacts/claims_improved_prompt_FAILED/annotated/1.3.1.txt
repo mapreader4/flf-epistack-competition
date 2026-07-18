@@ -1,0 +1,36 @@
+1.3.1  About this document
+
+⟦1⟧ My foremost goal in this document is to give the best possible account for the origins of covid
+as I understand them, ⟦2⟧ and only incidentally explain how I reached my decision. Therefore,
+⟦3⟧ to avoid leaving glaring holes in explanatory passages, I have occasionally looked up minor
+details, eg to fill out the background section or section B; ⟦4⟧ in so far as possible I have restricted
+myself to sources directly cited by the debate parties, ⟦5⟧ though I may have inadvertently used
+a few indirect citations. ⟦6⟧ Most of this information had no bearing on the decision; ⟦7⟧ the one
+piece of information I found that did was relegated to appendix C.
+⟦8⟧ In section 7 I present an uncomfortably quantitative analysis of the two conflicting theories
+⟦9⟧ and my affirmative conclusion for which is more likely based on the information from the
+debate. ⟦10⟧ However it felt unsatisfying to say why I believed the arguments for one theory
+without also saying why I failed to be persuaded by the arguments against it. ⟦11⟧ The majority
+of this document, particularly sections 3.1, 3.2, 4.5, and A, contains detailed criticisms of
+arguments presented by Rootclaim, ⟦12⟧ identifying where I believe those arguments to be flawed.
+⟦13⟧ These refutational passages are not part of my affirmative conclusion, ⟦14⟧ so I have taken greater
+liberty in the use of complicated models or analysis. ⟦15⟧ For the affirmative analysis I have
+eschewed such complexities: best to keep it simple and pay a small price in accuracy rather
+than risk large model error.
+
+Claims:
+⟦1⟧ The author's foremost goal in this document is to give the best possible account for the origins of COVID-19 as they understand them.
+⟦2⟧ The author's goal is only incidentally to explain how they reached their decision.
+⟦3⟧ The author has occasionally looked up minor details to fill out the background section or section B.
+⟦4⟧ The author has restricted themselves to sources directly cited by the debate parties as much as possible.
+⟦5⟧ The author may have inadvertently used a few indirect citations.
+⟦6⟧ Most of the information the author found had no bearing on the decision.
+⟦7⟧ The one piece of information the author found that did have a bearing on the decision was relegated to appendix C.
+⟦8⟧ The author presents a quantitative analysis of the two conflicting theories in section 7.
+⟦9⟧ The author presents their affirmative conclusion for which theory is more likely based on the information from the debate in section 7.
+⟦10⟧ The author felt it was unsatisfying to say why they believed the arguments for one theory without also saying why they failed to be persuaded by the arguments against it.
+⟦11⟧ The majority of the document, particularly sections 3.1, 3.2, 4.5, and A, contains detailed criticisms of arguments presented by Rootclaim.
+⟦12⟧ The author identifies where they believe the arguments presented by Rootclaim are flawed.
+⟦13⟧ The refutational passages are not part of the author's affirmative conclusion.
+⟦14⟧ The author has taken greater liberty in the use of complicated models or analysis in the refutational passages.
+⟦15⟧ The author has eschewed complexities in the affirmative analysis to keep it simple and pay a small price in accuracy rather than risk large model error.
