@@ -1,0 +1,6 @@
+{"node_id": "C1", "strength": 0.5, "base": 0.5, "va": 0.0, "vs": 0.0, "in_supporters": [], "in_attackers": [], "scc_id": 2, "iterations": 1}
+{"node_id": "C2", "strength": 0.5, "base": 0.5, "va": 0.0, "vs": 0.0, "in_supporters": [], "in_attackers": [], "scc_id": 3, "iterations": 1}
+{"node_id": "C3", "strength": 0.5, "base": 0.5, "va": 0.0, "vs": 0.0, "in_supporters": [], "in_attackers": [], "scc_id": 4, "iterations": 1}
+{"node_id": "C4", "strength": 0.5, "base": 0.5, "va": 0.5, "vs": 0.5, "in_supporters": ["card-1"], "in_attackers": ["card-2"], "scc_id": 1, "iterations": 1}
+{"node_id": "C5", "strength": 0.675, "base": 0.5, "va": 0.15, "vs": 0.5, "in_supporters": ["card-3"], "in_attackers": ["card-4"], "scc_id": 0, "iterations": 1}
+{"node_id": "C6", "strength": 0.5, "base": 0.5, "va": 0.0, "vs": 0.0, "in_supporters": [], "in_attackers": [], "scc_id": 5, "iterations": 1}

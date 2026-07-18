@@ -1,0 +1,4 @@
+{"card_id": "card-1", "kind": "RA", "weight": 1.0, "premises": ["C1"], "target": "C4", "active": true, "provenance": {"relation_label": "support", "note": "trial result -> reliability"}, "tier": "T3"}
+{"card_id": "card-2", "kind": "CA", "weight": 1.0, "premises": ["C2", "C3"], "target": "C4", "active": true, "provenance": {"relation_label": "attack", "note": "JOINT: funding bias + industry pattern -> unreliable"}, "tier": "T3"}
+{"card_id": "card-3", "kind": "RA", "weight": 1.0, "premises": ["C4"], "target": "C5", "active": true, "provenance": {"relation_label": "support", "note": "reliable -> effective"}, "tier": "T3"}
+{"card_id": "card-4", "kind": "CA", "weight": 0.3, "premises": ["C6"], "target": "C5", "active": true, "provenance": {"relation_label": "attack", "note": "second trial contradicts"}, "tier": "T3"}
