@@ -1,0 +1,33 @@
+5.3  CGGCGG
+
+Much attention has been drawn to the sars-cov-2 FCS, shown below as found in the Wuhan-
+Hu-1 reference sample [25]:
+CAG ACT CAG ACT AAT TCT CCT CGG CGG GCA CGT AGT GTA GCT AGT
+Q T Q T N S P R R A R S V A S
+Recall the RRAR sequence is the FCS, with the putative insert relative to the closest known
+viruses being T CCT CGG CGG GC (or perhaps CCT CGG CGG GCA ).
+There are six different codons that code the arginine amino acid; in sars-cov-2 and similar
+viruses, ⟦1⟧ CGG is the rarest of the six possible encodings of arginine, at only 3-5%. ⟦2⟧ Rootclaim
+argues that this is evidence against a natural origin to the FCS, as it has two consecutive
+CGG codons.
+However, I would not expect a priori the codon frequency in an insert to match that of
+the surrounding genome, but rather to reflect the frequency of the source of the fragment;
+⟦3⟧ note that CGG is the most common encoding of arginine in humans, for example. ⟦4⟧ The main
+reason CGG is rare in sars-like viruses is that there is a mutational bias against the C and G
+nucleotides; ⟦5⟧ C is the rarest at 18.4% of nucleotides in Wuhan-Hu-1, followed by G at 19.6%,
+whereas A has 29.9% and T has 32.1% [25]. After a fragment from an outside source has
+been inserted, it takes time for this mutational bias to impact the novel fragment.
+Furthermore, if the fragment was inserted naturally, we do not know if the source had the
+same alignment, or even was a coding region at all. We would have to analyze the frequency
+of the non-aligned codons to properly assess the likelihood of the CGGCGG sequence from a
+natural source.
+⟦6⟧ I do not see any particular significance to the CGGCGG sequence. It is slightly odd, but one
+expects to observe many slightly odd things through random chance.
+
+Claims:
+⟦1⟧ The CGG codon is the rarest of the six possible encodings of arginine in SARS-CoV-2 and similar viruses, at only 3-5%.
+⟦2⟧ The presence of two consecutive CGG codons in the SARS-CoV-2 FCS is evidence against a natural origin to the FCS, according to Rootclaim.
+⟦3⟧ The CGG codon is the most common encoding of arginine in humans.
+⟦4⟧ There is a mutational bias against the C and G nucleotides in SARS-like viruses.
+⟦5⟧ The frequency of nucleotides in Wuhan-Hu-1 is 18.4% C, 19.6% G, 29.9% A, and 32.1% T.
+⟦6⟧ The judge does not see any particular significance to the CGGCGG sequence.

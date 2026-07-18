@@ -9,18 +9,19 @@ whitespace-destroying transformation happened in between:
     newlines, so a chunk's own text is no longer a literal substring of the
     section's raw text -- but the page a chunk lands on is looked up by finding
     the chunk's real start offset in that raw text.
-  - extract_claims.py: an LLM-returned "quote" is supposed to be verbatim, but
-    minor whitespace/hyphenation/footnote-splicing noise from PDF extraction
-    means straight substring search can still miss it.
+  - extraction-variants/extract_claims_original.py (and its siblings): an
+    LLM-returned "quote" is supposed to be verbatim, but minor
+    whitespace/hyphenation/footnote-splicing noise from PDF extraction means
+    straight substring search can still miss it.
 
 Both need: exact substring match first, then a whitespace/case-normalized exact
 match, then a rapidfuzz windowed fuzzy match as a last resort -- never fabricate
 an offset, and always report which tier a match came from so callers can log or
 threshold on it. No other module in this repo should reimplement this search.
 
-This module has no dependency on chunk_decision.py or extract_claims.py (both
-depend on it), so there is no import cycle: chunk_decision -> span_match, and
-extract_claims -> {chunk_decision, span_match}.
+This module has no dependency on chunk_decision.py or anything under
+extraction-variants/ (they depend on it), so there is no import cycle:
+chunk_decision -> span_match, and extraction-variants/* -> {chunk_decision, span_match}.
 """
 
 import re

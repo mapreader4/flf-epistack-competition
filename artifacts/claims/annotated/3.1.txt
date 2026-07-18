@@ -1,0 +1,145 @@
+3.1  "Animal" vs "Other"
+
+As an example of a Bayesian calculation that fails to persuade me, let us look at the calcu-
+lation presented by Rootclaim in session 1 to contrast two hypotheses labeled "Animal" and
+"Other". ([1] at 3:05:45)
+⟦1⟧ The goal of their argument is to show that, even if one conditioned on the zoonotic spillover
+being true, it is significantly more likely that the spillover occurred outside of HSM than
+inside HSM. ⟦2⟧ If so, then the proximity of the HSM SSE to animal sources of virus in the
+market is probably a coincidence, and provides very weak evidence in favor of zoonosis.
+The argument is not cleanly presented; all of the numbers shown are being used as Bayes
+factors, but most are written with percentages, and verbally described as probabilities in-
+stead. The events as described are inconsistent: I will try to find the best interpretation of
+the information given.
+Formally, letAn be the event that the pandemic started in Wuhan from zoonotic spillover
+and the first (detected) SSE is at the location of zoonotic spillover ,24 and letOt be the event
+that the pandemic started in Wuhan from zoonotic spillover and the first (detected) SSE is
+not at the location of zoonotic spillover. 25
+We wish to compareP (An) to P (Ot). To do this, they make a series of observations Oi and
+compute P (Oi|An) and P (Oi|Ot); these ratios are the Bayes factors. Their numbers, with
+abbreviated descriptions of the observations, are
+24We are very specifically not conditioning on that place being HSM.
+25or we could remove the condition on zoonosis for Ot, it does not play much role in this part of the
+calculation, and let Ot be any alternative to An
+evidence P (Oi|An) P (Oi|Ot) Bayes (consv)
+first SSE at HSM 0.15 to 0.30 1 6 .67 3 .33
+no animal vendors infected 0.15 to 0.25 1 6 .67 4
+test results unrelated to
+wildlife
+0.4 to 0.6 1 2 .5 1 .67
+B dominant at HSM 0.2 to 0.3 1 5 3 .33
+WHO cases centered at
+HSM, other signals not
+0.5 to 1 1 2 1
+early cases associated with
+HSM, but not strongly
+0.3 to 0.5 1 3 .33 2
+mahjong 0.3 to 0.4 1 3 .33 2 .5
+infected person goes to
+HSM
+1 0 .001 to 0.0005 0 .001 0 .0005
+HSM ideal superspreader lo-
+cation
+- - 10 4
+more likely to detect SSE at
+markets
+- - 4 2
+total - - 493 .8 1 .48
+Each probability was given as a range, indicating a value they think is reasonable and a
+more conservative estimate (ie, more favorable toAn). The column "Bayes" gives the Bayes
+factors based on the former numbers; the "(consv)" column gives the more conservative
+Bayes factors.
+Let us walk through each of their observations - most will be discussed in greater detail
+later.
+• "first SSE at HSM": ⟦3⟧ They estimate that 15% of contact with potential animal-sources
+of pandemics is at HSM. As for the converse probability conditioned on Ot, they are
+not truly claiming it is 1, but rather separated out evidence awkwardly into separate
+factors, which are considered below.
+During the presentation, they framed this discussion to consider the probability that
+the SSE at HSM is the firstobserved SSE, not necessarily the first and only that existed
+at that time, so in part of this calculation they are taking into account observational
+bias; however, later Saar would concede the claim by Peter that the HSM SSE is the
+first one. If we accept this concession then several adjustments must be made.
+• "no animal vendors infected": ⟦4⟧ None of the known infections at HSM are among animal
+vendors. To my knowledge, no testing of animal vendors was conducted; we only have
+confirmed illnesses among people who were hospitalized. If sars-cov-2 spilled over only
+a single time (or perhaps twice; see section 5.1), it is very likely no infections among
+animal vendors would be detected anyhow. I have no information about how the testing
+of people at HSM compares with the testing processes during SARS1.
+• "test results unrelated to wildlife": This is an important area of discussion that will
+be considered later.
+• "B dominant at HSM": Most sequenced illnesses linked to HSM were lineage B, so
+under An it remains to be explained where lineage A came from.
+• "WHO cases centered at HSM, other signals not": That is to say, the claim is that
+the actual distribution of early cases is not centered on HSM, and that the appearance
+that they are centered on HSM is due to observational bias. This should be ignored
+following the presumption that HSM is the first SSE.
+• "early cases associated with HSM, but not strongly": This is asking how to explain
+the existence of early cases not associated with HSM (I think the slide has a typo?). I
+think most likely such cases do not exist.
+• "mahjong": It is a little unclear here what is in need of explanation when conditioned
+on An.
+• "infected person goes to HSM": If the pandemic started far from HSM, then someone
+infected must travel to HSM for an SSE to occur there.
+• "HSM ideal superspreader location": While an infected person might go to many
+different possible locations, not all will become SSEs; they estimate that HSM is 10
+times more likely to become an SSE than the average location. This will prove an
+important point of discussion going forwards.
+• "more likely to detect SSE at markets": Again, this should be ignored following the
+presumption that HSM is the first SSE.
+The goal of Rootclaim is to get a Bayes factor comfortably greater than 1: if so, then even
+conditioning on zoonotic spillover, the hypothesisOt better explains the observations of early
+case distribution than the hypothesis An. From then on, Rootclaim can argue against Ot
+rather than An; or equivalently, if the evidence shown here collectively has a Bayes factor
+greater than 1, then throwing this evidence out only favors zoonotic in future analysis.
+I do not think Rootclaim succeeded at that subgoal: just removing the two factors that were
+conceded, the "conservative" Bayes factor already passes below 1. If you also remove the
+two factors I found most dubious ("early cases associated with HSM" and "mahjong"), even
+their central estimate for the Bayes factor falls to 5.555, not comfortably above 1.
+⟦5⟧ Indeed I think most of the probabilities in this table are toohigh, and not by the same amount
+when conditioning on An versus Ot; ⟦6⟧ I feel that in this analysis Rootclaim is consistently
+overestimating the probability of rare events.26 I could be persuaded with difficulty that the
+26In questioning ([2] at 1:15:00), it was clarified that this is to some extent deliberate: it is not the
+probability of this particular observation, but rather any observation akin to this. It also was implied that
+these should be regarded as Bayes factors rather than the probabilities, which explains why both sides are
+too high, as for a Bayes factor only the ratio matters. However this was not presented clearly, and I am left
+probability under An that no known animal vendors became sick was below the 15% that
+Rootclaim presented; ⟦7⟧ but certainly that probability under Ot is well below 100%. Overall, I
+think most of the Bayes factors given by Rootclaim are more favorable toOt than is justified
+by the observations.
+⟦8⟧ Furthermore I do not see how to make the numbers Rootclaim gives here consistent with
+their estimate that 10% of coronavirus pandemics that start in Wuhan would have their first
+SSE in HSM (conditioned on the location of the SSE being unrelated to the location of the
+primary case) [7]; this scenario corresponds to the Ot hypothesis, which here appears to be
+at most 0.1%· 10 = 1%, a factor of 10 lower.
+However, even if all the numbers shown here are completely correct, I am not persuaded
+by the conclusion. ⟦9⟧ The listed observations do not represent a canonical series of necessary
+events that must occur under the hypothesis An to get an SSE at HSM. If they did, one
+could argue that the choice of observations was natural or unmotivated. Rather, the listed
+observations appear to be a miscellany of loosely related things that happened in the context
+of the HSM outbreak and seemed vaguely odd. I expect that in any rare event there will be a
+variety of strange things that happen, simply because when many things happen inevitably
+some of them will be strange by chance.
+⟦10⟧ This calculation feels like motivated reasoning: the answer was decided, and evidence was
+sought until it aligned with that conclusion. Of course I do not think Rootclaim deliberately
+did such a backwards method - I believe their process was completely honest and designed
+to be fair to both hypotheses - but (as they are well aware) human biases are hard to stamp
+out, and Bayesian calculations are not immune to being influenced by human biases. That
+half of the evidence found was mooted or (in my estimation) unsupportive reflects poorly on
+the argument; really, from the example above of the space lizard, one should expect hardly
+any bias needed to get far more decisive a result without using flawed evidence at all.
+In any case, the result is an argument that failed to convince me; I do not find most of the
+numbers credible, and I do not find the process to combine them into a single Bayes factor
+credible.
+
+Claims:
+⟦1⟧ Rootclaim argues that, even if one conditioned on the zoonotic spillover being true, it is significantly more likely that the spillover occurred outside of HSM than inside HSM.
+⟦2⟧ The proximity of the HSM SSE to animal sources of virus in the market is probably a coincidence, and provides very weak evidence in favor of zoonosis.
+⟦3⟧ Rootclaim estimates that 15% of contact with potential animal-sources of pandemics is at HSM.
+⟦4⟧ None of the known infections at HSM are among animal vendors.
+⟦5⟧ The judge thinks that most of the probabilities in the table are too high, and not by the same amount when conditioning on An versus Ot.
+⟦6⟧ Rootclaim is consistently overestimating the probability of rare events.
+⟦7⟧ The judge thinks that the probability under Ot that no known animal vendors became sick is well below 100%.
+⟦8⟧ The judge does not see how to make the numbers Rootclaim gives consistent with their estimate that 10% of coronavirus pandemics that start in Wuhan would have their first SSE in HSM.
+⟦9⟧ The listed observations do not represent a canonical series of necessary events that must occur under the hypothesis An to get an SSE at HSM.
+⟦10⟧ The judge believes that the calculation feels like motivated reasoning, where the answer was decided and evidence was sought until it aligned with that conclusion.

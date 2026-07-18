@@ -1,0 +1,122 @@
+7.1  Zoonotic prior
+
+⟦1⟧ Before the debate I had a fundamental misunderstanding of what drives new pandemics.
+Consider Figure 9, which is a subset of known sarbecoviruses most closely related to sars-
+cov-2; ⟦2⟧ recall that sarbecoviruses are themselves a branch of betacoronaviruses, which are a
+branch of coronaviruses. Conversely, while sars-cov-2 is considered one virus "species", it
+can be subdivided endlessly into lineages or strains. ⟦3⟧ This great diversity of viruses is driven
+by their high mutation rate (compared to eukaryotes) and genetic recombination.
+I therefore had (wrongly) imagined the gamut of viruses as akin to a continuum of possi-
+bilities. ⟦4⟧ Spillovers from animals to humans are rare, and when they happen they effectively
+sample a random virus from that continuum of viruses that exist in animals. Depending on
+the properties of the virus, the spillover could continue to create a pandemic or not.
+This is wrong, as if it were true it would be essentially impossible for the "same" virus to
+spillover multiple times, like picking random real numbers and getting the same number
+Figure 9: Some of the closest known related sarbecoviruses to sars-cov-2, from Wikipedia.
+twice. ⟦5⟧ Instead, it appears that (potential) spillover events are quite common, 64 and the
+primary limitation on pandemics is not whether the animal-to-human transmission occurs
+but rather whether a virus with the necessary properties evolves in an animal population
+humans are exposed to. Once such a virus evolves, it easily passes to human hosts, possibly
+many times; ⟦6⟧ ⟦7⟧ SARS-1 had multiple known independent spillover events,65 and MERS has had
+dozens to hundreds since its discovery in 2012 [11]. 66
+We will be using the emergence of previous human coronaviruses to choose a prior P (Z).
+⟦8⟧ The multiple spillovers of SARS-1 and MERS are not independent events; since the limiting
+factor seems to be the evolution of a suitable virus, not its spillover, these should only count
+once each. ⟦9⟧ There are 7 known human coronaviruses, two discovered in the 1960s, and the
+rest since 2002. ⟦10⟧ Most of these only cause mild disease, and may have been circulating long
+before their discovery; ⟦11⟧ the 1889 pandemic that killed 1 million people may have been the
+spillover of hcov-oc43, which today typically causes only colds. ⟦12⟧ SARS-1 and MERS are the
+only "sars-like" viruses I consider a suitable precedent, and both emerged in humans since
+2002; ⟦13⟧ this would give a rate of 1.5 per 21 years or 1 per 14 years. 67
+64⟦14⟧ According to Peter Daszak of EcoHealth Alliance, more than 1 million people in southeast asia are
+exposed to bat coronaviruses each year ([32], annex page 71).
+65⟦15⟧ The US CDC found in 2003 that 13% animal traders in Guangdong, where SARS-1 was discovered, had
+antibodies to SARS-1 despite none of them having had known illnesses; the subgroup with highest incidence
+was palm civet traders, at 73% (16 out of 22), compared to 1-3% in control groups. This suggests spillover
+events are commonplace. [13]
+66I infer the paper as implying an estimated 200 spillover events, but it doesn't say so directly, so I might
+be misunderstanding.
+67What we want to know is the expected gap between consecutive novel coronaviruses; ignoring sars-cov-
+2, from 2002 to 2023 there were sars-cov-1 in 2002 and MERS in 2012. We get 1.5 by assuming we are
+(on average) half way between MERS and the next novel coronavirus, so there have been 1.5 "gaps" since
+We should also consider prior to 2002; but how much prior? ⟦16⟧ I believe the risk of pandemics
+has grown greatly on the timescale of decades, due to changes of land use, agricultural
+intensity, and population; ⟦17⟧ consider the increasing size and frequency of Ebola outbreaks in
+the last 10 to 30 years. If we limit our attention to the last 40 years, under the belief that
+outbreaks were less likely to occur or be noticed before then than today, we get an overall
+rate of 1 per 20 years. 68
+⟦18⟧ Not all sars-like viruses can cause a pandemic. ⟦19⟧ Estimating from sars-cov-1 and MERS we get
+a (0 + 1)/(2 + 2) = 1/4 chance (I forget the name of this correction method) of it happening;
+⟦20⟧ and while sars-cov-1 is quite like sars-cov-2 in some ways, the sars-cov-2 virus does seem
+uniquely terrible, in part due to its initially very high presymptomatic transmission rate.
+⟦21⟧ Perhaps a less terrible virus would not have lead to a pandemic. On this basis I will add
+another factor of 1/2.
+Figure 10: Estimated relative risk distribution of emergence of zoonotic infectious diseases.
+A large fraction of novel zoonotic diseases are expected to emerge in south or east asia;
+in addition to population density, other important factors are "forested tropical regions
+experiencing land-use changes and where wildlife biodiversity (mammal species richness) is
+high". Figure 3b from [9].
+If a new sars-like virus emerges, one expects probably to see it somewhere in east Asia, not
+necessarily HSM in specific. ⟦22⟧ Conditioned on the emergence being a wildlife market in east
+Asia, Peter gives the probability of HSM as 1 /50 [8]; ⟦23⟧ Saar gives it as 1 /500 [7]. Both sides'
+calculation involved naively using the population of Wuhan compared to the population of
+China / Asia; ⟦24⟧ but Saar observed that HSM is the largest market of its kind in central China,
+so using raw population figures probably yields an underestimate. ⟦25⟧ My vague impression is
+that HSM is atypical in the extent of its live wildlife presence. Furthermore, biologist Eddie
+sars-cov-1. We don't count a gap before 2002 because we chose 2002 to line up with sars-cov-1. We exclude
+sars-cov-2 because we are trying to estimate a prior for its emergence. If you were to include sars-cov-2,
+you'd use the interval 2002 to 2019 and so estimate 2 per 17 years; you can't go past 2019 because the timing
+of when this analysis is being conducted is influenced by the timing of sars-cov-2.
+68Again, we count gaps: there was half a gap before sars-cov-1, half a gap after MERS, and a full gap
+between, for 2 ⟦26*⟧ gaps in 40 years.
+Holmes and the Wuhan CDC specifically called out HSM as a possible location for a future
+pandemic spillover [26, 39]. 69 ⟦27⟧ Conversely, pandemics can emerge in locations other than
+wildlife markets. ⟦28⟧ In toto I will assess this as 1 /200.
+(One could also get 1/200 through a very crude calculation like the following: suppose there
+is a 50% chance spillover is in China, conditional 50% chance in one of the 10 largest cities
+in China, and 20% of the relevant wild animal contact in Wuhan takes place at HSM. This
+last figure feels a little high to me. Note that Rootclaim gives a figure of 15% to 30% chance
+of the spillover being in HSM conditioned on it being in Wuhan.)
+⟦29⟧ Overall this gives
+P (Z) = 1
+20· 1
+4· 1
+2· 1
+200 = 1
+32000,
+which is to say that HSM should produce a pandemic akin to sars-cov-2 every 32000 years.
+Because the dynamics of flu evolution is fundamentally different than that of coronaviruses,
+I do not find flu pandemics/epidemics/outbreaks useful for assessing the prior P (Z).
+
+Claims:
+⟦1⟧ The judge had a fundamental misunderstanding of what drives new pandemics before the debate.
+⟦2⟧ Sarbecoviruses are a branch of betacoronaviruses, which are a branch of coronaviruses.
+⟦3⟧ The great diversity of viruses is driven by their high mutation rate and genetic recombination.
+⟦4⟧ Spillovers from animals to humans are rare.
+⟦5⟧ The primary limitation on pandemics is not whether the animal-to-human transmission occurs but rather whether a virus with the necessary properties evolves in an animal population humans are exposed to.
+⟦6⟧ SARS-1 had multiple known independent spillover events.
+⟦7⟧ MERS has had dozens to hundreds of spillover events since its discovery in 2012.
+⟦8⟧ The multiple spillovers of SARS-1 and MERS are not independent events.
+⟦9⟧ There are 7 known human coronaviruses.
+⟦10⟧ Most of the known human coronaviruses only cause mild disease.
+⟦11⟧ The 1889 pandemic that killed 1 million people may have been the spillover of hcov-oc43.
+⟦12⟧ SARS-1 and MERS are the only 'sars-like' viruses considered a suitable precedent for the emergence of SARS-CoV-2.
+⟦13⟧ The rate of emergence of new 'sars-like' viruses is estimated to be 1.5 per 21 years or 1 per 14 years.
+⟦14⟧ More than 1 million people in southeast Asia are exposed to bat coronaviruses each year, according to Peter Daszak of EcoHealth Alliance.
+⟦15⟧ 13% of animal traders in Guangdong, where SARS-1 was discovered, had antibodies to SARS-1 despite none of them having had known illnesses.
+⟦16⟧ The risk of pandemics has grown greatly on the timescale of decades due to changes of land use, agricultural intensity, and population.
+⟦17⟧ The increasing size and frequency of Ebola outbreaks in the last 10 to 30 years is an example of the growing risk of pandemics.
+⟦18⟧ Not all sars-like viruses can cause a pandemic.
+⟦19⟧ The probability of a sars-like virus causing a pandemic is estimated to be 1/4.
+⟦20⟧ SARS-CoV-2 seems uniquely terrible, in part due to its initially very high presymptomatic transmission rate.
+⟦21⟧ A less terrible virus would not have led to a pandemic.
+⟦22⟧ Peter Daszak gives the probability of HSM being the location of a pandemic spillover as 1/50.
+⟦23⟧ Saar gives the probability of HSM being the location of a pandemic spillover as 1/500.
+⟦24⟧ HSM is the largest market of its kind in central China.
+⟦25⟧ HSM is atypical in the extent of its live wildlife presence.
+⟦26*⟧ Biologist Eddie Holmes and the Wuhan CDC specifically called out HSM as a possible location for a future pandemic spillover.
+⟦27⟧ Pandemics can emerge in locations other than wildlife markets.
+⟦28⟧ The probability of a pandemic emerging from a wildlife market in east Asia is estimated to be 1/200.
+⟦29⟧ The prior probability of a pandemic emerging from HSM is estimated to be 1/32000.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

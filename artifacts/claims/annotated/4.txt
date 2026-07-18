@@ -1,0 +1,38 @@
+4  Location, location, location
+
+You've just got home from a long day of hugging animals and taste-testing lab samples when
+you realize you're feeling a bit under the weather. Congratulations: you are the primary
+case28 in a new global pandemic! What happens next?
+⟦1⟧ Most people in your position do not pass on their illness to others, 29 but to result in a global
+pandemic you would have to pass it on to one or more of your close contacts. Depending on
+your activities, you could easily have dozens or hundreds of potential transmissible contacts
+over the course of your illness; a few will be household members or coworkers, but the
+great majority often being strangers encountered in public. Of course, such contacts are not
+equally likely to acquire your illness.
+To simplify matters, let us say you, and everyone else, have 100 potential contacts that do
+not vary with time and are equally likely to become ill. 30 We can build a massive graph
+whose vertices are all the people in the world and edges represent close contacts. On this
+28I originally erroneously used the ambiguous term "patient zero" here. ⟦2*⟧ Fun fact: the term "patient
+zero" arose as a misreading of "patient O[ut of California]", referring to an early known case of HIV not in
+California.
+29⟦3⟧ or, at least the chain of transmission usually stops relatively soon
+30If you wish to account for the fact that contacts are not equally likely to become ill, everywhere below
+replace each mention of "an individual has 100 potential contacts" with "the probability distribution of
+which contact(s) will become ill has entropy log(100)".
+graph we can track the path of a chain of disease transmission, ⟦4⟧ though of course for the
+disease to grow to become a pandemic there will be more than one transmission chain going
+on at the same time.
+⟦5⟧ Each successive transmission, as you pass it on to one of your close contacts, who passes it to
+one of theirs, acts as a random walk over the graph of close contacts. After some interval of
+time, the disease is discovered in the index case (ie, the first observed case). What we want
+to know is, for a particular hypothetical primary case, what is the probability distribution
+of who will be the index case?
+
+Claims:
+⟦1⟧ Most people in the position of being the primary case in a new global pandemic do not pass on their illness to others
+⟦2*⟧ The term 'patient zero' arose as a misreading of 'patient O[ut of California]', referring to an early known case of HIV not in California
+⟦3⟧ The chain of transmission from the primary case usually stops relatively soon
+⟦4⟧ For a disease to grow and become a pandemic, there will be more than one transmission chain going on at the same time
+⟦5⟧ Each successive transmission of a disease acts as a random walk over the graph of close contacts
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

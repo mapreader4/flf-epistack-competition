@@ -1,0 +1,53 @@
+1.1  Background: what happened in Wuhan?
+
+A butterfly with the flap of its wings is said to change the path of a hurricane on the other
+side of the Earth. 3 There is no better exemplar of the butterfly effect than the beginnings
+of a pandemic: ⟦1⟧ a single cough, or sneeze, a decision to go to work or see a friend, and the
+lives of 10 million people swing in the balance.
+Inevitably the earlier one tries to trace the origins of covid-19, the narrower the trail, until
+it is reduced to the mundane daily activities of a handful of individuals whose identities may
+be lost to time.
+The farthest back we have been able to follow the trail is to the city of Wuhan, ⟦2⟧ a massive
+metropolis of 12 million people 4 in the Chinese province Hubei. ⟦3⟧ On 2019 December 26 or 27,
+at the height of flu season,5 Dr Zhang Jixian6 examined two patients whose unusual CT scan
+reminded her of her experience with the SARS-1 outbreak of 2002-2003; ⟦4⟧ she is generally
+recognized as the discoverer of covid-19, thanks to her prompt and appropriate response.
+⟦5⟧ Near this time, other healthcare workers began to notice a pattern of pneumonia cases and
+likewise leapt to action.
+⟦6⟧ On December 30, an emergency notice circulated amongst Wuhan hospitals regarding 27
+hospitalized patients with pneumonia of unknown cause, at least some of whom were associ-
+3This is true, if you mean a hurricane at least two weeks in the future, which is approximately the time
+scale over which the weather is chaotic.
+4bigger than any city in the US or west Europe, by some definitions
+5The average US adult has a 10% chance of catching the flu each winter, and catches 0.5 to 2 colds a year,
+so one figures that concurrent with the beginnings of covid there were on the order of one million people in
+Wuhan with the flu, of which ten thousand hospitalized.
+6at the Hubei Provincial Hospital of Integrated Chinese and Western Medicine, a grade 3A tertiary
+hospital
+ated with the Huanan 7 Seafood Wholesale Market (hereafter "HSM") in downtown Wuhan.
+⟦7⟧ Around this time government officials began to become involved, in many ways interfering
+with the actions of healthcare professionals. ⟦8⟧ HSM was sanitized and closed the morning of
+January 1, ⟦9⟧ and samples were collected on and after January 1 [22, 12].
+⟦10⟧ On 2020 January 20, the Chinese National Health Commission announced confirmation of
+human-to-human transmission of covid-19 to multiple healthcare workers; ⟦11*⟧ significant evi-
+dence of human-to-human transmission existed before this time. ⟦12⟧ On January 23 Wuhan
+entered lockdown ⟦13⟧ and China invested heavily in tracking and curtailing covid, successfully
+containing it by April. Covid would remain under control with increasing difficulty until
+omicron made China's "zero covid" policy impossible to maintain. 8
+
+Claims:
+⟦1⟧ A single cough, or sneeze, or a decision to go to work or see a friend, can change the lives of 10 million people.
+⟦2⟧ The city of Wuhan has a population of 12 million people.
+⟦3⟧ Dr Zhang Jixian examined two patients with unusual CT scans on 2019 December 26 or 27.
+⟦4⟧ Dr Zhang Jixian is generally recognized as the discoverer of covid-19.
+⟦5⟧ Other healthcare workers began to notice a pattern of pneumonia cases around the same time as Dr Zhang Jixian.
+⟦6⟧ An emergency notice was circulated amongst Wuhan hospitals on December 30 regarding 27 hospitalized patients with pneumonia of unknown cause.
+⟦7⟧ Government officials began to interfere with the actions of healthcare professionals around the same time.
+⟦8⟧ The Huanan Seafood Wholesale Market was sanitized and closed on the morning of January 1.
+⟦9⟧ Samples were collected from the Huanan Seafood Wholesale Market on and after January 1.
+⟦10⟧ The Chinese National Health Commission announced confirmation of human-to-human transmission of covid-19 on 2020 January 20.
+⟦11*⟧ Significant evidence of human-to-human transmission of covid-19 existed before January 20, 2020.
+⟦12⟧ Wuhan entered lockdown on January 23, 2020.
+⟦13⟧ China invested heavily in tracking and curtailing covid-19 after January 23, 2020, and successfully contained it by April.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

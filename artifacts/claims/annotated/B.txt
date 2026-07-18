@@ -1,0 +1,38 @@
+B  Inventory of earliest known covid cases
+
+⟦1⟧ To be the best of my knowledge, there does not exist any publicly available list of the earliest
+known covid cases. ⟦2⟧ The best source, and nearly the only source, on early covid cases is the
+2021 WHO report [32] and its annex. ⟦3⟧ This report does not have a complete list of early
+cases, ⟦4⟧ but does give aggregate data on known 2019 cases broken down by date and other
+features, as well as blurry maps of cases, which with some effort can be used to infer some
+of the individual case information. ⟦5⟧ This aggregate data is derived from extensive searching
+conducted by the WHO team, including interviews with many early patients, ⟦6⟧ which cannot
+be independently verified or duplicated.
+⟦7⟧ While the data in the WHO report is irreplaceable, it is not error free, nor is it complete.
+⟦8⟧ Notably other researchers have found that the WHO's primary case actually had on onset
+of 2019 December 16, not 8; ⟦9⟧ and the report omits Wei Guixian with an onset of December
+10, making her the primary covid case.
+We begin by delineating the information in the WHO report, before incorporating other
+sources. This separation is useful for several reasons:
+• I am not aware of any other place that presents the WHO data in tabular form.
+• ⟦10⟧ The WHO report is the highest quality source, ⟦11⟧ so mixing other sources may introduce
+quality issues.
+• ⟦12⟧ It is relatively easy to understand the causes of ascertainment bias in the WHO report,
+⟦13⟧ but once a diversity of sources are mixed it is much harder to control ascertainment
+bias, ⟦14⟧ as even the selection of sources 75 can be a cause of bias.
+
+Claims:
+⟦1⟧ There does not exist any publicly available list of the earliest known covid cases.
+⟦2⟧ The 2021 WHO report and its annex are the best and nearly the only source on early covid cases.
+⟦3⟧ The 2021 WHO report does not have a complete list of early cases.
+⟦4⟧ The 2021 WHO report gives aggregate data on known 2019 cases broken down by date and other features.
+⟦5⟧ The aggregate data in the 2021 WHO report is derived from extensive searching conducted by the WHO team, including interviews with many early patients.
+⟦6⟧ The data in the 2021 WHO report cannot be independently verified or duplicated.
+⟦7⟧ The 2021 WHO report's data is not error free, nor is it complete.
+⟦8⟧ The WHO's primary case actually had an onset of 2019 December 16, not 8.
+⟦9⟧ Wei Guixian is the primary covid case with an onset of December 10.
+⟦10⟧ The WHO report is the highest quality source.
+⟦11⟧ Mixing other sources with the WHO report may introduce quality issues.
+⟦12⟧ It is relatively easy to understand the causes of ascertainment bias in the WHO report.
+⟦13⟧ Once a diversity of sources are mixed, it is much harder to control ascertainment bias.
+⟦14⟧ The selection of sources can be a cause of bias.

@@ -1,6 +1,6 @@
 """Sentence-level claim extraction v2 (multi-stage) for the epistemic layer.
 
-This is a from-scratch redesign of scripts/extract_claims.py (v1). v1 asked one
+This is a from-scratch redesign of scripts/extraction-variants/extract_claims_original.py (v1). v1 asked one
 LLM call to atomize + decontextualize + quote-locate over a whole section's raw
 text at once, which produced decontextualization errors (wrong pronoun/reference
 resolution) and atomization errors (merged or dropped atomic claims). v2 instead
@@ -32,9 +32,9 @@ Outputs go under artifacts/claims_v2/ and outputs/claims_v2/. v1's outputs
 (artifacts/claims/, outputs/claims/) are never touched.
 
 Usage:
-    python scripts/extract_claims_v2.py                       # curated 12-section sample
-    python scripts/extract_claims_v2.py --sections 7,7.1      # explicit subset
-    python scripts/extract_claims_v2.py --only-stage 1 --limit 5   # eyeball Stage 1 prompts
+    python scripts/extraction-variants/extract_claims_by_sentence.py                     # curated 12-section sample
+    python scripts/extraction-variants/extract_claims_by_sentence.py --sections 7,7.1     # explicit subset
+    python scripts/extraction-variants/extract_claims_by_sentence.py --only-stage 1 --limit 5   # eyeball Stage 1 prompts
 """
 
 import argparse
@@ -49,12 +49,12 @@ from pathlib import Path
 
 from openai import OpenAI
 
-ROOT = Path(__file__).resolve().parent.parent
-sys.path.insert(0, str(Path(__file__).resolve().parent))  # import sibling modules
+ROOT = Path(__file__).resolve().parent.parent.parent
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))  # scripts/ -- import sibling modules
 
 # Reuse verbatim -- do NOT reimplement these.
 from chunk_decision import split_sentences, PDF  # noqa: E402
-from extract_claims import recover_sections, build_client  # noqa: E402
+from extract_claims_original import recover_sections, build_client  # noqa: E402
 from span_match import locate  # noqa: E402
 
 TOGETHER_BASE_URL = "https://api.together.xyz/v1"
@@ -1235,7 +1235,7 @@ def main() -> None:
         "extraction_unit": "sentence",
         "max_tokens_budget": args.max_tokens_budget,
         "generated": time.strftime("%Y-%m-%dT%H:%M:%S"),
-        "reproduce": f"python scripts/extract_claims_v2.py --sections {args.sections} "
+        "reproduce": f"python scripts/extraction-variants/extract_claims_by_sentence.py --sections {args.sections} "
                      f"--threshold {args.threshold} --model {args.model} "
                      f"--doc-id {args.doc_id}"
                      + (f" --limit {args.limit}" if args.limit is not None else ""),

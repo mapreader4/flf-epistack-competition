@@ -1,0 +1,17 @@
+A.5  Early mutation rate
+
+⟦1⟧ Naively one expects that the mutation rate of a virus would be greatest immediately after
+jumping species. In principle this could be used to distinguish a zoonotic origin from a virus
+that had been pre-adapted to a human host in the lab.
+In the proposal for Project DEFUSE, viruses would be evaluated based on disease they
+cause in "humanized mice", ie mice with human ACE2 receptors [14]. ⟦2⟧ While the result of
+this filtering process would be better adapted to humans than wild viruses, the effect would
+presumably be confined to the receptor binding domain of sars-cov-2; the rest of the virus
+would not be selected for being specialized for human hosts. ⟦3⟧ Therefore I do not expect the
+early mutation rate to be useful in distinguishing the hypotheses without significant and
+very technical investigation.
+
+Claims:
+⟦1⟧ The mutation rate of a virus is expected to be greatest immediately after jumping species.
+⟦2⟧ Viruses evaluated based on disease they cause in humanized mice would be better adapted to humans than wild viruses, but the effect would be confined to the receptor binding domain of SARS-CoV-2.
+⟦3⟧ The early mutation rate may not be useful in distinguishing zoonotic origin from a lab-leak hypothesis without significant and very technical investigation.

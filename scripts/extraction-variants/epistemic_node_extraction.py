@@ -85,10 +85,10 @@ from openai import OpenAI
 # Project paths and imports
 # ---------------------------------------------------------------------------
 
-ROOT = Path(__file__).resolve().parent
-SCRIPT_DIR = Path(__file__).resolve()
+ROOT = Path(__file__).resolve().parent.parent.parent
+SCRIPT_DIR = Path(__file__).resolve().parent
 
-sys.path.insert(0, str(SCRIPT_DIR))
+sys.path.insert(0, str(ROOT / "scripts"))
 
 from chunk_decision import (  # noqa: E402
     build_body,
@@ -102,7 +102,7 @@ from span_match import locate  # noqa: E402
 load_dotenv(ROOT / ".env")
 print("ROOT =", ROOT)
 print(".env exists:", (ROOT / ".env").exists())
-print("API key loaded:", os.getenv("TOGETHER_API_KEY"))
+print("API key loaded:", bool(os.getenv("TOGETHER_API_KEY")))
 
 
 # ---------------------------------------------------------------------------

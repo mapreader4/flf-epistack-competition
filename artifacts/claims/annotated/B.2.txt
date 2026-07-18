@@ -1,0 +1,27 @@
+B.2  Map of HSM, west half
+
+I have only found one map of HSM which labels the individual stalls; I have included the
+west half in figure 12.
+Shown in figure 12 is the west half of the HSM market. ⟦1⟧ The market is organized into streets or
+alleys which are numbered 1 to 15; each alley has many individual shops. Here the numbers
+are given on a regular grid, but in the WHO report ⟦2⟧ some shops span multiple grid cells, and
+thus presumably have multiple numbers. I have used the locations of cases as marked on the
+WHO map and compared those locations with this map to identify the stall numbers of those
+cases; ⟦3⟧ the results were in quite good agreement with other sources that reported early cases
+by stall numbers. ⟦4⟧ I think this map is erroneous in prefixing an 'X' on stall numbers in alley
+13. ⟦5⟧ I think this map is not to scale. ⟦6⟧ Orange-red shading are locations with environmental
+samples positive for covid; ⟦7⟧ sky blue for those with environmental samples which were all
+negative. ⟦8⟧ Unshaded locations had no environmental samples. ⟦9⟧ This is taken from figure S1B
+of [12].
+Figure 12: See text of section B.2.
+
+Claims:
+⟦1⟧ The market is organized into streets or alleys which are numbered 1 to 15; each alley has many individual shops.
+⟦2⟧ Some shops in the HSM market span multiple grid cells and thus presumably have multiple numbers.
+⟦3⟧ The locations of cases as marked on the WHO map are in quite good agreement with other sources that reported early cases by stall numbers when compared with the map in figure 12.
+⟦4⟧ The map in figure 12 is erroneous in prefixing an 'X' on stall numbers in alley 13.
+⟦5⟧ The map in figure 12 is not to scale.
+⟦6⟧ Orange-red shading on the map in figure 12 indicates locations with environmental samples positive for covid.
+⟦7⟧ Sky blue shading on the map in figure 12 indicates locations with environmental samples which were all negative.
+⟦8⟧ Unshaded locations on the map in figure 12 had no environmental samples.
+⟦9⟧ The map in figure 12 is taken from figure S1B of [12].

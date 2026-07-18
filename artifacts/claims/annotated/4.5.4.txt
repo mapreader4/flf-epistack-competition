@@ -1,0 +1,89 @@
+4.5.4  Super-spreading events are highly random
+
+To argue that a super-spreading event is expected to occur first at HSMand not concurrently
+elsewhere it does not suffice just to show that covid is highly infectious at HSM, but also it
+is not especially infectious elsewhere ([4] at 1:02:10).
+Covid did not go away after HSM was closed, but rather continued to create case clusters
+throughout Wuhan; this gives a lower limit on how infectious covid is away from HSM, and
+so bounds the potential disparity between HSM and non-HSM case growth rates.
+⟦1⟧ Most people with covid do not pass it on to anyone, while a small minority of cases will give
+it to dozens or a hundred other people in single incidents; this same pattern was observed
+with SARS-1. ⟦2⟧ Rootclaim's smooth exponential model gives an average growth rate curve,
+which is more accurate the more people are involved to average over. ⟦3⟧ If one location has
+twice the infectivity of another, we expect its case count to grow twice as exponentially-fast;
+but when there are only thousands of cases or fewer, ⟦4⟧ a single super-spreading event can
+completely overwhelm such a difference and drive the less infectious location to have more
+cases sooner.
+⟦5⟧ As the location of early clusters will be driven largely by the happenstance of where such
+events happen to take place, ⟦6⟧ the location of the first cluster will have a flatter distribution
+than would be expected by an analysis that considers only average growth rates at each
+location.
+For example, if we say that instead of each person giving covid to two people, half of people
+give it to none and half give it to four, 51 then there is a 50% chance the HSM outbreak stops
+immediately.
+Let us try to be a bit more precise and suppose that outside of HSM the number of people
+a given case infects follows a certain distribution with mean μ and variance σ2, and that
+within HSM it follows a similar distribution with mean 2 μ and variance 4σ2.
+If we consider a protocluster of n cases at one location (outside of HSM), the number of
+51Some people might develop symptoms quickly and stay home right away; these will not pass it to others
+outside the household no matter how infectious their workplace is. Also, there is enormous variation in viral
+load from person to person.
+people infected in total by those n people has mean nμ and variance nσ2. What is the
+probability that protocluster is growing faster than a same-sized protocluster at HSM? 52
+Well, the difference between the two clusters follows a mean of nμ and variance 5nσ2,53 so
+for that to be negative would be a z-score exceeding
+z = difference
+stddev = nμ√
+5nσ2
+=
+√nμ√
+5σ,
+which increases slowly with n.
+For a normal distribution (which this follows if n is large enough, by the Law of Large
+Numbers), the probability of exceeding a given z-score is the Q-function or error function.
+The Q-function is approximately
+Q(z)≈ φ(z)
+z = e-z2/2
+√τz
+where τ = 2π. Substituting for z we get a probability of
+p≈
+√
+5σ√τnμ exp(-nμ2/10σ2)
+The ratio μ/σ could be any positive number (as μ >0 because the number of people with
+secondary infections cannot be negative), ⟦7⟧ but if we impose the constraint that at least half
+of people with covid pass on no secondary infections, then it follows that μ≤σ and so μ/σ
+has to lie in the interval from 0 to 1. Taking the extreme μ =σ,54 which is most favorable
+to Rootclaim's model, we get
+p≈
+√
+5√τn exp(-n/10).
+Trying a few values of n, we get
+n p
+5 24 .2 %
+10 10 .4 %
+20 2 .7%
+30 0 .81%
+40 0 .26%
+50 0 .085%
+⟦8⟧ This is a lower-bound on the probability that a cluster outside of HSM outcompetes a
+cluster within HSM of the same size for a single generation. Even if the average growth
+rate within HSM were twice as high as without HSM, large variation at small n makes
+52which has mean 2nμ and variance 4nσ2 of number of people infected next generation
+53E(X-Y ) =E(X)-E(Y ) and Var (X-Y ) =Var (X) +Var (Y ) if X and Y are independent.
+54This extreme is only attained by requiring exactly half of people have no secondary infections and the
+other half have exactly the same number of secondary infections.
+attaining that average uncertain. Of course, HSM is not just competing against a single
+cluster elsewhere, but perhaps 127 such clusters under Rootclaim's model; and to produce
+the numbers claimed, the HSM cluster must outcompete all of them. ⟦9⟧ The probability that
+HSM becomes the biggest of the 128 clusters is more than 1 / 128, but not much more.
+
+Claims:
+⟦1⟧ Most people with COVID-19 do not pass it on to anyone, while a small minority of cases will give it to dozens or a hundred other people in single incidents
+⟦2⟧ Rootclaim's smooth exponential model gives an average growth rate curve, which is more accurate the more people are involved to average over
+⟦3⟧ If one location has twice the infectivity of another, its case count is expected to grow twice as exponentially-fast
+⟦4⟧ A single super-spreading event can completely overwhelm the difference in infectivity between two locations and drive the less infectious location to have more cases sooner
+⟦5⟧ The location of early clusters of COVID-19 will be driven largely by the happenstance of where super-spreading events happen to take place
+⟦6⟧ The location of the first cluster of COVID-19 will have a flatter distribution than would be expected by an analysis that considers only average growth rates at each location
+⟦7⟧ The ratio of the mean to the standard deviation of the number of people infected by a given case of COVID-19 must lie in the interval from 0 to 1 if at least half of people with COVID-19 pass on no secondary infections
+⟦8⟧ The probability that a cluster outside of HSM outcompetes a cluster within HSM of the same size for a single generation is at least the probability given by the Q-function or error function
+⟦9⟧ The probability that HSM becomes the biggest of the 128 clusters is more than 1/128, but not much more

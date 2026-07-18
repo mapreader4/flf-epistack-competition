@@ -1,0 +1,102 @@
+C.1  Anecdotal reports of the conditions at WIV
+
+Annex D7 of the WHO 2021 report presents second-hand information reported from members
+of the WIV ([32], page 130 to 133 of annex). I will quote the relevant passages at length.
+Professor Shi Zhengli (director of WIV Center for Emerging Infectious Diseases) was asked
+about the laboratory work performed at WIV:
+-⟦1⟧ her laboratory used recombinant viruses to test whether bat CoVs
+could use ACE2 to bind but used bat spike protein on a bat-CoV
+backbone, not human SARS. It is important to use this approach
+because it is difficult to isolate these viruses and envelope protein is
+most important part to understand function. For example, other re-
+searchers engineered SHC014 spike so did not need isolates for mouse
+experiments. ⟦2⟧ WIV began recombinant work in 2015 with WIV-1. It
+received ACE2 mice in 2016 and started recombinant experiments
+with WIV +SHC014 in 2018 but did not finish them owing to the
+COVID outbreak.
+Note how this compares to the work listed in the Project DEFUSE proposal, in which
+chimeric viruses would install experimental spike proteins into non-pandemic virus back-
+bones, and test them with mice bearing human ACE2 receptors.
+The WIV director (Professor Yuan Zhiming?) discussed the possibility of sars-cov-2 escaping
+from WIV:
+⟦3⟧ Staff had to report any symptoms every day after the outbreak of
+COVID began. ⟦4⟧ Serum samples were preserved annually for laboratory
+staff. There was extra testing during COVID outbreak according
+to the Yuang Zhiming (laboratory director). ⟦5⟧ The Institute did not
+respond to conspiracy theories but understood why the WHO team
+needed to ask. There had been no reports of unusual diseases, none
+diagnosed, and all staff tested negative for SARS-CoV-2 antibodies.
+It is unclear to me if "Yuang Zhiming" is a typo, a different spelling of the same name, or
+a different person. If it is true that all staff at WIV were tested and none had sars-cov-2
+antibodies, that would make a lab leak unlikely.
+Members of the WIV insist on proper adherence to laboratory safety:
+⟦6⟧ With regards to questions about laboratory workers, all underwent
+a strict training regime that includes three levels with strict rules
+on number of hours training and in-laboratory experience prior to
+being allowed on own in lab, or to supervise others. ⟦7⟧ P4 staff also
+undergo psychological evaluation before being allowed to work in the
+laboratory. Physical and mental health was monitored; no unusual
+respiratory infections had been noted in the previous year. ⟦8*⟧ Good com-
+pliance with mask use and hand hygiene was observed. Surveillance
+during the outbreak had been stringent; no suspected or confirmed
+case of COVID-19 was seen by PCR and antibody testing of all staff
+was negative. (If any worker had been infected, it would have been
+likely that close contacts would have shown signs of infection.) Sera
+were tested twice a year, and all had been negative. There had been
+no turnover of staff in the coronavirus team.
+A rule of thumb I personally suggest when critically interpretting a passage such as the above
+is to simply ignore so-called 'weasel'-words like "good" or "strict"; eg this yields "Compliance
+with mask use and hand hygiene was observed. Surveillance during the outbreak existed...".
+People, even when trying to twist things to their advantage, generally don't deliberately lie
+about unambiguous things like whether an antibody test was positive or negative, but even
+well-intentioned people will frequently imagine any training regime to be a strict training
+regime if that is favorable to them. It is also easy for vague qualifiers to be added as
+information is passed along like a game of telephone; a first-hand account of a "training
+regime" becomes a second-hand "strict training regime", etc.
+Everyone believes they have high safety standards; what is important in the above are any
+specific, tangible claims which are more likely than vague platitudes to have a basis in truth.
+Yuan Zhiming denied the possibility of a lab leak from Wuhan:
+⟦9⟧ The rumours of a leak from the laboratory were refuted categorically
+by the laboratory director for the following reasons:
+• among the three SARS-like viruses cultured in the laboratory,
+none are closely related to SARS-CoV-2. The only SARS-CoV-
+2-like virus found by this group is RaTG13, which is neither a
+live (cultured) virus nor the progenitor of SARS-CoV-2
+• [...]⟦10*⟧  The reserved sera in April 2019 and March 2020 from all
+the workers and students in research group led by Professor Shi
+Zhengli were seronegative for SARS-CoV-2 antibodies.
+• ⟦11⟧ The laboratory director, responding to laboratory-leak theories,
+commented that from 2010, including the P3 laboratory, WIV
+has conducted experiments with more than 10,000 entries, and
+the P4 laboratory has conducted experiments with more than
+3,000 entries in the last 3 years. No infection was ever reported.
+Close contacts would have been infected if there had been a
+laboratory leak. But serum samples from Professor Shi's team
+were all negative.
+The second bullet point above is quite specific, and thus unlikely to be simple fabrication.
+However fabrication seems like the best explanation for how the text of the WHO report
+could be compatible with a lab leak from the WIV; other possibilities are a false negative
+for antibodies, the screening omitted some lab workers, the primary case was not in Shi's
+group, or perhaps some explanation I cannot think of.
+Prior to the release of the WHO report, Peter Daszak gave a presentation on the WHO
+mission which included a few more tiny details not in the above. On slide 16 of https:
+//downloads.vanityfair.com/ecohealth-alliance/peter-daszak-powerpoint.pdf he
+writes, regarding the WIV, "⟦12⟧ Illnesses (4/700 during COVID; no cases in Zhengli's group)".
+As for relevant work conducted at the WIV, he has "Recombinant work (ACE2 mice began
+2016; WIV/SHC014 began in 2018)", compatible with the text of the WHO report.
+
+Claims:
+⟦1⟧ The WIV used recombinant viruses to test whether bat CoVs could use ACE2 to bind, but used bat spike protein on a bat-CoV backbone, not human SARS.
+⟦2⟧ The WIV began recombinant work in 2015 with WIV-1 and received ACE2 mice in 2016, and started recombinant experiments with WIV +SHC014 in 2018 but did not finish them owing to the COVID outbreak.
+⟦3⟧ The WIV director, Professor Yuan Zhiming, discussed the possibility of SARS-CoV-2 escaping from WIV and stated that staff had to report any symptoms every day after the outbreak of COVID began.
+⟦4⟧ Serum samples were preserved annually for laboratory staff at WIV, and there was extra testing during the COVID outbreak according to the laboratory director, Yuan Zhiming.
+⟦5⟧ The Institute did not respond to conspiracy theories but understood why the WHO team needed to ask, and there had been no reports of unusual diseases, none diagnosed, and all staff tested negative for SARS-CoV-2 antibodies.
+⟦6⟧ Members of the WIV insist that all laboratory workers underwent a strict training regime that includes three levels with strict rules on number of hours training and in-laboratory experience prior to being allowed on own in lab, or to supervise others.
+⟦7⟧ P4 staff at WIV also undergo psychological evaluation before being allowed to work in the laboratory, and physical and mental health was monitored, with no unusual respiratory infections noted in the previous year.
+⟦8*⟧ Good compliance with mask use and hand hygiene was observed at WIV, and surveillance during the outbreak had been stringent, with no suspected or confirmed case of COVID-19 seen by PCR and antibody testing of all staff was negative.
+⟦9⟧ Yuan Zhiming denied the possibility of a lab leak from Wuhan, citing that among the three SARS-like viruses cultured in the laboratory, none are closely related to SARS-CoV-2.
+⟦10*⟧ The reserved sera in April 2019 and March 2020 from all the workers and students in the research group led by Professor Shi Zhengli were seronegative for SARS-CoV-2 antibodies.
+⟦11⟧ The laboratory director, responding to laboratory-leak theories, commented that from 2010, including the P3 laboratory, WIV has conducted experiments with more than 10,000 entries, and the P4 laboratory has conducted experiments with more than 3,000 entries in the last 3 years, with no infection ever reported.
+⟦12⟧ Peter Daszak gave a presentation on the WHO mission, stating that regarding the WIV, illnesses occurred in 4 out of 700 people during COVID, with no cases in Zhengli's group.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

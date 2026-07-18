@@ -1,0 +1,84 @@
+1.2.1  Phylogeny of coronaviruses
+
+⟦1⟧ As viruses evolve over time, they can be organized into a phylogenetic tree showing how
+closely related one virus is to another; for example, coronaviruses are just one branch
+Figure 3: The structure of a coronavirus, how it enters target cells, and its genome. Depicted
+is MERS, a close relative to sars-cov-2; note that sars-cov-2 binds to ACE2 instead of DPP4.
+The spike protein consists of two subdomains, S1 and S2, which are separated as part of the
+cell entry process. Diagram is figure 2 from [35].
+of nidoviruses. ⟦2⟧ Coronaviruses are divided into four subgroups, named alphacoronaviruses
+through deltacoronaviruses, not to be confused with the variants of sars-cov-2 also named
+after greek letters. β-covs are divided further into four subgroups labeled lineages A through
+D, not to be confused with lineages A and B of sars-cov-2. Lineage B, the sarbecoviruses
+("sars-like betacoronaviruses") includes both sars-cov-1, the virus which caused the 2002-
+2003 SARS outbreak, and sars-cov-2, which causes covid-19. ⟦3⟧ The genomes of sars-cov-1 and
+sars-cov-2 are 80% identical.
+⟦4⟧ In total there are 7 known coronaviruses that cause disease in humans: two mild α-covs
+HCoV-229E and HCoV-NL63, two mild β-covs of lineage A ("embecoviruses") HCoV-OC43
+and HCoV-HKU1, the two human sarbecoviruses mentioned above, and the deadly MERS
+virus of lineage C ("merbecoviruses"). While MERS is only weakly transmissible between
+humans and most MERS causes are in Saudi Arabia, where it is believed to have transmitted
+many times to humans from camels, extended human-to-human transmission chains have
+been observed extending into other countries.
+The wild virus most closely related to sars-cov-2 is banal-20-52 [30], a sample collected from
+Figure 4: Phylogenetic tree of selected betacoronaviruses. Inserts at right show Lineage B
+(sarbecoviruses) and Lineage C (merbecoviruses); the former includes both sars-cov-1 and
+sars-cov-2, but this diagram was made in 2018. Diagram is figure 9 from [17].
+a bat (dropping) in Laos with 96.8% nucleotide identity, or a disagreement of about 1000
+nucleotides. As many nucleotide substitutions are synonymous, there is about 99% amino
+acid identity, ⟦5⟧ and the time to most recent common ancestor (tMRCA) might be about 20 to
+30 years ago [7]. However, different parts of the sars-cov-2 genome are closest to different wild
+viruses, ⟦6⟧ and recombination appears to play a role in the genetic history of sarbecoviruses,
+complicating efforts to reconstruct a phylogeny [30].
+⟦7⟧ Sars-cov-2 itself divides into many subgroups; like the flu virus, one often finds that newer
+variants displace older variants, causing notational difficulties as the phylogenetic tree divides
+further and further. It was for this reason that the PANGO notation was developed [29];
+for example, the pango notation "B.1.1.529" refers to the root of the omicron variant. The
+very earliest division of the sars-cov-2 phylogeny is into two parts, called lineages A and B
+in the PANGO notation.12 Lineage B would contain the highly successful D614G mutation,
+meaning that the aspartic acid (D) at location 614 of the spike protein (70 nucleotides from
+the FCS) is replaced by glycine (G). ⟦8⟧ The D614G mutation first became prominent in Italy
+in 2020 March, and I believe is directly related to the worldwide March-May peak many
+countries observed.13 ⟦9⟧ Lineage B has now completely displaced lineage A.
+12In Nextstrain, lineage A is called 19B, as it was the second branch to be identified in 2019, and the
+root of lineage B is called 19A; the root of omicron is called 21M. In GISAID, lineage A is called S clade.
+Nextstrain and GISAID provide freely available tools for viewing phylogenetic trees, tracking variants, and
+downloading genomes.
+13In summer of 2020 I invested some time into tracking the progression of D614G, but never finished my
+work as it was eventually obviated by the second wave that came that fall.
+Due to the high mutation rate of viruses, a phylogenetic tree can be created with some
+reliability down to the level of individual illnesses. Samples of sars-cov-2 collected in 2019
+December and 2020 January have been sequenced and some are available in GISAID, facil-
+litating assembling them into a phylogenetic tree of the very earliest covid cases, though the
+results are not without dispute. Lineages A and B each clearly form a tree with a single un-
+ambiguous root from which there are many branches, called a "polytomy". These two roots
+differ from each other in exactly two nucleotides. ⟦10⟧ The root of lineage A has the sequence
+T8782, C28144 (abbreviated T/C) and the root of lineage B has the sequence C8782, T28144
+(abbreviated C/T); note that the mutation at 8782 is synonymous. Several early samples
+have been collected that may exhibit the C/C or T/T pattern. The phylogenetic relationship
+between the roots of the A and B lineages is not immediately clear without further analysis.
+We can summarize the above with a phylogenetic tree:
+• coronaviruses
+• betacoronaviruses
+• embecoviruses (aka Lineage A)
+• sarbecoviruses (aka Lineage B)
+• sars-cov-1
+• banal-20-52
+• sars-cov-2
+• Lineage A (now extinct)
+• Lineage B
+• alpha, beta, . . . , omicron
+• merbecoviruses (aka Lineage C)
+• MERS
+
+Claims:
+⟦1⟧ Coronaviruses can be organized into a phylogenetic tree showing how closely related one virus is to another.
+⟦2⟧ Coronaviruses are divided into four subgroups, named alphacoronaviruses through deltacoronaviruses.
+⟦3⟧ The genomes of sars-cov-1 and sars-cov-2 are 80% identical.
+⟦4⟧ There are 7 known coronaviruses that cause disease in humans.
+⟦5⟧ The time to most recent common ancestor of sars-cov-2 and banal-20-52 might be about 20 to 30 years ago.
+⟦6⟧ Recombination appears to play a role in the genetic history of sarbecoviruses, complicating efforts to reconstruct a phylogeny.
+⟦7⟧ Sars-cov-2 itself divides into many subgroups, with newer variants often displacing older variants.
+⟦8⟧ The D614G mutation first became prominent in Italy in 2020 March.
+⟦9⟧ Lineage B has now completely displaced lineage A.
+⟦10⟧ The root of lineage A has the sequence T8782, C28144 and the root of lineage B has the sequence C8782, T28144.

@@ -13,8 +13,8 @@ construction (see scripts/run_hipporag_index.py) and reuses the PDF/section
 parsing from scripts/chunk_decision.py rather than reimplementing it.
 
 Usage:
-    python scripts/extract_claims.py                 # curated 12-section sample
-    python scripts/extract_claims.py --sections 7,7.1 # explicit subset
+    python scripts/extraction-variants/extract_claims_original.py                 # curated 12-section sample
+    python scripts/extraction-variants/extract_claims_original.py --sections 7,7.1 # explicit subset
 """
 
 import argparse
@@ -29,8 +29,8 @@ from pathlib import Path
 from dotenv import load_dotenv
 from openai import OpenAI
 
-ROOT = Path(__file__).resolve().parent.parent
-sys.path.insert(0, str(Path(__file__).resolve().parent))  # import sibling module
+ROOT = Path(__file__).resolve().parent.parent.parent
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))  # scripts/ -- import sibling module
 
 # Reuse the PDF/section parsing verbatim rather than re-deriving it. build_body
 # already runs clean() on every page, so `body` (and thus each section's raw
@@ -441,7 +441,7 @@ def main() -> None:
         "extraction_unit": "section",
         "max_tokens_budget": args.max_tokens_budget,
         "generated": time.strftime("%Y-%m-%dT%H:%M:%S"),
-        "reproduce": f"python scripts/extract_claims.py --sections {args.sections} "
+        "reproduce": f"python scripts/extraction-variants/extract_claims_original.py --sections {args.sections} "
                      f"--threshold {args.threshold}",
         "note": "quotes are resolved deterministically post-hoc; offsets are never "
                 "requested from the model. span is chunk-relative [start, end).",

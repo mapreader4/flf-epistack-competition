@@ -1,0 +1,23 @@
+7  Analysis
+
+Having criticized others' arguments at great length, at last I come to the more difficult task
+of presenting my best guess as to the origin of the covid pandemic. I will present this in
+the structure of a Bayesian inference computation, though not wholly quantitative, ⟦1⟧ with my
+choice of numbers being subjective and uncertain.
+LetZ be the hypothesis that covid emerged from a zoonotic spillover in HSM, and LL that
+covid resulted from gain-of-function research in WIV; these are very slightly narrowings from
+the actual hypotheses at stake.
+Note that if you accept Rootclaim's argument in section 3.1, then ⟦2⟧ the definition I gave
+for Z is quite a significant narrowing, ⟦3⟧ as they believe the observational evidence is equally
+consistent with zoonotic spillover anywhere in Wuhan as in HSM, ⟦4⟧ and so Z would have a
+suitably greater prior (but much lower posterior).
+The first step is the most challenging, to estimate the priors P (Z) and P (LL). ⟦5⟧ These
+numbers will be given as annual risk, so can also be interpretted as the yearly rate at which
+pandemics emerge from those sources.
+
+Claims:
+⟦1⟧ The judge's choice of numbers in the Bayesian inference computation for the origin of the covid pandemic is subjective and uncertain.
+⟦2⟧ The definition of Z (zoonotic spillover in HSM) is a significant narrowing of the actual hypothesis at stake.
+⟦3⟧ Rootclaim argues that the observational evidence is equally consistent with zoonotic spillover anywhere in Wuhan as in HSM.
+⟦4⟧ The prior probability of Z (zoonotic spillover in HSM) would be suitably greater if one accepts Rootclaim's argument in section 3.1, but its posterior probability would be much lower.
+⟦5⟧ The judge will estimate the priors P(Z) and P(LL) as annual risk, which can also be interpreted as the yearly rate at which pandemics emerge from those sources.

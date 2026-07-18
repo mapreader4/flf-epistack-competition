@@ -1,0 +1,38 @@
+4.6.2  Correlations between animal DNA and sars-cov-2 positivity
+
+⟦1⟧ Rootclaim observed ([1] at 2:56:30) that statistical analysis of environmental samples show
+no or negative correlation between samples that contain DNA from species such as raccoon
+dog and samples that test positive. It would not have occurred to me to perform this
+comparison, and I do not think it is useful or relevant.
+⟦2⟧ The animals at HSM were caged and did not have freedom to move about the market.
+While there would have been some disease communication between them, particularly within
+a single shop, disease communication between animals would presumably have been lower
+than between humans at HSM who could and did move between multiple shops and interact
+with other humans. ⟦3⟧ I expect that at the time of spillover, very few animals at HSM would
+have been carrying sars-cov-2 infections, compared to the number who might be susceptible
+to it. (It is quite possible that some would later be infected by humans.)
+⟦4⟧ Any positive correlation between samples that contain raccoon dog DNA and samples that
+test for sars-cov-2 would only occur if the samples happened to contain material from the
+specific raccoon dogs that were carrying sars-cov-2. ⟦5⟧ There are probably few or no such
+samples, so the expected correlation under the zoonotic hypothesis would be weak or zero.
+⟦6⟧ Moreover, there are several species in HSM suspected as being potential sars-cov-2 interme-
+diaries (such as raccoon dog, civet, and bamboo rat); presumably only one of them could
+have any positive correlation, with the others being zero as they are irrelevant.
+⟦7⟧ Even if there were a positive correlation, it could be overwhelmed by confounding factors.
+⟦8⟧ After the first round of testing appeared to identify the region with live animals as a potential
+source of the pandemic, a second round of testing included 10 samples at each of 7 different
+shops that sold wildlife [22]. This sampling, two weeks later on January 12, would have
+had a lower positivity rate due to the additional time for the sars-cov-2 RNA to decay.
+⟦9⟧ Consequentially this would induce a negative correlation between samples with wildlife and
+samples with sars-cov-2.
+
+Claims:
+⟦1⟧ Rootclaim observed that statistical analysis of environmental samples show no or negative correlation between samples that contain DNA from species such as raccoon dog and samples that test positive for SARS-CoV-2.
+⟦2⟧ The judge concludes that the animals at Huanan Seafood Market were caged and did not have freedom to move about the market.
+⟦3⟧ The judge expects that at the time of spillover, very few animals at Huanan Seafood Market would have been carrying SARS-CoV-2 infections, compared to the number who might be susceptible to it.
+⟦4⟧ The judge notes that any positive correlation between samples that contain raccoon dog DNA and samples that test for SARS-CoV-2 would only occur if the samples happened to contain material from the specific raccoon dogs that were carrying SARS-CoV-2.
+⟦5⟧ The judge states that there are probably few or no samples that contain material from the specific raccoon dogs that were carrying SARS-CoV-2, so the expected correlation under the zoonotic hypothesis would be weak or zero.
+⟦6⟧ The judge notes that there are several species in Huanan Seafood Market suspected as being potential SARS-CoV-2 intermediaries, such as raccoon dog, civet, and bamboo rat, and presumably only one of them could have any positive correlation, with the others being zero as they are irrelevant.
+⟦7⟧ The judge states that even if there were a positive correlation, it could be overwhelmed by confounding factors.
+⟦8⟧ A second round of testing included 10 samples at each of 7 different shops that sold wildlife on January 12, which would have had a lower positivity rate due to the additional time for the SARS-CoV-2 RNA to decay.
+⟦9⟧ The judge notes that this sampling would induce a negative correlation between samples with wildlife and samples with SARS-CoV-2.

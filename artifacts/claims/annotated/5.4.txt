@@ -1,0 +1,19 @@
+5.4  Project DEFUSE
+
+⟦1⟧ In 2018, the EcoHealth Alliance submitted a grant request to DARPA for $14 million for
+"Project DEFUSE", ⟦2⟧ a 3.5 year project on bat coronaviruses in collaboration with 5 other
+groups (located at UNC, Duke-National University Singapore, WIV, USGS National Wildlife
+Health Center, and Palo Alto Research Center) [14, 20]. To my knowledge, the project was
+not funded. The project involved quite a large number of goals and steps and can be
+organized as follows:
+⟦3⟧ 1. Collect bat coronaviruses and perform computer and lab testing on them
+⟦4⟧ 2. Deploy vaccines and immune boosting agents to wild bats
+⟦5⟧ 3. Write an app for soldiers to figure out how likely bats are to have dangerous diseases
+(gotta appeal to DARPA somehow?)
+
+Claims:
+⟦1⟧ The EcoHealth Alliance submitted a grant request to DARPA for $14 million for Project DEFUSE in 2018.
+⟦2⟧ Project DEFUSE was a 3.5 year project on bat coronaviruses in collaboration with 5 other groups located at UNC, Duke-National University Singapore, WIV, USGS National Wildlife Health Center, and Palo Alto Research Center.
+⟦3⟧ The project involved collecting bat coronaviruses and performing computer and lab testing on them.
+⟦4⟧ The project involved deploying vaccines and immune boosting agents to wild bats.
+⟦5⟧ The project involved writing an app for soldiers to figure out how likely bats are to have dangerous diseases.

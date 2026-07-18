@@ -1,0 +1,20 @@
+5.7  12 nucleotide insert at FCS
+
+As shown in section 1.2.2, ⟦1⟧ sars-cov-2 has 12 extra nucleotides at the FCS when compared to
+the most closely known bat viruses, such as banal-20-52.
+Certainly this looks suspicious, but there is a lack of definite information to say anything
+more than that. ⟦2⟧ There is no particular reason that this mutation could not have evolved by
+chance. The only thing odd about this insert is how large of a change it is compared to the
+smaller changes elsewhere in the genome; however, ⟦3⟧ we do expect the S1/S2 boundary region
+to be under high evolutionary pressure, especially as the virus crosses species into mammal
+hosts that could make use of the FCS.
+⟦4⟧ While banal-20-52 is the closest known virus, it is not close enough to make the kind of
+comparison that Rootclaim seeks to do with sars-cov-2. ⟦5⟧ The two viruses are separated by
+decades of evolutionary time and likely multiple recombination events with other viruses.
+
+Claims:
+⟦1⟧ SARS-CoV-2 has 12 extra nucleotides at the FCS when compared to the most closely known bat viruses, such as banal-20-52.
+⟦2⟧ There is no particular reason that the 12 nucleotide insert at the FCS in SARS-CoV-2 could not have evolved by chance.
+⟦3⟧ The S1/S2 boundary region of SARS-CoV-2 is under high evolutionary pressure, especially as the virus crosses species into mammal hosts that could make use of the FCS.
+⟦4⟧ Banal-20-52 is not close enough to SARS-CoV-2 to make the kind of comparison that Rootclaim seeks to do with SARS-CoV-2.
+⟦5⟧ SARS-CoV-2 and banal-20-52 are separated by decades of evolutionary time and likely multiple recombination events with other viruses.

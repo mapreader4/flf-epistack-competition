@@ -36,7 +36,7 @@ from span_match import clean, locate  # noqa: E402
 # own raw text (see pack_chunks/split_sentences below), so a real match should
 # score at or near 1.0; this is a safety net against a genuine "cannot find it"
 # case (e.g. a heavily word-split monster-sentence chunk), not a calibrated
-# fidelity threshold like extract_claims.py's (different noise profile: that one
+# fidelity threshold like extraction-variants/extract_claims_original.py's (different noise profile: that one
 # tolerates a model's paraphrasing-adjacent copy errors, this one only tolerates
 # our own whitespace flattening).
 CHUNK_PAGE_MATCH_THRESHOLD = 0.85
@@ -229,7 +229,7 @@ def main() -> None:
                 continue
             # pack_chunks() joins sentences with " " and flattens newlines, so
             # `text` is no longer a literal substring of `raw` -- the same
-            # problem extract_claims.py solves for LLM-returned quotes. Reuse
+            # problem extraction-variants/extract_claims_original.py solves for LLM-returned quotes. Reuse
             # that matcher (via span_match) rather than assuming every chunk in
             # a section starts at the section's own start offset, which is what
             # this used to do and is wrong for every chunk after the first in a
