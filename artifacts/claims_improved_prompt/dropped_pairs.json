@@ -1,0 +1,92 @@
+[
+  {
+    "section_number": "1.1",
+    "claim": "Some of the patients with pneumonia of unknown cause were associated with the Huanan Seafood Wholesale Market (HSM).",
+    "quote": "at least some of whom were associ-ated with the Huanan 7 Seafood Wholesale Market (hereafter \"HSM\") in downtown Wuhan."
+  },
+  {
+    "section_number": "1.2",
+    "claim": "Nonsynonymous mutations tend to yield amino acids with similar chemical properties.",
+    "quote": "and nonsynonymous mutations tend to yield amino acids with similar chemical properties,"
+  },
+  {
+    "section_number": "1.2.1",
+    "claim": "Coronaviruses are just one branch of nidoviruses.",
+    "quote": "for example, coronaviruses are just one branch of nidoviruses."
+  },
+  {
+    "section_number": "1.2.1",
+    "claim": "Banal-20-52 is a sample collected from a bat in Laos with 96.8% nucleotide identity to sars-cov-2.",
+    "quote": "a sample collected from a bat (dropping) in Laos with 96.8% nucleotide identity,"
+  },
+  {
+    "section_number": "1.3",
+    "claim": "Only information provided through the debate and references therein may be considered.",
+    "quote": "Only the information provided through the debate, debate material, and references therein may be considered;"
+  },
+  {
+    "section_number": "2",
+    "claim": "The logarithmic Bayes factors can be defined as I1 = logP(O1|A)/P(O1|B).",
+    "quote": "I1 = logP(O1|A)/P(O1|B)"
+  },
+  {
+    "section_number": "3",
+    "claim": "The Bayes factor can be converted to a probability using the formula p = 1 / (1 + b).",
+    "quote": "p = 1 / (1 + b)"
+  },
+  {
+    "section_number": "3.3",
+    "claim": "By understanding the potential ways that the Bayesian calculation can reach a flawed answer from valid data, we can reject Bayesian arguments that are vulnerable to these flaws.",
+    "quote": "By understanding the potential ways that the Bayesian calculation can reach a flawed answer from valid data, we can reject Bayesian arguments that are vulnerable to these flaws,"
+  },
+  {
+    "section_number": "4.2",
+    "claim": "Restricting Z to zoonotic spillover at HSM or a specific shop would decrease the circle and increase P(H|Z)",
+    "quote": "Conversely, since we are interested in an outbreak that we know took place in Wuhan, we could reduce Z to zoonotic spillover at HSM, or perhaps even down to a specific shop"
+  },
+  {
+    "section_number": "4.3",
+    "claim": "Locations associated with more people have a higher chance of having outbreaks.",
+    "quote": "locations associated with more people will of course have a much higher chance of having outbreaks"
+  },
+  {
+    "section_number": "4.5",
+    "claim": "Hospitals are often nexuses of outbreaks early in a pandemic, despite usually being well-ventilated.",
+    "quote": "Hospitals, while usually well-ventilated, are often nexuses of outbreaks early in a pandemic,"
+  },
+  {
+    "section_number": "4.5.3",
+    "claim": "Farm produce markets and buses have become \"amplifiers\" in the spread of COVID-19 during the latest outbreak in Dalian, Liaoning province.",
+    "quote": "Farm produce markets and buses have become \"amplifiers\" in the spread of COVID-19 during the latest outbreak in Dalian, Liaoning province, a local disease control expert said."
+  },
+  {
+    "section_number": "4.5.4",
+    "claim": "The number of people infected in total by n cases at one location outside of HSM has mean n\u03bc and variance n\u03c32",
+    "quote": "If we consider a protocluster of n cases at one location (outside of HSM), the number of people infected in total by those n people has mean n\u03bc and variance n\u03c32"
+  },
+  {
+    "section_number": "4.5.6",
+    "claim": "If there were 128 or 245 or 500 sick people going around Wuhan at the time of the HSM primary case, other large SSEs should be expected to start popping up in other locations.",
+    "quote": "If there are 128 or 245 or 500 sick people going around Wuhan at the time of the HSM primary case, shouldn't we expect other large SSEs to start popping up in other locations?"
+  },
+  {
+    "section_number": "5.4.1",
+    "claim": "Changes will be introduced into the appropriate high abundant, low risk parental strain if functional proteolytic cleavage sites are found.",
+    "quote": "and if so, introduce these changes into the appropriate high abundant, low risk parental strain"
+  },
+  {
+    "section_number": "6",
+    "claim": "If at least six people knew about the research work that created sars-cov-2, each with at least 50% chance to reveal some information, then there is only 2% odds of the secret staying secret.",
+    "quote": "If we imagine that at least six people knew about the research work that created sars-cov-2 and each has at least 50% chance to reveal some information about the existence of their research, then there is only 2% odds of the secret staying secret."
+  },
+  {
+    "section_number": "7.3",
+    "claim": "P(H|LL) = 1 / 1.2\u00b710^7",
+    "quote": "P (H|LL) = 1 / 1.2\u00b7 10^7"
+  },
+  {
+    "section_number": "7.5",
+    "claim": "The strange 12 nucleotide insert creates a furin cleavage site",
+    "quote": "the strange 12 nucleotide insert creating a furin cleavage site"
+  }
+]

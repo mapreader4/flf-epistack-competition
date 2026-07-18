@@ -1,0 +1,85 @@
+1.3  Format of the debate
+
+⟦1*⟧ Rootclaim was created to demonstrate the usefulness of a particular methodology for ana-
+lyzing complicated questions, where there exists abundant lines of circumstantial evidence
+both for and against any particular hypothesis. After systematically evaluating each piece
+of evidence, they can be integrated into a gestalt that gives a final level of confidence we can
+have in each hypothesis.
+⟦2⟧ I refer to this technique as Bayesian reasoning or Bayesian computation , which will be
+discussed in the next section; ⟦3⟧ however Rootclaim are far from the only ones to use Bayesian
+reasoning, ⟦4⟧ and I believe they claim to distinguish themselves from others in the details of
+how the evaluate the evidence. ⟦5⟧ In any case I agree with their critiques of other methodologies
+(or, frequently, lack thereof) ⟦6⟧ and that most people who get the right answer do so more by
+chance than not.
+⟦7⟧ This debate is the first organized by Rootclaim, of hopefully multiple (on different topics,
+to be clear!), ⟦8⟧ as a series of 3 spoken debate sessions totalling 20 hours [1, 2, 3, 4, 5, 6] ⟦9⟧ and
+various written supplements [7, 8]. ⟦10⟧ I am one of two judges, deciding independently, ⟦11⟧ with the
+outcome of the debate determined by the average of our decisions.
+⟦12⟧ I assess the debate structure designed by Rootclaim to be very fair ⟦13⟧ and not create any
+advantage for them, ⟦14⟧ and it was clear that Saar consciously acted in good faith throughout.
+⟦15⟧ To me, the debate felt more like a collaboration of four people working together to seek the
+truth than an adversarial contest; it is rare to see contentious issues worked out in such a
+productive manner between people acting in good faith.
+⟦16⟧ As I find that both parties argued in good faith ⟦17⟧ and there were no significant violations of (the
+spirit of) the debate rules, ⟦18⟧ my evaluation is based solely on the arguments as presented at an
+object level, or my best interpretation thereof. ⟦19⟧ Peter identified and criticized a diversity of
+lab leak theories put forth by other parties, ⟦20⟧ but these had no bearing on Rootclaim's theory.
+⟦21⟧ Statements were evaluated independently of the credibility of other parties who assert them.
+⟦22⟧ I did not attempt to "keep score" of which side made more factual errors or changed their
+argument more often; ⟦23⟧ each claim was given independent credulity. ⟦24⟧ Neither side was laden
+with the burden of proof. While in other contexts it might be appropriate and fair to dismiss
+arguments a priori for rhetorical reasons (eg, as a defense against techniques like sea lioning
+or gish gollop), ⟦25⟧ here my sole concern is whose theory is best supported by the evidence.
+⟦26⟧ Per the rules of the debate, I am to evaluate the relative likelihood of the two hypotheses
+advanced: ⟦27*⟧ Rootclaim's claim that the sars-cov-2 outbreak was due to gain-of-function labo-
+ratory research, ⟦28⟧ and Peter's challenge that it was the result of natural spillover from wildlife
+without laboratory involvement. Only the information provided through the debate, debate
+14Note that alternatively Rootclaim suggests that the insert is CCT CGG CGG GCA , and there was a fourth
+point mutation from TCT to TCA immediately before it.
+material, and references therein may be considered; ⟦29⟧ no prior beliefs or private research of
+my own can be used, as this would deny the participants opportunity to identify flaws and
+rebut such arguments. ⟦30⟧ In so far as was reasonable within the constraints of time I attempted
+to challenge each participant on any claims they made that appeared suspect, so that they
+had opportunity to bolster their argument or substitute it with another. Unfortunately time
+is limited and only so many rounds of argument and counterargument can be sustained;
+eventually one must reach a decision.
+⟦31⟧ I have laid out here in some detail how I reached the decision I did, though in view of the
+considerable volume already written on this subject I do not imagine this will be sufficient
+to compel anyone to change their mind. Doubtlessly the participants of the debate will have
+rebuttals to what I write that disagrees with them, and perhaps I may wish to revise this in
+the future, but at least for the purposes of the debate it is finished.
+
+Claims:
+⟦1*⟧ Rootclaim was created to demonstrate the usefulness of a particular methodology for analyzing complicated questions.
+⟦2⟧ The methodology used by Rootclaim is referred to as Bayesian reasoning or Bayesian computation.
+⟦3⟧ Rootclaim is not the only one to use Bayesian reasoning.
+⟦4⟧ Rootclaim claims to distinguish themselves from others in the details of how they evaluate the evidence.
+⟦5⟧ The author agrees with Rootclaim's critiques of other methodologies.
+⟦6⟧ Most people who get the right answer do so more by chance than not.
+⟦7⟧ This debate is the first organized by Rootclaim.
+⟦8⟧ The debate consists of 3 spoken debate sessions totaling 20 hours.
+⟦9⟧ The debate includes various written supplements.
+⟦10⟧ The author is one of two judges deciding independently.
+⟦11⟧ The outcome of the debate is determined by the average of the judges' decisions.
+⟦12⟧ The author assesses the debate structure designed by Rootclaim to be very fair.
+⟦13⟧ The debate structure does not create any advantage for Rootclaim.
+⟦14⟧ Saar acted in good faith throughout the debate.
+⟦15⟧ The debate felt like a collaboration of four people working together to seek the truth.
+⟦16⟧ Both parties argued in good faith.
+⟦17⟧ There were no significant violations of the debate rules.
+⟦18⟧ The author's evaluation is based solely on the arguments presented.
+⟦19⟧ Peter identified and criticized a diversity of lab leak theories put forth by other parties.
+⟦20⟧ These lab leak theories had no bearing on Rootclaim's theory.
+⟦21⟧ Statements were evaluated independently of the credibility of other parties who assert them.
+⟦22⟧ The author did not attempt to keep score of which side made more factual errors or changed their argument more often.
+⟦23⟧ Each claim was given independent credulity.
+⟦24⟧ Neither side was laden with the burden of proof.
+⟦25⟧ The author's sole concern is whose theory is best supported by the evidence.
+⟦26⟧ The author is to evaluate the relative likelihood of the two hypotheses advanced.
+⟦27*⟧ Rootclaim's claim is that the SARS-CoV-2 outbreak was due to gain-of-function laboratory research.
+⟦28⟧ Peter's challenge is that the SARS-CoV-2 outbreak was the result of natural spillover from wildlife without laboratory involvement.
+⟦29⟧ No prior beliefs or private research of the author's own can be used.
+⟦30⟧ The author attempted to challenge each participant on any claims they made that appeared suspect.
+⟦31⟧ The author laid out how they reached their decision.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

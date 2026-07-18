@@ -1,0 +1,30 @@
+7.3  First cluster in HSM
+
+⟦1⟧ LetH be the observation that the index case is a resident in the west half of HSM (⟦2⟧ or, more
+precisely, that the first significant covid cluster is centered among the residents in the west
+half of HSM). 70 Following the simple model of section 4.1, ⟦3⟧ the probability of observing H
+equals 1 divided by the population of the smallest epidemiological circle that contains both
+the primary case and the index case. ⟦4⟧ For Z this is simply the west half of HSM, and ⟦5⟧ for LL
+this is all of Wuhan, so we get
+⟦6⟧ P (H|Z) = 1
+P (H|LL) = 1
+1.2· 107
+⟦7⟧ for a Bayes factor of 1 /20000. As ⟦8⟧ I do think a market vendor is more likely to catch an
+illness than the average resident of Wuhan, ⟦9⟧ I will give LL an extra factor of 2.
+⟦10⟧ As per previous discussion, we are using a flat prior for the number of transmission between
+the primary case and index case, so both P (H|Z) and P (H|LL) should be smaller by the
+same factor, which has no influence on the Bayes factor. ⟦11⟧ I think the assumption of a flat
+prior here is somewhat favorable to LL.
+
+Claims:
+⟦1⟧ The index case is a resident in the west half of HSM.
+⟦2⟧ The first significant covid cluster is centered among the residents in the west half of HSM.
+⟦3⟧ The probability of observing H equals 1 divided by the population of the smallest epidemiological circle that contains both the primary case and the index case.
+⟦4⟧ For Z, the smallest epidemiological circle that contains both the primary case and the index case is the west half of HSM.
+⟦5⟧ For LL, the smallest epidemiological circle that contains both the primary case and the index case is all of Wuhan.
+⟦6⟧ P(H|Z) = 1
+⟦7⟧ The Bayes factor is 1 / 20000.
+⟦8⟧ A market vendor is more likely to catch an illness than the average resident of Wuhan.
+⟦9⟧ LL is given an extra factor of 2 because a market vendor is more likely to catch an illness than the average resident of Wuhan.
+⟦10⟧ A flat prior is used for the number of transmission between the primary case and index case.
+⟦11⟧ The assumption of a flat prior is somewhat favorable to LL.

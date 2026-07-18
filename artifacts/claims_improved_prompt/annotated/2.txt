@@ -1,0 +1,165 @@
+2  Introduction to Bayesian computation
+
+Suppose you have two exclusive events 15 A and B =¬A you wish to distinguish. Unfortu-
+nately we cannot observe them directly; instead we make some sequence of other observations
+O1,O 2,...,O n.
+⟦1*⟧ If one of our observations O1 were, say, incompatible with A, then we would be done; by
+simple deductive reasoning we could say " A implies¬O1; O1; therefore¬A". Instead each
+15⟦2⟧ In probability theory, an event is a statement which has a probability of being true. ⟦3*⟧ We assume events
+follow certain rules, such as if X and Y are events then there is an event called X∩Y , representing that
+both X and Y are true, satisfying P (X∩Y )≤P (X).
+Figure 6: XKCD ⟦4*⟧ 2545
+of our observations are consistent with either A or B - but, critically, not equally so. ⟦5*⟧ We
+measure the degree of consistency with the conditional probabilities16P (Oi|A) andP (Oi|B).
+⟦6*⟧ From this information it is a simple application of Bayes' Theorem to compute P (A|O1),
+⟦7*⟧ and repeated application to get P (A|O1∩O2∩···∩ On).
+⟦8⟧ There is nothing deeper to performing Bayesian computation than repeated use of Bayes'
+Theorem, but with a little organization we can gain better understanding of the process and
+be less likely to make mistakes. ⟦9⟧ First, we can build a table of the information we know:
+prior P (A) P (B)
+observation 1 P (O1|A) P (O1|B)
+observation 2 P (O2|A∩O1) P (O2|B∩O1)
+observation 3 P (O3|A∩O1∩O2) P (O3|B∩O1∩O2)
+Because we will be interested in the event that all of the observations are jointly true O1∩
+O2∩O3, rather than only one or another of them being true, we have to use the probability
+of each observation conditioned on the previous ones also happening. If our observations are
+independent of each other then this is unnecessary, as P (O3|A∩O1∩O2) =P (O3|A) in this
+case.
+Next, let us use the definition of conditional probability:
+⟦10*⟧ 16The symbol P (X|Y ), read "(the conditional) probability of X given Y " is defined as the ratio P (X∩
+Y )/P (Y ).
+P (A) =P (A)
+P (A∩O1) =P (A)·P (O1|A)
+P (A∩O1∩O2) =P (A∩O1)·P (O2|A∩O1)
+=P (A)·P (O1|A)·P (O2|A∩O1)
+P (A∩O1∩O2∩O3) =P (A∩O1∩O2)·P (O3|A∩O1∩O2)
+=P (A)·P (O1|A)·P (O2|A∩O1)·P (O3|A∩O1∩O2)
+Thus, the cumulative products we get by just multiplying down the columns of the previous
+table are the joint probabilities:
+- 1 1
+prior P (A) P (B)
+observation 1 P (A∩O1) P (B∩O1)
+observation 2 P (A∩O1∩O2) P (B∩O1∩O2)
+observation 3 P (A∩O1∩O2∩O3) P (B∩O1∩O2∩O3)
+(Note that mathematically there is nothing distinguishing the prior probability from any
+of our observations; the choice of what information to call "prior" versus "observation" is
+just a matter of convention. You can think of prior as the "null" or trivial observation:
+how much you should update your probabilities based on not making any observations at
+all. In the calculations by Rootclaim, they treat the prior slightly differently from the other
+observations, resulting in needing to re-normalize the probabilities at the end; of course this
+does not change the conclusions, only the order things are calculated in.)
+We should interpret each row as telling us the relative probability of either of the hypotheti-
+calsA,B jointly with the cumulative observations. ⟦11*⟧ Initially, before making any observations,
+the prior probabilities P (A) and P (B) sum to 1 (because B =¬A) but ⟦12*⟧ as we apply succes-
+sive observations the sum of each row will decrease and become smaller than 1. ⟦13⟧ This residue
+probability (ie, the amount by which each row sums to less than 1) represents the chance of
+some hypothetical alternative in which at least one of the observations didn't happen.
+⟦14*⟧ Ok, what good has this done us? Well, our goal is to find the conditional probability
+P (A|O1∩···∩ On). ⟦15*⟧ This is just equal to the fraction of the nth row that is in the first
+column:
+P (A|O) = P (A∩O)
+P (O) = P (A∩O)
+P (A∩O) +P (B∩O).
+⟦16*⟧ Indeed, all that matters is the ratio of the two columns:
+P (A|O) = 1
+1 +P (B∩O)/P (A∩O)
+⟦17⟧ Since the columns of the second table were found by just multiplying the columns of the
+first table, the ratio of the columns of the second table are just the product of the ratio of
+the columns of the first table:
+P (A∩O1∩O2∩O3)
+P (B∩O1∩O2∩O3) = P (A)
+P (B)· P (O1|A)
+P (O2|B)· P (O2|A∩O1)
+P (O2|B∩O1)· P (O3|A∩O1∩O2)
+P (O3|B∩O1∩O2)
+⟦18*⟧ Thus we began with eight 17 pieces of data in the first table but it turns out that all we
+needed was four pieces of data, supposing we can directly measure these ratios.
+⟦19*⟧ Indeed frequently the ratio P (O1|A)/P (O1|B), called the Bayes factor, is easier to measure
+than either P (O1|A) or P (O1|B) separately; ⟦20*⟧ in messy, real-world scenarios the probability
+of the event O1 might be wrapped up with many uncertain factors that have nothing to
+do with either A or B. Estimating P (O1|A) requires assessing these irrelevant factors, but
+estimating the Bayes factor does not.
+⟦21⟧ In extremes where probabilities get very close to 0 or 1 we can simplify matters further by
+taking logarithms everywhere - why multiply when instead you can add? We then have
+logarithmic Bayes factors
+I1 = logP (O1|A)
+P (O1|B)
+whereI1 is the information contained in the first observation, with positive numbers inform-
+ing us in favor of event A, and negative numbers informing us against it. If the logarithm is
+base 2, then I1 has units of bits. ⟦22*⟧ Adding up each of our pieces of information gives
+logP (A∩O1∩···∩ On)
+P (B∩O1∩···∩ On) =I1 +··· +In
+(Given a new piece of information In+1, we can simply add it to the sum we have so far; this
+is called Bayesian updating.)
+⟦23⟧ This result is also called the (conditional) log-odds of A.18 Log-odds can in some situations
+be more intuitive than ordinary probability, especially for extreme probabilities. ⟦24⟧ A log-odds
+of 0 means a probability of 50%, and positive log-odds means an event that is more likely
+to happen than not. ⟦25*⟧ From the (conditional) log-odds of A we can compute the ordinary
+(conditional) probability:
+P (A|O1∩···∩ On) = 1
+1 + exp(-(I1 +··· +In)).
+How does this work in practice? Suppose some event of interest A has some probability
+of being true; start by computing the unconditional (ie, prior) log-odds of A. We make a
+series of observations, and assess for each observation how much information it provides in
+17Actually seven, because we knew P (A) +P (B) = 1, so the first row only had one data point.
+18The log-odds of A is defined as log( P (A)/P (¬A)), but here we have conditioned on the observations
+O1∩···∩ On.
+favor of A versus against it. We update our log-odds of A by adding to it the information
+(positive or negative) from each observation. The result is the updated (ie, conditional on
+the observations) log-odds for A. Alternatively, if we don't want to work with logarithms,
+instead of adding up log-odds we can directly multiply probabilities.
+Let us work an example. Suppose you are hiring an engineer, and you want to know their
+competency A at a particular skill. You make three independent observations: they did ad-
+equately on an interview assessing that skill, they have an obscure certificate for that skill,
+and they went to University of Example which has a good engineering program. Most can-
+didates, whether competent or not, do not have that certificate nor went to that university,
+so it is hard to assess the probability of those observations; but the relative probabilities, or
+Bayes factors, are easier to guess at. We have
+- P (Oi|A) P (Oi|¬A) Bayes log-odds
+prior 0 .1 0 .9 0 .111 -2.2
+interview 0 .4 0 .1 4 1 .39
+certificate - - 1 .2 0 .18
+UoE grad - - 2 0 .69
+total - - 1 .0667 0 .065
+Adding up the last column we get a log-odds of 0.065, or a probability of 51.6%, just barely
+above even odds that the candidate has this particular skill.
+⟦26⟧ This example also illustrates a second important principle to understand with Bayesian
+reasoning: it can applied to any situation, and always gives an answer, regardless of how
+appropriate the technique is for the application. I certainly hope no one involved in hiring
+candidates is using a calculation of this nature to help make that decision, or at least not with
+the same lack of care as I did above. ⟦27⟧ One must pay close attention to potential problems: did
+you account for all the available evidence? how accurate are your probabilities? how robust
+is your result to changes in the data? ⟦28⟧ The messier and more "real-world" your situation, the
+easier it is to run afoul.
+
+Claims:
+⟦1*⟧ If one of our observations O1 were incompatible with A, then we could say "A implies¬O1; O1; therefore¬A".
+⟦2⟧ In probability theory, an event is a statement which has a probability of being true.
+⟦3*⟧ If X and Y are events then there is an event called X∩Y, representing that both X and Y are true, satisfying P(X∩Y)≤P(X).
+⟦4*⟧ Each of our observations are consistent with either A or B - but, critically, not equally so.
+⟦5*⟧ We measure the degree of consistency with the conditional probabilities P(Oi|A) and P(Oi|B).
+⟦6*⟧ It is a simple application of Bayes' Theorem to compute P(A|O1).
+⟦7*⟧ Repeated application of Bayes' Theorem can be used to compute P(A|O1∩O2∩···∩On).
+⟦8⟧ There is nothing deeper to performing Bayesian computation than repeated use of Bayes' Theorem.
+⟦9⟧ Building a table of the information we know can help us gain better understanding of the process and be less likely to make mistakes.
+⟦10*⟧ The symbol P(X|Y) is defined as the ratio P(X∩Y)/P(Y).
+⟦11*⟧ The prior probabilities P(A) and P(B) sum to 1 because B =¬A.
+⟦12*⟧ As we apply successive observations, the sum of each row will decrease and become smaller than 1.
+⟦13⟧ The residue probability represents the chance of some hypothetical alternative in which at least one of the observations didn't happen.
+⟦14*⟧ The goal is to find the conditional probability P(A|O1∩···∩On).
+⟦15*⟧ P(A|O) = P(A∩O)/P(O) = P(A∩O)/(P(A∩O)+P(B∩O)).
+⟦16*⟧ All that matters is the ratio of the two columns: P(A|O) = 1/(1 + P(B∩O)/P(A∩O)).
+⟦17⟧ The ratio of the columns of the second table are just the product of the ratio of the columns of the first table.
+⟦18*⟧ We began with eight pieces of data in the first table but it turns out that all we needed was four pieces of data, supposing we can directly measure these ratios.
+⟦19*⟧ The ratio P(O1|A)/P(O1|B) is called the Bayes factor.
+⟦20*⟧ Estimating the Bayes factor does not require assessing irrelevant factors.
+⟦21⟧ In extremes where probabilities get very close to 0 or 1, we can simplify matters further by taking logarithms everywhere.
+⟦22*⟧ Adding up each of our pieces of information gives logP(A∩O1∩···∩On)/P(B∩O1∩···∩On) = I1 +··· +In.
+⟦23⟧ This result is also called the (conditional) log-odds of A.
+⟦24⟧ A log-odds of 0 means a probability of 50%.
+⟦25*⟧ The (conditional) log-odds of A can be computed from the conditional probability P(A|O1∩···∩On).
+⟦26⟧ Bayesian reasoning can be applied to any situation and always gives an answer.
+⟦27⟧ One must pay close attention to potential problems when using Bayesian reasoning.
+⟦28⟧ The messier and more real-world the situation, the easier it is to run afoul.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

@@ -1,0 +1,31 @@
+5.6  Leading proline
+
+⟦1⟧ The amino acids near the sars-cov-2 FCS are
+QTQTNSPRRARSVAS
+⟦2⟧ whereas the most closely related known virus banal-20-52 has
+QTQTNSRSVAS
+at this location. ⟦3⟧ The difference between these is PRRA.
+⟦4⟧ ⟦5⟧ The RRAR subsequence constitutes an FCS, which explains why a laboratory worker might
+insert a sequence like RRA, but wherefore the proline P?
+⟦6⟧ ⟦7⟧ I see no satisfying explanation for what might motivate the decision to include a proline
+at this location, and it seems quite unlikely that the natural precursor virus happened to
+have such an inserted proline at the exact location that researchers add an additional insert.
+⟦8⟧ However we should not expect every decision someone makes to have an obvious post hoc
+explanation. ⟦9⟧ ⟦10⟧ There are many arbitrary choices during the course of a genetic engineering
+experiment, and it is hardly strange if a few of them are not the most canonical or optimal.
+⟦11⟧ ⟦12⟧ I do not think the proline requires a specific explanation under the lab leak theory (and
+likewise the "out-of-frame" nature of the insert).
+
+Claims:
+⟦1⟧ The amino acids near the sars-cov-2 FCS are QTQTNSPRRARSVAS.
+⟦2⟧ The most closely related known virus banal-20-52 has QTQTNSRSVAS at this location.
+⟦3⟧ The difference between these is PRRA.
+⟦4⟧ The RRAR subsequence constitutes an FCS.
+⟦5⟧ The presence of proline P at this location might motivate a laboratory worker to insert a sequence like RRA.
+⟦6⟧ There is no satisfying explanation for what might motivate the decision to include a proline at this location.
+⟦7⟧ It seems quite unlikely that the natural precursor virus happened to have an inserted proline at the exact location that researchers add an additional insert.
+⟦8⟧ Not every decision someone makes has an obvious post hoc explanation.
+⟦9⟧ There are many arbitrary choices during the course of a genetic engineering experiment.
+⟦10⟧ It is hardly strange if a few arbitrary choices during a genetic engineering experiment are not the most canonical or optimal.
+⟦11⟧ The proline does not require a specific explanation under the lab leak theory.
+⟦12⟧ The out-of-frame nature of the insert does not require a specific explanation under the lab leak theory.

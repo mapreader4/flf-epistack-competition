@@ -1,0 +1,73 @@
+6  Can you keep a secret?
+
+If sars-cov-2 were made in a lab, could it be kept a secret?
+This is difficult to estimate in the best of circumstances, and here ⟦1⟧ I am concerned with the
+practices of a lab about which I know nothing, all primary sources about which are in a
+language I cannot read, and in a culture I have no experience with. ⟦2⟧ I do not know any of the
+people involved or how they usually operate, ⟦3⟧ and I am restricted by the rules of the debate
+to the information brought by each side, which includes almost nothing that bears on this
+question.
+So I must keep in mind my great uncertainty; and yet ⟦4⟧ I find it hard to imagine how to draw
+a line around the bubble of people aware of the artificial origin of sars-cov-2 so that that
+information does not escape that line.
+⟦5⟧ Possibly zero people know. Researchers could have inserted an FCS into a virus, created
+sars-cov-2, gotten sick and released it from the lab without ever realizing - even in retrospect
+- that the virus in the lab was the same as the one in the wild. But surely they would have
+figured it out eventually? ⟦6⟧ Researchers at the WIV had already examined a preliminary
+sequence for sars-cov-2 by 2019 December 27, 63 wouldn't they have thought at some point
+to look at that sequence and see if it is like one of the viruses in their lab?
+⟦7⟧ Possibly one person knows. Some overworked, underpaid grad student took initiative to
+charge ahead on a (major, multi-year) research project unsupervised and got themselves
+sick. Shocked and overwhelmed by what happened, they covered up their research, threw
+away the materials, and vowed to take the secret to the grave.
+⟦8⟧ Possibly most of the lab knows. Sometimes research groups will write proposals based on
+work that is largely already completed; maybe the PI had started a major research project
+on the speculative hope of it getting funded down the road. The group worked hard and
+had success - until the pandemic, and they were afraid that if it became known how reckless
+they were, the whole lab would be shut down. The group agreed, perhaps tacitly, that no
+one was to know.
+⟦9⟧ Possibly people outside of the lab know. ⟦10⟧ Funding sources in China might have approved the
+project. ⟦11⟧ Researchers might have discussed their work with professional colleagues, friends,
+and family members. ⟦12⟧ Domestic and international collaborators might have contributed to
+the research. ⟦13⟧ Chinese officials might have interviewed lab personnel and found out the truth,
+or found physical evidence of the virus in the lab. ⟦14⟧ Lab workers might have accidentally or
+anonymously let slip the truth, or pieces of the truth, on social media. (Could the truth of
+covid's origins be openly circulating on Chinese social media and western investigators just
+never see it?)
+No matter how I draw the line, it is challenging for me to write a plausible story in which
+the secret stays inside. ⟦15⟧ I think the most reasonable of these is the third, that the secret does
+not leave the lab. In this version, maybe a half dozen or dozen people directly worked on the
+project to create sars-cov-2, and then told no-one, and several took active steps to conceal
+it. Or perhaps the true explanation of how the secret kept is too strange for me to ever think
+of it.
+If we imagine that at least six people knew about the research work that created sars-cov-2
+63The source I saw for this claim was a broken link, but the exact day isn't important here.
+and each has at least 50% chance to reveal some information about the existence of their
+research, then there is only 2% odds of the secret staying secret. ⟦16⟧ Conspiracies are hard to
+keep, especially when the participants are unwilling (ie, they didn't specifically choose to join
+the conspiracy) and secrecy is required weeks to years before there was any known reason
+for it. 2% sounds about right, but ⟦17⟧ considering my great uncertainty I could not give this
+lack of evidence a Bayes factor greater than 10.
+⟦18⟧ Rootclaim evaluates lack of whistleblower, intelligence leaks, and published backbone (any
+of which would constitute the secret escaping) as a combined probability of 14%, not far
+from the 10% I quite conservatively gave it.
+
+Claims:
+⟦1⟧ The author is uncertain about the practices of the lab where sars-cov-2 may have been created.
+⟦2⟧ The author does not know any of the people involved in the lab or how they usually operate.
+⟦3⟧ The author is restricted by the rules of the debate to the information brought by each side.
+⟦4⟧ The author finds it hard to imagine how to keep the secret of sars-cov-2's artificial origin.
+⟦5⟧ It is possible that zero people know about the artificial origin of sars-cov-2.
+⟦6⟧ Researchers at the WIV had examined a preliminary sequence for sars-cov-2 by 2019 December 27.
+⟦7⟧ It is possible that one person knows about the artificial origin of sars-cov-2.
+⟦8⟧ It is possible that most of the lab knows about the artificial origin of sars-cov-2.
+⟦9⟧ It is possible that people outside of the lab know about the artificial origin of sars-cov-2.
+⟦10⟧ Funding sources in China might have approved the project to create sars-cov-2.
+⟦11⟧ Researchers might have discussed their work with professional colleagues, friends, and family members.
+⟦12⟧ Domestic and international collaborators might have contributed to the research on sars-cov-2.
+⟦13⟧ Chinese officials might have interviewed lab personnel and found out the truth about sars-cov-2's origins.
+⟦14⟧ Lab workers might have accidentally or anonymously let slip the truth about sars-cov-2's origins on social media.
+⟦15⟧ The author thinks the most reasonable scenario is that the secret of sars-cov-2's artificial origin does not leave the lab.
+⟦16⟧ Conspiracies are hard to keep, especially when the participants are unwilling and secrecy is required weeks to years before there was any known reason for it.
+⟦17⟧ The author could not give the lack of evidence a Bayes factor greater than 10 due to great uncertainty.
+⟦18⟧ Rootclaim evaluates the lack of whistleblower, intelligence leaks, and published backbone as a combined probability of 14%.

@@ -1,0 +1,67 @@
+1.2  Background: what is in the sars-cov-2 genome?
+
+⟦1⟧ Coronaviruses are large viruses whose genome consists of a single-strand of RNA with approx-
+imately 30000 nucleotides. ⟦2⟧ The RNA is entangled with many copies of the viral nucleocapsid
+protein, ⟦3⟧ and when outside of cells is protected by an envelope consisting of a membrane taken
+from the host cell and studded with viral proteins.
+⟦4⟧ Viral RNA is translated 11 by ribosomes in the host cell to form proteins. ⟦5⟧ This is done in
+groups of 3 nucleotides at a time, called "codons". ⟦6⟧ As there are 4 possible nucleotides at
+each position, there are 64 possible codons, ⟦7⟧ each of which yields a particular amino acid;
+⟦8⟧ the chain of amino acids constitutes a protein, with the particular chemical properties of
+the amino acids causing it to fold into a shape suitable for that protein's specific function.
+⟦9⟧ The assignment of an amino acid to each possible codon is called the genetic code. ⟦10⟧ Humans
+have 20 different amino acids, ⟦11⟧ so there exist multiple codons that yield the same amino
+acid, ⟦12⟧ and synonymous mutations which change the nucleotide sequence without changing
+the amino acid sequence are possible. ⟦13⟧ The genetic code is not random: ⟦14⟧ mutations tend to be
+synonymous, and nonsynonymous mutations tend to yield amino acids with similar chemical
+⟦15⟧ 11The coronavirus genome is positive sense, ⟦16⟧ meaning that first the genomic RNA is transcribed to make
+negative sense RNA, which is then translated.
+Figure 2: Photograph of the west half of HSM, looking west from Xinhua road, with the east
+half of HSM behind the viewer. Notice that the end of each alley opens up directly to the
+air, with two storefronts between each alley. The busy street would have slowed foot traffic
+between west and east HSM. I believe this image was captured after HSM was closed down
+but before the current barriers were installed. Photograph from Baidu street view.
+properties, or at least more often than one would expect from a randomly designed genetic
+code.
+⟦17⟧ As host cells do not contain the cellular machinery to replicate RNA, the first two-thirds of
+the viral genome, called the "open reading frame 1ab" (ORF1ab), encodes 16 different pro-
+teins involved in the viral replication and assembly process. ⟦18⟧ The rest of the protein encodes
+the four structural proteins: spike (S), envelope (E), membrane (M), and nucleocapsid (N),
+as well as accessory proteins. ⟦19⟧ The envelope and membrane proteins are components of the
+viral envelope, ⟦20⟧ while the large spike protein protrudes outwards from the envelope, making
+it the first point of contact with other objects. ⟦21⟧ The bumpy texture of the spike proteins
+resembles a "crown", giving coronaviruses their name.
+⟦22⟧ The spike protein plays an important role in the infection process, ⟦23⟧ as it binds to a matching
+receptor in the membrane of the target cells. ⟦24⟧ In sars-cov-2, the spike binds to the ACE2
+receptor found throughout the human body, including lungs and intestines; ⟦25⟧ after binding, the
+spike is then cleaved into two pieces, which for reasons inscrutable to me facilitates merging
+the virus envelope with the cellular membrane and so delivering the genome into the cell.
+This cleaving process will become relevant after we have introduced the phylogenetics of
+coronaviruses.
+
+Claims:
+⟦1⟧ Coronaviruses have a genome that consists of a single-strand of RNA with approximately 30000 nucleotides.
+⟦2⟧ The RNA of coronaviruses is entangled with many copies of the viral nucleocapsid protein.
+⟦3⟧ The envelope of coronaviruses consists of a membrane taken from the host cell and studded with viral proteins.
+⟦4⟧ Viral RNA is translated by ribosomes in the host cell to form proteins.
+⟦5⟧ The translation of viral RNA is done in groups of 3 nucleotides at a time, called codons.
+⟦6⟧ There are 4 possible nucleotides at each position, resulting in 64 possible codons.
+⟦7⟧ Each codon yields a particular amino acid.
+⟦8⟧ The chain of amino acids constitutes a protein, with the particular chemical properties of the amino acids causing it to fold into a shape suitable for that protein's specific function.
+⟦9⟧ The assignment of an amino acid to each possible codon is called the genetic code.
+⟦10⟧ Humans have 20 different amino acids.
+⟦11⟧ There exist multiple codons that yield the same amino acid.
+⟦12⟧ Synonymous mutations, which change the nucleotide sequence without changing the amino acid sequence, are possible.
+⟦13⟧ The genetic code is not random.
+⟦14⟧ Mutations tend to be synonymous.
+⟦15⟧ The coronavirus genome is positive sense.
+⟦16⟧ The genomic RNA of coronaviruses is first transcribed to make negative sense RNA, which is then translated.
+⟦17⟧ The first two-thirds of the viral genome, called the open reading frame 1ab (ORF1ab), encodes 16 different proteins involved in the viral replication and assembly process.
+⟦18⟧ The rest of the viral genome encodes the four structural proteins: spike (S), envelope (E), membrane (M), and nucleocapsid (N), as well as accessory proteins.
+⟦19⟧ The envelope and membrane proteins are components of the viral envelope.
+⟦20⟧ The large spike protein protrudes outwards from the envelope, making it the first point of contact with other objects.
+⟦21⟧ The bumpy texture of the spike proteins resembles a crown, giving coronaviruses their name.
+⟦22⟧ The spike protein plays an important role in the infection process.
+⟦23⟧ The spike protein binds to a matching receptor in the membrane of the target cells.
+⟦24⟧ In SARS-CoV-2, the spike binds to the ACE2 receptor found throughout the human body, including lungs and intestines.
+⟦25⟧ After binding, the spike is then cleaved into two pieces, which facilitates merging the virus envelope with the cellular membrane and delivering the genome into the cell.

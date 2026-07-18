@@ -1,0 +1,88 @@
+3.2  Rootclaim's Bayesian calculation
+
+Let us take a look at Rootclaim's other Bayesian calculation, ⟦1⟧ which was their main analysis.
+I have reconstructed the numbers below; for each term they also gave low and high estimates
+for the probabilities, which I have omitted for space. Here the prior was taken to be 0 .2321,
+⟦2⟧ which has a Bayes factor of 0.2321/0.7679.
+in doubt of how carefully these estimates and calculations were performed. In any case I tried to take the
+most reasonable interpretation of what the intended meaning of the presented numbers are.
+evidence Bayes log-odds
+⟦3⟧ prior 0 .302 25 -1.2
+⟦4⟧ location of first SSE 13 .48 2 .6
+⟦5⟧ adjust for BSL-2 4 1 .39
+⟦6⟧ FCS 2 0 .69
+⟦7⟧ Human ACE-2 5 1 .61
+⟦8⟧ N-glycan 1 .5 0 .41
+⟦9⟧ 12 nucleotide insert 50 3 .91
+⟦10⟧ CGGCGG 10.683 76 2 .37
+⟦11⟧ PRRAR, out of frame 0 .4 -0.92
+⟦12⟧ no contact tracing 2 0 .69
+⟦13⟧ no genome sharing 2 0 .69
+⟦14⟧ RATG13, ignore FCS 2 0 .69
+⟦15⟧ no whistleblower 0 .5 -0.69
+⟦16⟧ no intelligence leaks 0 .7 -0.36
+⟦17⟧ no published backbone 0 .4 -0.92
+⟦18⟧ no known WIV infections 1 0
+⟦19⟧ no intermediate host 4 1 .39
+⟦20⟧ total 234 015 12 .363 14
+⟦21⟧ The positive log-odds terms (ie, those pieces of evidence which favor the lab leak theory)
+have a total weight of 16.44. ⟦22⟧ Half of that weight comes from three pieces of evidence: the
+12nct insert, CGGCGG , and the location of the first SSE (sum 8.882). These three pieces of
+evidence are claimed to be strong and deserve commensurate analysis. ⟦23⟧ The other half comes
+from eight different pieces of evidence that are individually weak and appear ad hoc. Many
+of these individual terms will be discussed in detail later.
+As per the argument in the previous subsection, that evidence is excluded; but if you believe
+the previous subsection should have a Bayes factor below 1, then it should be multiplied into
+the total for the main Bayes calculation.
+⟦24⟧ This argument is considerably less bad than that given in the previous subsection. ⟦25⟧ Nonethe-
+less it bears some resemblance to the space lizard argument, ⟦26⟧ and observations seem to be
+selected primarily on the basis of how much they stand out rather than any canonical or
+complete collection of evidence. This is fine if the observations really stand out - ⟦27⟧ a factor of
+50 is not bad, and you will be hard pressed to turn up many factors of 50 by chance. ⟦28⟧ But
+Rootclaim includes five factors of 2 or less in their favor, ⟦29⟧ and these should be plentiful to
+find for any hypothesis, true or false. (Though Rootclaim did intend some of these factors
+as being quite conservative.)
+⟦30⟧ The numbers selected by Rootclaim also lead to some odd conclusions. For example, the
+lack of known intermediate host is given more weight than the prior; does Rootclaim believe
+more than half of pandemics where we have failed to identify an intermediate host are lab
+leaks? ⟦31⟧ Similarly, Rootclaim evaluates 80% of pandemics that first appear in Wuhan to be
+lab leaks. It is a little difficult to understand what the "adjust for BSL-2" factor means in
+isolation, but ⟦32⟧ it seems to have the effect that half of all pandemics with highly contagious
+viruses for which BSL-2 is inadequate would also be lab leaks.
+⟦33⟧ Overall, I found Rootclaim's Bayesian calculation sufficient to be intriguing but not sufficient
+to compel a conclusion.
+
+Claims:
+⟦1⟧ Rootclaim's Bayesian calculation has a prior of 0.2321.
+⟦2⟧ The prior of 0.2321 has a Bayes factor of 0.2321/0.7679.
+⟦3⟧ The evidence 'prior' has a Bayes log-odds of -1.2.
+⟦4⟧ The evidence 'location of first SSE' has a Bayes log-odds of 2.6.
+⟦5⟧ The evidence 'adjust for BSL-2' has a Bayes log-odds of 1.39.
+⟦6⟧ The evidence 'FCS' has a Bayes log-odds of 0.69.
+⟦7⟧ The evidence 'Human ACE-2' has a Bayes log-odds of 1.61.
+⟦8⟧ The evidence 'N-glycan' has a Bayes log-odds of 0.41.
+⟦9⟧ The evidence '12 nucleotide insert' has a Bayes log-odds of 3.91.
+⟦10⟧ The evidence 'CGGCGG' has a Bayes log-odds of 2.37.
+⟦11⟧ The evidence 'PRRAR, out of frame' has a Bayes log-odds of -0.92.
+⟦12⟧ The evidence 'no contact tracing' has a Bayes log-odds of 0.69.
+⟦13⟧ The evidence 'no genome sharing' has a Bayes log-odds of 0.69.
+⟦14⟧ The evidence 'RATG13, ignore FCS' has a Bayes log-odds of 0.69.
+⟦15⟧ The evidence 'no whistleblower' has a Bayes log-odds of -0.69.
+⟦16⟧ The evidence 'no intelligence leaks' has a Bayes log-odds of -0.36.
+⟦17⟧ The evidence 'no published backbone' has a Bayes log-odds of -0.92.
+⟦18⟧ The evidence 'no known WIV infections' has a Bayes log-odds of 0.
+⟦19⟧ The evidence 'no intermediate host' has a Bayes log-odds of 1.39.
+⟦20⟧ The total Bayes log-odds is 14.
+⟦21⟧ The positive log-odds terms have a total weight of 16.44.
+⟦22⟧ Half of the total weight comes from three pieces of evidence: the 12nct insert, CGGCGG, and the location of the first SSE.
+⟦23⟧ The other half of the total weight comes from eight different pieces of evidence that are individually weak and appear ad hoc.
+⟦24⟧ Rootclaim's argument is considerably less bad than that given in the previous subsection.
+⟦25⟧ Rootclaim's argument bears some resemblance to the space lizard argument.
+⟦26⟧ Observations seem to be selected primarily on the basis of how much they stand out rather than any canonical or complete collection of evidence.
+⟦27⟧ A factor of 50 is not bad, and you will be hard pressed to turn up many factors of 50 by chance.
+⟦28⟧ Rootclaim includes five factors of 2 or less in their favor.
+⟦29⟧ These factors should be plentiful to find for any hypothesis, true or false.
+⟦30⟧ The lack of known intermediate host is given more weight than the prior.
+⟦31⟧ Rootclaim evaluates 80% of pandemics that first appear in Wuhan to be lab leaks.
+⟦32⟧ The 'adjust for BSL-2' factor seems to have the effect that half of all pandemics with highly contagious viruses for which BSL-2 is inadequate would also be lab leaks.
+⟦33⟧ The author found Rootclaim's Bayesian calculation sufficient to be intriguing but not sufficient to compel a conclusion.

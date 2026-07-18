@@ -1,0 +1,126 @@
+4.2  Applying model to zoonotic and lab-leak hypotheses
+
+⟦1⟧ LetZ be the event that zoonotic spillover of covid took place at an east Asian wildlife market,
+⟦2⟧ andLL be the event that covid resulted as a lab-leak from a lab conducting gain-of-function
+research. ⟦3⟧ The observed index case is a shrimp vendor in HSM; call this observation H. We
+want to estimate P (H|Z) and P (H|LL) using the model from the previous subsection. So,
+for each hypothesis, how large of a circle do we have to draw around the primary case to
+include the index case?
+⟦4⟧ ForZ, the primary case would be any wildlife vendor at an east Asian market. We do not
+have to draw a large circle to get from such a vendor to the index case; ⟦5⟧ the smallest circle
+we could draw would include all residents at a market which has wildlife. 35 ⟦6⟧ At HSM, there
+were 1162 vendors ([32] annex page 182), ⟦7⟧ which we round to 1200 as that makes the numbers
+easier. (When including all employees and daily visitors I imagine it would go somewhat
+higher than that.)
+⟦8⟧ But HSM is not the only market, and there are potential primary cases at other markets,
+so our circle must include all residents at those markets as well. In their written responses,
+33I found that in a d-dimensional Euclidean space, the Kullback-Leibler divergence of the true probability
+distribution relative to our simple model is a rather small 1
+2 log(π(d+ 2))- 1 +o(1/d). This fact is not useful
+here, but after going to the trouble of calculating it I felt compelled to mention it somewhere!
+34This is a circle in epidemiology space, not physically on a map.
+35By "resident" I mean not just vendors but any employee or daily visitor to the market; to a first
+approximation this is synonymous with "vendor". There is of course much room for variation in the choices
+I am making. For example, early covid cases were concentrated on the west half of HSM, so perhaps we
+should draw a smaller circle that includes only half the market. Conversely, perhaps we should be including
+household members of market vendors in our circle.
+⟦9⟧ Saar gives the probability of the market in question being HSM as 0.2% [7], ⟦10⟧ and Peter gives
+2% [8], ⟦11⟧ so by those numbers our circle should include 60 to 600 thousand people. 36
+⟦12⟧ ForLL, the primary case would be any laboratory worker at a lab doing gain-of-function
+research on coronaviruses. ⟦13⟧ In Wuhan, to draw a circle large enough to include the index case
+requires including the whole city, as there is no known potential chain of transmission from a
+lab worker to a resident at HSM that is significantly shorter than what you might expect to
+any other person in the city. ⟦14⟧ Saar guesses that 20% of such GoF research is at WIV ([1] at
+2:29:30), ⟦15⟧ so multiplying the population of Wuhan by 5 suggests a circle containing 60 million
+people.
+Our naive analysis then yields
+⟦16⟧ P (H|Z) = 1/(6· 104) to 1/(6· 105)
+⟦17⟧ P (H|LL) = 1/(6· 107)
+⟦18⟧ for a Bayes factor of 100 to 1000 in favor of zoonotic spillover.
+⟦19⟧ Many of the inaccuracies in our model will apply equally to both Z andLL, and thus cancel
+out for the purposes of calculating a Bayes factor, but not all. We have supposed that
+the contact graph is homogeneous, so that everyone has the same number of contacts; but
+⟦20⟧ asymmetries in the graph could potentially cause a random walk to be more likely to end
+up in some places than another. 37 ⟦21⟧ Saar claims that this effect causes outbreaks to be more
+likely to show up at HSM than one might expect otherwise; if so, this raises the probability
+of P (H|LL), but does not change P (H|Z) because under the zoonotic hypothesis our circle
+is already been restricted to HSM.
+⟦22⟧ We should also ask whether our analysis should be so sensitive to who the index case is:
+⟦23⟧ the earliest cases were all close in time, and under a slight change in events the earliest
+among them could easily have been someone else, plausibly even someone not at HSM.
+⟦24⟧ We can address this by not considering a single index case but a sort of "average" of the
+earliest cases; enough of them are HSM residents, or closely linked to HSM, that the result is
+essentially the same as having a singular unambiguous index case who is a resident at HSM.
+Had the earliest case data a more ambiguous nexus, this would have required more careful
+analysis.
+There are much more serious concerns with this analysis. ⟦25⟧ We have chosen Z to represent
+zoonotic spillover at an east Asian wildlife market; if this feels arbitrary, that's because it
+is. ⟦26⟧ Properly the debate concerns the possibility of zoonotic spillover at any location, not
+necessarily a wildlife market and not necessarily in east Asia. ⟦27⟧ Notably, Saar observes [7] the
+possibility of zoonotic spillover at a restaurant that processes live animals. ⟦28⟧ If we were to
+expand Z to include restaurants and locations outside of east Asia, our circle would grow
+enormously, and P (H|Z) be reduced in proportion. Conversely, since we are interested in
+an outbreak that we know took place in Wuhan, we could reduce Z to zoonotic spillover at
+36If this feels a little high, keep in mind most wildlife markets are smaller than HSM, so this should
+probably be lowered a bit.
+37This is related to the well-known "friendship paradox" that most people's friends have more friends on
+average than they do. [15]
+HSM, or perhaps even down to a specific shop. ⟦29⟧ Each of these choices for Z is fully consistent
+with the parameters of the debate; which choice of Z is "correct"?
+⟦30⟧ Similarly, one could ask ifLL was chosen appropriately; would we be having the same debate
+if covid appeared in a different city that lacked WIV but had other research laboratories
+engaged in potentially dangerous coronavirus research?
+⟦31⟧ For example, restricting Z to HSM and LL to WIV we get
+P (H|Z) = 1/1200
+P (H|LL) = 1/(1.2· 107)
+⟦32⟧ for a Bayes factor of 10000.
+⟦33⟧ It is problematic for our estimates of P (H|Z) and P (H|LL) to vary by orders of magnitude
+simply by taking a different perspective on the evidence: ⟦34⟧ the truth of the origin of covid
+should not depend on the exact wording used by each side of the debate. ⟦35⟧ The resolution to
+this problem is that as P (H|Z) varies wildly as we adjust our interpretation of the event
+Z, the prior probability P (Z) varies wildly in the opposite direction. ⟦36⟧ If we broaden Z to
+include all sorts of potential sources around the world, P (Z) increases; if we narrow Z to a
+single specific resident at HSM, P (Z) decreases in accord. The joint probability P (H∩Z)
+is in each case unchanged. 38
+⟦37⟧ Therefore any discussion ofP (H|Z) andP (H|LL) is intrinsically linked to the more difficult
+discussion of the prior probabilities P (Z) and P (LL). We will delay further analysis on this
+to that time, in section 7.
+
+Claims:
+⟦1⟧ The event that zoonotic spillover of covid took place at an east Asian wildlife market is denoted as Z
+⟦2⟧ The event that covid resulted as a lab-leak from a lab conducting gain-of-function research is denoted as LL
+⟦3⟧ The observed index case is a shrimp vendor in HSM
+⟦4⟧ The primary case for the zoonotic hypothesis would be any wildlife vendor at an east Asian market
+⟦5⟧ The smallest circle that can be drawn to include the index case for the zoonotic hypothesis includes all residents at a market which has wildlife
+⟦6⟧ There were 1162 vendors at HSM
+⟦7⟧ The number of vendors at HSM is rounded to 1200 for easier calculations
+⟦8⟧ The circle for the zoonotic hypothesis must include all residents at other markets besides HSM
+⟦9⟧ Saar gives the probability of the market in question being HSM as 0.2%
+⟦10⟧ Peter gives the probability of the market in question being HSM as 2%
+⟦11⟧ The circle for the zoonotic hypothesis should include 60 to 600 thousand people based on the given probabilities
+⟦12⟧ The primary case for the lab-leak hypothesis would be any laboratory worker at a lab doing gain-of-function research on coronaviruses
+⟦13⟧ To draw a circle large enough to include the index case for the lab-leak hypothesis, the whole city of Wuhan must be included
+⟦14⟧ Saar estimates that 20% of gain-of-function research is conducted at WIV
+⟦15⟧ The circle for the lab-leak hypothesis contains 60 million people based on the population of Wuhan and the estimated percentage of gain-of-function research at WIV
+⟦16⟧ The estimated probability of the index case given the zoonotic hypothesis, P(H|Z), is between 1/(6·10^4) and 1/(6·10^5)
+⟦17⟧ The estimated probability of the index case given the lab-leak hypothesis, P(H|LL), is 1/(6·10^7)
+⟦18⟧ The Bayes factor in favor of the zoonotic hypothesis is between 100 and 1000
+⟦19⟧ Many inaccuracies in the model apply equally to both the zoonotic and lab-leak hypotheses and cancel out for the purposes of calculating the Bayes factor
+⟦20⟧ Asymmetries in the contact graph could potentially cause a random walk to be more likely to end up in some places than others
+⟦21⟧ Saar claims that asymmetries in the contact graph cause outbreaks to be more likely to show up at HSM than expected
+⟦22⟧ The analysis should consider whether the choice of index case affects the results
+⟦23⟧ The earliest cases were all close in time, and a slight change in events could have made someone else the index case
+⟦24⟧ Considering a sort of 'average' of the earliest cases instead of a single index case gives essentially the same result as having a singular index case who is a resident at HSM
+⟦25⟧ The choice of Z to represent zoonotic spillover at an east Asian wildlife market is arbitrary
+⟦26⟧ The debate concerns the possibility of zoonotic spillover at any location, not necessarily a wildlife market and not necessarily in east Asia
+⟦27⟧ Saar observes the possibility of zoonotic spillover at a restaurant that processes live animals
+⟦28⟧ Expanding Z to include restaurants and locations outside of east Asia would increase the circle and reduce P(H|Z)
+⟦29⟧ Each choice of Z is fully consistent with the parameters of the debate
+⟦30⟧ The choice of LL to represent lab-leak from WIV may not be appropriate if covid appeared in a different city with other research laboratories
+⟦31⟧ Restricting Z to HSM and LL to WIV gives P(H|Z) = 1/1200 and P(H|LL) = 1/(1.2·10^7)
+⟦32⟧ The Bayes factor in favor of the zoonotic hypothesis is 10000 when restricting Z to HSM and LL to WIV
+⟦33⟧ The estimates of P(H|Z) and P(H|LL) vary by orders of magnitude depending on the interpretation of the events Z and LL
+⟦34⟧ The truth of the origin of covid should not depend on the exact wording used by each side of the debate
+⟦35⟧ As P(H|Z) varies wildly with the interpretation of Z, the prior probability P(Z) varies wildly in the opposite direction
+⟦36⟧ The joint probability P(H∩Z) remains unchanged despite variations in P(H|Z) and P(Z)
+⟦37⟧ Discussion of P(H|Z) and P(H|LL) is intrinsically linked to the discussion of prior probabilities P(Z) and P(LL)

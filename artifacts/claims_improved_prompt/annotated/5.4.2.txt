@@ -1,0 +1,34 @@
+5.4.2  Proposed activities that would have involved WIV
+
+⟦1⟧ The proposal also contains a detailed breakdown of the planned activities into 61 tasks, and
+which groups will be doing each. Here I have summarized each step that WIV would have
+been involved in:
+⟦2⟧ ⟦3⟧ 1. Phase 1, tasks 3.1 and 3.2: Screen bat samples for sars-like viruses and sequence spike
+proteins
+⟦4⟧ 2. Task 6.1: make assays for identifying antibodies to known sars-like viruses
+⟦5⟧ 3. Tasks 6.2 and 6.3: verify assays on rabbits and blood samples from people who had
+SARS-1
+⟦6⟧ 4. Task 6.4: test assays on people in Yunnan to look for sars-like spillover events
+⟦7⟧ 5. Tasks 7.5 and 8.5: test viral 62 vector vaccine on captive bats
+⟦8⟧ 6. Phase 2, tasks 5.1 through 5.4: Identify cave features; surveil bats; deploy vaccines or
+immune boosters to caves; surveil bats
+⟦9⟧ As far as I can see, no genetic engineering would be performed at WIV, ⟦10⟧ nor would any
+chimeric viruses be brought there, except prototype vaccines which use a raccoonpox chimera.
+⟦11⟧ ⟦12⟧ ⟦13⟧ ⟦14⟧ WIV was to be involved with samples collected from bats, tests on bats, tests on people who
+live near bats, and experiments in bat caves.
+
+Claims:
+⟦1⟧ The proposal contains a detailed breakdown of the planned activities into 61 tasks.
+⟦2⟧ WIV would have been involved in tasks 3.1 and 3.2 in Phase 1.
+⟦3⟧ WIV would screen bat samples for sars-like viruses and sequence spike proteins in tasks 3.1 and 3.2.
+⟦4⟧ WIV would make assays for identifying antibodies to known sars-like viruses in task 6.1.
+⟦5⟧ WIV would verify assays on rabbits and blood samples from people who had SARS-1 in tasks 6.2 and 6.3.
+⟦6⟧ WIV would test assays on people in Yunnan to look for sars-like spillover events in task 6.4.
+⟦7⟧ WIV would test viral 62 vector vaccine on captive bats in tasks 7.5 and 8.5.
+⟦8⟧ WIV would identify cave features, surveil bats, deploy vaccines or immune boosters to caves, and surveil bats in tasks 5.1 through 5.4 in Phase 2.
+⟦9⟧ No genetic engineering would be performed at WIV.
+⟦10⟧ No chimeric viruses would be brought to WIV, except prototype vaccines which use a raccoonpox chimera.
+⟦11⟧ WIV was to be involved with samples collected from bats.
+⟦12⟧ WIV was to be involved with tests on bats.
+⟦13⟧ WIV was to be involved with tests on people who live near bats.
+⟦14⟧ WIV was to be involved with experiments in bat caves.

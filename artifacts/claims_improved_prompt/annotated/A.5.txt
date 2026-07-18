@@ -1,0 +1,24 @@
+A.5  Early mutation rate
+
+⟦1⟧ Naively one expects that the mutation rate of a virus would be greatest immediately after
+jumping species. ⟦2⟧ In principle this could be used to distinguish a zoonotic origin from a virus
+that had been pre-adapted to a human host in the lab.
+⟦3*⟧ In the proposal for Project DEFUSE, viruses would be evaluated based on disease they
+cause in "humanized mice", ⟦4⟧ ie mice with human ACE2 receptors [14]. ⟦5⟧ While the result of
+this filtering process would be better adapted to humans than wild viruses, ⟦6⟧ the effect would
+presumably be confined to the receptor binding domain of sars-cov-2; ⟦7⟧ the rest of the virus
+would not be selected for being specialized for human hosts. ⟦8⟧ Therefore I do not expect the
+early mutation rate to be useful in distinguishing the hypotheses without significant and
+very technical investigation.
+
+Claims:
+⟦1⟧ The mutation rate of a virus is expected to be greatest immediately after jumping species.
+⟦2⟧ The mutation rate could be used to distinguish a zoonotic origin from a virus that had been pre-adapted to a human host in the lab.
+⟦3*⟧ Viruses would be evaluated based on disease they cause in humanized mice in the proposal for Project DEFUSE.
+⟦4⟧ Humanized mice have human ACE2 receptors.
+⟦5⟧ The result of the filtering process in Project DEFUSE would be better adapted to humans than wild viruses.
+⟦6⟧ The effect of the filtering process in Project DEFUSE would be confined to the receptor binding domain of sars-cov-2.
+⟦7⟧ The rest of the virus would not be selected for being specialized for human hosts in Project DEFUSE.
+⟦8⟧ The early mutation rate is not expected to be useful in distinguishing the hypotheses without significant and very technical investigation.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

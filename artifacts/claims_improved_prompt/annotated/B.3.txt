@@ -1,0 +1,185 @@
+B.3  Vendor cases
+
+⟦1⟧ Of the 55 HSM-linked cases in the WHO report, ⟦2⟧ 53 were acquired at HSM and 2 acquired
+indirectly; ⟦3⟧ 30 of these were vendors who work at fixed shops in HSM (annex page 177).
+(⟦4⟧ Some of the other 23 were also HSM employees or regular visitors.) ⟦5⟧ With much squinting
+at the map on annex page 181, and comparing to figure S2 of [12], the locations of each of
+the 30 vendor cases can be identified. ⟦6⟧ I have consolidated this with the HSM vendor cases
+found by Dr Marion Koopmans from the data file of [12], located at https://github.com/
+sars-cov-2-origins/huanan-market-environment/blob/main/metadata/cases.csv . ⟦7*⟧ (She
+presumably had access to this data due to being on the 2021 WHO investigative team, specif-
+ically as the head of the molecular epidemiology subteam.) ⟦8⟧ Date ranges can be narrowed in
+some cases by cross referencing information in other parts of the WHO report.
+⟦9⟧ Note that the case data from Dr Koopmans is simply an unannotated csv file with no context
+or discussion that I found in a github repository linked to from a paper she co-authored.
+⟦10⟧ Thus the data has no implied warranty of validity - it could easily be some draft or working
+data that was accidentally uploaded. ⟦11⟧ None-the-less it does match with case maps she has
+made in public presentations.
+In the following table, each shop location is given as the alley followed by the number within
+that alley. Most shops are in the west half of HSM; shops in east half are indicated with
+an "E". Some shops occupy multiple numbers, in which case the numbers will be comma
+separated. A superscript indicates multiple cases at the same shop in the same date range.
+date (2019 Dec) stall number source notes
+⟦12⟧ 13 12:19,21,23 WHO+MK annex page 179; ⟦13⟧ WHO has
+this more specifically at
+12:21
+⟦14⟧ 15 or earlier 2:14 MK ⟦15⟧ Wei Guixian, Dec 10, first
+known case
+⟦16⟧ 15 or earlier 6:22,24 MK
+⟦17⟧ ⟦18⟧ 15 or earlier 7:5,7 2 MK
+⟦19⟧ 15 or earlier 7:15,17 MK
+⟦20⟧ ⟦21⟧ 15 or earlier 7:26,28 2 WHO+MK ⟦22⟧ ⟦23⟧ WHO has only one case, in
+Dec 21 to 27
+⟦24⟧ 15 or earlier 8:26,28 MK
+⟦25⟧ 15 or earlier 10:22 MK
+⟦26⟧ 17 13:X1,15:2 WHO+MK ⟦27⟧ ⟦28⟧ ⟦29⟧ cluster 2, annex page 157
+⟦30⟧ 18 to 20 7:5,7 WHO+MK
+⟦31⟧ 18 to 20 15:13,15,17 WHO+MK ⟦32*⟧ MK has this more specifi-
+cally at 15:15
+⟦33⟧ 18 to 20 back street:2 WHO+MK
+⟦34⟧ 19 13:X1,15:2 WHO+MK cluster 2, annex page 157
+⟦35⟧ 20 5:6,8 WHO+MK ⟦36⟧ ⟦37⟧ cluster 4, annex page 158
+⟦38⟧ 21 to 27 4:6 WHO+MK
+⟦39⟧ 21 to 27 4:24 WHO+MK
+⟦40⟧ 21 to 27 4:26,28 WHO+MK
+⟦41⟧ 21 to 27 4:X4,X6 WHO+MK
+⟦42⟧ 21 to 27 9:19,21,23 WHO+MK ⟦43*⟧ MK has this more specifi-
+cally at 9:21
+⟦44⟧ 21 to 27 11:15 WHO+MK
+⟦45⟧ 21 to 27 11:17 WHO+MK
+⟦46⟧ 21 to 27 11:25 WHO+MK
+⟦47⟧ 21 to 27 13:X5 WHO+MK
+⟦48⟧ 21 to 27 13:X32 WHO ⟦49⟧ according to [12], the WHO
+has this in 13:26 instead
+⟦50⟧ 21 to 27 E2:1 WHO+MK
+⟦51⟧ 21 to 27 E3:5,7,9 WHO+MK ⟦52*⟧ MK has this more specifi-
+cally at E3:7
+⟦53⟧ 21 to 27 E7:3 WHO
+⟦54⟧ 21 to 27 E7:15,17 WHO+MK
+⟦55⟧ 21 to 27 E11:42 WHO
+⟦56⟧ 25 13:X1,15:2 WHO+MK cluster 2, annex page 157
+⟦57⟧ 26 5:6,8 WHO+MK cluster 4, annex page 158
+(continued)
+date (2019 Dec) stall number source notes
+⟦58⟧ 16 to 31 E8:19 MK
+⟦59⟧ 16 to 31 E9:46 MK
+⟦60⟧ 16 to 31 1:X3,X5 MK
+⟦61⟧ 16 to 31 2:5,7 2 MK
+⟦62⟧ 16 to 31 2:15 MK
+⟦63⟧ 16 to 31 2:18 MK
+⟦64⟧ 16 to 31 3:6 MK
+⟦65⟧ 16 to 31 4:2,4 2 WHO+MK ⟦66⟧ ⟦67⟧ WHO has only one case, in
+Dec 28 to 31
+⟦68⟧ 16 to 31 4:16,18 2 MK
+⟦69⟧ 16 to 31 4:X1 MK
+⟦70⟧ 16 to 31 5:6,8 MK ⟦71⟧ presumably also part of
+cluster 4
+⟦72⟧ 16 to 31 7:1,3 MK
+⟦73⟧ 16 to 31 7:5,7 MK
+⟦74⟧ 16 to 31 8:2,8:4,9:1,9:3 2 WHO+MK WHO has only one case, in
+Dec 28 to 31
+⟦75⟧ 16 to 31 10:13 MK
+⟦76⟧ 16 to 31 10:22 2 MK
+⟦77⟧ 16 to 31 11:22 MK
+⟦78⟧ 16 to 31 13:26 MK ⟦79⟧ possibly same as WHO case
+in 13:X32
+⟦80⟧ 16 to 31 13:X1,15:2 MK ⟦81⟧ presumably also part of
+cluster 2
+⟦82⟧ 16 to 31 15:12 MK
+⟦83⟧ 16 to 31 15:35 MK
+⟦84⟧ 16 to 31 15:44 2 WHO+MK WHO has only one case, in
+Dec 21 to 27
+⟦85⟧ 28 to 31 4:X2 WHO+MK
+⟦86⟧ 28 to 31 back street:14 WHO+MK
+⟦87⟧ In total this constitutes 62 cases, assuming the 13:X32 and 13:26 cases are the same.
+
+Claims:
+⟦1⟧ There were 55 HSM-linked cases in the WHO report.
+⟦2⟧ 53 of the HSM-linked cases were acquired at HSM and 2 acquired indirectly.
+⟦3⟧ 30 of the HSM-linked cases were vendors who work at fixed shops in HSM.
+⟦4⟧ Some of the other 23 HSM-linked cases were also HSM employees or regular visitors.
+⟦5⟧ The locations of each of the 30 vendor cases can be identified by comparing the map on annex page 181 to figure S2 of [12].
+⟦6⟧ Dr Marion Koopmans found HSM vendor cases from the data file of [12].
+⟦7*⟧ Dr Marion Koopmans was on the 2021 WHO investigative team, specifically as the head of the molecular epidemiology subteam.
+⟦8⟧ Date ranges can be narrowed in some cases by cross referencing information in other parts of the WHO report.
+⟦9⟧ The case data from Dr Koopmans is an unannotated csv file with no context or discussion.
+⟦10⟧ The case data from Dr Koopmans has no implied warranty of validity.
+⟦11⟧ The case data from Dr Koopmans matches with case maps she has made in public presentations.
+⟦12⟧ There were cases at shop location 12:19, 12:21, and 12:23 on December 13, 2019.
+⟦13⟧ The WHO report has a case at shop location 12:21 on December 13, 2019.
+⟦14⟧ There were cases at shop location 2:14 on December 15 or earlier, 2019.
+⟦15⟧ Wei Guixian was the first known case on December 10, 2019.
+⟦16⟧ There were cases at shop locations 6:22 and 6:24 on December 15 or earlier, 2019.
+⟦17⟧ There were cases at shop locations 7:5 and 7:7 on December 15 or earlier, 2019.
+⟦18⟧ There were two cases at shop locations 7:5 and 7:7 on December 15 or earlier, 2019.
+⟦19⟧ There were cases at shop locations 7:15 and 7:17 on December 15 or earlier, 2019.
+⟦20⟧ There were cases at shop locations 7:26 and 7:28 on December 15 or earlier, 2019.
+⟦21⟧ There were two cases at shop locations 7:26 and 7:28 on December 15 or earlier, 2019.
+⟦22⟧ The WHO report has only one case at shop locations 7:26 and 7:28 from December 21 to 27, 2019.
+⟦23⟧ The WHO report has only one case at shop location 15:44 from December 21 to 27, 2019.
+⟦24⟧ There were cases at shop locations 8:26 and 8:28 on December 15 or earlier, 2019.
+⟦25⟧ There were cases at shop location 10:22 on December 15 or earlier, 2019.
+⟦26⟧ There were cases at shop locations 13:X1 and 15:2 on December 17, 2019.
+⟦27⟧ The cases at shop locations 13:X1 and 15:2 on December 17, 2019, are part of cluster 2.
+⟦28⟧ The cases at shop locations 13:X1 and 15:2 on December 19, 2019, are part of cluster 2.
+⟦29⟧ The cases at shop locations 13:X1 and 15:2 on December 25, 2019, are part of cluster 2.
+⟦30⟧ There were cases at shop locations 7:5 and 7:7 from December 18 to 20, 2019.
+⟦31⟧ There were cases at shop locations 15:13, 15:15, and 15:17 from December 18 to 20, 2019.
+⟦32*⟧ Dr Marion Koopmans has a case at shop location 15:15 from December 18 to 20, 2019.
+⟦33⟧ There were cases at shop location back street:2 from December 18 to 20, 2019.
+⟦34⟧ There were cases at shop locations 13:X1 and 15:2 on December 19, 2019.
+⟦35⟧ There were cases at shop locations 5:6 and 5:8 on December 20, 2019.
+⟦36⟧ The cases at shop locations 5:6 and 5:8 on December 20, 2019, are part of cluster 4.
+⟦37⟧ The cases at shop locations 5:6 and 5:8 on December 26, 2019, are part of cluster 4.
+⟦38⟧ There were cases at shop location 4:6 from December 21 to 27, 2019.
+⟦39⟧ There were cases at shop location 4:24 from December 21 to 27, 2019.
+⟦40⟧ There were cases at shop locations 4:26 and 4:28 from December 21 to 27, 2019.
+⟦41⟧ There were cases at shop locations 4:X4 and 4:X6 from December 21 to 27, 2019.
+⟦42⟧ There were cases at shop locations 9:19, 9:21, and 9:23 from December 21 to 27, 2019.
+⟦43*⟧ Dr Marion Koopmans has a case at shop location 9:21 from December 21 to 27, 2019.
+⟦44⟧ There were cases at shop location 11:15 from December 21 to 27, 2019.
+⟦45⟧ There were cases at shop location 11:17 from December 21 to 27, 2019.
+⟦46⟧ There were cases at shop location 11:25 from December 21 to 27, 2019.
+⟦47⟧ There were cases at shop location 13:X5 from December 21 to 27, 2019.
+⟦48⟧ There were cases at shop location 13:X32 from December 21 to 27, 2019, according to the WHO report.
+⟦49⟧ The WHO report has a case at shop location 13:26 instead of 13:X32 from December 21 to 27, 2019, according to [12].
+⟦50⟧ There were cases at shop location E2:1 from December 21 to 27, 2019.
+⟦51⟧ There were cases at shop locations E3:5, E3:7, and E3:9 from December 21 to 27, 2019.
+⟦52*⟧ Dr Marion Koopmans has a case at shop location E3:7 from December 21 to 27, 2019.
+⟦53⟧ There were cases at shop location E7:3 from December 21 to 27, 2019.
+⟦54⟧ There were cases at shop locations E7:15 and E7:17 from December 21 to 27, 2019.
+⟦55⟧ There were cases at shop location E11:42 from December 21 to 27, 2019.
+⟦56⟧ There were cases at shop locations 13:X1 and 15:2 on December 25, 2019.
+⟦57⟧ There were cases at shop locations 5:6 and 5:8 on December 26, 2019.
+⟦58⟧ There were cases at shop location E8:19 from December 16 to 31, 2019.
+⟦59⟧ There were cases at shop location E9:46 from December 16 to 31, 2019.
+⟦60⟧ There were cases at shop locations 1:X3 and 1:X5 from December 16 to 31, 2019.
+⟦61⟧ There were two cases at shop locations 2:5 and 2:7 from December 16 to 31, 2019.
+⟦62⟧ There were cases at shop location 2:15 from December 16 to 31, 2019.
+⟦63⟧ There were cases at shop location 2:18 from December 16 to 31, 2019.
+⟦64⟧ There were cases at shop location 3:6 from December 16 to 31, 2019.
+⟦65⟧ There were two cases at shop locations 4:2 and 4:4 from December 16 to 31, 2019.
+⟦66⟧ The WHO report has only one case at shop locations 4:2 and 4:4 from December 28 to 31, 2019.
+⟦67⟧ The WHO report has only one case at shop locations 8:2, 8:4, 9:1, and 9:3 from December 28 to 31, 2019.
+⟦68⟧ There were two cases at shop locations 4:16 and 4:18 from December 16 to 31, 2019.
+⟦69⟧ There were cases at shop location 4:X1 from December 16 to 31, 2019.
+⟦70⟧ There were cases at shop locations 5:6 and 5:8 from December 16 to 31, 2019.
+⟦71⟧ The cases at shop locations 5:6 and 5:8 from December 16 to 31, 2019, are presumably part of cluster 4.
+⟦72⟧ There were cases at shop locations 7:1 and 7:3 from December 16 to 31, 2019.
+⟦73⟧ There were cases at shop locations 7:5 and 7:7 from December 16 to 31, 2019.
+⟦74⟧ There were two cases at shop locations 8:2, 8:4, 9:1, and 9:3 from December 16 to 31, 2019.
+⟦75⟧ There were cases at shop location 10:13 from December 16 to 31, 2019.
+⟦76⟧ There were two cases at shop location 10:22 from December 16 to 31, 2019.
+⟦77⟧ There were cases at shop location 11:22 from December 16 to 31, 2019.
+⟦78⟧ There were cases at shop location 13:26 from December 16 to 31, 2019.
+⟦79⟧ The case at shop location 13:26 from December 16 to 31, 2019, is possibly the same as the WHO case at shop location 13:X32.
+⟦80⟧ There were cases at shop locations 13:X1 and 15:2 from December 16 to 31, 2019.
+⟦81⟧ The cases at shop locations 13:X1 and 15:2 from December 16 to 31, 2019, are presumably part of cluster 2.
+⟦82⟧ There were cases at shop location 15:12 from December 16 to 31, 2019.
+⟦83⟧ There were cases at shop location 15:35 from December 16 to 31, 2019.
+⟦84⟧ There were two cases at shop location 15:44 from December 16 to 31, 2019.
+⟦85⟧ There were cases at shop location 4:X2 from December 28 to 31, 2019.
+⟦86⟧ There were cases at shop location back street:14 from December 28 to 31, 2019.
+⟦87⟧ In total, there are 62 cases, assuming the 13:X32 and 13:26 cases are the same.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

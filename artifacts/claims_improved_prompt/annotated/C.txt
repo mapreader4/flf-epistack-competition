@@ -1,0 +1,38 @@
+C  Excluded information
+
+Crucially for fairness of the debate, ⟦1⟧ I was not permitted to base my decision on independent
+research beyond what the participants of the debate did. This gives the participants oppor-
+tunity to identify flaws or rebut any information presented against their side. However for
+the purposes of the exposition within this report I have not so limited myself, mostly for the
+purposes of filling in minor details that do not influence the debate outcome. 76 For example,
+⟦2⟧ while both sides of the debate estimated there were about 1000 vendors at HSM, the WHO
+76For example, at times when the debate participants cited secondary sources for a statement I would
+follow references back to a primary source to validate it before including and citing it in this ⟦3*⟧ document.
+report annex page 182 [32] gives a more exact figure of 1162 vendors, ⟦4⟧ which I freely use
+instead of 1000.
+However some of the information I encountered does appear to directly bear on the central
+topic of the debate; I did not want to exclude it from the report, but the reader should
+realize ⟦5⟧ it has been subjected to a lower level of critical scrutiny than the rest of the report,
+and may exhibit selection bias.
+(What does it mean to "exclude" information? ⟦6⟧ I have generally been using any material
+found in any reference from either party, so by that standard something in the annexes of
+the WHO report should be included. However, amongst the thousands of pages of reference
+material, ⟦7⟧ it seems likely that one or both parties could have overlooked something 100 pages
+deep into a supplementary materials section. What is important to me is the balance between
+the level of scrutiny a claim received in the debate and how contentious that claim is; ⟦8⟧ highly
+contentious claims that faced no scrutiny will be treated with extreme skepticism. ⟦9⟧ This is
+not a binary distinction where evidence is treated with full credulity just because it lies
+inside some fixed boundary line.)
+
+Claims:
+⟦1⟧ The author was not permitted to base their decision on independent research beyond what the participants of the debate did.
+⟦2⟧ The participants of the debate estimated there were about 1000 vendors at HSM.
+⟦3*⟧ The WHO report annex page 182 gives a figure of 1162 vendors at HSM.
+⟦4⟧ The author used the figure of 1162 vendors instead of 1000 for the purposes of the report.
+⟦5⟧ Some information encountered by the author may exhibit selection bias and has been subjected to a lower level of critical scrutiny.
+⟦6⟧ The author has generally used any material found in any reference from either party.
+⟦7⟧ It is likely that one or both parties could have overlooked something 100 pages deep into a supplementary materials section.
+⟦8⟧ The author treats highly contentious claims that faced no scrutiny with extreme skepticism.
+⟦9⟧ The author's treatment of evidence is not a binary distinction where evidence is treated with full credulity just because it lies inside some fixed boundary line.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

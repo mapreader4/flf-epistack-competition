@@ -1,0 +1,37 @@
+4.5.5  Are other diseases drawn to HSM?
+
+⟦1⟧ Rootclaim estimates that there was a 10% chance of the first covid outbreak appearing in
+HSM; ⟦2⟧ their reasoning applies equally well to other respiratory diseases. ⟦3⟧ We should expect,
+then, that in a typical winter HSM has one of the first 10 flu outbreaks in Wuhan. ⟦4*⟧ Com-
+parable markets elsewhere in Wuhan or in other cities should similarly be early nexuses of
+flus, colds, and other diseases.
+Is this true? ⟦5⟧ I have no direct evidence either for or against this, but I strongly suspect
+that if it were true someone would have noticed by now. ⟦6⟧ China, like the US, invests in flu
+surveillance and has a significant motive to identify potential infection sources or focuses.
+⟦7⟧ Saar contests that the factors favoring HSM are unique to when there are very few cases
+present in a city, ⟦8⟧ as the high rate of visitor traffic becomes less relevant when the disease is
+abundant everywhere ([4] at 20:40). However ⟦9⟧ disease transmission should remain linear at
+low case counts, ⟦10⟧ and nonlinearities only begin when some subpopulation has so many cases
+as to create significant immunity. ⟦11⟧ If the number of infected people in a city is doubled, the
+rate of outbreaks at every location is doubled, ⟦12⟧ and the chance that a certain location is first
+remains unchanged.
+(However ⟦13⟧ people have cross-year immunity to the flu and other endemic diseases, ⟦14⟧ which will
+slightly dampen inter-location variation in infectivity.)
+
+Claims:
+⟦1⟧ Rootclaim estimates that there was a 10% chance of the first covid outbreak appearing in HSM
+⟦2⟧ Rootclaim's reasoning applies equally well to other respiratory diseases
+⟦3⟧ We should expect that in a typical winter HSM has one of the first 10 flu outbreaks in Wuhan
+⟦4*⟧ Comparable markets elsewhere in Wuhan or in other cities should similarly be early nexuses of flus, colds, and other diseases
+⟦5⟧ The author has no direct evidence either for or against the expectation that HSM has one of the first 10 flu outbreaks in Wuhan
+⟦6⟧ China invests in flu surveillance and has a significant motive to identify potential infection sources or focuses
+⟦7⟧ Saar contests that the factors favoring HSM are unique to when there are very few cases present in a city
+⟦8⟧ The high rate of visitor traffic becomes less relevant when the disease is abundant everywhere
+⟦9⟧ Disease transmission should remain linear at low case counts
+⟦10⟧ Nonlinearities only begin when some subpopulation has so many cases as to create significant immunity
+⟦11⟧ If the number of infected people in a city is doubled, the rate of outbreaks at every location is doubled
+⟦12⟧ The chance that a certain location is first remains unchanged if the number of infected people in a city is doubled
+⟦13⟧ People have cross-year immunity to the flu and other endemic diseases
+⟦14⟧ Cross-year immunity to the flu and other endemic diseases will slightly dampen inter-location variation in infectivity
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

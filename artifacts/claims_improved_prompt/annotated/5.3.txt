@@ -1,0 +1,48 @@
+5.3  CGGCGG
+
+⟦1*⟧ Much attention has been drawn to the sars-cov-2 FCS, shown below as found in the Wuhan-
+Hu-1 reference sample [25]:
+CAG ACT CAG ACT AAT TCT CCT CGG CGG GCA CGT AGT GTA GCT AGT
+Q T Q T N S P R R A R S V A S
+⟦2⟧ Recall the RRAR sequence is the FCS, ⟦3⟧ with the putative insert relative to the closest known
+viruses being T CCT CGG CGG GC (or perhaps CCT CGG CGG GCA ).
+⟦4⟧ There are six different codons that code the arginine amino acid; in sars-cov-2 and similar
+viruses, ⟦5⟧ CGG is the rarest of the six possible encodings of arginine, at only 3-5%. ⟦6⟧ Rootclaim
+argues that this is evidence against a natural origin to the FCS, as it has two consecutive
+CGG codons.
+⟦7⟧ However, I would not expect a priori the codon frequency in an insert to match that of
+the surrounding genome, ⟦8⟧ but rather to reflect the frequency of the source of the fragment;
+⟦9⟧ note that CGG is the most common encoding of arginine in humans, for example. ⟦10⟧ The main
+reason CGG is rare in sars-like viruses is that there is a mutational bias against the C and G
+nucleotides; ⟦11⟧ C is the rarest at 18.4% of nucleotides in Wuhan-Hu-1, ⟦12⟧ followed by G at 19.6%,
+⟦13⟧ whereas A has 29.9% ⟦14⟧ and T has 32.1% [25]. ⟦15⟧ After a fragment from an outside source has
+been inserted, it takes time for this mutational bias to impact the novel fragment.
+⟦16⟧ Furthermore, if the fragment was inserted naturally, we do not know if the source had the
+same alignment, or even was a coding region at all. ⟦17⟧ We would have to analyze the frequency
+of the non-aligned codons to properly assess the likelihood of the CGGCGG sequence from a
+natural source.
+⟦18⟧ I do not see any particular significance to the CGGCGG sequence. ⟦19⟧ It is slightly odd, but one
+expects to observe many slightly odd things through random chance.
+
+Claims:
+⟦1*⟧ The sars-cov-2 FCS is found in the Wuhan-Hu-1 reference sample.
+⟦2⟧ The RRAR sequence is the FCS.
+⟦3⟧ The putative insert relative to the closest known viruses is T CCT CGG CGG GC or perhaps CCT CGG CGG GCA.
+⟦4⟧ There are six different codons that code the arginine amino acid.
+⟦5⟧ CGG is the rarest of the six possible encodings of arginine in sars-cov-2 and similar viruses, at only 3-5%.
+⟦6⟧ Rootclaim argues that the presence of two consecutive CGG codons is evidence against a natural origin to the FCS.
+⟦7⟧ The author would not expect a priori the codon frequency in an insert to match that of the surrounding genome.
+⟦8⟧ The author expects the codon frequency in an insert to reflect the frequency of the source of the fragment.
+⟦9⟧ CGG is the most common encoding of arginine in humans.
+⟦10⟧ There is a mutational bias against the C and G nucleotides in sars-like viruses.
+⟦11⟧ C is the rarest nucleotide in Wuhan-Hu-1, at 18.4%.
+⟦12⟧ G is the second rarest nucleotide in Wuhan-Hu-1, at 19.6%.
+⟦13⟧ A is a more common nucleotide in Wuhan-Hu-1, at 29.9%.
+⟦14⟧ T is the most common nucleotide in Wuhan-Hu-1, at 32.1%.
+⟦15⟧ It takes time for the mutational bias to impact a novel fragment after it has been inserted.
+⟦16⟧ If the fragment was inserted naturally, the source may not have had the same alignment or been a coding region.
+⟦17⟧ The frequency of non-aligned codons must be analyzed to properly assess the likelihood of the CGGCGG sequence from a natural source.
+⟦18⟧ The author does not see any particular significance to the CGGCGG sequence.
+⟦19⟧ The CGGCGG sequence is slightly odd, but expected to be observed through random chance.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

@@ -1,0 +1,84 @@
+5.1  Were there two spillovers?
+
+As we saw in section 1.2, ⟦1⟧ the early sars-cov-2 genomes can be neatly organized into two
+distinct taxa,59 called lineages A and B. ⟦2⟧ Each of these taxa has an unambiguous root, whose
+genomes differ by exactly two nucleotides: lineage A having T8782, C28144 (which we will
+call "T/C") and lineage B having C8782, T28144 ("C/T"). ⟦3⟧ This is an unusual phylogenetic
+structure that cannot be easily explained by either the zoonotic nor lab leak hypotheses.
+⟦4⟧ Simple analyses like minimum spanning tree can construct a reasonable unrooted phyloge-
+netic tree, but do not help identify the root. ⟦5⟧ As few or no early intermediate samples (T/T
+and C/C) are known, ⟦6⟧ a simple geometric argument suggests that it is very unlikely the root
+is an intermediate genome. While coronaviruses differ in what nucleotides they have at these
+two positions, ⟦7⟧ the closest relatives to sars-cov-2 are in agreement with lineage A, so ⟦8⟧ outgroup
+analysis suggests that lineage A is the root of sars-cov-2. ⟦9⟧ Conversely, when considering the
+collection dates of early sars-cov-2 samples, it appears that lineage B may predate lineage A
+by a few days or weeks and would therefore be the root.
+⟦10⟧ Pekar et al [27] suggests a different possibility: what if lineages A and B represent separate
+introductions of sars-cov-2 into humans? ⟦11⟧ They find in simulations that it is unlikely for a
+single introduction to yield a phylogenetic tree with two clearly distinct and prominent taxa
+whose roots are exactly two mutations apart; when this does happen, it is usually because
+58Despite reading it multiple times I could easily have missed it - it's 300 pages long!
+59Well, I think "taxon" is not usually used below the species level; I would say "clades", but one of them
+is not monophyletic.
+an early infection underwent two successive mutations rapidly. ⟦12⟧ On this basis they argue that
+two separate introductions better explains the observed phylogenetic evidence.
+⟦13⟧ If true, and sars-cov-2 underwent multiple introductions into humans, then we could be all
+but certain that the zoonotic hypothesis is correct. However, there are several weaknesses
+in the argument of Pekar et al. ⟦14⟧ One significant issue is that their simulations [24] appear
+(if I understand correctly) to model disease transmission as following a poisson distribution,
+⟦15⟧ whereas real-world transmission of covid may substantially involve sporadic super-spreading
+events, leading to a much more clumpy structure in the resulting phylogenetic tree.
+⟦16⟧ A much more serious objection is that the two-introductions hypothesis does nothing by
+itself to explain the strange shape of the phylogenetic tree. ⟦17⟧ Regardless of the number of
+introductions, both taxa definitely belong to a single tree; labeling certain nodes in the tree
+as "animal host" or "human host" does not change the shape of the tree. The only way
+that the number of introductions is relevant is if disease transmission has different dynamics
+in animals and humans. ⟦18⟧ While this is likely to be true, Pekar et al does not explore this
+distinction, nor make any attempt to model covid transmission amongst animals. ⟦19⟧ For the
+two-introductions hypothesis to make any sense, we must suppose that animal-to-human
+transmission is comparatively rare, and that covid was circulating in a small reservoir of
+animals; this is plausible, but significant work remains to quantify how well this hypothesis
+explains the data relative to other hypotheses.
+⟦20⟧ I find myself intrigued but unconvinced by the possibility that there were multiple introduc-
+tions of sars-cov-2 into humans.
+⟦21⟧ If I had to guess whether lineage A or lineage B were ancestral, I would be inclined to believe
+Pekar et al that lineage B is more likely to be ancestral; ⟦22⟧ while other researchers identified
+lineage A as ancestral, their work was more broadly looking at the whole phylogenetic tree
+for sars-cov-2 rather than narrowly focused on this single question. Fortunately I don't have
+to make such a guess. ⟦23⟧ The most likely explanation for the lab leak hypothesis involves an
+early case going to HSM and starting a cluster of covid cases; ⟦24⟧ if so, the shape of the phyloge-
+netic tree will be essentially indistinguishable from that of the single-introduction zoonotic
+hypothesis. ⟦25⟧ Neither hypothesis well explains the observation of early covid cases cleanly
+being grouped into two distinct taxa. ⟦26⟧ While the zoonotic hypothesis does not explain why
+lineage A was mostly absent from HSM, ⟦27⟧ the lab leak hypothesis does not explain why early
+lineage A cases were initially found near HSM, so again neither hypothesis does particularly
+well here.
+
+Claims:
+⟦1⟧ The early sars-cov-2 genomes can be neatly organized into two distinct taxa, called lineages A and B.
+⟦2⟧ Each of these taxa has an unambiguous root, whose genomes differ by exactly two nucleotides: lineage A having T8782, C28144 and lineage B having C8782, T28144.
+⟦3⟧ This phylogenetic structure cannot be easily explained by either the zoonotic nor lab leak hypotheses.
+⟦4⟧ Simple analyses like minimum spanning tree can construct a reasonable unrooted phylogenetic tree, but do not help identify the root.
+⟦5⟧ Few or no early intermediate samples are known.
+⟦6⟧ A simple geometric argument suggests that it is very unlikely the root is an intermediate genome.
+⟦7⟧ The closest relatives to sars-cov-2 are in agreement with lineage A.
+⟦8⟧ Outgroup analysis suggests that lineage A is the root of sars-cov-2.
+⟦9⟧ Lineage B may predate lineage A by a few days or weeks and would therefore be the root.
+⟦10⟧ Pekar et al suggests that lineages A and B represent separate introductions of sars-cov-2 into humans.
+⟦11⟧ Simulations by Pekar et al find that it is unlikely for a single introduction to yield a phylogenetic tree with two clearly distinct and prominent taxa whose roots are exactly two mutations apart.
+⟦12⟧ Pekar et al argue that two separate introductions better explain the observed phylogenetic evidence.
+⟦13⟧ If sars-cov-2 underwent multiple introductions into humans, then we could be all but certain that the zoonotic hypothesis is correct.
+⟦14⟧ The simulations by Pekar et al appear to model disease transmission as following a poisson distribution.
+⟦15⟧ Real-world transmission of covid may substantially involve sporadic super-spreading events, leading to a much more clumpy structure in the resulting phylogenetic tree.
+⟦16⟧ The two-introductions hypothesis does nothing by itself to explain the strange shape of the phylogenetic tree.
+⟦17⟧ The number of introductions is relevant only if disease transmission has different dynamics in animals and humans.
+⟦18⟧ Pekar et al does not explore the distinction between disease transmission in animals and humans, nor make any attempt to model covid transmission amongst animals.
+⟦19⟧ For the two-introductions hypothesis to make any sense, we must suppose that animal-to-human transmission is comparatively rare, and that covid was circulating in a small reservoir of animals.
+⟦20⟧ The author is intrigued but unconvinced by the possibility that there were multiple introductions of sars-cov-2 into humans.
+⟦21⟧ The author would be inclined to believe that lineage B is more likely to be ancestral.
+⟦22⟧ Other researchers identified lineage A as ancestral, but their work was more broadly looking at the whole phylogenetic tree for sars-cov-2 rather than narrowly focused on this single question.
+⟦23⟧ The most likely explanation for the lab leak hypothesis involves an early case going to HSM and starting a cluster of covid cases.
+⟦24⟧ The shape of the phylogenetic tree will be essentially indistinguishable from that of the single-introduction zoonotic hypothesis if the lab leak hypothesis is true.
+⟦25⟧ Neither hypothesis well explains the observation of early covid cases cleanly being grouped into two distinct taxa.
+⟦26⟧ The zoonotic hypothesis does not explain why lineage A was mostly absent from HSM.
+⟦27⟧ The lab leak hypothesis does not explain why early lineage A cases were initially found near HSM.

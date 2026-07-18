@@ -1,0 +1,74 @@
+5.2  Spatial distribution of lineages A and B
+
+⟦1⟧ Among people who had onset of covid in 2019 December, 13 people had sars-cov-2 samples
+sequenced; ⟦2⟧ 11 of these people had a known epidemiological association with HSM ([32] page
+76). ⟦3⟧ 12 of the 13 samples were found to be lineage B. This raises the obvious question: where
+was the lineage A?
+More specifically, ⟦4⟧ all 11 associated with HSM (onset dates: Dec 13, 17, 19, 20, 20, 20, 20,
+22, 23, 23, 23) were lineage B, ⟦5⟧ whereas of the other two cases, one (onset date Dec 16 60) was
+lineage B and one (onset date Dec 26) was not. This gives the rather more pointed question
+- why was there no lineage A in HSM?
+The lab leak theory has an elegant explanation for this: ⟦6⟧ based on outgroup analysis, it
+appears that lineage A is ancestral to lineage B, ⟦7⟧ so presumably it was lineage A that was
+leaked from WIV. ⟦8⟧ One of the lineage A descendants mutated to become the root of lineage
+B, ⟦9⟧ which would include the HSM primary case. Thus, the HSM outbreak, and all cases
+descended from the HSM primary case, would be entirely lineage B, ⟦10⟧ whereas Wuhan as a
+whole would have a mix of the two lineages.
+⟦11⟧ The zoonotic theory does not have a clean explanation for this observation. ⟦12⟧ The most
+obvious, and simplest, is to suppose that lineage B was ancestral, so there were fewer lineage
+A cases, and by chance did not include any of the 11 associated with HSM. ⟦13⟧ The sample size
+involved is so small that this could easily be simple coincidence. ⟦14⟧ Supposing we knew that 1
+of the 13 early cases were lineage A, and we were then to ask the chance of the observation
+that all 13 HSM cases were lineage B, we would get a p-value of 2 /13 = 0.154, which is not
+so unlikely.
+⟦15⟧ An alternative way of regarding the situation is that if the primary covid case were in HSM,
+then the genetic diversity of sars-cov-2 within HSM should be equal to the genetic diversity
+within all of Wuhan. ⟦16⟧ Observing that the one lineage A case was not in HSM is weak, but
+nonzero, evidence that the genetic diversity within HSM is lower than that of Wuhan as a
+whole, and therefore that HSM is not the origin of the pandemic.
+⟦17*⟧ However the lab leak explanation for this observation is not consistent with further observa-
+tions. ⟦18⟧ A glove in HSM (shop 7:15,17) was tested for covid, and was the one environmental
+sample to be sequenced with lineage A (out of four environmental samples in HSM that were
+sequenced). ⟦19⟧ An employee of this shop became ill with covid with an onset before December
+15, and therefore presumably was lineage A; but if lineage A were ancestral and the primary
+HSM case were lineage B, how did lineage A reach HSM so early?
+⟦20⟧ Furthermore the first two (three) known lineage A cases were both found in close proximity
+to HSM. ⟦21*⟧ The first case sequenced with lineage A, with onset December 26, lived 2 km south-
+southeast of HSM [33]; ⟦22⟧ he got it from his wife, onset December 15, who was presumably also
+lineage A. ⟦23⟧ The second case sequenced, onset December 27, was infected while residing at an
+unspecified hotel "near" HSM [34].
+⟦24⟧ It is hard to explain the first observed presence of lineage A in close proximity to HSM with
+the lab leak explanation above. ⟦25⟧ Whether the origin of sars-cov-2 was zoonotic or laboratory,
+it appears that both lineages A and B were located in or near the market, ⟦26⟧ and the best
+explanation for the observations is the same for both theories.
+60Though the WHO reports Chen as having an onset of Dec 8, this appears to be incorrect.
+
+Claims:
+⟦1⟧ Among people who had onset of covid in 2019 December, 13 people had sars-cov-2 samples sequenced
+⟦2⟧ 11 of these people had a known epidemiological association with HSM
+⟦3⟧ 12 of the 13 samples were found to be lineage B
+⟦4⟧ All 11 associated with HSM were lineage B
+⟦5⟧ One of the other two cases was lineage B and one was not
+⟦6⟧ The lab leak theory suggests that lineage A is ancestral to lineage B
+⟦7⟧ The lab leak theory suggests that lineage A was leaked from WIV
+⟦8⟧ One of the lineage A descendants mutated to become the root of lineage B
+⟦9⟧ The HSM outbreak would be entirely lineage B according to the lab leak theory
+⟦10⟧ Wuhan as a whole would have a mix of the two lineages according to the lab leak theory
+⟦11⟧ The zoonotic theory does not have a clean explanation for the observation of no lineage A in HSM
+⟦12⟧ One possible explanation for the zoonotic theory is that lineage B was ancestral and there were fewer lineage A cases
+⟦13⟧ The sample size involved is so small that the observation could easily be simple coincidence
+⟦14⟧ The p-value of the observation that all 13 HSM cases were lineage B is 0.154
+⟦15⟧ The genetic diversity of sars-cov-2 within HSM should be equal to the genetic diversity within all of Wuhan if the primary covid case were in HSM
+⟦16⟧ The observation that the one lineage A case was not in HSM is weak evidence that the genetic diversity within HSM is lower than that of Wuhan as a whole
+⟦17*⟧ The lab leak explanation for the observation is not consistent with further observations
+⟦18⟧ A glove in HSM was tested for covid and was the one environmental sample to be sequenced with lineage A
+⟦19⟧ An employee of the shop became ill with covid with an onset before December 15 and was presumably lineage A
+⟦20⟧ The first two known lineage A cases were found in close proximity to HSM
+⟦21*⟧ The first case sequenced with lineage A lived 2 km south-southeast of HSM
+⟦22⟧ The first case sequenced with lineage A got it from his wife, who was presumably also lineage A
+⟦23⟧ The second case sequenced with lineage A was infected while residing at an unspecified hotel near HSM
+⟦24⟧ It is hard to explain the first observed presence of lineage A in close proximity to HSM with the lab leak explanation
+⟦25⟧ Both lineages A and B were located in or near the market
+⟦26⟧ The best explanation for the observations is the same for both the zoonotic and lab leak theories
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

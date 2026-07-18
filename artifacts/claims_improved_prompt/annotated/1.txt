@@ -1,0 +1,79 @@
+1  Introduction
+
+⟦1⟧ When the "novel coronavirus" started dominating headlines in mid-January 2020, I was
+checking the news every day: counting cases, tracking international transmissions, wondering
+when it would reach my city, and preparing for quarantine. 1
+⟦2⟧ I know now in retrospect that instead of planning for the coming pandemic I should have
+spent that time reading about covid origins theories, and kept at it for these past four years
+uninterrupted, as only then might I have been adequately prepared for the deluge of detailed
+claims and arguments presented during the debate. ⟦3⟧ Before participating in this debate I had
+no realization of the vast depth of evidence and analysis encompassed in the gamut of "was
+covid a lab leak?".
+⟦4⟧ It is not possible to answer that question without addressing the depth of evidence head-on,
+and the length of this document reflects that duty. ⟦5⟧ Even still many of the claims brought
+up during the debate pass unchallenged here.
+⟦6⟧ However the reader should not be intimidated by its length; the argument is quite simple at
+its heart, and I have striven to make my discussion approachable. 2
+⟦7*⟧ In this section, we will introduce the necessarily context to understand the differing argu-
+ments about the origin of covid: this covers both the spread of the earliest known covid
+cases, and the details of how the sars-cov-2 virus works and how it relates to other viruses.
+⟦8⟧ In section 2 I will explain and demonstrate how Bayesian updating can be used to estimate
+the probability of a hypothesis conditioned on observations.
+⟦9⟧ In section 3 I demonstrate how Bayesian inference can be done incorrectly, and I assess
+Rootclaim's two Bayesian calculations.
+⟦10*⟧ Section 4 concerns the most critical question of the debate: how significant was the covid out-
+break in the Huanan Seafood Market? ⟦11⟧ This includes an extended discussion of Rootclaim's
+reasoning for expecting a covid outbreak there under the lab leak hypothesis.
+⟦12⟧ Section 5 covers a miscellanea of topics related to the genetics of sars-cov-2, including the
+Project DEFUSE proposal that is the centerpiece of the lab leak hypothesis.
+⟦13⟧ In section 6 we have a brief interlude to ask why there has been no whistleblower for the
+origin of covid.
+⟦14⟧ Finally in section 7, having assessed others' arguments at lengths, I present my own best
+interpretation of the zoonotic and lab leak hypotheses and their relative likelihood.
+⟦15⟧ Readers may also find the glossary of technical terms in the appendix useful.
+⟦16*⟧ In the following, I will be writing at length about my disagreements with the argument
+presented by Rootclaim, which may create the illusion that I think they were wrong about
+1which never happened, presumably warded off by my pasta stockpile like rain from an umbrella
+2I am assuming most readers will be skipping over the equations or more math-y parts, which are mostly
+non-essential to the text; if you plan on verifying my calculations you will have some work ahead of you, as
+I usually only gave the minimum information needed to infer how each calculation was performed.
+everything (or conversely that I agree with Peter's claims, by absence of discussion of them).
+⟦17⟧ This is not true; rather, this document is plenty long even without any discussion of points
+of agreement. Much of my analysis and reasoning is condensed or omitted.
+⟦18⟧ I have grounded my analysis in the facts and evidence, but it was performed under acute
+time pressure on a subject which I am not an expert in, did not have a strong pre-existing
+opinion, and (per the rules of the debate) I could not independently research. ⟦19⟧ Much of the
+analysis involves conflicting tertiary sources, so that I must critically assess claims made by
+people with greater expertise or experience than I, and with access to primary or secondary
+sources that I lack. I have done my best; may the reader be understanding of any errors in
+fact or judgement that follow.
+⟦20⟧ While I do ultimately compute a numerical confidence level in the competing hypotheses,
+the resulting number should not be taken in earnest. ⟦21⟧ To get to this quantitative conclusion
+required assigning numbers to many speculative or unknowable processes for which there are
+a wide range of believable values. I expect the reader to favor different numbers or choices
+than I made.
+
+Claims:
+⟦1⟧ The author was checking the news every day in mid-January 2020, counting cases, tracking international transmissions, wondering when the novel coronavirus would reach their city, and preparing for quarantine.
+⟦2⟧ The author knows now that they should have spent time reading about COVID-19 origins theories instead of planning for the pandemic.
+⟦3⟧ The author had no realization of the vast depth of evidence and analysis encompassed in the debate about whether COVID-19 was a lab leak before participating in the debate.
+⟦4⟧ It is not possible to answer the question of whether COVID-19 was a lab leak without addressing the depth of evidence head-on.
+⟦5⟧ Many of the claims brought up during the debate pass unchallenged in the document.
+⟦6⟧ The reader should not be intimidated by the length of the document, as the argument is quite simple at its heart.
+⟦7*⟧ The document will introduce the necessary context to understand the differing arguments about the origin of COVID-19 in Section 1.
+⟦8⟧ Section 2 of the document will explain and demonstrate how Bayesian updating can be used to estimate the probability of a hypothesis conditioned on observations.
+⟦9⟧ Section 3 of the document will demonstrate how Bayesian inference can be done incorrectly and assess Rootclaim's two Bayesian calculations.
+⟦10*⟧ Section 4 of the document concerns the most critical question of the debate: how significant was the COVID-19 outbreak in the Huanan Seafood Market.
+⟦11⟧ Section 4 includes an extended discussion of Rootclaim's reasoning for expecting a COVID-19 outbreak in the Huanan Seafood Market under the lab leak hypothesis.
+⟦12⟧ Section 5 of the document covers a miscellanea of topics related to the genetics of SARS-CoV-2, including the Project DEFUSE proposal.
+⟦13⟧ Section 6 of the document is a brief interlude to ask why there has been no whistleblower for the origin of COVID-19.
+⟦14⟧ In Section 7, the author presents their own best interpretation of the zoonotic and lab leak hypotheses and their relative likelihood.
+⟦15⟧ The document includes a glossary of technical terms in the appendix.
+⟦16*⟧ The author will be writing at length about their disagreements with Rootclaim's argument.
+⟦17⟧ The author does not think Rootclaim was wrong about everything, despite writing at length about their disagreements.
+⟦18⟧ The author's analysis is grounded in the facts and evidence, but was performed under acute time pressure and without independent research.
+⟦19⟧ The author had to critically assess claims made by people with greater expertise or experience than them, and with access to primary or secondary sources that they lack.
+⟦20⟧ The resulting numerical confidence level in the competing hypotheses should not be taken in earnest.
+⟦21⟧ The author expects the reader to favor different numbers or choices than they made in their analysis.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

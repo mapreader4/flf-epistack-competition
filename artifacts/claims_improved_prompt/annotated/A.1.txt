@@ -1,0 +1,24 @@
+A.1  Lineage B outcompeted lineage A
+
+⟦1*⟧ Rootclaim argued that some of the observed distribution of lineages A and B in 2019 Decem-
+ber were due to lineage B having greater evolutionary fitness than lineage A. However, ⟦2⟧ at
+this time the two lineages disagreed in only two nucleotides, ⟦3⟧ one of which was a synonymous
+mutation, ⟦4⟧ and the other having unclear relevance.
+⟦5⟧ The D614G mutation greatly increased the evolutionary fitness of sars-cov-2; ⟦6⟧ a strain within
+lineage B that had this mutation grew around 2020 February or March ⟦7⟧ and outcompeted
+all other sars-cov-2 strains of either lineage at that time. ⟦8⟧ This created the appearance that
+lineage B could outcompete lineage A, but it was only due to a mutation ⟦9⟧ that was not
+significantly present in Wuhan in 2019 December.
+
+Claims:
+⟦1*⟧ Rootclaim argued that lineage B had greater evolutionary fitness than lineage A due to the observed distribution of lineages A and B in 2019 December.
+⟦2⟧ The two lineages, A and B, disagreed in only two nucleotides in 2019 December.
+⟦3⟧ One of the nucleotide differences between lineages A and B was a synonymous mutation.
+⟦4⟧ The other nucleotide difference between lineages A and B had unclear relevance.
+⟦5⟧ The D614G mutation greatly increased the evolutionary fitness of sars-cov-2.
+⟦6⟧ A strain within lineage B that had the D614G mutation grew around 2020 February or March.
+⟦7⟧ The strain within lineage B with the D614G mutation outcompeted all other sars-cov-2 strains of either lineage at that time.
+⟦8⟧ The appearance that lineage B could outcompete lineage A was due to the D614G mutation.
+⟦9⟧ The D614G mutation was not significantly present in Wuhan in 2019 December.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

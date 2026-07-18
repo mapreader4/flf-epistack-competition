@@ -1,0 +1,60 @@
+4.5.2  Rootclaim's market model, with timeline
+
+Let us make a timeline of pertinent events assuming Rootclaim's model is correct:
+event observed date total non-HSM cases total HSM cases
+⟦1⟧ primary non-HSM case ? 1 0
+⟦2⟧ index non-HSM case Dec 16 2 5 0
+⟦3⟧ primary HSM case ? 2 7 1
+⟦4⟧ index HSM case Dec 10 2 9 24
+⟦5⟧ market closure Dec 31 2 12 210
+⟦6⟧ lockdown Jan 23 2 16.76 -
+Here, "total cases" means cumulative. ⟦7⟧ On January 23 there are around 2000 new ascertained
+⟦8⟧ 4730 vendors, 25 non-vendors; see appendix B.1.
+daily cases, and ⟦9⟧ the doubling time is about 3.5 days [23], so ⟦10⟧ assuming an ascertainment of
+10% this gives ⟦11⟧ 2000· 10/(1- 2-1/3.5)≈ 111000≈ 216.76 cumulative cases.48 49
+⟦12⟧ The timing of the index cases is based on the ascertainment rates used by Rootclaim; ⟦13⟧ of
+course the exact timing will be highly uncertain. Nonetheless we see right away the difficulty
+in explaining why cases were not ascertained outside of HSM for so long; ⟦14⟧ their model was
+calibrated for producing the right number of cases on December 31.
+We get a reasonable chronology for January: ⟦15⟧ 4.76 doublings in 23 days is ⟦16⟧ 4.8 days doubling
+time, ⟦17⟧ which is definitely higher than the true value, but not bad for a simplistic model that
+wasn't intended to be extrapolated to January. In December we have ⟦18⟧ 3 doublings in 21 days
+⟦19⟧ for a doubling time of 7 days, ⟦20⟧ which is pretty far from a reasonable value. 50 ⟦21⟧ Comparing the
+index non-HSM case to market closure we have a doubling time of 2.14 days, ⟦22⟧ which is far
+too short; ⟦23⟧ and of course to get 4 doublings in -6 days is definitely wrong.
+⟦24⟧ Rootclaim's model looks good after the HSM closure ⟦25⟧ but does not line up with observations
+early in the market outbreak; ⟦26⟧ it overestimates cases outside HSM ⟦27⟧ and underestimates cases
+within. Assuming some randomness in the timing of the index cases and the ascertainment
+rates and the doubling time, ⟦28⟧ we can finangle the model numbers to be kind of consistent
+with observations, ⟦29⟧ but it clearly gets worse and worse the earlier in the outbreak one looks.
+
+Claims:
+⟦1⟧ The primary non-HSM case has an observed date of unknown.
+⟦2⟧ The index non-HSM case has an observed date of December 16.
+⟦3⟧ The primary HSM case has an observed date of unknown.
+⟦4⟧ The index HSM case has an observed date of December 10.
+⟦5⟧ The market closure has an observed date of December 31.
+⟦6⟧ The lockdown has an observed date of January 23.
+⟦7⟧ There are around 2000 new ascertained daily cases on January 23.
+⟦8⟧ There are 4730 vendors and 25 non-vendors.
+⟦9⟧ The doubling time is about 3.5 days.
+⟦10⟧ The ascertainment rate is 10%.
+⟦11⟧ There are approximately 111000 cumulative cases on January 23.
+⟦12⟧ The timing of the index cases is based on the ascertainment rates used by Rootclaim.
+⟦13⟧ The exact timing of the index cases will be highly uncertain.
+⟦14⟧ Rootclaim's model was calibrated for producing the right number of cases on December 31.
+⟦15⟧ There are 4.76 doublings in 23 days in January.
+⟦16⟧ The doubling time in January is approximately 4.8 days.
+⟦17⟧ The doubling time in January is higher than the true value.
+⟦18⟧ There are 3 doublings in 21 days in December.
+⟦19⟧ The doubling time in December is 7 days.
+⟦20⟧ The doubling time of 7 days in December is pretty far from a reasonable value.
+⟦21⟧ The doubling time from the index non-HSM case to market closure is 2.14 days.
+⟦22⟧ The doubling time of 2.14 days is far too short.
+⟦23⟧ It is wrong to get 4 doublings in -6 days.
+⟦24⟧ Rootclaim's model looks good after the HSM closure.
+⟦25⟧ Rootclaim's model does not line up with observations early in the market outbreak.
+⟦26⟧ Rootclaim's model overestimates cases outside HSM.
+⟦27⟧ Rootclaim's model underestimates cases within HSM.
+⟦28⟧ The model numbers can be adjusted to be kind of consistent with observations.
+⟦29⟧ The model gets worse and worse the earlier in the outbreak one looks.

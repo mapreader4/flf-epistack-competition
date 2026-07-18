@@ -1,0 +1,44 @@
+4.6.2  Correlations between animal DNA and sars-cov-2 positivity
+
+⟦1⟧ Rootclaim observed ([1] at 2:56:30) that statistical analysis of environmental samples show
+no or negative correlation between samples that contain DNA from species such as raccoon
+dog and samples that test positive. It would not have occurred to me to perform this
+comparison, and I do not think it is useful or relevant.
+⟦2⟧ The animals at HSM were caged and did not have freedom to move about the market.
+⟦3⟧ While there would have been some disease communication between them, particularly within
+a single shop, disease communication between animals would presumably have been lower
+than between humans at HSM who could and did move between multiple shops and interact
+with other humans. ⟦4⟧ I expect that at the time of spillover, very few animals at HSM would
+have been carrying sars-cov-2 infections, compared to the number who might be susceptible
+to it. ⟦5⟧ (It is quite possible that some would later be infected by humans.)
+⟦6⟧ Any positive correlation between samples that contain raccoon dog DNA and samples that
+test for sars-cov-2 would only occur if the samples happened to contain material from the
+specific raccoon dogs that were carrying sars-cov-2. ⟦7⟧ ⟦8⟧ There are probably few or no such
+samples, so the expected correlation under the zoonotic hypothesis would be weak or zero.
+⟦9⟧ Moreover, there are several species in HSM suspected as being potential sars-cov-2 interme-
+diaries (such as raccoon dog, civet, and bamboo rat); ⟦10⟧ presumably only one of them could
+have any positive correlation, with the others being zero as they are irrelevant.
+⟦11⟧ Even if there were a positive correlation, it could be overwhelmed by confounding factors.
+⟦12⟧ After the first round of testing appeared to identify the region with live animals as a potential
+source of the pandemic, a second round of testing included 10 samples at each of 7 different
+shops that sold wildlife [22]. ⟦13⟧ ⟦14⟧ This sampling, two weeks later on January 12, would have
+had a lower positivity rate due to the additional time for the sars-cov-2 RNA to decay.
+⟦15⟧ Consequentially this would induce a negative correlation between samples with wildlife and
+samples with sars-cov-2.
+
+Claims:
+⟦1⟧ Rootclaim observed that statistical analysis of environmental samples show no or negative correlation between samples that contain DNA from species such as raccoon dog and samples that test positive.
+⟦2⟧ The animals at HSM were caged and did not have freedom to move about the market.
+⟦3⟧ Disease communication between animals would presumably have been lower than between humans at HSM who could and did move between multiple shops and interact with other humans.
+⟦4⟧ At the time of spillover, very few animals at HSM would have been carrying sars-cov-2 infections, compared to the number who might be susceptible to it.
+⟦5⟧ Some animals at HSM might later be infected by humans.
+⟦6⟧ Any positive correlation between samples that contain raccoon dog DNA and samples that test for sars-cov-2 would only occur if the samples happened to contain material from the specific raccoon dogs that were carrying sars-cov-2.
+⟦7⟧ There are probably few or no samples that contain material from the specific raccoon dogs that were carrying sars-cov-2.
+⟦8⟧ The expected correlation under the zoonotic hypothesis would be weak or zero.
+⟦9⟧ Several species in HSM are suspected as being potential sars-cov-2 intermediaries, such as raccoon dog, civet, and bamboo rat.
+⟦10⟧ Only one of the suspected species could have any positive correlation, with the others being zero as they are irrelevant.
+⟦11⟧ Even if there were a positive correlation, it could be overwhelmed by confounding factors.
+⟦12⟧ A second round of testing included 10 samples at each of 7 different shops that sold wildlife.
+⟦13⟧ The second round of testing was conducted two weeks later on January 12.
+⟦14⟧ The second round of testing would have had a lower positivity rate due to the additional time for the sars-cov-2 RNA to decay.
+⟦15⟧ The lower positivity rate in the second round of testing would induce a negative correlation between samples with wildlife and samples with sars-cov-2.

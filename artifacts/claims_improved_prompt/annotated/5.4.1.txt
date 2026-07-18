@@ -1,0 +1,80 @@
+5.4.1  Excerpts from proposal
+
+I will be omitting quite a few details about irrelevant activities in the proposal. There are
+two relevant passages:
+⟦1⟧ We will screen samples for SARSr-CoV [sars-cov-1-related coronavirus]
+nucleic acid [...] ⟦2*⟧ Full-length genomes or S [spike] genes of all SARSr-
+CoVs will be high-throughput sequenced followed by genome walking.
+⟦3⟧ We will analyze the S gene for its ability to bind human ACE2 by
+Biocore or virus entry assay. ⟦4*⟧ Synthesis of Chimeric Novel SARSr-
+CoV QS : We will commercially synthesize SARSr-CoV S glycopro-
+tein genes, ⟦5*⟧ designed for insertion into SHCO14 or WIV16 molecu-
+lar clone backbones (⟦6⟧ 88% and 97% S-protein identity to epidemic
+SARS-Urbani61). ⟦7⟧ These are BSL-3, not select agents or subject to
+P3CO (⟦8⟧ they use bat SARSr-CoV backbones which are exempt) ⟦9⟧ and
+are pathogenic to hACE2 [human ACE2] transgenic mice.
+[...] ⟦10⟧ We will conduct in vitro [in test tube] pseudovirus binding assays,
+using established techniques, ⟦11⟧ and live virus binding assays (at WIV
+to prevent delays and unnecessary dissemination of viral cultures) for
+isolated strains.
+⟦12⟧ So, they will look for sars-like viruses, sequence their spike proteins, simulate how well those
+spike proteins bind to human ACE2 receptors, and put the genes for those spike proteins
+into known viruses which have been selected for their low pandemic potential. ⟦13⟧ Those viruses
+will be given to mice with human ACE2 receptors. The proposal goes on to explain that
+⟦14⟧ after evaluating the chimeric viruses, some of them will be verified by testing the original
+wild viruses the spikes came from; the latter would be done at WIV where the wild viruses
+were originally sampled.
+S2 Proteolytic Cleavage and Glycosylation Sites : [...] ⟦15⟧ We will analyze
+all SARSr-CoV S [spike] gene sequences for appropriately conserved
+proteolytic cleavage sites in S2 [spike subregion 2] ⟦16*⟧ and for the pres-
+ence of potential furin cleavage sites. ⟦17⟧ SARSr-CoV S with mismatches
+in proteolytic cleavage sites can be activated by exogenous trypsin or
+cathepsin L. ⟦18*⟧ Where clear mismatches occur, we will introduce appro-
+priate human-specific cleavage sites ⟦19⟧ and evaluate growth potential in
+Vero [monkey kidney] cells and HAE [human airway epithelial cells]
+cultures. ⟦20⟧ In SARS-CoV [ie, sars-cov-1], we will ablate several of these
+sites based on pseudotyped particle studies ⟦21⟧ and evaluate the impact
+of select SARSr-CoV S changes on virus replication and pathogenesis.
+⟦22⟧ We will also review deep sequence data for low abundant high risk
+SARSr-CoV that encode functional proteolytic cleavage sites, and if
+so, introduce these changes into the appropriate high abundant, low
+⟦23⟧ 61SARS-Urbani refers to a a reference genome of sars-cov-1, collected from Carlo Urbani. ⟦24⟧ Urbani was a
+doctor and biologist who first realized SARS-1 was a new disease, ⟦25⟧ and whose warning to the WHO likely
+saved many lives. ⟦26⟧ He died of SARS-1 at age 46.
+risk parental strain.
+This passage is part of a long list of planned genetic experiments. They will look for cleavage
+sites, including furin cleavage sites, in existing cells, and genetically modify some of them to
+introduce "human-specific" cleavage sites. It is unclear to me whether furin is human-specific.
+I understand this passage to be referring to the chimeric viruses with known backbone
+(SHCO14 or WIV16). They also discuss adding cleavage sites to common, low risk sars-like
+viruses. After this passage, it goes on to discuss N-linked glycosation.
+
+Claims:
+⟦1⟧ The proposal will screen samples for SARSr-CoV nucleic acid.
+⟦2*⟧ Full-length genomes or S genes of all SARSr-CoVs will be high-throughput sequenced followed by genome walking.
+⟦3⟧ The S gene will be analyzed for its ability to bind human ACE2 by Biocore or virus entry assay.
+⟦4*⟧ Chimeric Novel SARSr-CoV QS will be commercially synthesized.
+⟦5*⟧ The SARSr-CoV S glycoprotein genes will be designed for insertion into SHCO14 or WIV16 molecular clone backbones.
+⟦6⟧ SHCO14 and WIV16 have 88% and 97% S-protein identity to epidemic SARS-Urbani61.
+⟦7⟧ The backbones are BSL-3, not select agents or subject to P3CO.
+⟦8⟧ The backbones use bat SARSr-CoV backbones which are exempt.
+⟦9⟧ The backbones are pathogenic to hACE2 transgenic mice.
+⟦10⟧ In vitro pseudovirus binding assays will be conducted using established techniques.
+⟦11⟧ Live virus binding assays will be conducted for isolated strains at WIV.
+⟦12⟧ The proposal will look for sars-like viruses, sequence their spike proteins, simulate how well those spike proteins bind to human ACE2 receptors, and put the genes for those spike proteins into known viruses.
+⟦13⟧ The known viruses will be given to mice with human ACE2 receptors.
+⟦14⟧ After evaluating the chimeric viruses, some of them will be verified by testing the original wild viruses the spikes came from at WIV.
+⟦15⟧ All SARSr-CoV S gene sequences will be analyzed for appropriately conserved proteolytic cleavage sites in S2.
+⟦16*⟧ The presence of potential furin cleavage sites will be analyzed in all SARSr-CoV S gene sequences.
+⟦17⟧ SARSr-CoV S with mismatches in proteolytic cleavage sites can be activated by exogenous trypsin or cathepsin L.
+⟦18*⟧ Appropriate human-specific cleavage sites will be introduced where clear mismatches occur.
+⟦19⟧ The growth potential of SARSr-CoV S with introduced human-specific cleavage sites will be evaluated in Vero cells and HAE cultures.
+⟦20⟧ Several proteolytic cleavage sites will be ablated in SARS-CoV based on pseudotyped particle studies.
+⟦21⟧ The impact of select SARSr-CoV S changes on virus replication and pathogenesis will be evaluated.
+⟦22⟧ Deep sequence data will be reviewed for low abundant high risk SARSr-CoV that encode functional proteolytic cleavage sites.
+⟦23⟧ SARS-Urbani refers to a reference genome of sars-cov-1, collected from Carlo Urbani.
+⟦24⟧ Carlo Urbani was a doctor and biologist who first realized SARS-1 was a new disease.
+⟦25⟧ Carlo Urbani's warning to the WHO likely saved many lives.
+⟦26⟧ Carlo Urbani died of SARS-1 at age 46.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary
