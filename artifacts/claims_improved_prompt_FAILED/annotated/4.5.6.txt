@@ -1,0 +1,84 @@
+4.5.6  Assessment of Rootclaim's market model
+
+⟦1⟧ Rootclaim explains the outbreak in HSM preceding outbreaks elsewhere as a consequence
+of the infection growth rate in HSM being so much higher as to overcome the head start of
+cases elsewhere in Wuhan. ⟦2⟧ For this to be correct requires three unlikely things to happen:
+1. One of the first covid patients goes to HSM
+2. The first (or one of the first) covid patients to visit HSM infects an HSM resident, and
+the infection takes hold as a local cluster
+3. The HSM cluster grows so rapidly as to outpace non-HSM cases
+It is possible to trade off one of these factors against the others by tweaking the numbers,
+but there is no avoiding that at least one of them will be improbable:
+1. ⟦3⟧ Assuming 50000 weekly visitors at HSM, and that each sick person is contagious (and
+active!) for one week, then for every sick person who visits HSM there are on average
+245 sick people in Wuhan who do not; ⟦4⟧ with a more realistic infection period that would
+be closer to 500 sick people in Wuhan. ⟦5⟧ We can make the first step reasonably likely
+by assuming only the 500th sick person went to Wuhan, but now the non-HSM cases
+have a much greater headstart to overcome.
+2. ⟦6⟧ Maybe the first sick person to visit HSM was super contagious and got lots of people
+sick, but now we have even more non-HSM cases to overcome, as well as needing to
+explain the coincidence that the person who happened to visit HSM was also super
+contagious. ⟦7⟧ Or maybe all of the pre-HSM cases were super contagious, but then how
+did HSM outpace non-HSM? ⟦8⟧ Or maybe it took multiple sick people visiting HSM for
+the outbreak to take hold there, but that makes it even more improbable that more
+than one of the earliest covid patients happened to go there.
+3. This is the mirror image of the previous bullet points. Perhaps non-HSM cases did
+not have a big head start, but then it is quite unlikely one of the first non-HSM cases
+happened to visit HSM.
+⟦9⟧ No matter how the model is adjusted, for this model to explain the observed cumulative case
+numbers at 2019 Dec 31 requires either multiple unlikely events or one especially unlikely
+event. ⟦10⟧ This is not due to some simplification or model error, but inherent to the difficulty of
+explaining how the first cluster of cases is observed far from the purported origin. ⟦11⟧ When the
+2019 cases are broken down by time, the model does even worse at explaining events earlier
+in the outbreak; ⟦12⟧ it predicts HSM cases will be heavily backloaded to the end of December;
+⟦13⟧ a week before the end of December, (ascertained) non-HSM cases should outnumber HSM
+cases by 8 to 1, and two weeks before by 32 to 1, ⟦14⟧ whereas we instead observe that HSM cases
+are slightly frontloaded to earlier in the outbreak. ⟦15⟧ The first HSM case should be ascertained
+four doubling times (two weeks) after the first non-HSM case, ⟦16⟧ instead of 6 days before.
+⟦17⟧ I think the maximal likelihood way to make this model consistent with observations is to
+suppose that one of the first 5 or 10 covid patients went to HSM and infected a vendor there,
+and the HSM outbreak steadily outpaced non-HSM cases. ⟦18⟧ While this requires two quite
+unlikely events and one somewhat unlikely event, 55 it allows for a distribution of cases over
+time that is largely indistinguishable from one where covid started at HSM.
+⟦19⟧ This can be substantially ameliorated if you believe Connor Reed, or other people, had
+covid before the HSM outbreak, but I found no evidence in support of that (see section A.2).
+⟦20⟧ Even a small change like Chen being sick on Dec 8 instead of Dec 16 makes Rootclaim's
+model something like 4 times more likely, as it alleviates part of the burden of explaining
+the absence of ascertained pre-HSM cases.
+⟦21⟧ We are, however, ignoring one of the biggest difficulties of Rootclaim's model, which is
+explaining not only that HSM was the first covid SSE, but by quite a large margin in time.
+⟦22⟧ Even if we accept that one of the first people with covid went to HSM and started an outbreak
+there, this does not imply that the other people with covid now disappeared because they
+no longer relevant to the story. ⟦23⟧ We know that covid is contagious outside of HSM because
+it continued to grow even after HSM was closed. If there are 128 or 245 or 500 sick people
+going around Wuhan at the time of the HSM primary case, shouldn't we expect other large
+55Somewhere in the ballpark of 1 /100· 1/20· 1/5, not coincidentally very close to the Bayes factor I will
+eventually assign in section 7.6 to the outbreak starting in HSM.
+SSEs to start popping up in other locations? ⟦24⟧ Why was it another month before the first
+trickle of covid cases outside of China (or Wuhan) emerged?
+
+Claims:
+⟦1⟧ Rootclaim explains the outbreak in HSM preceding outbreaks elsewhere as a consequence of the infection growth rate in HSM being so much higher as to overcome the head start of cases elsewhere in Wuhan.
+⟦2⟧ For Rootclaim's explanation to be correct, three unlikely things must happen: one of the first covid patients goes to HSM, the first covid patient to visit HSM infects an HSM resident and the infection takes hold as a local cluster, and the HSM cluster grows so rapidly as to outpace non-HSM cases.
+⟦3⟧ Assuming 50,000 weekly visitors at HSM and each sick person is contagious for one week, then for every sick person who visits HSM, there are on average 245 sick people in Wuhan who do not.
+⟦4⟧ With a more realistic infection period, the number of sick people in Wuhan who do not visit HSM would be closer to 500.
+⟦5⟧ Making the first step reasonably likely by assuming only the 500th sick person went to Wuhan would mean non-HSM cases have a much greater head start to overcome.
+⟦6⟧ If the first sick person to visit HSM was super contagious and got lots of people sick, there would be even more non-HSM cases to overcome, as well as needing to explain the coincidence that the person who happened to visit HSM was also super contagious.
+⟦7⟧ If all pre-HSM cases were super contagious, it would be difficult to explain how HSM outpaced non-HSM cases.
+⟦8⟧ If it took multiple sick people visiting HSM for the outbreak to take hold, it would be even more improbable that more than one of the earliest covid patients happened to go there.
+⟦9⟧ No matter how the model is adjusted, for Rootclaim's model to explain the observed cumulative case numbers at 2019 Dec 31, either multiple unlikely events or one especially unlikely event must occur.
+⟦10⟧ The difficulty in explaining the observed cumulative case numbers is inherent to the difficulty of explaining how the first cluster of cases is observed far from the purported origin.
+⟦11⟧ When the 2019 cases are broken down by time, the model does even worse at explaining events earlier in the outbreak.
+⟦12⟧ The model predicts HSM cases will be heavily backloaded to the end of December.
+⟦13⟧ A week before the end of December, ascertained non-HSM cases should outnumber HSM cases by 8 to 1, and two weeks before by 32 to 1, according to the model.
+⟦14⟧ However, HSM cases are observed to be slightly frontloaded to earlier in the outbreak.
+⟦15⟧ The first HSM case should be ascertained four doubling times (two weeks) after the first non-HSM case, according to the model.
+⟦16⟧ However, the first HSM case was ascertained 6 days before the first non-HSM case.
+⟦17⟧ One possible way to make the model consistent with observations is to suppose that one of the first 5 or 10 covid patients went to HSM and infected a vendor there, and the HSM outbreak steadily outpaced non-HSM cases.
+⟦18⟧ This scenario requires two quite unlikely events and one somewhat unlikely event.
+⟦19⟧ Believing Connor Reed or other people had covid before the HSM outbreak could substantially ameliorate the model's difficulties.
+⟦20⟧ A small change like Chen being sick on Dec 8 instead of Dec 16 would make Rootclaim's model about 4 times more likely.
+⟦21⟧ Rootclaim's model has difficulty explaining not only that HSM was the first covid SSE, but also that it was by a quite large margin in time.
+⟦22⟧ If one of the first people with covid went to HSM and started an outbreak there, it does not imply that other people with covid disappeared because they are no longer relevant to the story.
+⟦23⟧ Covid is contagious outside of HSM because it continued to grow even after HSM was closed.
+⟦24⟧ It is puzzling that it took another month for the first trickle of covid cases outside of China (or Wuhan) to emerge.

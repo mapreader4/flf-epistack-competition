@@ -453,6 +453,37 @@ def _try_json(text: str) -> Any:
         return None
 
 
+def _unescape_lenient(s: str) -> str:
+    """Undo the handful of JSON escapes the model actually uses, for text
+    captured by regex rather than a real JSON parser. Protecting "\\\\" first
+    keeps a literal backslash from being mistaken for the start of one of the
+    other escapes handled below."""
+    s = s.replace("\\\\", "\x00")
+    s = s.replace('\\"', '"').replace("\\n", "\n").replace("\\t", "\t")
+    return s.replace("\x00", "\\")
+
+
+def _regex_extract_pairs(text: str, text_field: str) -> list[dict[str, str]]:
+    """Fallback for when the model's JSON has an unescaped inner quote inside
+    a <text_field>/quote string (breaks json.loads, and the same bad
+    character survives into every {...}/[...] substring re-search too).
+    Matches on the literal "<text_field>": "...", "quote": "..." } field
+    structure instead of requiring the whole response to be valid JSON:
+    regex backtracking means a "\"" that isn't immediately followed by the
+    next field's exact delimiter doesn't end the match early."""
+    pattern = re.compile(
+        r'"' + re.escape(text_field) + r'"\s*:\s*"(.*?)"\s*,\s*"quote"\s*:\s*"(.*?)"\s*\}',
+        re.DOTALL,
+    )
+    pairs = []
+    for m in pattern.finditer(text):
+        node_text = _unescape_lenient(m.group(1).strip())
+        quote = _unescape_lenient(m.group(2).strip())
+        if node_text and quote:
+            pairs.append({"node_text": node_text, "quote": quote})
+    return pairs
+
+
 def parse_nodes(
     text: str,
     node_type: str,
@@ -482,7 +513,14 @@ def parse_nodes(
                     break
 
     if data is None:
-        return [], 0
+        # Strict JSON parsing failed everywhere -- fall back to a structural
+        # match on the known text_field/quote pattern instead of dropping the
+        # whole response's nodes silently.
+        pairs = _regex_extract_pairs(cleaned, text_field)
+        return [
+            {"node_type": node_type, "node_text": p["node_text"], "quote": p["quote"]}
+            for p in pairs
+        ], 0
 
     if isinstance(data, dict):
         if isinstance(data.get(plural_key), list):

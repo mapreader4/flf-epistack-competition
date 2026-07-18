@@ -1,0 +1,84 @@
+A.3  Mahjong hall
+
+⟦1⟧ Rootclaim identified the possibility that the mahjong room in HSM may have been a nexus
+of early covid cases. ⟦2⟧ I think there are two facets to their tentative argument; one, anecdotal
+observations linking early covid cases to the mahjong room; and two, a supposition that the
+mahjong room would have an unusually high rate of disease transmission.
+⟦3⟧ I think neither facet is sufficiently substantiated. ⟦4⟧ Rootclaim claims that at least 35 early
+covid cases have been linked to the mahjong room or mahjong players in some way ([1]
+at 3:17:30). ⟦5⟧ As far as I can tell, this number is reached by adding up each of the listed
+anecdotes. ⟦6⟧ 27 of these come from a single source, a Chinese-language video that I cannot
+evaluate, or even verify the quote is in the video. ⟦7⟧ None of the sources are reliable, being
+indirect anecdotes with no identifying details and few specifics. ⟦8⟧ I do not see any attempt
+to de-duplicate individuals that might have appeared in multiple anecdotes, nor compare
+against the background rate of mahjong players.
+⟦9⟧ While the HSM mahjong room would be more conducive to disease transmission than the
+shops, ⟦10⟧ I don't see a reason it would be especially outstanding, nor in comparison to mahjong
+rooms (or bars, restaurants, etc.) elsewhere in Wuhan, which are numerous. ⟦11⟧ And regardless
+of how infective the room may be, its effect is limited to people physically in the room, which
+appears not to have been many:
+⟦12⟧ The shopkeeper mentioned an illicit mah-jongg parlor in the seafood
+market. "I heard that four people were playing at one table, and all
+four got sick," he said.
+[...] ⟦13⟧ By then, the journalist had heard about a possible virus, and also
+about some mah-jongg infections. He found the players unfazed by
+the rumors, still gambling for small stakes. "It was kind of a secret
+room," the journalist said. [...] ⟦14⟧ "It was next to the public toilet, and
+you had to climb a ladder to get there. You wouldn't find it unless
+you were looking for it. Everybody was smoking and there was no
+ventilation." [18]
+⟦15⟧ Out of thoroughness I read each of the six sources provided in so far as I could:
+• ⟦16⟧ the New Yorker article quoted above; it contains fourth-hand accounts which were
+related in 2020 August.
+• a Chinese-language video
+• ⟦17⟧ an Australian reporter who met a Wuhan resident who said their friend is (as of 2020
+January 22) in the hospital with covid and thinks he may have gotten it while playing
+mahjong, with no further detail. This is well over a month after the time relevant to
+the HSM outbreak.
+• ⟦18⟧ a contemporaneous Chinese-language news report with many interviews with employees
+at HSM; based on a machine-translation, it contains two references to shopkeepers
+playing cards but does not mention mahjong. I⟦19*⟧  do not think it is fair to translate the
+characters "
+ " ("play cards") as "play mahjong" without context to indicate that it
+is specifically mahjong being referred to. ⟦20⟧ Even still, one instance refers to "three shop
+owners who often played cards at the stalls near tenth street", which is not near the
+mahjong room on fifth or sixth street.
+• two Chinese-language news reports which machine translation failed on
+⟦21⟧ The only source I could read that referred to illnesses that could even be compatible with the
+HSM mahjong room and in a relevant time period is the New Yorker article; I have quoted
+the relevant portion of it in full. ⟦22⟧ It is also the only source that makes specific reference to
+the HSM mahjong room.
+⟦23⟧ While it is certainly possible that the HSM mahjong room played a role in the HSM outbreak,
+⟦24⟧ there are no first-hand accounts of mahjong players with covid, no non-anecdotal accounts,
+and no known specific individuals who played mahjong and acquired covid. ⟦25⟧ The only evidence
+is a single sentence published almost a year after the events in question with a fourth-hand
+anecdotal account of non-specific people.
+
+Claims:
+⟦1⟧ Rootclaim identified the possibility that the mahjong room in HSM may have been a nexus of early covid cases.
+⟦2⟧ The author thinks there are two facets to Rootclaim's tentative argument: one, anecdotal observations linking early covid cases to the mahjong room; and two, a supposition that the mahjong room would have an unusually high rate of disease transmission.
+⟦3⟧ The author thinks neither facet of Rootclaim's argument is sufficiently substantiated.
+⟦4⟧ Rootclaim claims that at least 35 early covid cases have been linked to the mahjong room or mahjong players in some way.
+⟦5⟧ The number of 35 early covid cases linked to the mahjong room or mahjong players is reached by adding up each of the listed anecdotes.
+⟦6⟧ 27 of the 35 early covid cases come from a single source, a Chinese-language video.
+⟦7⟧ The sources of the 35 early covid cases are not reliable, being indirect anecdotes with no identifying details and few specifics.
+⟦8⟧ There is no attempt to de-duplicate individuals that might have appeared in multiple anecdotes, nor compare against the background rate of mahjong players.
+⟦9⟧ The HSM mahjong room would be more conducive to disease transmission than the shops.
+⟦10⟧ The HSM mahjong room is not especially outstanding in terms of disease transmission, nor in comparison to mahjong rooms or other establishments elsewhere in Wuhan.
+⟦11⟧ The effect of the mahjong room is limited to people physically in the room, which appears not to have been many.
+⟦12⟧ A shopkeeper mentioned an illicit mah-jongg parlor in the seafood market where four people playing at one table all got sick.
+⟦13⟧ The journalist found mah-jongg players in the secret room unfazed by rumors of a possible virus.
+⟦14⟧ The secret mah-jongg room was next to the public toilet, had to be accessed by climbing a ladder, and had no ventilation.
+⟦15⟧ The author read six sources provided, including a New Yorker article, a Chinese-language video, and several news reports.
+⟦16⟧ The New Yorker article contains fourth-hand accounts related in 2020 August.
+⟦17⟧ An Australian reporter met a Wuhan resident who said their friend was in the hospital with covid and thought they may have gotten it while playing mahjong.
+⟦18⟧ A contemporaneous Chinese-language news report contains interviews with employees at HSM but does not mention mahjong.
+⟦19*⟧ The author does not think it is fair to translate the characters "" as "play mahjong" without context.
+⟦20⟧ One instance in the news report refers to three shop owners who often played cards at the stalls near tenth street, which is not near the mahjong room on fifth or sixth street.
+⟦21⟧ The only source that refers to illnesses compatible with the HSM mahjong room and in a relevant time period is the New Yorker article.
+⟦22⟧ The New Yorker article is the only source that makes specific reference to the HSM mahjong room.
+⟦23⟧ It is possible that the HSM mahjong room played a role in the HSM outbreak.
+⟦24⟧ There are no first-hand accounts of mahjong players with covid, no non-anecdotal accounts, and no known specific individuals who played mahjong and acquired covid.
+⟦25⟧ The only evidence is a single sentence published almost a year after the events in question with a fourth-hand anecdotal account of non-specific people.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

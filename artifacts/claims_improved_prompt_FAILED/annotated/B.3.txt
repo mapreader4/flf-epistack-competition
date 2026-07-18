@@ -1,0 +1,170 @@
+B.3  Vendor cases
+
+⟦1⟧ Of the 55 HSM-linked cases in the WHO report, ⟦2⟧ 53 were acquired at HSM and 2 acquired
+indirectly; ⟦3⟧ 30 of these were vendors who work at fixed shops in HSM (annex page 177).
+⟦4⟧ (Some of the other 23 were also HSM employees or regular visitors.) ⟦5⟧ With much squinting
+at the map on annex page 181, and comparing to figure S2 of [12], the locations of each of
+the 30 vendor cases can be identified. ⟦6⟧ I have consolidated this with the HSM vendor cases
+found by Dr Marion Koopmans from the data file of [12], located at https://github.com/
+sars-cov-2-origins/huanan-market-environment/blob/main/metadata/cases.csv . ⟦7*⟧ (She
+presumably had access to this data due to being on the 2021 WHO investigative team, specif-
+ically as the head of the molecular epidemiology subteam.) ⟦8⟧ Date ranges can be narrowed in
+some cases by cross referencing information in other parts of the WHO report.
+⟦9⟧ Note that the case data from Dr Koopmans is simply an unannotated csv file with no context
+or discussion that I found in a github repository linked to from a paper she co-authored.
+⟦10⟧ Thus the data has no implied warranty of validity - it could easily be some draft or working
+data that was accidentally uploaded. ⟦11⟧ None-the-less it does match with case maps she has
+made in public presentations.
+⟦12⟧ In the following table, each shop location is given as the alley followed by the number within
+that alley. ⟦13⟧ Most shops are in the west half of HSM; ⟦14*⟧ shops in east half are indicated with
+an "E". ⟦15⟧ Some shops occupy multiple numbers, in which case the numbers will be comma
+separated. ⟦16⟧ A superscript indicates multiple cases at the same shop in the same date range.
+date (2019 Dec) stall number source notes
+⟦17⟧ 13 12:19,21,23 WHO+MK annex page 179; WHO has
+this more specifically at
+12:21
+⟦18⟧ 15 or earlier 2:14 MK Wei Guixian, Dec 10, first
+known case
+⟦19⟧ 15 or earlier 6:22,24 MK
+⟦20⟧ 15 or earlier 7:5,7 2 MK
+⟦21⟧ 15 or earlier 7:15,17 MK
+⟦22⟧ 15 or earlier 7:26,28 2 WHO+MK WHO has only one case, in
+Dec 21 to 27
+⟦23⟧ 15 or earlier 8:26,28 MK
+⟦24⟧ 15 or earlier 10:22 MK
+⟦25⟧ 17 13:X1,15:2 WHO+MK cluster 2, annex page 157
+⟦26⟧ 18 to 20 7:5,7 WHO+MK
+⟦27⟧ 18 to 20 15:13,15,17 WHO+MK MK has this more specifi-
+cally at 15:15
+⟦28⟧ 18 to 20 back street:2 WHO+MK
+⟦29⟧ 19 13:X1,15:2 WHO+MK cluster 2, annex page 157
+⟦30⟧ 20 5:6,8 WHO+MK cluster 4, annex page 158
+⟦31⟧ 21 to 27 4:6 WHO+MK
+⟦32⟧ 21 to 27 4:24 WHO+MK
+⟦33⟧ 21 to 27 4:26,28 WHO+MK
+⟦34⟧ 21 to 27 4:X4,X6 WHO+MK
+⟦35⟧ 21 to 27 9:19,21,23 WHO+MK MK has this more specifi-
+cally at 9:21
+⟦36⟧ 21 to 27 11:15 WHO+MK
+⟦37⟧ 21 to 27 11:17 WHO+MK
+⟦38⟧ 21 to 27 11:25 WHO+MK
+⟦39⟧ 21 to 27 13:X5 WHO+MK
+⟦40⟧ 21 to 27 13:X32 WHO according to [12], the WHO
+has this in 13:26 instead
+⟦41⟧ 21 to 27 E2:1 WHO+MK
+⟦42⟧ 21 to 27 E3:5,7,9 WHO+MK MK has this more specifi-
+cally at E3:7
+⟦43⟧ 21 to 27 E7:3 WHO
+⟦44⟧ 21 to 27 E7:15,17 WHO+MK
+⟦45⟧ 21 to 27 E11:42 WHO
+⟦46⟧ 25 13:X1,15:2 WHO+MK cluster 2, annex page 157
+⟦47⟧ 26 5:6,8 WHO+MK cluster 4, annex page 158
+(continued)
+date (2019 Dec) stall number source notes
+⟦48⟧ 16 to 31 E8:19 MK
+⟦49⟧ 16 to 31 E9:46 MK
+⟦50⟧ 16 to 31 1:X3,X5 MK
+⟦51⟧ 16 to 31 2:5,7 2 MK
+⟦52⟧ 16 to 31 2:15 MK
+⟦53⟧ 16 to 31 2:18 MK
+⟦54⟧ 16 to 31 3:6 MK
+⟦55⟧ 16 to 31 4:2,4 2 WHO+MK WHO has only one case, in
+Dec 28 to 31
+⟦56⟧ 16 to 31 4:16,18 2 MK
+⟦57⟧ 16 to 31 4:X1 MK
+⟦58⟧ 16 to 31 5:6,8 MK presumably also part of
+cluster 4
+⟦59⟧ 16 to 31 7:1,3 MK
+⟦60⟧ 16 to 31 7:5,7 MK
+⟦61⟧ 16 to 31 8:2,8:4,9:1,9:3 2 WHO+MK WHO has only one case, in
+Dec 28 to 31
+⟦62⟧ 16 to 31 10:13 MK
+⟦63⟧ 16 to 31 10:22 2 MK
+⟦64⟧ 16 to 31 11:22 MK
+⟦65⟧ 16 to 31 13:26 MK possibly same as WHO case
+in 13:X32
+⟦66⟧ 16 to 31 13:X1,15:2 MK presumably also part of
+cluster 2
+⟦67⟧ 16 to 31 15:12 MK
+⟦68⟧ 16 to 31 15:35 MK
+⟦69⟧ 16 to 31 15:44 2 WHO+MK WHO has only one case, in
+Dec 21 to 27
+⟦70⟧ 28 to 31 4:X2 WHO+MK
+⟦71⟧ 28 to 31 back street:14 WHO+MK
+⟦72⟧ In total this constitutes 62 cases, assuming the 13:X32 and 13:26 cases are the same.
+
+Claims:
+⟦1⟧ There were 55 HSM-linked cases in the WHO report.
+⟦2⟧ 53 of the HSM-linked cases were acquired at HSM and 2 were acquired indirectly.
+⟦3⟧ 30 of the HSM-linked cases were vendors who work at fixed shops in HSM.
+⟦4⟧ Some of the other 23 HSM-linked cases were also HSM employees or regular visitors.
+⟦5⟧ The locations of each of the 30 vendor cases can be identified by comparing the map on annex page 181 to figure S2 of [12].
+⟦6⟧ Dr. Marion Koopmans found HSM vendor cases from the data file of [12].
+⟦7*⟧ Dr. Marion Koopmans had access to the data due to being on the 2021 WHO investigative team, specifically as the head of the molecular epidemiology subteam.
+⟦8⟧ Date ranges can be narrowed in some cases by cross-referencing information in other parts of the WHO report.
+⟦9⟧ The case data from Dr. Koopmans is an unannotated csv file with no context or discussion.
+⟦10⟧ The data from Dr. Koopmans has no implied warranty of validity.
+⟦11⟧ The data from Dr. Koopmans matches with case maps she has made in public presentations.
+⟦12⟧ The table lists shop locations as the alley followed by the number within that alley.
+⟦13⟧ Most shops are in the west half of HSM.
+⟦14*⟧ Shops in the east half of HSM are indicated with an 'E'.
+⟦15⟧ Some shops occupy multiple numbers, which will be comma-separated.
+⟦16⟧ A superscript indicates multiple cases at the same shop in the same date range.
+⟦17⟧ There was a case at stall 12:19, 21, or 23 on December 13, 2019, according to the WHO report and Dr. Koopmans.
+⟦18⟧ There was a case at stall 2:14 on December 15 or earlier, 2019, according to Dr. Koopmans, and the first known case was Wei Guixian on December 10.
+⟦19⟧ There was a case at stall 6:22 or 24 on December 15 or earlier, 2019, according to Dr. Koopmans.
+⟦20⟧ There were cases at stalls 7:5 and 7:7 on December 15 or earlier, 2019, according to Dr. Koopmans.
+⟦21⟧ There were cases at stalls 7:15 and 7:17 on December 15 or earlier, 2019, according to Dr. Koopmans.
+⟦22⟧ There were cases at stalls 7:26 and 7:28 on December 15 or earlier, 2019, according to the WHO report and Dr. Koopmans.
+⟦23⟧ There were cases at stalls 8:26 and 8:28 on December 15 or earlier, 2019, according to Dr. Koopmans.
+⟦24⟧ There was a case at stall 10:22 on December 15 or earlier, 2019, according to Dr. Koopmans.
+⟦25⟧ There were cases at stalls 13:X1 and 15:2 on December 17, 2019, according to the WHO report and Dr. Koopmans, and this is cluster 2.
+⟦26⟧ There were cases at stalls 7:5 and 7:7 between December 18 and 20, 2019, according to the WHO report and Dr. Koopmans.
+⟦27⟧ There were cases at stalls 15:13, 15:15, and 15:17 between December 18 and 20, 2019, according to the WHO report and Dr. Koopmans.
+⟦28⟧ There was a case at back street:2 between December 18 and 20, 2019, according to the WHO report and Dr. Koopmans.
+⟦29⟧ There were cases at stalls 13:X1 and 15:2 on December 19, 2019, according to the WHO report and Dr. Koopmans, and this is cluster 2.
+⟦30⟧ There were cases at stalls 5:6 and 5:8 on December 20, 2019, according to the WHO report and Dr. Koopmans, and this is cluster 4.
+⟦31⟧ There was a case at stall 4:6 between December 21 and 27, 2019, according to the WHO report and Dr. Koopmans.
+⟦32⟧ There was a case at stall 4:24 between December 21 and 27, 2019, according to the WHO report and Dr. Koopmans.
+⟦33⟧ There were cases at stalls 4:26 and 4:28 between December 21 and 27, 2019, according to the WHO report and Dr. Koopmans.
+⟦34⟧ There were cases at stalls 4:X4 and 4:X6 between December 21 and 27, 2019, according to the WHO report and Dr. Koopmans.
+⟦35⟧ There were cases at stalls 9:19, 9:21, and 9:23 between December 21 and 27, 2019, according to the WHO report and Dr. Koopmans.
+⟦36⟧ There was a case at stall 11:15 between December 21 and 27, 2019, according to the WHO report and Dr. Koopmans.
+⟦37⟧ There was a case at stall 11:17 between December 21 and 27, 2019, according to the WHO report and Dr. Koopmans.
+⟦38⟧ There was a case at stall 11:25 between December 21 and 27, 2019, according to the WHO report and Dr. Koopmans.
+⟦39⟧ There was a case at stall 13:X5 between December 21 and 27, 2019, according to the WHO report and Dr. Koopmans.
+⟦40⟧ There was a case at stall 13:X32 between December 21 and 27, 2019, according to the WHO report.
+⟦41⟧ There was a case at stall E2:1 between December 21 and 27, 2019, according to the WHO report and Dr. Koopmans.
+⟦42⟧ There were cases at stalls E3:5, E3:7, and E3:9 between December 21 and 27, 2019, according to the WHO report and Dr. Koopmans.
+⟦43⟧ There was a case at stall E7:3 between December 21 and 27, 2019, according to the WHO report.
+⟦44⟧ There were cases at stalls E7:15 and E7:17 between December 21 and 27, 2019, according to the WHO report and Dr. Koopmans.
+⟦45⟧ There was a case at stall E11:42 between December 21 and 27, 2019, according to the WHO report.
+⟦46⟧ There were cases at stalls 13:X1 and 15:2 on December 25, 2019, according to the WHO report and Dr. Koopmans, and this is cluster 2.
+⟦47⟧ There were cases at stalls 5:6 and 5:8 on December 26, 2019, according to the WHO report and Dr. Koopmans, and this is cluster 4.
+⟦48⟧ There was a case at stall E8:19 between December 16 and 31, 2019, according to Dr. Koopmans.
+⟦49⟧ There was a case at stall E9:46 between December 16 and 31, 2019, according to Dr. Koopmans.
+⟦50⟧ There were cases at stalls 1:X3 and 1:X5 between December 16 and 31, 2019, according to Dr. Koopmans.
+⟦51⟧ There were cases at stalls 2:5 and 2:7 between December 16 and 31, 2019, according to Dr. Koopmans.
+⟦52⟧ There was a case at stall 2:15 between December 16 and 31, 2019, according to Dr. Koopmans.
+⟦53⟧ There was a case at stall 2:18 between December 16 and 31, 2019, according to Dr. Koopmans.
+⟦54⟧ There was a case at stall 3:6 between December 16 and 31, 2019, according to Dr. Koopmans.
+⟦55⟧ There were cases at stalls 4:2 and 4:4 between December 16 and 31, 2019, according to the WHO report and Dr. Koopmans.
+⟦56⟧ There were cases at stalls 4:16 and 4:18 between December 16 and 31, 2019, according to Dr. Koopmans.
+⟦57⟧ There was a case at stall 4:X1 between December 16 and 31, 2019, according to Dr. Koopmans.
+⟦58⟧ There were cases at stalls 5:6 and 5:8 between December 16 and 31, 2019, according to Dr. Koopmans, and this is presumably part of cluster 4.
+⟦59⟧ There were cases at stalls 7:1 and 7:3 between December 16 and 31, 2019, according to Dr. Koopmans.
+⟦60⟧ There were cases at stalls 7:5 and 7:7 between December 16 and 31, 2019, according to Dr. Koopmans.
+⟦61⟧ There were cases at stalls 8:2, 8:4, 9:1, and 9:3 between December 16 and 31, 2019, according to the WHO report and Dr. Koopmans.
+⟦62⟧ There was a case at stall 10:13 between December 16 and 31, 2019, according to Dr. Koopmans.
+⟦63⟧ There were cases at stalls 10:22 between December 16 and 31, 2019, according to Dr. Koopmans.
+⟦64⟧ There was a case at stall 11:22 between December 16 and 31, 2019, according to Dr. Koopmans.
+⟦65⟧ There was a case at stall 13:26 between December 16 and 31, 2019, according to Dr. Koopmans, and this is possibly the same as the WHO case in 13:X32.
+⟦66⟧ There were cases at stalls 13:X1 and 15:2 between December 16 and 31, 2019, according to Dr. Koopmans, and this is presumably part of cluster 2.
+⟦67⟧ There was a case at stall 15:12 between December 16 and 31, 2019, according to Dr. Koopmans.
+⟦68⟧ There was a case at stall 15:35 between December 16 and 31, 2019, according to Dr. Koopmans.
+⟦69⟧ There were cases at stalls 15:44 between December 16 and 31, 2019, according to the WHO report and Dr. Koopmans.
+⟦70⟧ There was a case at stall 4:X2 between December 28 and 31, 2019, according to the WHO report and Dr. Koopmans.
+⟦71⟧ There was a case at back street:14 between December 28 and 31, 2019, according to the WHO report and Dr. Koopmans.
+⟦72⟧ In total, there are 62 cases, assuming the 13:X32 and 13:26 cases are the same.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

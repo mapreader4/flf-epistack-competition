@@ -1,0 +1,41 @@
+C  Excluded information
+
+⟦1⟧ Crucially for fairness of the debate, I was not permitted to base my decision on independent
+research beyond what the participants of the debate did. ⟦2*⟧ This gives the participants oppor-
+tunity to identify flaws or rebut any information presented against their side. ⟦3⟧ However for
+the purposes of the exposition within this report I have not so limited myself, mostly for the
+purposes of filling in minor details that do not influence the debate outcome. 76 For example,
+while both sides of the debate estimated there were about 1000 vendors at HSM, the WHO
+76For example, ⟦4⟧ at times when the debate participants cited secondary sources for a statement I would
+follow references back to a primary source to validate it before including and citing it in this ⟦5*⟧ ⟦6*⟧ document.
+report annex page 182 [32] gives a more exact figure of 1162 vendors, which I freely use
+instead of 1000.
+⟦7⟧ However some of the information I encountered does appear to directly bear on the central
+topic of the debate; ⟦8⟧ I did not want to exclude it from the report, but the reader should
+realize it has been subjected to a lower level of critical scrutiny than the rest of the report,
+and may exhibit selection bias.
+(What does it mean to "exclude" information? ⟦9⟧ I have generally been using any material
+found in any reference from either party, so by that standard something in the annexes of
+the WHO report should be included. ⟦10⟧ However, amongst the thousands of pages of reference
+material, it seems likely that one or both parties could have overlooked something 100 pages
+deep into a supplementary materials section. ⟦11⟧ What is important to me is the balance between
+the level of scrutiny a claim received in the debate and how contentious that claim is; ⟦12⟧ highly
+contentious claims that faced no scrutiny will be treated with extreme skepticism. This is
+not a binary distinction where evidence is treated with full credulity just because it lies
+inside some fixed boundary line.)
+
+Claims:
+⟦1⟧ The judge was not permitted to base their decision on independent research beyond what the participants of the debate did for fairness of the debate.
+⟦2*⟧ The participants of the debate have the opportunity to identify flaws or rebut any information presented against their side.
+⟦3⟧ The judge did not limit themselves to only the information presented by the participants for the purposes of the exposition within the report.
+⟦4⟧ The judge followed references back to a primary source to validate statements cited by the debate participants from secondary sources.
+⟦5*⟧ The WHO report annex page 182 gives a figure of 1162 vendors at HSM.
+⟦6*⟧ The judge used the figure of 1162 vendors at HSM from the WHO report instead of the estimated 1000 vendors.
+⟦7⟧ Some information encountered by the judge appears to directly bear on the central topic of the debate.
+⟦8⟧ The judge did not want to exclude information that appears to directly bear on the central topic of the debate from the report.
+⟦9⟧ The judge used any material found in any reference from either party.
+⟦10⟧ It is likely that one or both parties could have overlooked something 100 pages deep into a supplementary materials section.
+⟦11⟧ The judge considers the balance between the level of scrutiny a claim received in the debate and how contentious that claim is.
+⟦12⟧ Highly contentious claims that faced no scrutiny will be treated with extreme skepticism.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

@@ -1,14 +1,58 @@
-"""Claim extraction with provenance (CAMS-style §3.2) for the epistemic layer.
+"""FAILED EXPERIMENT -- do not use for real extraction runs.
 
-Same pipeline as extract_claims_original.py ("v1"), with a revised prompt:
-the system prompt no longer assumes a judicial-style decision document, and
-the document name/description are runtime args (--document-name,
---document-description) rendered into the user template instead of being
-hardcoded to eric_decision.pdf. See claude-docs/claims-v1-qualitative-eval.md
-for the failure modes (structured-content under-extraction, decontextualization
-drift, dropped self-attribution) this was written in response to -- note the
-prompt wording for those is unchanged here; only the document-coupling was
-addressed.
+See claude-docs/claims-improved-prompt-FAILED-qualitative-eval.md for the full
+writeup. Summary: of five prompt-rule rewrites below, only one (FAITHFUL's
+scope-preservation) fixed the specific failure it targeted; the other four
+(ATOMIC's logical split, COMPREHENSIVE's echo-skip, and both DECONTEXTUALIZED
+fixes) did not, one regressed a previously-working case, and a full-corpus run
+turned up a new, unrelated comprehensiveness regression (a table collapsing
+from one-claim-per-row to a single vague claim -- see §4.5.3 in the writeup)
+that contradicts the reliable table extraction seen elsewhere in the very same
+run. Net effect on the full 64-section corpus: fewer total claims and longer
+average claim length than the prompt version this was meant to improve on
+(extract_claims_improved_prompt.py). Kept in the repo as a record of what was
+tried and why it didn't work, not as something to build on. If you want to
+improve claim extraction quality, see extract_claims_by_sentence.py ("v2"
+sentence-level pipeline) instead -- a structural rewrite rather than a prompt
+rewrite, motivated by the same evidence that single-pass prompting doesn't
+reliably sustain per-claim rules.
+
+Claim extraction with provenance (CAMS-style §3.2) for the epistemic layer.
+
+Same pipeline as extract_claims_improved_prompt.py ("v1-improved-prompt"), with
+four rule revisions responding to findings in
+claude-docs/claims-improved-prompt-qualitative-eval.md:
+- DECONTEXTUALIZED now opens with a definition (a claim is decontextualized when
+  it is truth-functional on its own, with no further specification needed to
+  evaluate it) and drops the prior wording's positional framing ("if an earlier
+  claim names an entity in full, later claims... must still name it in full"),
+  which let full-naming decay on later claims in a section; every claim must now
+  independently name each entity in full, never by abbreviation/acronym/
+  initialism. It also now says attribution to a chain of reasoning's owner
+  carries forward through every claim reporting a later step or result of that
+  chain, even where a later sentence states the step impersonally -- the
+  original wording only preserved attribution claim-by-claim, which dropped it
+  on later steps (e.g. a final computed result) that don't locally repeat a
+  first-person marker even though they belong to the same chain as an earlier,
+  clearly-attributed step.
+- FAITHFUL now requires that when a sentence's governing verb, hedge, or
+  qualifier has scope over multiple clauses and that sentence is split under
+  ATOMIC, each resulting claim preserve that governing scope, rather than an
+  originally-qualified/negated/attributed clause becoming a bare unqualified
+  claim once split into its own record.
+- COMPREHENSIVE now says not to skip a passage just because it structurally
+  echoes or restates earlier material -- such passages were found to be
+  silently dropped even when substantively distinct from what they echo.
+- ATOMIC is now defined logically rather than by surface pattern (numbered
+  list, "and"/"but"): split a sentence into one claim per component whenever
+  each component holds or fails independently of the others, and leave it as
+  one claim when its components are jointly necessary for a single outcome,
+  with no single component alone asserted to produce it. The prior wording's
+  blanket "single antecedent/consequent may remain one claim" carve-out didn't
+  distinguish those two cases, which both v1 and v1-improved-prompt got wrong
+  on the same claim in the same direction (bundled where it should have split)
+  -- see claude-docs/claims-improved-prompt-qualitative-eval.md's atomicity
+  section for the specific case this generalizes from.
 
 Decompose curated sections of a source document (eric_decision.pdf by default)
 into atomic, decontextualized {claim, quote} pairs with an LLM, then resolve
@@ -22,9 +66,9 @@ the fact instead. This mirrors HippoRAG's own separation of extraction from grap
 construction (see scripts/run_hipporag_index.py) and reuses the PDF/section
 parsing from scripts/chunk_decision.py rather than reimplementing it.
 
-Usage:
-    python scripts/extraction-variants/extract_claims_improved_prompt.py                 # curated 12-section sample
-    python scripts/extraction-variants/extract_claims_improved_prompt.py --sections 7,7.1 # explicit subset
+Usage (kept for reproducing the recorded run; not recommended for new work):
+    python scripts/extraction-variants/extract_claims_improved_prompt_FAILED.py                 # curated 12-section sample
+    python scripts/extraction-variants/extract_claims_improved_prompt_FAILED.py --sections 7,7.1 # explicit subset
 """
 
 import argparse
@@ -62,7 +106,7 @@ load_dotenv(ROOT / ".env")
 TOGETHER_BASE_URL = "https://api.together.xyz/v1"
 DEFAULT_MODEL = os.getenv("TOGETHER_MODEL", "meta-llama/Llama-3.3-70B-Instruct-Turbo")
 
-PROMPT_VERSION = "v1-improved-prompt"
+PROMPT_VERSION = "FAILED-improved-prompt-v2"
 
 # Curated sample, chosen for downstream usefulness rather than document order:
 #   7, 7.1-7.6  -> Analysis: hypotheses, priors, and the final verdict converge.
@@ -113,27 +157,51 @@ Rules:
 - FAITHFUL: extract only claims actually asserted or reported in this section. \
 Each claim must be an accurate, non-inflated paraphrase of its quote -- no added \
 information, no reversed polarity, and no evaluation, endorsement, or correction \
-of your own.
+of your own. When a sentence's governing verb, hedge, or qualifier (e.g. a verb \
+of saying/showing/believing/estimating, a negation, or an attribution) has scope \
+over multiple clauses or conditions, and you split that sentence into separate \
+claims under the ATOMIC rule below, carry that governing scope into every \
+resulting claim -- do not let a clause that was originally qualified, hedged, \
+attributed, or negated turn into a bare unqualified assertion just because \
+splitting moved it into its own claim.
 - COMPREHENSIVE: extract claims from every substantive assertion in the section, \
 including content inside tables, numbered lists, and bulleted lists -- treat each \
 table row or list item as its own claim opportunity rather than only paraphrasing \
 prose that summarizes them. Do not let a named fact or figure embedded inside a \
-longer sentence go unclaimed just because it isn't that sentence's main assertion.
-- DECONTEXTUALIZED: resolve pronouns, bridging references, and elided \
-subjects/times/locations so each claim stands alone, naming the specific entities \
-involved rather than leaving them implicit. Do this for every claim in the \
-section, not just the first one that introduces an entity -- if an earlier claim \
-names an entity in full, later claims about the same entity must still name it in \
-full, not fall back to a bare pronoun or generic noun. Preserve attribution (who \
-is asserting, arguing, or estimating the claim) consistently across every claim \
-that needs it, including the document's own author's or narrator's own estimates \
-and conclusions, not only claims attributed to named third parties.
-- ATOMIC: each claim must be a single assertion. When the source text bundles \
-multiple independent facts or conditions together -- e.g. a numbered list \
-enumerating several conditions, or a sentence joining unrelated propositions with \
-"and"/"but" -- split them into separate claims rather than one bundled claim. A \
-single conditional statement with one antecedent and one consequent may remain \
-one claim.
+longer sentence go unclaimed just because it isn't that sentence's main assertion. \
+Do not skip a passage just because it structurally echoes, mirrors, or restates \
+an earlier part of the section -- such passages typically still assert something \
+of their own (a different subject, condition, or conclusion) and need their own \
+claim(s) even when the wording is largely recycled from nearby text.
+- DECONTEXTUALIZED: a claim is decontextualized when it is sufficiently specific \
+to be truth-functional on its own: its meaning is unambiguous and requires no \
+further specification or additional context to evaluate as true or false. \
+Resolve pronouns, bridging references, and elided subjects/times/locations so \
+each claim meets that standard, naming the specific entities involved rather \
+than leaving them implicit. Every claim must independently name each entity it \
+refers to in full, not fall back to a bare pronoun or generic noun. Always use \
+an entity's full name rather than an abbreviation, acronym, or initialism, even \
+if the source text itself uses the short form. Preserve attribution (who is \
+asserting, arguing, or estimating the claim) consistently across every claim \
+that needs it, including the document's own author's or narrator's own \
+estimates and conclusions, not only claims attributed to named third parties. \
+If a passage establishes that a chain of reasoning, estimate, or calculation \
+belongs to a specific person, that attribution carries forward to every claim \
+reporting any later step or result of that same chain, even where a later \
+sentence states the step impersonally and does not repeat the person marker -- \
+attribution is a property of the chain, not of whichever individual sentence \
+happens to name the person.
+- ATOMIC: a claim is atomic when it cannot be split into two or more \
+separately-verifiable claims without losing or changing what the original \
+sentence asserts. Split a sentence -- whether phrased as a numbered or bulleted \
+list, an "and"/"but" conjunction, or several conditions attached to one shared \
+antecedent or consequent -- into one claim per component whenever each \
+component holds or fails independently of the others, regardless of how the \
+source groups them together on the page. Do NOT split a sentence whose \
+components are jointly necessary for a single outcome, such that no one \
+component on its own is asserted to produce that outcome -- extracting just one \
+component in isolation would misrepresent what the sentence claims, so it \
+remains one claim with a conjunctive antecedent.
 - The "quote" MUST be an exact, verbatim, contiguous substring of the section \
 text -- copy it character-for-character. Do NOT paraphrase, normalize whitespace, \
 fix typos, or stitch together non-contiguous fragments. Do NOT include character \
@@ -390,8 +458,8 @@ def main() -> None:
     # once given room). Set well above observed need rather than tuned tightly.
     ap.add_argument("--max-tokens", type=int, default=16384,
                     help="max completion tokens per section (Together defaults to 2048 if unset)")
-    ap.add_argument("--save-dir", default=str(ROOT / "artifacts" / "claims_improved_prompt"))
-    ap.add_argument("--cache", default=str(ROOT / "outputs" / "claims_improved_prompt" / "llm_cache.json"))
+    ap.add_argument("--save-dir", default=str(ROOT / "artifacts" / "claims_improved_prompt_FAILED"))
+    ap.add_argument("--cache", default=str(ROOT / "outputs" / "claims_improved_prompt_FAILED" / "llm_cache.json"))
     ap.add_argument("--no-cache", action="store_true", help="ignore cached LLM responses")
     ap.add_argument("--max-tokens-budget", type=int, default=200_000,
                     help="abort (saving progress) once this many NEW tokens are spent")
@@ -558,7 +626,7 @@ def main() -> None:
         "max_tokens": args.max_tokens,
         "max_tokens_budget": args.max_tokens_budget,
         "generated": time.strftime("%Y-%m-%dT%H:%M:%S"),
-        "reproduce": f"python scripts/extraction-variants/extract_claims_improved_prompt.py --sections {args.sections} "
+        "reproduce": f"python scripts/extraction-variants/extract_claims_improved_prompt_FAILED.py --sections {args.sections} "
                      f"--threshold {args.threshold} --max-tokens {args.max_tokens}",
         "note": "quotes are resolved deterministically post-hoc; offsets are never "
                 "requested from the model. span is chunk-relative [start, end).",

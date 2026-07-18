@@ -1,0 +1,127 @@
+3  Lies, damned lies, and how to get large numbers by taking powers of 2
+
+taking powers of 2
+⟦1*⟧ In the space of one hundred and seventy-six years the Lower Missis-
+sippi has shortened itself two hundred and forty-two miles. ⟦2⟧ That is
+an average of a trifle over one mile and a third per year. ⟦3⟧ Therefore,
+any calm person, who is not blind or idiotic, can see that in the Old
+Oolitic Silurian Period, just a million years ago next November, the
+Lower Mississippi River was upwards of one million three hundred
+thousand miles long, and stuck out over the Gulf of Mexico like a
+fishing-rod. ⟦4⟧ And by the same token any person can see that seven
+hundred and forty-two years from now the Lower Mississippi will be
+only a mile and three-quarters long, and Cairo and New Orleans will
+have joined their streets together, and be plodding comfortably along
+under a single mayor and a mutual board of aldermen. ⟦5*⟧ There is some-
+thing fascinating about science. One gets such wholesale returns of
+conjecture out of such a trifling investment of fact. -Mark Twain [31]
+⟦6⟧ Suppose you suspect something about your senator is quite odd, and perhaps they are not
+human at all, but rather secretly a lizard from space. To test this, you collect 100 pieces of
+data that inform the question. ⟦7⟧ For many of these data points you know what to expect for
+humans: how tall are they, how much do they weigh, shapes of facial features, thickness of
+fingers. Of course they would not make their lizardness so obvious, so you collect data on
+vocal patterns, word choices, oddities in their education history, interviews with supposed
+personal friends. You collect reports on UFOs near their presumed arrival time, look for
+military flight patterns, cryptic comments made by public officials around that time. Soon,
+you have 100 independent observations that bear on the question.
+⟦8⟧ Predictably, even if you have been completely fair in your data collection - all 100 data
+points are accurate, and you did not specifically seek out information that you know will be
+odd21 - if you are naive with your analysis in certain ways you will invariably conclude that
+they are a lizard.
+How? ⟦9⟧ Well, if you use hypothesis testing, you might calculate a p-value for each of your 100
+observations. Shockingly, you discover their ring finger is extremely long - at p = 0.01 it is
+highly anomalous, a 1 in 100 coincidence. Clearly a lizard! This is a common trap (usually
+inadvertent) called p-hacking.
+⟦10⟧ Bayesian reasoning is capable of exactly the same error. For each of these observations you
+compute a Bayes factor. ⟦11⟧ Half of them are less anomalous than average (Bayes factor 1) and
+half of them are more anomalous than average. ⟦12⟧ They are only weakly anomalous - a 1 in
+2 coincidence each, so Bayes factor 2 - but with 50 such pieces of weak evidence your total
+Bayes factor is 2 50, totally overwhelming any prior you had against secret space lizards.
+However let us be a little less reckless; after all, all of those less anomalous observations
+should have had a Bayes factor smaller than 1 because they are evidence for humanity.
+Recall22 we can convert Bayes factors to probabilities as:
+p = 1
+1 +b
+so for a p-value p we can correspond the Bayes factor b = 1/p- 1. If our observations are
+chosen so thatp is uniformly distributed in the range [0, 1], then b will be distributed [0,∞].
+As we calculate the total log-odds by adding up each of the 100 random values of log b,
+we undergo a random walk. The median step size |S| =| logb| of this random walk is
+± log 3 =±1.1; the average is± log 4 =±1.39; and the variance σ2 is
+Var(S) =E(S2)-E(S)2 =E(S2) =
+∫ 1
+(logb)2 dp = π2
+3 = 3.28987
+so the standard deviation is σ = 1.8138.
+After 100 random steps, our final position has a variance of 100 σ2 or standard deviation of
+10σ = 18.138. A Bayes factor of e18.138 gives a probability indistinguishable from certainty,
+so we will most likely find strong evidence either in favor of lizardness or humanness.
+21even though you only chose to start this investigation because you already had made some specific
+observations that are odd!
+22I am eliding some details and assumptions here; basically, I have assumed that any evidence against
+humanity is for space lizards, as this maximizes the statistical power of the test. I also have a nagging
+suspicion that I have omitted a factor of 2 in converting to Bayes factors, but the end result appears not to
+be missing any factors of 2.
+(Digression: for convenience to perform this calculation I have assumed all our observations
+are numerical with known distribution. If so, the appropriate statistical test would be a
+z-test (similar to a t-test) on the mean of the z scores of the observations, and not to do
+any kind of Bayesian calculation at all. More likely, some of our observations will not be
+numerical or come from unknown distributions, so that a z-test cannot be performed.)
+⟦13⟧ However, what happens if we have a slight bias? Indeed even if all of our data points are
+individually fair, we might be biased about which data points we collect.
+⟦14⟧ Suppose we conveniently overlook half the data in favor of humanity; so we have two thirds
+for lizards, and one thirds for humans. This may still look like we are being extremely
+fair - after all, we've included 33 data points against our desired conclusion! However the
+difference is massive, because random walks add noise that scales with the square root of the
+number of steps, but a biased random walk drifts at a rate that is linear with the number of
+steps. ⟦15⟧ The total bias is 100
+3 log 4 = 46.21, completely overwhelming any random noise (which
+will also be slightly less than before, I didn't calculate how much) and leading us consistently
+to the conclusion in favor of lizardness with a confidence of about e46 to 1.
+⟦16⟧ Of course, such bias in the datacould also exist because lizardness is the right conclusion, and
+the data is accurately reflecting that! But the analysis of any one data point, or potentially
+all 100 data points, is insufficient to distinguish between a completely fair Bayesian analysis
+revealing an anomaly or a slightly biased Bayesian analysis with no true signal.
+(What's more, we can get qualitatively the same result using far fewer than 100 data points;
+all we need is 100 potential data points. If there are 100 different ways we could make an
+observation, and we ignore the 90 least interesting ones (with Bayes factors closest to 1),
+they are the ones that make the smallest contribution to the final result, and most will cancel
+with each other. Thus by making only 10 interesting observations we get more-or-less the
+same result as if we had made 100, though with a bit more randomness.)
+⟦17⟧ If instead of a haphazard collection of observations one makes a collection of evidence that
+is in some way canonical it is much harder to introduce bias; say, one considers all fingers,
+but only fingers.
+⟦18⟧ Alternatively, while we are musing about space lizards, consider the Drake equation, which
+attempts to put numbers to the Fermi paradox.23 ⟦19⟧ While people may (greatly) disagree about
+the specific numbers to use for the terms of Drake equation, and vary slightly on exactly
+how the Drake equation is broken down into factors, the general structure of the equation is
+uncontroversial, as each factor represents an obligate step in the path from lifeless rock to
+observable intelligent life.
+Similarly, if a hypothesis can be broken down into subparts, each necessary for the hypoth-
+esis as a whole to hold, then there is less potential for bias in the selection of evidence,
+though there may remain disagreement about the numbers assigned to the evidence or what
+breakdown into subparts is cleanest.
+23If each star is a potential host for intelligent alien life, and we can observe billions of stars, why do we
+not observe any alien life?
+
+Claims:
+⟦1*⟧ The Lower Mississippi River has shortened itself two hundred and forty-two miles in one hundred and seventy-six years.
+⟦2⟧ The average shortening of the Lower Mississippi River is a trifle over one mile and a third per year.
+⟦3⟧ The Lower Mississippi River was upwards of one million three hundred thousand miles long in the Old Oolitic Silurian Period.
+⟦4⟧ The Lower Mississippi River will be only a mile and three-quarters long in seven hundred and forty-two years.
+⟦5*⟧ Science can produce wholesale returns of conjecture from a trifling investment of fact.
+⟦6⟧ Collecting 100 pieces of data can inform the question of whether a senator is human or a lizard from space.
+⟦7⟧ The data points collected can include information such as height, weight, facial features, and vocal patterns.
+⟦8⟧ Even with fair data collection, naive analysis can lead to the conclusion that the senator is a lizard.
+⟦9⟧ Using hypothesis testing can result in a p-value of 0.01 for a single observation, making it seem highly anomalous.
+⟦10⟧ Bayesian reasoning can also lead to the same error as hypothesis testing.
+⟦11⟧ Half of the observations are less anomalous than average, and half are more anomalous than average.
+⟦12⟧ The total Bayes factor can be overwhelming, leading to a conclusion in favor of the lizard hypothesis.
+⟦13⟧ A biased collection of data can lead to a false conclusion, even if each individual data point is fair.
+⟦14⟧ Overlooking half of the data in favor of humanity can lead to a massive difference in the conclusion.
+⟦15⟧ A biased random walk can drift at a rate that is linear with the number of steps, leading to a false conclusion.
+⟦16⟧ The analysis of a single data point or all 100 data points is insufficient to distinguish between a fair Bayesian analysis and a biased one.
+⟦17⟧ Using a canonical collection of evidence can make it harder to introduce bias.
+⟦18⟧ The Drake equation attempts to put numbers to the Fermi paradox.
+⟦19⟧ The general structure of the Drake equation is uncontroversial, as each factor represents an obligate step in the path from lifeless rock to observable intelligent life.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

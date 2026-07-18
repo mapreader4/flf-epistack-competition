@@ -1,0 +1,116 @@
+1.2.1  Phylogeny of coronaviruses
+
+⟦1⟧ As viruses evolve over time, they can be organized into a phylogenetic tree showing how
+closely related one virus is to another; for example, coronaviruses are just one branch
+Figure 3: The structure of a coronavirus, how it enters target cells, and its genome. Depicted
+is MERS, a close relative to sars-cov-2; note that sars-cov-2 binds to ACE2 instead of DPP4.
+The spike protein consists of two subdomains, S1 and S2, which are separated as part of the
+cell entry process. Diagram is figure 2 from [35].
+of nidoviruses. ⟦2⟧ Coronaviruses are divided into four subgroups, named alphacoronaviruses
+through deltacoronaviruses, not to be confused with the variants of sars-cov-2 also named
+after greek letters. ⟦3⟧ β-covs are divided further into four subgroups labeled lineages A through
+D, not to be confused with lineages A and B of sars-cov-2. ⟦4*⟧ Lineage B, the sarbecoviruses
+("sars-like betacoronaviruses") includes both sars-cov-1, the virus which caused the 2002-
+2003 SARS outbreak, and sars-cov-2, which causes covid-19. ⟦5⟧ The genomes of sars-cov-1 and
+sars-cov-2 are 80% identical.
+⟦6⟧ In total there are 7 known coronaviruses that cause disease in humans: ⟦7⟧ two mild α-covs
+HCoV-229E and HCoV-NL63, two mild β-covs of lineage A ("embecoviruses") HCoV-OC43
+and HCoV-HKU1, the two human sarbecoviruses mentioned above, and the deadly MERS
+virus of lineage C ("merbecoviruses"). ⟦8⟧ While MERS is only weakly transmissible between
+humans ⟦9⟧ and most MERS causes are in Saudi Arabia, where it is believed to have transmitted
+many times to humans from camels, ⟦10⟧ extended human-to-human transmission chains have
+been observed extending into other countries.
+The wild virus most closely related to sars-cov-2 is banal-20-52 [30], a sample collected from
+Figure 4: Phylogenetic tree of selected betacoronaviruses. Inserts at right show Lineage B
+(sarbecoviruses) and Lineage C (merbecoviruses); the former includes both sars-cov-1 and
+sars-cov-2, but this diagram was made in 2018. Diagram is figure 9 from [17].
+a bat (dropping) in Laos ⟦11⟧ with 96.8% nucleotide identity, or a disagreement of about 1000
+nucleotides. ⟦12⟧ As many nucleotide substitutions are synonymous, there is about 99% amino
+acid identity, ⟦13⟧ and the time to most recent common ancestor (tMRCA) might be about 20 to
+30 years ago [7]. ⟦14⟧ However, different parts of the sars-cov-2 genome are closest to different wild
+viruses, ⟦15⟧ and recombination appears to play a role in the genetic history of sarbecoviruses,
+complicating efforts to reconstruct a phylogeny [30].
+⟦16⟧ Sars-cov-2 itself divides into many subgroups; ⟦17⟧ like the flu virus, one often finds that newer
+variants displace older variants, causing notational difficulties as the phylogenetic tree divides
+further and further. ⟦18⟧ It was for this reason that the PANGO notation was developed [29];
+⟦19⟧ for example, the pango notation "B.1.1.529" refers to the root of the omicron variant. ⟦20⟧ The
+very earliest division of the sars-cov-2 phylogeny is into two parts, called lineages A and B
+in the PANGO notation.12 ⟦21⟧ Lineage B would contain the highly successful D614G mutation,
+⟦22⟧ meaning that the aspartic acid (D) at location 614 of the spike protein (70 nucleotides from
+the FCS) is replaced by glycine (G). ⟦23⟧ The D614G mutation first became prominent in Italy
+in 2020 March, ⟦24⟧ and I believe is directly related to the worldwide March-May peak many
+countries observed.13 ⟦25⟧ Lineage B has now completely displaced lineage A.
+12⟦26⟧ In Nextstrain, lineage A is called 19B, as it was the second branch to be identified in 2019, and the
+root of lineage B is called 19A; the root of omicron is called 21M. ⟦27⟧ In GISAID, lineage A is called S clade.
+⟦28⟧ Nextstrain and GISAID provide freely available tools for viewing phylogenetic trees, tracking variants, and
+downloading genomes.
+13⟦29⟧ In summer of 2020 I invested some time into tracking the progression of D614G, but never finished my
+work ⟦30⟧ as it was eventually obviated by the second wave that came that fall.
+⟦31⟧ Due to the high mutation rate of viruses, a phylogenetic tree can be created with some
+reliability down to the level of individual illnesses. ⟦32⟧ Samples of sars-cov-2 collected in 2019
+December and 2020 January have been sequenced and some are available in GISAID, ⟦33*⟧ facil-
+litating assembling them into a phylogenetic tree of the very earliest covid cases, though the
+results are not without dispute. ⟦34*⟧ Lineages A and B each clearly form a tree with a single un-
+ambiguous root from which there are many branches, called a "polytomy". ⟦35⟧ These two roots
+differ from each other in exactly two nucleotides. ⟦36⟧ The root of lineage A has the sequence
+T8782, C28144 (abbreviated T/C) ⟦37⟧ and the root of lineage B has the sequence C8782, T28144
+(abbreviated C/T); ⟦38⟧ note that the mutation at 8782 is synonymous. ⟦39⟧ Several early samples
+have been collected that may exhibit the C/C or T/T pattern. ⟦40⟧ The phylogenetic relationship
+between the roots of the A and B lineages is not immediately clear without further analysis.
+We can summarize the above with a phylogenetic tree:
+• coronaviruses
+• betacoronaviruses
+• embecoviruses (aka Lineage A)
+• sarbecoviruses (aka Lineage B)
+• sars-cov-1
+• banal-20-52
+• sars-cov-2
+• Lineage A (now extinct)
+• Lineage B
+• alpha, beta, . . . , omicron
+• merbecoviruses (aka Lineage C)
+• MERS
+
+Claims:
+⟦1⟧ Coronaviruses can be organized into a phylogenetic tree showing how closely related one virus is to another.
+⟦2⟧ Coronaviruses are divided into four subgroups, named alphacoronaviruses through deltacoronaviruses.
+⟦3⟧ β-covs are divided further into four subgroups labeled lineages A through D.
+⟦4*⟧ Lineage B, the sarbecoviruses, includes both sars-cov-1 and sars-cov-2.
+⟦5⟧ The genomes of sars-cov-1 and sars-cov-2 are 80% identical.
+⟦6⟧ There are 7 known coronaviruses that cause disease in humans.
+⟦7⟧ The 7 known coronaviruses that cause disease in humans are: two mild α-covs HCoV-229E and HCoV-NL63, two mild β-covs of lineage A HCoV-OC43 and HCoV-HKU1, the two human sarbecoviruses, and the deadly MERS virus of lineage C.
+⟦8⟧ MERS is only weakly transmissible between humans.
+⟦9⟧ Most MERS causes are in Saudi Arabia, where it is believed to have transmitted many times to humans from camels.
+⟦10⟧ Extended human-to-human transmission chains of MERS have been observed extending into other countries.
+⟦11⟧ Banal-20-52 has 96.8% nucleotide identity with sars-cov-2.
+⟦12⟧ There is about 99% amino acid identity between banal-20-52 and sars-cov-2.
+⟦13⟧ The time to most recent common ancestor of banal-20-52 and sars-cov-2 might be about 20 to 30 years ago.
+⟦14⟧ Different parts of the sars-cov-2 genome are closest to different wild viruses.
+⟦15⟧ Recombination appears to play a role in the genetic history of sarbecoviruses.
+⟦16⟧ Sars-cov-2 itself divides into many subgroups.
+⟦17⟧ Newer variants of sars-cov-2 often displace older variants.
+⟦18⟧ The PANGO notation was developed to address notational difficulties in the sars-cov-2 phylogeny.
+⟦19⟧ The PANGO notation "B.1.1.529" refers to the root of the omicron variant.
+⟦20⟧ The earliest division of the sars-cov-2 phylogeny is into two parts, called lineages A and B in the PANGO notation.
+⟦21⟧ Lineage B contains the highly successful D614G mutation.
+⟦22⟧ The D614G mutation means that the aspartic acid at location 614 of the spike protein is replaced by glycine.
+⟦23⟧ The D614G mutation first became prominent in Italy in 2020 March.
+⟦24⟧ The author believes the D614G mutation is directly related to the worldwide March-May peak many countries observed.
+⟦25⟧ Lineage B has now completely displaced lineage A.
+⟦26⟧ In Nextstrain, lineage A is called 19B.
+⟦27⟧ In GISAID, lineage A is called S clade.
+⟦28⟧ Nextstrain and GISAID provide freely available tools for viewing phylogenetic trees, tracking variants, and downloading genomes.
+⟦29⟧ The author invested time into tracking the progression of D614G in summer 2020 but never finished the work.
+⟦30⟧ The work on tracking D614G was eventually obviated by the second wave that came in fall 2020.
+⟦31⟧ A phylogenetic tree can be created with some reliability down to the level of individual illnesses due to the high mutation rate of viruses.
+⟦32⟧ Samples of sars-cov-2 collected in 2019 December and 2020 January have been sequenced and are available in GISAID.
+⟦33*⟧ The results of assembling the earliest covid cases into a phylogenetic tree are not without dispute.
+⟦34*⟧ Lineages A and B each form a tree with a single unambiguous root from which there are many branches, called a "polytomy".
+⟦35⟧ The roots of lineages A and B differ from each other in exactly two nucleotides.
+⟦36⟧ The root of lineage A has the sequence T8782, C28144.
+⟦37⟧ The root of lineage B has the sequence C8782, T28144.
+⟦38⟧ The mutation at 8782 is synonymous.
+⟦39⟧ Several early samples have been collected that may exhibit the C/C or T/T pattern.
+⟦40⟧ The phylogenetic relationship between the roots of the A and B lineages is not immediately clear without further analysis.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary
