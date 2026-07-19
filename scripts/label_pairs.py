@@ -143,6 +143,79 @@ def parse_labels(text: str, n: int) -> list[dict]:
     return out
 
 
+def label_pairs(pairs: list[dict], text: dict[str, str], *, model: str = DEFAULT_MODEL,
+                cache_path: str | Path | None = None, batch_size: int = 20,
+                max_tokens_budget: int = 1_500_000, no_cache: bool = False,
+                client: "OpenAI | None" = None, start_index: int = 0,
+                emit_events: bool = False, events_path: str | Path | None = None):
+    """Label candidate pairs into Cards. Returns (cards, events, stats).
+
+    Extracted so the whole build can run from one command: pairing_funnel.py calls
+    this directly instead of shelling out to this script. `start_index` continues the
+    card-id sequence when appending to an existing store (incremental ingest)."""
+    if client is None:
+        client = build_client()
+    cache_path = Path(cache_path or (ROOT / "outputs" / "epistemic" / "label_cache.json"))
+    cache_path.parent.mkdir(parents=True, exist_ok=True)
+    cache = json.loads(cache_path.read_text()) if cache_path.exists() and not no_cache else {}
+
+    batches = [pairs[i:i + batch_size] for i in range(0, len(pairs), batch_size)]
+    labels: list[dict] = []
+    total_tokens = new_tokens = 0
+    aborted = False
+    for bi, batch in enumerate(batches):
+        key = f"{PROMPT_VERSION}|{model}|" + "|".join(f"{p['src']}~{p['dst']}" for p in batch)
+        if key in cache and not no_cache:
+            entry, tag = cache[key], "cached"
+        else:
+            if new_tokens >= max_tokens_budget:
+                print(f"  [batch {bi}] BUDGET REACHED ({new_tokens:,} tok) — stopping, saving progress")
+                aborted = True
+                break
+            entry = call_llm(client, model, batch, text)
+            cache[key] = entry
+            cache_path.write_text(json.dumps(cache, indent=2))
+            new_tokens += entry["usage"]["total_tokens"]
+            tag = f"{entry['usage']['total_tokens']:,} tok"
+        total_tokens += entry["usage"]["total_tokens"]
+        rows = parse_labels(entry["content"], len(batch))
+        for p, r in zip(batch, rows):
+            labels.append({**p, **r, "raw_output": entry["content"] if emit_events else None})
+        n_rel = sum(r["label"] != "none" for r in rows)
+        print(f"  [batch {bi:>2}] {n_rel}/{len(batch)} relations ({tag}; cum {total_tokens:,} tok)")
+
+    cards: list[Card] = []
+    events: list[Event] = []
+    seq = next_seq(events_path) if (emit_events and events_path) else 0
+    for lab in labels:
+        if lab["label"] == "none":
+            continue
+        cid = card_id(start_index + len(cards))
+        prov = {"labeler_model": model, "relation_label": lab["label"],
+                "subtype": lab["subtype"], "raw_confidence": lab["confidence"],
+                "channel": lab["channel"], "prompt_version": PROMPT_VERSION}
+        if emit_events:
+            call_ev = Event(event_id=event_id(seq), event_type="llm_call",
+                            payload={"pair": f"{lab['src']}~{lab['dst']}", "prompt_version": PROMPT_VERSION},
+                            cause="ingest", model=model, model_raw_output=lab.get("raw_output"))
+            seq += 1
+            prov["llm_call_event"] = call_ev.event_id
+            events.append(call_ev)
+        card = Card(card_id=cid, kind=KIND_OF[lab["label"]],
+                    weight=WEIGHT_OF[lab["confidence"]], premises=[lab["src"]],
+                    target=lab["dst"], provenance=prov, tier="T3")
+        cards.append(card)
+        if emit_events:
+            events.append(Event(event_id=event_id(seq), event_type="card_added",
+                                payload={k: v for k, v in card.__dict__.items()},
+                                cause="ingest", model=model))
+            seq += 1
+
+    stats = {"pairs_in": len(pairs), "labels": len(labels), "cards_out": len(cards),
+             "tokens": {"total": total_tokens, "new": new_tokens}, "aborted": aborted}
+    return cards, events, stats
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--model", default=DEFAULT_MODEL)
@@ -164,68 +237,16 @@ def main() -> None:
     nodes = read_nodes(args.nodes)
     text = {n.node_id: n.canonical_text for n in nodes}
 
-    cache_path = Path(args.cache)
-    cache_path.parent.mkdir(parents=True, exist_ok=True)
-    cache = json.loads(cache_path.read_text()) if cache_path.exists() and not args.no_cache else {}
-
     print(f"Model:  {args.model} @ Together  (max_tokens=4000)")
     print(f"Pairs:  {len(pairs)}  (batch {args.batch_size})\n")
 
-    client = build_client()
-    batches = [pairs[i:i + args.batch_size] for i in range(0, len(pairs), args.batch_size)]
-    labels: list[dict] = []
-    total_tokens = new_tokens = 0
-    events: list[Event] = []
-    seq = next_seq(args.events) if args.emit_events else 0
-    aborted = False
-
-    for bi, batch in enumerate(batches):
-        key = f"{PROMPT_VERSION}|{args.model}|" + "|".join(f"{p['src']}~{p['dst']}" for p in batch)
-        if key in cache and not args.no_cache:
-            entry, tag = cache[key], "cached"
-        else:
-            if new_tokens >= args.max_tokens_budget:
-                print(f"  [batch {bi}] BUDGET REACHED ({new_tokens:,} tok) — stopping, saving progress")
-                aborted = True
-                break
-            entry = call_llm(client, args.model, batch, text)
-            cache[key] = entry
-            cache_path.write_text(json.dumps(cache, indent=2))
-            new_tokens += entry["usage"]["total_tokens"]
-            tag = f"{entry['usage']['total_tokens']:,} tok"
-        total_tokens += entry["usage"]["total_tokens"]
-        rows = parse_labels(entry["content"], len(batch))
-        for p, r in zip(batch, rows):
-            labels.append({**p, **r, "raw_output": entry["content"] if args.emit_events else None})
-        n_rel = sum(r["label"] != "none" for r in rows)
-        print(f"  [batch {bi:>2}] {n_rel}/{len(batch)} relations ({tag}; cum {total_tokens:,} tok)")
-
-    # --- assemble cards from support/attack labels --------------------------------
-    cards: list[Card] = []
-    for i, lab in enumerate(labels):
-        if lab["label"] == "none":
-            continue
-        cid = card_id(len(cards))
-        prov = {"labeler_model": args.model, "relation_label": lab["label"],
-                "subtype": lab["subtype"], "raw_confidence": lab["confidence"],
-                "channel": lab["channel"], "prompt_version": PROMPT_VERSION}
-        if args.emit_events:
-            call_ev = Event(event_id=event_id(seq), event_type="llm_call",
-                            payload={"pair": f"{lab['src']}~{lab['dst']}", "prompt_version": PROMPT_VERSION},
-                            cause="ingest", model=args.model,
-                            model_raw_output=lab.get("raw_output"))
-            seq += 1
-            prov["llm_call_event"] = call_ev.event_id
-            events.append(call_ev)
-        card = Card(card_id=cid, kind=KIND_OF[lab["label"]],
-                    weight=WEIGHT_OF[lab["confidence"]], premises=[lab["src"]],
-                    target=lab["dst"], provenance=prov, tier="T3")
-        cards.append(card)
-        if args.emit_events:
-            events.append(Event(event_id=event_id(seq), event_type="card_added",
-                                payload={k: v for k, v in card.__dict__.items()},
-                                cause="ingest", model=args.model))
-            seq += 1
+    cards, events, stats = label_pairs(
+        pairs, text, model=args.model, cache_path=args.cache, batch_size=args.batch_size,
+        max_tokens_budget=args.max_tokens_budget, no_cache=args.no_cache,
+        emit_events=args.emit_events, events_path=args.events)
+    total_tokens = stats["tokens"]["total"]
+    new_tokens = stats["tokens"]["new"]
+    aborted = stats["aborted"]
 
     errs = validate_store(nodes, [], cards)
     if errs:
@@ -240,7 +261,7 @@ def main() -> None:
     summary = {"model": args.model, "prompt_version": PROMPT_VERSION,
                "pairs_in": len(pairs), "cards_out": n_written,
                "by_kind": dict(by_kind), "by_channel": dict(by_channel),
-               "relation_rate": round(n_written / max(1, len(labels)), 3),
+               "relation_rate": round(n_written / max(1, stats["labels"]), 3),
                "tokens": {"total": total_tokens, "new": new_tokens},
                "est_cost_usd": round(total_tokens / 1e6 * RATE_PER_MTOK, 4),
                "validation_errors": len(errs), "aborted_on_budget": aborted,
