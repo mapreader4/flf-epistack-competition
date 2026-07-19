@@ -1,0 +1,23 @@
+7.3  First cluster in HSM
+
+⟦1⟧ LetH be the observation that the index case is a resident in the west half of HSM (⟦2⟧ or, more
+precisely, that the first significant covid cluster is centered among the residents in the west
+half of HSM). 70 Following the simple model of section 4.1, the probability of observing H
+equals 1 divided by the population of the smallest epidemiological circle that contains both
+the primary case and the index case. For Z this is simply the west half of HSM, and for LL
+this is all of Wuhan, so we get
+P (H|Z) = 1
+P (H|LL) = 1
+1.2· 107
+for a Bayes factor of 1 /20000. ⟦3⟧ As I do think a market vendor is more likely to catch an
+illness than the average resident of Wuhan, I will give LL an extra factor of 2.
+⟦4⟧ As per previous discussion, we are using a flat prior for the number of transmission between
+the primary case and index case, so both P (H|Z) and P (H|LL) should be smaller by the
+same factor, which has no influence on the Bayes factor. I think the assumption of a flat
+prior here is somewhat favorable to LL.
+
+Claims:
+⟦1⟧ [HYPOTHESIS] The index case is a resident in the west half of HSM
+⟦2⟧ [HYPOTHESIS] The first significant covid cluster is centered among the residents in the west half of HSM
+⟦3⟧ [HYPOTHESIS] A market vendor is more likely to catch an illness than the average resident of Wuhan
+⟦4⟧ [HYPOTHESIS] The primary case and index case have the same number of transmissions regardless of the location

@@ -1,0 +1,5153 @@
+[
+  {
+    "node_id": "research_question-5becb72641efd42d0d1d9695365cfdfb",
+    "node_type": "research_question",
+    "section_number": "1",
+    "chunk_id": "chunk-7ccd048fb5c8f1c3bea2d826d7a24b21",
+    "node_text": "Was COVID-19 a lab leak?",
+    "quote": "was covid a lab leak?",
+    "span": [
+      694,
+      715
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-4fe1dec40bc6500e891841fca8d51eb4",
+    "node_type": "research_question",
+    "section_number": "1",
+    "chunk_id": "chunk-7ccd048fb5c8f1c3bea2d826d7a24b21",
+    "node_text": "What is the origin of COVID-19?",
+    "quote": "the origin of covid",
+    "span": [
+      1211,
+      1230
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-01ad9e0595478d30133031237d4e08cb",
+    "node_type": "research_question",
+    "section_number": "1",
+    "chunk_id": "chunk-f19517cde7a840bdab0a3bb2c8819f0b",
+    "node_text": "How significant was the COVID-19 outbreak in the Huanan Seafood Market?",
+    "quote": "how significant was the covid out- break in the Huanan Seafood Market?",
+    "span": [
+      339,
+      409
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-944b67c0b7434b68eb134ce173c5f4b6",
+    "node_type": "research_question",
+    "section_number": "1",
+    "chunk_id": "chunk-f19517cde7a840bdab0a3bb2c8819f0b",
+    "node_text": "Why has there been no whistleblower for the origin of COVID-19?",
+    "quote": "why there has been no whistleblower for the origin of covid",
+    "span": [
+      756,
+      815
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-beb8739bb404ec1e62892167142a67a5",
+    "node_type": "research_question",
+    "section_number": "1.1",
+    "chunk_id": "chunk-c65fe66274238c2f2f0c944bfce630b5",
+    "node_text": "What are the origins of COVID-19?",
+    "quote": "Inevitably the earlier one tries to trace the origins of covid-19, the narrower the trail, until it is reduced to the mundane daily activities of a handful of individuals whose identities may be lost to time.",
+    "span": [
+      328,
+      536
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-5b0ea864a5ebe8960d049483d3c9a246",
+    "node_type": "research_question",
+    "section_number": "1.1",
+    "chunk_id": "chunk-c65fe66274238c2f2f0c944bfce630b5",
+    "node_text": "How did the COVID-19 pandemic start in Wuhan?",
+    "quote": "The farthest back we have been able to follow the trail is to the city of Wuhan, a massive metropolis of 12 million people 4 in the Chinese province Hubei.",
+    "span": [
+      537,
+      692
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-3b09a2d10953c8e713b9951222adf034",
+    "node_type": "research_question",
+    "section_number": "1.1",
+    "chunk_id": "chunk-2cd8d7a07d95347095dd2d2017b25eab",
+    "node_text": "How did government officials respond to the COVID-19 outbreak in Wuhan?",
+    "quote": "Around this time government officials began to become involved, in many ways interfering with the actions of healthcare professionals.",
+    "span": [
+      852,
+      986
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-35bf8533cca67f0d7a63fc15aae31750",
+    "node_type": "research_question",
+    "section_number": "1.1",
+    "chunk_id": "chunk-2cd8d7a07d95347095dd2d2017b25eab",
+    "node_text": "What was the timeline of human-to-human transmission of COVID-19?",
+    "quote": "On 2020 January 20, the Chinese National Health Commission announced confirmation of human-to-human transmission of covid-19 to multiple healthcare workers; significant evi-dence of human-to-human transmission existed before this time.",
+    "span": [
+      1102,
+      1337
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9957,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-0fe904a490c28f1e9e459d5b6a44c91b",
+    "node_type": "research_question",
+    "section_number": "1.1.1",
+    "chunk_id": "chunk-75a21443969bf27f013158d9548c8b55",
+    "node_text": "What is the significance of the Huanan Seafood Market in the context of COVID-19 origins?",
+    "quote": "So; what is the significance of HSM?",
+    "span": [
+      0,
+      36
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-7c0201a180c6fa8e551885ef33c708b3",
+    "node_type": "research_question",
+    "section_number": "1.1.1",
+    "chunk_id": "chunk-75a21443969bf27f013158d9548c8b55",
+    "node_text": "Were bats sold at the Huanan Seafood Market?",
+    "quote": "it is not known that any bats were sold in the market;",
+    "span": [
+      473,
+      527
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-ec319bdc746b83008146e1de2cdddcfe",
+    "node_type": "research_question",
+    "section_number": "1.1.1",
+    "chunk_id": "chunk-75a21443969bf27f013158d9548c8b55",
+    "node_text": "What intermediate species between bats and humans could have been responsible for the transmission of SARS-CoV-2?",
+    "quote": "any intermediate species between bats and humans are unknown",
+    "span": [
+      528,
+      588
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-f706d2bfb1e1d718307ea01eb65f5e08",
+    "node_type": "research_question",
+    "section_number": "1.1.1",
+    "chunk_id": "chunk-74e7af3d1631f6c6cef69bfebc3c447c",
+    "node_text": "How many people had onset of COVID-19 in the time from December 10, 2019, to the market closure on January 1?",
+    "quote": "approximately 200 people are known 10 to",
+    "span": [
+      133,
+      173
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-6880c38058cd77de1538c0e89f6ce1a0",
+    "node_type": "research_question",
+    "section_number": "1.1.1",
+    "chunk_id": "chunk-75a21443969bf27f013158d9548c8b55",
+    "node_text": "What was the role of the Huanan Seafood Market in the early diagnosis of COVID-19?",
+    "quote": "having an epidemiological link to the market was one component of a diagnosis of covid",
+    "span": [
+      1054,
+      1140
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-b344ffface30049919f91bc19983e0fd",
+    "node_type": "research_question",
+    "section_number": "1.2",
+    "chunk_id": "chunk-685d12822b76945ad147d52bdf1d9ed3",
+    "node_text": "What is the structure and function of the genetic code in coronaviruses?",
+    "quote": "The assignment of an amino acid to each possible codon is called the genetic code.",
+    "span": [
+      789,
+      871
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-1659b916250a23d9c042b75397bcea69",
+    "node_type": "research_question",
+    "section_number": "1.2",
+    "chunk_id": "chunk-30fc751eaea57bc8c3a9b5d6fdb73623",
+    "node_text": "How do coronaviruses replicate and assemble in host cells?",
+    "quote": "As host cells do not contain the cellular machinery to replicate RNA, the first two-thirds of the viral genome, called the \"open reading frame 1ab\" (ORF1ab), encodes 16 different pro- teins involved in the viral replication and assembly process.",
+    "span": [
+      540,
+      785
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-422322b420b6dc905004538141ca9091",
+    "node_type": "research_question",
+    "section_number": "1.2",
+    "chunk_id": "chunk-30fc751eaea57bc8c3a9b5d6fdb73623",
+    "node_text": "What is the role of the spike protein in the infection process of SARS-CoV-2?",
+    "quote": "The spike protein plays an important role in the infection process, as it binds to a matching receptor in the membrane of the target cells.",
+    "span": [
+      1232,
+      1371
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-79b18bcc617bb75cb75ee2c351343cd3",
+    "node_type": "research_question",
+    "section_number": "1.2.1",
+    "chunk_id": "chunk-6ebe14c7b8e5614fda23392a9313c796",
+    "node_text": "What is the phylogenetic relationship between the roots of the A and B lineages of sars-cov-2?",
+    "quote": "The phylogenetic relationship between the roots of the A and B lineages is not immediately clear without further analysis.",
+    "span": [
+      343,
+      465
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-5a6458c8438bfcfe71bbd8281a8e2a1e",
+    "node_type": "research_question",
+    "section_number": "1.2.1",
+    "chunk_id": "chunk-02b1f851747c7709e4f8a1014ee3c6e7",
+    "node_text": "How do the genomes of sars-cov-1 and sars-cov-2 compare?",
+    "quote": "The genomes of sars-cov-1 and sars-cov-2 are 80% identical.",
+    "span": [
+      1019,
+      1078
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-af18b0384b5753e401d21dc54044775f",
+    "node_type": "research_question",
+    "section_number": "1.2.1",
+    "chunk_id": "chunk-be341df3dbb056a6f179b03f25ad1aaf",
+    "node_text": "What is the time to most recent common ancestor (tMRCA) of sars-cov-2 and its closest wild relative?",
+    "quote": "the time to most recent common ancestor (tMRCA) might be about 20 to 30 years ago [7]",
+    "span": [
+      93,
+      178
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-6092c27ae707a35139bb173f0c7cc581",
+    "node_type": "research_question",
+    "section_number": "1.2.1",
+    "chunk_id": "chunk-be341df3dbb056a6f179b03f25ad1aaf",
+    "node_text": "What role does recombination play in the genetic history of sarbecoviruses?",
+    "quote": "recombination appears to play a role in the genetic history of sarbecoviruses, complicating efforts to reconstruct a phylogeny [30]",
+    "span": [
+      273,
+      404
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-89d2390cb7da6f940fa9e9381a6ba999",
+    "node_type": "research_question",
+    "section_number": "1.2.1",
+    "chunk_id": "chunk-8c34711523eef7bae319ae38a143e54e",
+    "node_text": "How does the D614G mutation relate to the worldwide March-May peak of COVID-19 cases in many countries?",
+    "quote": "I believe is directly related to the worldwide March-May peak many countries observed.",
+    "span": [
+      70,
+      156
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-db25b8fb75d092ebb3d1794eec64949d",
+    "node_type": "research_question",
+    "section_number": "1.2.2",
+    "chunk_id": "chunk-9f2e607ebb6d6e93a018526148bd46d2",
+    "node_text": "What is the function of the furin cleavage site in sars-cov-2 infections in humans?",
+    "quote": "The proper functioning of sars-cov-2 therefore necessitates that the boundary between S1 and S2 is an FCS",
+    "span": [
+      693,
+      798
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-b96d5ac0353688b1b7ff9df7920b2536",
+    "node_type": "research_question",
+    "section_number": "1.2.2",
+    "chunk_id": "chunk-0b06fd1ef4882f20d1bd6bcadd3591f5",
+    "node_text": "Why is an FCS potentially evolutionarily harmful for bat coronaviruses?",
+    "quote": "This creates a different life cycle for virus replication, and consequentially an FCS may be evolutionarily harmful",
+    "span": [
+      0,
+      115
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-2fc7b5cfc69536d7446c5fcb2a0f0020",
+    "node_type": "research_question",
+    "section_number": "1.2.2",
+    "chunk_id": "chunk-0b06fd1ef4882f20d1bd6bcadd3591f5",
+    "node_text": "How does the presence of an FCS in sars-cov-2 compare to its presence in the closest known wild virus banal-20-52?",
+    "quote": "We can compare sars-cov-2 to the closest known wild virus banal-20-52 at this location",
+    "span": [
+      117,
+      203
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-7ad72ef8f0ee8c829c480327048b1540",
+    "node_type": "research_question",
+    "section_number": "1.3",
+    "chunk_id": "chunk-a87fe851508657c252ee437edf6a3a52",
+    "node_text": "What is the likelihood that the SARS-CoV-2 outbreak was due to gain-of-function laboratory research versus natural spillover from wildlife without laboratory involvement?",
+    "quote": "Per the rules of the debate, I am to evaluate the relative likelihood of the two hypotheses advanced: Rootclaim's claim that the sars-cov-2 outbreak was due to gain-of-function laboratory research, and Peter's challenge that it was the result of natural spillover from wildlife without laboratory involvement.",
+    "span": [
+      1174,
+      1483
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9935,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-557e283243d474e893eae0483d5b2507",
+    "node_type": "research_question",
+    "section_number": "1.3",
+    "chunk_id": "chunk-aa6f51b773145b577b1b3ced6e019fd1",
+    "node_text": "How can complicated questions with abundant lines of circumstantial evidence both for and against any particular hypothesis be analyzed?",
+    "quote": "Rootclaim was created to demonstrate the usefulness of a particular methodology for analyzing complicated questions, where there exists abundant lines of circumstantial evidence both for and against any particular hypothesis.",
+    "span": [
+      0,
+      225
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9911,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-69c21f59e43f44902676f0e19f7b0d94",
+    "node_type": "research_question",
+    "section_number": "1.3",
+    "chunk_id": "chunk-aa6f51b773145b577b1b3ced6e019fd1",
+    "node_text": "What is the effectiveness of Bayesian reasoning in evaluating evidence and integrating it into a gestalt that gives a final level of confidence in each hypothesis?",
+    "quote": "I refer to this technique as Bayesian reasoning or Bayesian computation , which will be discussed in the next section; however Rootclaim are far from the only ones to use Bayesian reasoning, and I believe they claim to distinguish themselves from others in the details of how the evaluate the evidence.",
+    "span": [
+      393,
+      695
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-71980f353184fadd0b9668fc4f8cccee",
+    "node_type": "research_question",
+    "section_number": "1.3.1",
+    "chunk_id": "chunk-6e9357d8ebe94e3cd10a1fd11bc02f96",
+    "node_text": "What are the origins of COVID-19?",
+    "quote": "the origins of covid",
+    "span": [
+      75,
+      95
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-8f309207864f128d47b96751bb01ad3e",
+    "node_type": "research_question",
+    "section_number": "1.3.1",
+    "chunk_id": "chunk-6e9357d8ebe94e3cd10a1fd11bc02f96",
+    "node_text": "Which theory is more likely to explain the origins of COVID-19?",
+    "quote": "which is more likely",
+    "span": [
+      758,
+      778
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-07e6074c20c6868bd49e94f49e2b884e",
+    "node_type": "research_question",
+    "section_number": "1.3.1",
+    "chunk_id": "chunk-6e9357d8ebe94e3cd10a1fd11bc02f96",
+    "node_text": "What are the flaws in the arguments presented by Rootclaim?",
+    "quote": "where I believe those arguments to be flawed",
+    "span": [
+      1132,
+      1176
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-47c54581e472c69bd98782b646548000",
+    "node_type": "research_question",
+    "section_number": "2",
+    "chunk_id": "chunk-507fecc4f891dedc503e260532d68345",
+    "node_text": "What is the conditional probability P(A|O1∩···∩On) of event A given observations O1 through On?",
+    "quote": "Ok, what good has this done us? Well, our goal is to find the conditional probability P (A|O1∩···∩ On)",
+    "span": [
+      963,
+      1065
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-0f310d1c17b0399d11acb4170e7588f2",
+    "node_type": "research_question",
+    "section_number": "2",
+    "chunk_id": "chunk-580322330fd0e071c43987ffe084a2af",
+    "node_text": "How can we compute the joint probabilities of events A and B given successive observations O1, O2, ..., On?",
+    "quote": "Thus, the cumulative products we get by just multiplying down the columns of the previous table are the joint probabilities:",
+    "span": [
+      186,
+      310
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-5728d6dfcd48f4f88d121c34f86c542d",
+    "node_type": "research_question",
+    "section_number": "2",
+    "chunk_id": "chunk-d089890f64f0d88c38299f2006b36bfc",
+    "node_text": "What is the relationship between the prior probabilities P(A) and P(B) and the conditional probabilities P(Oi|A) and P(Oi|B)?",
+    "quote": "If one of our observations O1 were, say, incompatible with A, then we would be done; by simple deductive reasoning we could say \" A implies¬O1; O1; therefore¬A\"",
+    "span": [
+      195,
+      355
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-d9ddb8f3b52a51746cc4e3a35c15d432",
+    "node_type": "research_question",
+    "section_number": "2",
+    "chunk_id": "chunk-a3f18935bc9938ffdf399fa68ddbb770",
+    "node_text": "How can we simplify the computation of conditional probabilities using logarithmic Bayes factors?",
+    "quote": "In extremes where probabilities get very close to 0 or 1 we can simplify matters further by taking logarithms everywhere - why multiply when instead you can add?",
+    "span": [
+      400,
+      561
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-989d6ebe12bde6e1259bdb3eac04f1b8",
+    "node_type": "research_question",
+    "section_number": "2",
+    "chunk_id": "chunk-c7055ed71f0a2a01d32270e91a78b9e1",
+    "node_text": "What are the limitations and potential problems of applying Bayesian reasoning in real-world situations?",
+    "quote": "One must pay close attention to potential problems: did you account for all the available evidence? how accurate are your probabilities? how robust is your result to changes in the data?",
+    "span": [
+      734,
+      920
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-b69eecaf2212f42452c8fefab40ed892",
+    "node_type": "research_question",
+    "section_number": "2.1",
+    "chunk_id": "chunk-9b5766555fca8c804427e37b5e0a5e8d",
+    "node_text": "What is the probability of an observation conditional on a null hypothesis?",
+    "quote": "We ask, what is the probability of an observation (or collection of observations) O, conditional on A?",
+    "span": [
+      513,
+      615
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-bfde966e1e33096cd691207a38869294",
+    "node_type": "research_question",
+    "section_number": "2.1",
+    "chunk_id": "chunk-9d127b42ab1eeb190fcff01195432fb3",
+    "node_text": "How do we choose a mapping to assign p-values to observations?",
+    "quote": "So how do we choose the map?",
+    "span": [
+      460,
+      488
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-282a8fed3a4e13d39db7607f9e15eaab",
+    "node_type": "research_question",
+    "section_number": "2.1",
+    "chunk_id": "chunk-8eaff7c474f48490aec196641f0ba43a",
+    "node_text": "What are the key differences between hypothesis testing and Bayesian reasoning?",
+    "quote": "There are two key differences between hypothesis testing and Bayesian reasoning: with hypothesis testing, we do not assume any prior probabilities for the two hypotheses - they are not treated as random events at all, but as simply unknown prepositions; and we do not calculate a distribution for the observable O conditioned on the alternative hypothesis B.",
+    "span": [
+      333,
+      691
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-6766c0d53a88103c1f75c9d7bf306efa",
+    "node_type": "research_question",
+    "section_number": "2.1",
+    "chunk_id": "chunk-8eaff7c474f48490aec196641f0ba43a",
+    "node_text": "When should we perform a Bayesian calculation instead of hypothesis testing?",
+    "quote": "If we have access to those two additional pieces of data, then we should perform a Bayesian calculation, and we would get a stronger conclusion of the form of the probability of A orB givenO, instead of a weaker conclusion of \"reject\" or \"fail to reject\" A with some confidence levelp.",
+    "span": [
+      692,
+      977
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-4d2ee0eba63ffccdbc69bc83e7810829",
+    "node_type": "research_question",
+    "section_number": "2.1",
+    "chunk_id": "chunk-9b5766555fca8c804427e37b5e0a5e8d",
+    "node_text": "What is the relationship between Bayes factors and p-values?",
+    "quote": "Bayes factors have a simple and direct relationship with p-values; understanding this relationship may be beneficial, as the reader may already be familiar with the latter due to their wide use in hypothesis testing, or conversely the reader may find Bayes factors more intuitive and use it to gain comprehension for p-values.",
+    "span": [
+      0,
+      326
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9939,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-09630d38fa252aceb1800de1d8430216",
+    "node_type": "research_question",
+    "section_number": "3",
+    "chunk_id": "chunk-274ae47b4f5b469290bc06b36ffa8d1f",
+    "node_text": "What is the origin of COVID-19, zoonosis or lab-leak?",
+    "quote": "In the space of one hundred and seventy-six years the Lower Missis-sippi has shortened itself two hundred and forty-two miles.",
+    "span": [
+      19,
+      145
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9921,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-34bec2ecc40f39d237282451648b9cc6",
+    "node_type": "research_question",
+    "section_number": "3",
+    "chunk_id": "chunk-274ae47b4f5b469290bc06b36ffa8d1f",
+    "node_text": "How can one test the hypothesis that a senator is secretly a lizard from space?",
+    "quote": "Suppose you suspect something about your senator is quite odd, and perhaps they are not human at all, but rather secretly a lizard from space.",
+    "span": [
+      972,
+      1114
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-174eb3bf1ee13e150b4cf399aa10ca5a",
+    "node_type": "research_question",
+    "section_number": "3",
+    "chunk_id": "chunk-12f6fd45fe180c5825de7645849cc7ff",
+    "node_text": "What is the effect of p-hacking on hypothesis testing?",
+    "quote": "How? Well, if you use hypothesis testing, you might calculate a p-value for each of your 100 observations.",
+    "span": [
+      716,
+      822
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-df8d501afcca9a74d44fd82996190a7c",
+    "node_type": "research_question",
+    "section_number": "3",
+    "chunk_id": "chunk-12f6fd45fe180c5825de7645849cc7ff",
+    "node_text": "Can Bayesian reasoning be susceptible to the same errors as hypothesis testing?",
+    "quote": "Bayesian reasoning is capable of exactly the same error.",
+    "span": [
+      1026,
+      1082
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-6e6dbc56dadd2b0a5e105b02f4fdf9ef",
+    "node_type": "research_question",
+    "section_number": "3",
+    "chunk_id": "chunk-a1108a56f3a13f5a70197dfd97777efc",
+    "node_text": "What is the impact of bias on Bayesian analysis?",
+    "quote": "However, what happens if we have a slight bias?",
+    "span": [
+      1200,
+      1247
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-c0d5d7c79ba17152001b2fb8588aa7f8",
+    "node_type": "research_question",
+    "section_number": "3",
+    "chunk_id": "chunk-e9e880becd221f3e6c0a30da8c542bc2",
+    "node_text": "How can one distinguish between a completely fair Bayesian analysis and a slightly biased Bayesian analysis?",
+    "quote": "But the analysis of any one data point, or potentially all 100 data points, is insufficient to distinguish between a completely fair Bayesian analysis revealing an anomaly or a slightly biased Bayesian analysis with no true signal.",
+    "span": [
+      864,
+      1095
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-8cc12500c27a92feb171a1542b5862f7",
+    "node_type": "research_question",
+    "section_number": "3",
+    "chunk_id": "chunk-ecc8ef6912fdf33fab8b9822712e4389",
+    "node_text": "What is the purpose of the Drake equation in the context of the Fermi paradox?",
+    "quote": "If instead of a haphazard collection of observations one makes a collection of evidence that is in some way canonical it is much harder to introduce bias; say, one considers all fingers, but only fingers.",
+    "span": [
+      397,
+      601
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-28ed29467f83bfda2752f6ff17f4731c",
+    "node_type": "research_question",
+    "section_number": "3",
+    "chunk_id": "chunk-ecc8ef6912fdf33fab8b9822712e4389",
+    "node_text": "How can breaking down a hypothesis into subparts reduce the potential for bias in the selection of evidence?",
+    "quote": "Similarly, if a hypothesis can be broken down into subparts, each necessary for the hypoth-esis as a whole to hold, then there is less potential for bias in the selection of evidence,",
+    "span": [
+      1090,
+      1273
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9945,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-e10a03c93c4c734ed9952f3d5f3dcf9b",
+    "node_type": "research_question",
+    "section_number": "3.1",
+    "chunk_id": "chunk-7fa31e87ebd4b4037593777336c21833",
+    "node_text": "What is the probability that the pandemic started in Wuhan from zoonotic spillover and the first detected SSE is at the location of zoonotic spillover?",
+    "quote": "Formally, letAn be the event that the pandemic started in Wuhan from zoonotic spillover and the first (detected) SSE is at the location of zoonotic spillover",
+    "span": [
+      869,
+      1026
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-0830866ae286783ad2c1e8acf2884c0b",
+    "node_type": "research_question",
+    "section_number": "3.1",
+    "chunk_id": "chunk-7fa31e87ebd4b4037593777336c21833",
+    "node_text": "What is the probability that the pandemic started in Wuhan from zoonotic spillover and the first detected SSE is not at the location of zoonotic spillover?",
+    "quote": "letOt be the event that the pandemic started in Wuhan from zoonotic spillover and the first (detected) SSE is not at the location of zoonotic spillover",
+    "span": [
+      1035,
+      1186
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-2b1af71a00f6f30c9e3a723f646090ed",
+    "node_type": "research_question",
+    "section_number": "3.1",
+    "chunk_id": "chunk-7fa31e87ebd4b4037593777336c21833",
+    "node_text": "How do the probabilities of the observations given the two hypotheses compare?",
+    "quote": "We wish to compareP (An) to P (Ot)",
+    "span": [
+      1191,
+      1225
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-8d80d615b2001f8fe2d86e5d34a6109d",
+    "node_type": "research_question",
+    "section_number": "3.1",
+    "chunk_id": "chunk-de69314fa019a77a45c61d21f3d29f0b",
+    "node_text": "What is the probability that the first SSE at HSM is the first observed SSE, not necessarily the first and only that existed at that time?",
+    "quote": "During the presentation, they framed this discussion to consider the probability that the SSE at HSM is the firstobserved SSE, not necessarily the first and only that existed at that time",
+    "span": [
+      526,
+      713
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-51da42c27c67fc4f06e6d4913abac5e2",
+    "node_type": "research_question",
+    "section_number": "3.1",
+    "chunk_id": "chunk-3fc89863ea6de03853cf81de5a98280d",
+    "node_text": "Why are most sequenced illnesses linked to HSM lineage B, and where did lineage A come from?",
+    "quote": "Most sequenced illnesses linked to HSM were lineage B, so under An it remains to be explained where lineage A came from",
+    "span": [
+      245,
+      364
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-0761bf2240a3e9f5689cfd39fe45ea52",
+    "node_type": "research_question",
+    "section_number": "3.1",
+    "chunk_id": "chunk-3fc89863ea6de03853cf81de5a98280d",
+    "node_text": "How can the existence of early cases not associated with HSM be explained?",
+    "quote": "This is asking how to explain the existence of early cases not associated with HSM",
+    "span": [
+      728,
+      810
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-d70860ef39f79e17a04a88761dec2622",
+    "node_type": "research_question",
+    "section_number": "3.1",
+    "chunk_id": "chunk-3fc89863ea6de03853cf81de5a98280d",
+    "node_text": "What is the probability that an infected person goes to HSM, given that the pandemic started far from HSM?",
+    "quote": "If the pandemic started far from HSM, then someone infected must travel to HSM for an SSE to occur there",
+    "span": [
+      1018,
+      1122
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-01b2ba6960c75d12e5aae3c6681ef535",
+    "node_type": "research_question",
+    "section_number": "3.1",
+    "chunk_id": "chunk-3fc89863ea6de03853cf81de5a98280d",
+    "node_text": "How likely is it that HSM is an ideal superspreader location, and what are the implications of this?",
+    "quote": "they estimate that HSM is 10 times more likely to become an SSE than the average location",
+    "span": [
+      1260,
+      1349
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-f054d50311beff944516513fbff6f41d",
+    "node_type": "research_question",
+    "section_number": "3.1",
+    "chunk_id": "chunk-d9b34771486bc3392ffef3e54ba7ca44",
+    "node_text": "Can the numbers provided by Rootclaim be made consistent with their estimate that 10% of coronavirus pandemics that start in Wuhan would have their first SSE in HSM?",
+    "quote": "Furthermore I do not see how to make the numbers Rootclaim gives here consistent with their estimate that 10% of coronavirus pandemics that start in Wuhan would have their first SSE in HSM",
+    "span": [
+      0,
+      188
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-062a7c189f4b64a7db61709461ad7112",
+    "node_type": "research_question",
+    "section_number": "3.2",
+    "chunk_id": "chunk-17a8d48e7a527fc810067b96477b6ed3",
+    "node_text": "What is the probability of a lab leak given the available evidence?",
+    "quote": "The positive log-odds terms (ie, those pieces of evidence which favor the lab leak theory)",
+    "span": [
+      618,
+      708
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-98849d7ab6b245ea8c0d30cbe25df4d0",
+    "node_type": "research_question",
+    "section_number": "3.2",
+    "chunk_id": "chunk-17a8d48e7a527fc810067b96477b6ed3",
+    "node_text": "How much weight should be given to each piece of evidence in the Bayesian calculation?",
+    "quote": "The positive log-odds terms (ie, those pieces of evidence which favor the lab leak theory) have a total weight of 16.44",
+    "span": [
+      618,
+      737
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-66914fc1aa4ce387a015c82ec2170cff",
+    "node_type": "research_question",
+    "section_number": "3.2",
+    "chunk_id": "chunk-82ba99698676e16bf3c215807e460010",
+    "node_text": "Are the pieces of evidence selected by Rootclaim comprehensive and canonical, or are they ad hoc and selective?",
+    "quote": "observations seem to be selected primarily on the basis of how much they stand out rather than any canonical or complete collection of evidence",
+    "span": [
+      651,
+      794
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-7280a79e71b3142e606d8adb795161f4",
+    "node_type": "research_question",
+    "section_number": "3.2",
+    "chunk_id": "chunk-82ba99698676e16bf3c215807e460010",
+    "node_text": "Do the factors of 2 or less included by Rootclaim in their favor provide strong evidence for the lab leak theory?",
+    "quote": "Rootclaim includes five factors of 2 or less in their favor, and these should be plentiful to find for any hypothesis, true or false",
+    "span": [
+      949,
+      1081
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-677100ffca62ac550938f3bc8c19afe5",
+    "node_type": "research_question",
+    "section_number": "3.2",
+    "chunk_id": "chunk-82ba99698676e16bf3c215807e460010",
+    "node_text": "What is the significance of the lack of known intermediate host in the Bayesian calculation?",
+    "quote": "the lack of known intermediate host is given more weight than the prior",
+    "span": [
+      1246,
+      1317
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-245db7bf1e1357788ab7e8f06b5c38c5",
+    "node_type": "research_question",
+    "section_number": "3.2",
+    "chunk_id": "chunk-bb876c44f44234776a2a1cb319805ad1",
+    "node_text": "How does the 'adjust for BSL-2' factor contribute to the overall Bayesian calculation?",
+    "quote": "it seems to have the effect that half of all pandemics with highly contagious viruses for which BSL-2 is inadequate would also be lab leaks",
+    "span": [
+      190,
+      329
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-871898044edbef0e6f66bebbde485bc7",
+    "node_type": "research_question",
+    "section_number": "3.2",
+    "chunk_id": "chunk-bb876c44f44234776a2a1cb319805ad1",
+    "node_text": "Is Rootclaim's Bayesian calculation sufficient to compel a conclusion about the origins of COVID-19?",
+    "quote": "Overall, I found Rootclaim's Bayesian calculation sufficient to be intriguing but not sufficient to compel a conclusion",
+    "span": [
+      331,
+      450
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-68b2ea26dd00370fdd755040f7007d09",
+    "node_type": "research_question",
+    "section_number": "3.3",
+    "chunk_id": "chunk-c7d48e6233c442bfd1c130d7cb9243b1",
+    "node_text": "Is Bayesian reasoning suited for dealing with the complexities of the real world, particularly in the context of the COVID-19 origins debate?",
+    "quote": "Outside of simple toy problems that do not reflect the complexities of the real world, Bayesian reasoning is best suited for dealing with a small number of strong but conflicting pieces of evidence.",
+    "span": [
+      0,
+      198
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-64f658685e1de61450ba7c2cfb436030",
+    "node_type": "research_question",
+    "section_number": "3.3",
+    "chunk_id": "chunk-5b49ddeca0dc30a4ecdc6a718936a963",
+    "node_text": "How can one justify the use of Bayesian reasoning to give the right answer in the context of the COVID-19 origins debate?",
+    "quote": "During the debates I asked Saar ([2] at 1:17:55) if he could give some justification for why one expects Bayesian reasoning to give the right answer, either in general or for this specific application.",
+    "span": [
+      217,
+      418
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-a201d765974288be13cefec1e151aabb",
+    "node_type": "research_question",
+    "section_number": "3.3",
+    "chunk_id": "chunk-5b49ddeca0dc30a4ecdc6a718936a963",
+    "node_text": "What are the potential flaws of Bayesian reasoning in the context of the COVID-19 origins debate, and how can they be avoided?",
+    "quote": "Part of justifying a method would be to identify the potential flaws of the method, so that one can know how to avoid them.",
+    "span": [
+      419,
+      542
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-5d05a90825308cf04a307ef76f08c1d0",
+    "node_type": "research_question",
+    "section_number": "3.3",
+    "chunk_id": "chunk-5b49ddeca0dc30a4ecdc6a718936a963",
+    "node_text": "How can small, consistent bias be accounted for in Bayesian calculations to prevent brittle conclusions?",
+    "quote": "However their conclusions remain brittle against the possibility of small, consistent bias; a factor of 2 too generous applied to 20 observations yields million to one odds.",
+    "span": [
+      760,
+      933
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-bc1cd114b18c66b2600a951e47a49d34",
+    "node_type": "research_question",
+    "section_number": "3.3",
+    "chunk_id": "chunk-c784f47a54d8d4a707df1c3578bc0a59",
+    "node_text": "What is the best way to reduce errors in Bayesian reasoning, particularly in the context of the COVID-19 origins debate?",
+    "quote": "To reduce errors in Bayesian reasoning, I suggest three (four) things:",
+    "span": [
+      291,
+      361
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-150a72f2d36dcfda533832d54a70cffa",
+    "node_type": "research_question",
+    "section_number": "4",
+    "chunk_id": "chunk-5008291cd421befbd5c7f041929d1df9",
+    "node_text": "What is the probability distribution of who will be the index case in a pandemic, given a particular hypothetical primary case?",
+    "quote": "What we want to know is, for a particular hypothetical primary case, what is the probability distribution of who will be the index case?",
+    "span": [
+      810,
+      946
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-1bbbc166d990e05e2e75b0e7f6d93da3",
+    "node_type": "research_question",
+    "section_number": "4",
+    "chunk_id": "chunk-775e26ab0745cdd0248fb6b88d101050",
+    "node_text": "What happens next after the primary case of a new global pandemic is identified?",
+    "quote": "What happens next?",
+    "span": [
+      213,
+      231
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-9d80150dc8149528278d7be52ec5d257",
+    "node_type": "research_question",
+    "section_number": "4.1",
+    "chunk_id": "chunk-108c06ccb76fc6e2d10510002a8626b5",
+    "node_text": "How good is the model that the index case follows a uniform distribution within a sphere of radius n around the primary case?",
+    "quote": "How good of a model is this?",
+    "span": [
+      776,
+      804
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-a73eb5d23c4f19333140e62d321b597a",
+    "node_type": "research_question",
+    "section_number": "4.1",
+    "chunk_id": "chunk-37b36823f1738e3a4b29b06e613f531f",
+    "node_text": "What is the probability of observing a specific person being the index case given a candidate for the primary case?",
+    "quote": "Now if we have some candidate for the primary case, we want to know the probability of observing a specific person being the index case.",
+    "span": [
+      600,
+      736
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-69987c32f22c2fdcb89ae2701aa7fc16",
+    "node_type": "research_question",
+    "section_number": "4.1",
+    "chunk_id": "chunk-37b36823f1738e3a4b29b06e613f531f",
+    "node_text": "What is the expected number of steps n of cryptic transmission to expect in the close-contact graph?",
+    "quote": "Had we knowledge of how many steps n of cryptic transmission to expect, we would draw a circle of radius n around the primary case and see how many people are included;",
+    "span": [
+      737,
+      905
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9821,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-732ab8ff2d8d50e8d4efcdf822ccb24b",
+    "node_type": "research_question",
+    "section_number": "4.1",
+    "chunk_id": "chunk-979183c41c81ef2ca87696aa6715bab3",
+    "node_text": "How does the dimensionality of the close-contact graph affect the spread of disease?",
+    "quote": "On a Bethe lattice, the volume of a sphere grows exponentially with radius.",
+    "span": [
+      1302,
+      1377
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-32dc928d09e2aa22dd2176233e1148d4",
+    "node_type": "research_question",
+    "section_number": "4.1",
+    "chunk_id": "chunk-979183c41c81ef2ca87696aa6715bab3",
+    "node_text": "How does the scale of the contact graph, such as the size of a city, affect the representation of disease transmission?",
+    "quote": "On a larger scale, around the size of a city, this Bethe lattice approximation breaks down, because disease transmission is a physical process that requires proximity.",
+    "span": [
+      925,
+      1092
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-306805247feba9933ac109784f4a0634",
+    "node_type": "research_question",
+    "section_number": "4.2",
+    "chunk_id": "chunk-8ea4d8b4bb6d0d8b0f2f008a97d2a9bc",
+    "node_text": "How large of a circle do we have to draw around the primary case to include the index case for each hypothesis?",
+    "quote": "So, for each hypothesis, how large of a circle do we have to draw around the primary case to include the index case?",
+    "span": [
+      361,
+      477
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-e023c1ddf06e3e2daf303f8f4857740d",
+    "node_type": "research_question",
+    "section_number": "4.2",
+    "chunk_id": "chunk-332879cd7c774570e9c7969560c95321",
+    "node_text": "What is the probability of the market in question being HSM?",
+    "quote": "Saar gives the probability of the market in question being HSM as 0.2% [7], and Peter gives 2% [8]",
+    "span": [
+      878,
+      976
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-84f07b99827c46eb384a4e9a4f3a8fda",
+    "node_type": "research_question",
+    "section_number": "4.2",
+    "chunk_id": "chunk-685ceac3f73ad8a4dc6e921b2dbdef4a",
+    "node_text": "How does the contact graph asymmetry affect the probability of P(H|LL)?",
+    "quote": "asymmetries in the graph could potentially cause a random walk to be more likely to end up in some places than another",
+    "span": [
+      865,
+      983
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-f7280e3f0098052dff4fd7e45c2ad3e5",
+    "node_type": "research_question",
+    "section_number": "4.2",
+    "chunk_id": "chunk-a17a2555359bf6b506116a09dfeff727",
+    "node_text": "Should our analysis be sensitive to who the index case is?",
+    "quote": "We should also ask whether our analysis should be so sensitive to who the index case is",
+    "span": [
+      278,
+      365
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-cf26a1b50eef8743daedd1e192c8e0c0",
+    "node_type": "research_question",
+    "section_number": "4.2",
+    "chunk_id": "chunk-a285eca95f46da55bb7988b2836f9347",
+    "node_text": "What is the effect of expanding Z to include restaurants and locations outside of east Asia on P(H|Z)?",
+    "quote": "If we were to expand Z to include restaurants and locations outside of east Asia, our circle would grow enormously, and P (H|Z) be reduced in proportion",
+    "span": [
+      0,
+      152
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-1c0ecf0c34fcc9c4286759c362c1f998",
+    "node_type": "research_question",
+    "section_number": "4.2",
+    "chunk_id": "chunk-a285eca95f46da55bb7988b2836f9347",
+    "node_text": "How does the choice of Z affect the estimates of P(H|Z) and the Bayes factor?",
+    "quote": "Each of these choices for Z is fully consistent with the parameters of the debate; which choice of Z is 'correct?'",
+    "span": [
+      590,
+      704
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9825,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-2fe77a8be33f48f4acb2b83469cd0eb2",
+    "node_type": "research_question",
+    "section_number": "4.2",
+    "chunk_id": "chunk-a285eca95f46da55bb7988b2836f9347",
+    "node_text": "Would we be having the same debate if covid appeared in a different city that lacked WIV but had other research laboratories engaged in potentially dangerous coronavirus research?",
+    "quote": "Similarly, one could ask if LL was chosen appropriately; would we be having the same debate if covid appeared in a different city that lacked WIV but had other research laboratories engaged in potentially dangerous coronavirus research?",
+    "span": [
+      705,
+      940
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9958,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-17d4cbb202f5b389294b9379209e1872",
+    "node_type": "research_question",
+    "section_number": "4.2",
+    "chunk_id": "chunk-33e61ff0098eeee46d29777923ac6b2e",
+    "node_text": "Why do the estimates of P(H|Z) and P(H|LL) vary by orders of magnitude simply by taking a different perspective on the evidence?",
+    "quote": "It is problematic for our estimates of P (H|Z) and P (H|LL) to vary by orders of magnitude simply by taking a different perspective on the evidence",
+    "span": [
+      0,
+      147
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-647f34a5f260898987f4ccc68e90bc9a",
+    "node_type": "research_question",
+    "section_number": "4.2",
+    "chunk_id": "chunk-33e61ff0098eeee46d29777923ac6b2e",
+    "node_text": "How do the prior probabilities P(Z) and P(LL) relate to the discussion of P(H|Z) and P(H|LL)?",
+    "quote": "Therefore any discussion of P (H|Z) and P (H|LL) is intrinsically linked to the more difficult discussion of the prior probabilities P (Z) and P (LL)",
+    "span": [
+      666,
+      815
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9866,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-671624eda3e0ae63fdb114382afc284a",
+    "node_type": "research_question",
+    "section_number": "4.3",
+    "chunk_id": "chunk-3a75210bcbe8453d122d621bcac73766",
+    "node_text": "What is the difference between residents and visitors at HSM in the context of COVID-19 transmission?",
+    "quote": "The distinction between residents at HSM (by which we mean any person who returns to HSM on a daily basis, which includes vendors, other staff, and daily shoppers) and visitors is at times subtle yet impactful.",
+    "span": [
+      0,
+      210
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-519dc84c5502b95bf7a30c07d3d1fc39",
+    "node_type": "research_question",
+    "section_number": "4.3",
+    "chunk_id": "chunk-0ed6bd932bd937f22bee03eb0a88da37",
+    "node_text": "How does the size of a location's subpopulation affect the probability of an outbreak occurring at that location?",
+    "quote": "To a first order, we can scale the probability of an outbreak occurring at a location by the size of that location's subpopulation.",
+    "span": [
+      286,
+      417
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-484d99c00258b84feed24503d9e1d416",
+    "node_type": "research_question",
+    "section_number": "4.3",
+    "chunk_id": "chunk-0ed6bd932bd937f22bee03eb0a88da37",
+    "node_text": "What is the relevance of the resident population versus the visitor population in understanding the epidemiological center of the outbreak at HSM?",
+    "quote": "for most purposes what is relevant is the resident population, because the epidemiological 'center' of the outbreak is amongst the residents.",
+    "span": [
+      935,
+      1076
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9858,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-b4df985e150a5b2cd99e55cc2ed518e2",
+    "node_type": "research_question",
+    "section_number": "4.3",
+    "chunk_id": "chunk-8a37ada7e79d7b4da0fe0b33679b61c4",
+    "node_text": "How can the likelihood of an outbreak be accounted for in locations with a small number of residents, such as a train, versus locations with a large number of residents, such as HSM?",
+    "quote": "for a train, the 'residents' would be the train staff, which is quite a small number compared to the number of residents at HSM, so we'd expect an outbreak among train staff to be proportionately less likely than one among HSM residents.",
+    "span": [
+      330,
+      566
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9873,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-04741a4ddabb19a02088b476cb1b980e",
+    "node_type": "research_question",
+    "section_number": "4.3",
+    "chunk_id": "chunk-8a37ada7e79d7b4da0fe0b33679b61c4",
+    "node_text": "How can super-spreading events among visitors, such as train passengers, be modeled and accounted for in the context of COVID-19 transmission?",
+    "quote": "This expectation does a poor job of representing a super-spreading event that could happen among train passengers without involving the staff.",
+    "span": [
+      567,
+      709
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-2108c6c279b262b2188918293802f835",
+    "node_type": "research_question",
+    "section_number": "4.4",
+    "chunk_id": "chunk-27332cfc8d742d10199230212cd3dc39",
+    "node_text": "What is the ascertainment rate of COVID-19 cases?",
+    "quote": "The ascertainment rate of covid refers to the fraction of covid cases that become known;",
+    "span": [
+      0,
+      88
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-e1fe5a03debfdb9cc37e71813eeb0a9b",
+    "node_type": "research_question",
+    "section_number": "4.4",
+    "chunk_id": "chunk-27332cfc8d742d10199230212cd3dc39",
+    "node_text": "How does the likelihood of ascertainment vary among COVID-19 cases?",
+    "quote": "Ascertainment rate bias refers to any biases in how likely some cases are to be ascertained than others;",
+    "span": [
+      756,
+      860
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-dd15126e0ac6ab6b16e2058315f91fad",
+    "node_type": "research_question",
+    "section_number": "4.4",
+    "chunk_id": "chunk-27332cfc8d742d10199230212cd3dc39",
+    "node_text": "What is the impact of ascertainment rate bias on the detection of COVID-19 cases at different locations?",
+    "quote": "Rootclaim initially argued that ascertainment rate bias made covid more likely to be de- detected early at HSM even when there could be clusters in multiple locations.",
+    "span": [
+      1305,
+      1470
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.988,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-de4061f5c7ff4891b377b254bbf6ffa7",
+    "node_type": "research_question",
+    "section_number": "4.4",
+    "chunk_id": "chunk-27332cfc8d742d10199230212cd3dc39",
+    "node_text": "Can ascertainment rate bias influence the likelihood of hospitalization among COVID-19 patients?",
+    "quote": "41other than any biases that influence whether patients become hospitalized at all",
+    "span": [
+      1222,
+      1304
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-24eb63110de529dababc5693c3c2d810",
+    "node_type": "research_question",
+    "section_number": "4.5",
+    "chunk_id": "chunk-c0522593b02f44d6cdbf95ee44de74af",
+    "node_text": "Is COVID-19 disproportionately likely to appear in HSM compared to other locations?",
+    "quote": "whether outbreaks are disproportionately likely to appear in HSM compared to other locations",
+    "span": [
+      402,
+      494
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-730612b3f7257f61f70a1147e2407e3d",
+    "node_type": "research_question",
+    "section_number": "4.5",
+    "chunk_id": "chunk-c0522593b02f44d6cdbf95ee44de74af",
+    "node_text": "What is the chance of the first cluster of COVID-19 cases being at HSM under the lab-leak hypothesis?",
+    "quote": "Rootclaim estimated that, given that the first cluster appeared in Wuhan, the chance of it being at HSM under LL is about 10% [7]",
+    "span": [
+      496,
+      625
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-92be6c4d11c346d49ebefb42c2b5bf51",
+    "node_type": "research_question",
+    "section_number": "4.5",
+    "chunk_id": "chunk-c0522593b02f44d6cdbf95ee44de74af",
+    "node_text": "Do the conditions at HSM uniquely favor the spread of COVID-19 between vendors?",
+    "quote": "The core of their argument is the claim that HSM gives uniquely good conditions for the spread of covid between vendors",
+    "span": [
+      983,
+      1102
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-82c2fe46c3d71f62246c00c6889466c5",
+    "node_type": "research_question",
+    "section_number": "4.5",
+    "chunk_id": "chunk-857c4695342f4076e7f800c9d2df9cd6",
+    "node_text": "Is the ventilation at HSM poor?",
+    "quote": "multiple independent first-hand accounts describe it as poorly-ventilated",
+    "span": [
+      107,
+      180
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9863,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-0343f4a757297e36b716e049347e5882",
+    "node_type": "research_question",
+    "section_number": "4.5",
+    "chunk_id": "chunk-014b05d09712d5a53cde6aedf686daf0",
+    "node_text": "What is the relevance of having permanent residents at HSM to the spread of COVID-19?",
+    "quote": "The idea is that lots of people visit HSM, so even when there are few sick people in Wuhan there is a decent chance of one visiting the market; then if a resident becomes sick, the resident will return to HSM to infect others",
+    "span": [
+      414,
+      639
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-9158a5268a1e070971156012ffec32ab",
+    "node_type": "research_question",
+    "section_number": "4.5",
+    "chunk_id": "chunk-c6520d3241fa4dbe449147edcb01fa8f",
+    "node_text": "Is there a causative relationship between UV radiation and the growth rate of COVID-19?",
+    "quote": "I am very skeptical that there is any causative relationship; in any case, it is equally relevant for any indoors location",
+    "span": [
+      844,
+      966
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-0647838f0f7a4759f4b214adbbc0919b",
+    "node_type": "research_question",
+    "section_number": "4.5",
+    "chunk_id": "chunk-c6520d3241fa4dbe449147edcb01fa8f",
+    "node_text": "What is the role of temperature in the transmission of COVID-19?",
+    "quote": "The causative role of temperature in flu transmission remains uncertain, and covid likewise",
+    "span": [
+      998,
+      1089
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-60e8edd57d7a0256ed7db59f3dd5bfa3",
+    "node_type": "research_question",
+    "section_number": "4.5",
+    "chunk_id": "chunk-c6520d3241fa4dbe449147edcb01fa8f",
+    "node_text": "Is the presence of organic materials relevant to human-to-human transmission of COVID-19?",
+    "quote": "The presence of organic materials is mostly irrelevant to human-to-human transmission which is dominated by respiratory transmission, not fomite transmission",
+    "span": [
+      1091,
+      1248
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-3591796d2648c7c5c02fa938b0516d55",
+    "node_type": "research_question",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-4fc60178af3cfcdfb8e465a9173a62c9",
+    "node_text": "How could an initial patient unassociated with Huanan Seafood Market (HSM) yield the observed outbreak of COVID-19 cases?",
+    "quote": "Rootclaim created a quantitative model ([5] at 2:29:40) to illustrate how an initial patient unassociated with HSM could yield the observed outbreak; the goal is to show in principle how one might achieve the WHO numbers, which were 55 HSM-linked cases and 119 non-HSM-linked cases in 2019.",
+    "span": [
+      0,
+      290
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9966,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-da70238926783ef30f5d8b892cb164fd",
+    "node_type": "research_question",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-91e452ccec7745069e816d190987f931",
+    "node_text": "What is the probability that none of the pre-HSM cases are found at a given ascertainment rate?",
+    "quote": "At 5% ascertainment, there is only a 0.14% chance none of the 128 pre-HSM cases are found; at 10% ascertainment, this falls to 0.00014% chance.",
+    "span": [
+      0,
+      143
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-20dea2b0b76135eb6b579473f84a951d",
+    "node_type": "research_question",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-91e452ccec7745069e816d190987f931",
+    "node_text": "How likely is it for a person infected with COVID-19 to infect others while shopping at HSM?",
+    "quote": "A person going shopping might have face-to-face contact with a vendor for several minutes, facilitating transmission; but I expect in a typical shopping trip they will have broadly comparable levels of contact with dozens or hundreds of other people, such as other shoppers and on public transit.",
+    "span": [
+      407,
+      703
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-bfec37121e0ea4c2b74bbaa68f1735b4",
+    "node_type": "research_question",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-720671a267223e8473780ed6947675bf",
+    "node_text": "What is the growth rate of HSM-linked cases after the first doubling period, and how does it compare to non-HSM-linked cases?",
+    "quote": "Note that under these assumptions (or any reasonable assumptions), the growth rate of HSM cases after the first doubling is entirely driven by the resident-to-resident infection rate, so no matter how long we continue the above table, HSM cases will never catch up to non-HSM cases.",
+    "span": [
+      864,
+      1146
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-fa965f321d838dec16223941e1427af4",
+    "node_type": "research_question",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-6b10418abc2ed0387c626f2de6a5a352",
+    "node_text": "How can the observed case distribution of COVID-19 be achieved from Rootclaim's model, considering the loss of epidemiological link to HSM?",
+    "quote": "There are other ways to represent the loss of epidemiological link to HSM (my first version was to assume that each transmission has a fixed probability of lost connection, but I think that is less realistic), but regardless of choices I don't think there is any believable way to get the observed case distribution from Rootclaim's model.",
+    "span": [
+      607,
+      946
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-7acd76914c364bc057ffebe24b009bdc",
+    "node_type": "research_question",
+    "section_number": "4.5.2",
+    "chunk_id": "chunk-1a93932e5670cc9058d40bdd28f60a7a",
+    "node_text": "Why were cases not ascertained outside of Huanan Seafood Market for so long?",
+    "quote": "the difficulty in explaining why cases were not ascertained outside of HSM for so long",
+    "span": [
+      781,
+      867
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-0c9bc20a1fb2b15cfd736b1bb5fe9fe5",
+    "node_type": "research_question",
+    "section_number": "4.5.2",
+    "chunk_id": "chunk-1a93932e5670cc9058d40bdd28f60a7a",
+    "node_text": "How can Rootclaim's model be calibrated to produce the right number of cases on December 31?",
+    "quote": "their model was calibrated for producing the right number of cases on December 31",
+    "span": [
+      869,
+      950
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-635630218b2d11dfe70fa5e3294c4d0d",
+    "node_type": "research_question",
+    "section_number": "4.5.2",
+    "chunk_id": "chunk-1a93932e5670cc9058d40bdd28f60a7a",
+    "node_text": "What is the exact timing of the index cases based on the ascertainment rates used by Rootclaim?",
+    "quote": "The timing of the index cases is based on the ascertainment rates used by Rootclaim",
+    "span": [
+      613,
+      696
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-44ee2f24d3880c82a8b5c90c14218075",
+    "node_type": "research_question",
+    "section_number": "4.5.2",
+    "chunk_id": "chunk-3b8b08606c2011cfe525611421b108a8",
+    "node_text": "How can Rootclaim's model be adjusted to be consistent with observations early in the market outbreak?",
+    "quote": "we can finangle the model numbers to be kind of consistent with observations",
+    "span": [
+      829,
+      905
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-ac29dd53db9f3629172fccab9db03334",
+    "node_type": "research_question",
+    "section_number": "4.5.3",
+    "chunk_id": "chunk-0c0b876fcea219a3271a8aca94a8994f",
+    "node_text": "What is the probability of an infected person going to a market like Huanan Seafood Market (HSM) and creating an outbreak there?",
+    "quote": "Rootclaim needs to show that there is a high probability of an infected person going to HSM and creating an outbreak there.",
+    "span": [
+      1146,
+      1269
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9837,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-3236704efd3e4940ca3b37aec3a29d1e",
+    "node_type": "research_question",
+    "section_number": "4.5.3",
+    "chunk_id": "chunk-341707a4357706c1610ed0dfc51e10e7",
+    "node_text": "Can markets sustain an outbreak of COVID-19 once one is started there?",
+    "quote": "Frozen food causing an outbreak does not support Rootclaim's case, except in so far as it demonstrates that markets can sustain an outbreak once one is started there.",
+    "span": [
+      0,
+      166
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-c95b29982c554c191ea8a35891371d16",
+    "node_type": "research_question",
+    "section_number": "4.5.3",
+    "chunk_id": "chunk-341707a4357706c1610ed0dfc51e10e7",
+    "node_text": "What is the relationship between market outbreaks and the spread of COVID-19 in different settings, such as weddings?",
+    "quote": "this makes weddings appear to be a far greater risk of spreading covid than markets.",
+    "span": [
+      1029,
+      1113
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-9470867c51281cdbee86876487931a44",
+    "node_type": "research_question",
+    "section_number": "4.5.3",
+    "chunk_id": "chunk-fecc66cefa0a86275a7b5202326ebd2e",
+    "node_text": "What is the infectivity rate of being in a particular shopping center, such as HSM?",
+    "quote": "Much better would be to observe empirically how covid behaves; and Rootclaim attempted to do just that by introducing a list of known covid outbreaks in China centered at or involving markets",
+    "span": [
+      365,
+      556
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-7abb719059642c130b85eada05b7eb6b",
+    "node_type": "research_question",
+    "section_number": "4.5.4",
+    "chunk_id": "chunk-af0f6ab9bcfc1568dd3db4d02462cff7",
+    "node_text": "What is the probability that a protocluster of n cases at one location outside of HSM is growing faster than a same-sized protocluster at HSM?",
+    "quote": "What is the probability that protocluster is growing faster than a same-sized protocluster at HSM?",
+    "span": [
+      862,
+      960
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-1696629103b60623e1a7b8c0383bb928",
+    "node_type": "research_question",
+    "section_number": "4.5.4",
+    "chunk_id": "chunk-e7e2041dcbb8d6f1d0763bb2f0eeb382",
+    "node_text": "How does the location of early clusters relate to the happenstance of where super-spreading events take place?",
+    "quote": "As the location of early clusters will be driven largely by the happenstance of where such events happen to take place,",
+    "span": [
+      1148,
+      1267
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-fbd43b93ebf088493c5487455578b23c",
+    "node_type": "research_question",
+    "section_number": "4.5.4",
+    "chunk_id": "chunk-e7e2041dcbb8d6f1d0763bb2f0eeb382",
+    "node_text": "What is the effect of a single super-spreading event on the difference in case growth rates between two locations with different infectivity rates?",
+    "quote": "but when there are only thousands of cases or fewer, a single super-spreading event can completely overwhelm such a difference and drive the less infectious location to have more cases sooner",
+    "span": [
+      955,
+      1146
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-9647a2440c2835e293398421bdc2b317",
+    "node_type": "research_question",
+    "section_number": "4.5.4",
+    "chunk_id": "chunk-fc07b4b1689f613a1a86412f5a2b1635",
+    "node_text": "How does the ratio of mean to variance of the distribution of people infected by a given case outside of HSM affect the probability of a cluster outside of HSM outcompeting a cluster within HSM?",
+    "quote": "The ratio μ/σ could be any positive number (as μ >0 because the number of people with secondary infections cannot be negative), but if we impose the constraint that at least half of people with covid pass on no secondary infections, then it follows that μ≤σ and so μ/σ has to lie in the interval from 0 to 1",
+    "span": [
+      322,
+      629
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-82a7f20212c151594540c571f7ea30ce",
+    "node_type": "research_question",
+    "section_number": "4.5.4",
+    "chunk_id": "chunk-1e748294380c5155289b80fd71ff8690",
+    "node_text": "What is the probability that HSM becomes the biggest of the 128 clusters?",
+    "quote": "The probability that HSM becomes the biggest of the 128 clusters is more than 1 / 128, but not much more",
+    "span": [
+      692,
+      796
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-0d3e2785d80bb85a9cd729a8ed194695",
+    "node_type": "research_question",
+    "section_number": "4.5.5",
+    "chunk_id": "chunk-c978a2169cc08e3cc4be0280ce9ed14b",
+    "node_text": "Are other diseases, such as flu and colds, drawn to Huanan Seafood Market (HSM) in Wuhan?",
+    "quote": "Is this true?",
+    "span": [
+      392,
+      405
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-7b161ae96610f41c82a2026f49aa4d28",
+    "node_type": "research_question",
+    "section_number": "4.5.5",
+    "chunk_id": "chunk-c978a2169cc08e3cc4be0280ce9ed14b",
+    "node_text": "Do comparable markets elsewhere in Wuhan or in other cities have early outbreaks of flu, colds, and other diseases?",
+    "quote": "Comparable markets elsewhere in Wuhan or in other cities should similarly be early nexuses of flus, colds, and other diseases.",
+    "span": [
+      265,
+      391
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9841,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-494de552fc8e3a958d896963e89bcf93",
+    "node_type": "research_question",
+    "section_number": "4.5.5",
+    "chunk_id": "chunk-c978a2169cc08e3cc4be0280ce9ed14b",
+    "node_text": "Are the factors favoring HSM as a location for disease outbreaks unique to situations with very few cases present in a city?",
+    "quote": "Saar contests that the factors favoring HSM are unique to when there are very few cases present in a city, as the high rate of visitor traffic becomes less relevant when the disease is abundant everywhere",
+    "span": [
+      668,
+      872
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-e68898880cb7a840d5fa95af769da252",
+    "node_type": "research_question",
+    "section_number": "4.5.5",
+    "chunk_id": "chunk-c978a2169cc08e3cc4be0280ce9ed14b",
+    "node_text": "Does disease transmission remain linear at low case counts, and do nonlinearities only begin when some subpopulation has significant immunity?",
+    "quote": "However disease transmission should remain linear at low case counts, and nonlinearities only begin when some subpopulation has so many cases as to create significant immunity.",
+    "span": [
+      889,
+      1065
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-24920d39ec156ada901e8f917b7eaa23",
+    "node_type": "research_question",
+    "section_number": "4.5.5",
+    "chunk_id": "chunk-c978a2169cc08e3cc4be0280ce9ed14b",
+    "node_text": "Does the rate of outbreaks at every location double when the number of infected people in a city is doubled, and does the chance that a certain location is first remain unchanged?",
+    "quote": "If the number of infected people in a city is doubled, the rate of outbreaks at every location is doubled, and the chance that a certain location is first remains unchanged.",
+    "span": [
+      1066,
+      1239
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-ae6bb0621810c5c84dc3f248e5b27292",
+    "node_type": "research_question",
+    "section_number": "4.5.6",
+    "chunk_id": "chunk-8d081d1253d4de7a4dc463bf5d04aa2a",
+    "node_text": "How did the HSM cluster grow so rapidly as to outpace non-HSM cases?",
+    "quote": "The HSM cluster grows so rapidly as to outpace non-HSM cases",
+    "span": [
+      453,
+      513
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-dfb67eff489584634ef8388340bdf381",
+    "node_type": "research_question",
+    "section_number": "4.5.6",
+    "chunk_id": "chunk-a05450cb48dd10f88bf7a77b92abfb34",
+    "node_text": "What explains the coincidence that the person who happened to visit HSM was also super contagious?",
+    "quote": "the coincidence that the person who happened to visit HSM was also super contagious",
+    "span": [
+      174,
+      257
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-3794237e230da146cd564e93159e14fe",
+    "node_type": "research_question",
+    "section_number": "4.5.6",
+    "chunk_id": "chunk-a05450cb48dd10f88bf7a77b92abfb34",
+    "node_text": "How did HSM outpace non-HSM cases if all of the pre-HSM cases were super contagious?",
+    "quote": "Or maybe all of the pre-HSM cases were super contagious, but then how did HSM outpace non-HSM?",
+    "span": [
+      259,
+      353
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-a12760a5ac2f90dfb29d6486ed989d72",
+    "node_type": "research_question",
+    "section_number": "4.5.6",
+    "chunk_id": "chunk-a05450cb48dd10f88bf7a77b92abfb34",
+    "node_text": "Why did it take multiple sick people visiting HSM for the outbreak to take hold there, and what makes it improbable that more than one of the earliest covid patients happened to go there?",
+    "quote": "Or maybe it took multiple sick people visiting HSM for the outbreak to take hold there, but that makes it even more improbable that more than one of the earliest covid patients happened to go there",
+    "span": [
+      354,
+      551
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-268d73fc0b13eea182904d2d0b65577f",
+    "node_type": "research_question",
+    "section_number": "4.5.6",
+    "chunk_id": "chunk-a05450cb48dd10f88bf7a77b92abfb34",
+    "node_text": "What explains how the first cluster of cases is observed far from the purported origin?",
+    "quote": "the difficulty of explaining how the first cluster of cases is observed far from the purported origin",
+    "span": [
+      1010,
+      1111
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-ecfb0d61fb0dd1537824d9db5d7652a2",
+    "node_type": "research_question",
+    "section_number": "4.5.6",
+    "chunk_id": "chunk-6a078cb957f6c51889157b660d34c742",
+    "node_text": "Why was it another month before the first trickle of covid cases outside of China (or Wuhan) emerged?",
+    "quote": "Why was it another month before the first trickle of covid cases outside of China (or Wuhan) emerged?",
+    "span": [
+      1069,
+      1170
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-67290b4113d81c7d9427ac5a50ad87be",
+    "node_type": "research_question",
+    "section_number": "4.6.1",
+    "chunk_id": "chunk-c1a9dd8224f20ec4cb9a1893e8dcdddf",
+    "node_text": "What is the origin of SARS-CoV-2 in the Huanan Seafood Market (HSM)?",
+    "quote": "None of the 457 animal samples tested positive for sars-cov-2. This is to be expected, due to the nature of the sample selection.",
+    "span": [
+      380,
+      509
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-48436c36ede227309740bef60112e82d",
+    "node_type": "research_question",
+    "section_number": "4.6.1",
+    "chunk_id": "chunk-4640d8c4573d0f7cac4733a8d4819d82",
+    "node_text": "Can SARS-CoV-2 be detected in environmental samples from HSM?",
+    "quote": "72 of the environmental samples tested positive for the presence of sars-cov-2 RNA by PCR, and from 3 of them live virus was able to be extracted and cultured,",
+    "span": [
+      511,
+      670
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-e18523c47d76a7c1c39fe8964eb4cde0",
+    "node_type": "research_question",
+    "section_number": "4.6.1",
+    "chunk_id": "chunk-4640d8c4573d0f7cac4733a8d4819d82",
+    "node_text": "What is the significance of the distribution of positive environmental samples in HSM?",
+    "quote": "The positive environmental samples were not distributed uniformly around the market, and their distribution narrowly identifies a very specific location for a zoonotic spillover to have taken place.",
+    "span": [
+      1055,
+      1253
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-d185bdd5a8315efede82ef3179c71c20",
+    "node_type": "research_question",
+    "section_number": "4.6.1",
+    "chunk_id": "chunk-556a97d6173f3c6d6e22966a6a47f077",
+    "node_text": "What is the role of live animals in the potential zoonotic spillover of SARS-CoV-2 in HSM?",
+    "quote": "Both stores are located in the southwest region of the west half of HSM, generally the region of stores with wild animals and where most early covid cases were infected.",
+    "span": [
+      179,
+      348
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-72eec70a7d7e8442f72e62df8c63459e",
+    "node_type": "research_question",
+    "section_number": "4.6.1",
+    "chunk_id": "chunk-556a97d6173f3c6d6e22966a6a47f077",
+    "node_text": "Can the drainage system in HSM be a potential source of SARS-CoV-2 transmission?",
+    "quote": "Visible under grates running along storefronts in HSM (though obscured in the photographs of HSM I included above) is a shallow drainage system which would have received biological waste from shops, including waste from any live animals.",
+    "span": [
+      781,
+      1018
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-ef4496eb86261c357f53eef31b8676d1",
+    "node_type": "research_question",
+    "section_number": "4.6.2",
+    "chunk_id": "chunk-034688a09b0107d8a35c8a909a28c192",
+    "node_text": "What is the correlation between animal DNA and SARS-CoV-2 positivity in environmental samples?",
+    "quote": "statistical analysis of environmental samples show no or negative correlation between samples that contain DNA from species such as raccoon dog and samples that test positive",
+    "span": [
+      41,
+      215
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-af81d2e7acadba69495b80748aabb2af",
+    "node_type": "research_question",
+    "section_number": "4.6.2",
+    "chunk_id": "chunk-034688a09b0107d8a35c8a909a28c192",
+    "node_text": "Would a positive correlation between raccoon dog DNA and SARS-CoV-2 positivity occur if the samples contained material from raccoon dogs carrying SARS-CoV-2?",
+    "quote": "Any positive correlation between samples that contain raccoon dog DNA and samples that test for sars-cov-2 would only occur if the samples happened to contain material from the specific raccoon dogs that were carrying sars-cov-2",
+    "span": [
+      919,
+      1147
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-bca1865543739f84af37039cd952599a",
+    "node_type": "research_question",
+    "section_number": "4.6.2",
+    "chunk_id": "chunk-be79032223070f33912706faf5be65e7",
+    "node_text": "Can confounding factors overwhelm a potential positive correlation between animal DNA and SARS-CoV-2 positivity?",
+    "quote": "Even if there were a positive correlation, it could be overwhelmed by confounding factors",
+    "span": [
+      262,
+      351
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-b1756a09bf41bd92ad4cba9b80baf42a",
+    "node_type": "research_question",
+    "section_number": "4.6.2",
+    "chunk_id": "chunk-be79032223070f33912706faf5be65e7",
+    "node_text": "How would the additional time for SARS-CoV-2 RNA to decay affect the positivity rate in samples taken two weeks after the initial testing?",
+    "quote": "This sampling, two weeks later on January 12, would have had a lower positivity rate due to the additional time for the sars-cov-2 RNA to decay",
+    "span": [
+      575,
+      718
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-9921fd81e69899ea1f72fef7becbc4c7",
+    "node_type": "research_question",
+    "section_number": "4.6.3",
+    "chunk_id": "chunk-1661e1ac141058d44bc6cc7464acc9bd",
+    "node_text": "Did animal vendors at Huanan Seafood Market test positive for COVID-19?",
+    "quote": "Rootclaim claims that no animal vendors at HSM tested positive for covid",
+    "span": [
+      0,
+      72
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-b239af75fe373540179701e13d56404b",
+    "node_type": "research_question",
+    "section_number": "4.6.3",
+    "chunk_id": "chunk-1661e1ac141058d44bc6cc7464acc9bd",
+    "node_text": "What is the significance of the association between people who worked with wild animals and seropositivity for SARS-1 in the context of COVID-19 origins?",
+    "quote": "a significant association between people who worked with wild animals and seropositivity for SARS-1",
+    "span": [
+      89,
+      188
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-4922692013ccb98620c83ebde9547b8b",
+    "node_type": "research_question",
+    "section_number": "4.6.3",
+    "chunk_id": "chunk-1661e1ac141058d44bc6cc7464acc9bd",
+    "node_text": "Would a trend connecting animal vendors with testing positive for COVID-19 be expected if SARS-CoV-2 did spill over at Huanan Seafood Market?",
+    "quote": "I would not particularly expect to find a trend connecting animal vendors with testing positive for covid even if sars-cov-2 did spill over at HSM",
+    "span": [
+      326,
+      472
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-645c7ee98d55ee35aa51428c2918e162",
+    "node_type": "research_question",
+    "section_number": "4.6.3",
+    "chunk_id": "chunk-1661e1ac141058d44bc6cc7464acc9bd",
+    "node_text": "What is the chance that the primary case of COVID-19 would be ascertained directly, and what are the implications for identifying early infections among animal vendors?",
+    "quote": "we expect a low chance that the primary case would be ascertained directly: roughly 5%, the hospitalization rate",
+    "span": [
+      836,
+      948
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-0c002d90e16adcf11e69b5ecc44089e2",
+    "node_type": "research_question",
+    "section_number": "4.6.3",
+    "chunk_id": "chunk-1661e1ac141058d44bc6cc7464acc9bd",
+    "node_text": "Is the claim that no animal vendors at Huanan Seafood Market tested positive for COVID-19 supported by available data and sources?",
+    "quote": "It is not clear to me that the claim is true",
+    "span": [
+      1116,
+      1160
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-57acf5ed7cef0daa06839f60cad47f6a",
+    "node_type": "research_question",
+    "section_number": "4.6.3",
+    "chunk_id": "chunk-35170c9dd2c291492987237b23c80ca8",
+    "node_text": "What is the nature of exposure to live animals reported by December cases, and how many of those cases were at Huanan Seafood Market?",
+    "quote": "20 of 168 December cases self-report exposure to live animals",
+    "span": [
+      701,
+      762
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-972e1ced9666ea2ba6fbacc9c5841cd1",
+    "node_type": "research_question",
+    "section_number": "4.6.3",
+    "chunk_id": "chunk-35170c9dd2c291492987237b23c80ca8",
+    "node_text": "How are live animal sellers classified in the breakdown of vendors at Huanan Seafood Market by type of goods sold?",
+    "quote": "The breakdown of all vendors at HSM by type of goods sold ([32] annex page 182) does not mention live animals at all",
+    "span": [
+      931,
+      1047
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-d988a7e658c4eafe6f12e0bab5c3cdc9",
+    "node_type": "research_question",
+    "section_number": "5.1",
+    "chunk_id": "chunk-ef39d9943614d54b643840738e3f964b",
+    "node_text": "Did sars-cov-2 undergo multiple introductions into humans?",
+    "quote": "what if lineages A and B represent separate introductions of sars-cov-2 into humans?",
+    "span": [
+      51,
+      135
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-93bc6e779037dd7ac1c85390177d4a6b",
+    "node_type": "research_question",
+    "section_number": "5.1",
+    "chunk_id": "chunk-ef39d9943614d54b643840738e3f964b",
+    "node_text": "Can the observed phylogenetic evidence be explained by a single introduction of sars-cov-2 into humans?",
+    "quote": "it is unlikely for a single introduction to yield a phylogenetic tree with two clearly distinct and prominent taxa whose roots are exactly two mutations apart",
+    "span": [
+      166,
+      324
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-bc0f6fbfbcd93d893c7322b50ef8a44c",
+    "node_type": "research_question",
+    "section_number": "5.1",
+    "chunk_id": "chunk-8f4f137de25029ff3622ff6588aff8cf",
+    "node_text": "Which lineage, A or B, is more likely to be ancestral?",
+    "quote": "If I had to guess whether lineage A or lineage B were ancestral, I would be inclined to believe Pekar et al that lineage B is more likely to be ancestral",
+    "span": [
+      926,
+      1079
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-4c8c4e36f6a5f4ac913f70ddd7403c9b",
+    "node_type": "research_question",
+    "section_number": "5.1",
+    "chunk_id": "chunk-ef39d9943614d54b643840738e3f964b",
+    "node_text": "Can the two-introductions hypothesis explain the strange shape of the phylogenetic tree?",
+    "quote": "the two-introductions hypothesis does nothing by itself to explain the strange shape of the phylogenetic tree",
+    "span": [
+      1343,
+      1452
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-f56d13ce04de4704f3e8e4bfdf73e6f3",
+    "node_type": "research_question",
+    "section_number": "5.1",
+    "chunk_id": "chunk-8f4f137de25029ff3622ff6588aff8cf",
+    "node_text": "How does disease transmission dynamics differ between animals and humans in the context of covid-19?",
+    "quote": "disease transmission has different dynamics in animals and humans",
+    "span": [
+      260,
+      325
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-ae9afbb1c8e618e30c1ccb5dcddda66a",
+    "node_type": "research_question",
+    "section_number": "5.1",
+    "chunk_id": "chunk-8f4f137de25029ff3622ff6588aff8cf",
+    "node_text": "Is animal-to-human transmission of covid-19 comparatively rare?",
+    "quote": "we must suppose that animal-to-human transmission is comparatively rare",
+    "span": [
+      529,
+      600
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-fe04a663137b68b59c5711c150ef706d",
+    "node_type": "research_question",
+    "section_number": "5.2",
+    "chunk_id": "chunk-5143c8d00b36ccf36b9f0ec9ff9330f9",
+    "node_text": "Where was the lineage A of SARS-CoV-2?",
+    "quote": "This raises the obvious question: where was the lineage A?",
+    "span": [
+      231,
+      289
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-f0f7521568f402574f4f0cac715f40fd",
+    "node_type": "research_question",
+    "section_number": "5.2",
+    "chunk_id": "chunk-5143c8d00b36ccf36b9f0ec9ff9330f9",
+    "node_text": "Why was there no lineage A in Huanan Seafood Market (HSM)?",
+    "quote": "why was there no lineage A in HSM?",
+    "span": [
+      570,
+      604
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-3912c2f5ce6cc4d09165dbdec6eb1808",
+    "node_type": "research_question",
+    "section_number": "5.2",
+    "chunk_id": "chunk-4d9375a1cf56edcd49ed90ab4cb440e7",
+    "node_text": "How did lineage A reach HSM so early if lineage A were ancestral and the primary HSM case were lineage B?",
+    "quote": "how did lineage A reach HSM so early?",
+    "span": [
+      194,
+      231
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-215c374f504fcf993149fdd2a30f7500",
+    "node_type": "research_question",
+    "section_number": "5.2",
+    "chunk_id": "chunk-4d9375a1cf56edcd49ed90ab4cb440e7",
+    "node_text": "What is the explanation for the first observed presence of lineage A in close proximity to HSM?",
+    "quote": "It is hard to explain the first observed presence of lineage A in close proximity to HSM with the lab leak explanation above.",
+    "span": [
+      631,
+      756
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-746acb17311b462c65ead80160f429a7",
+    "node_type": "research_question",
+    "section_number": "5.2",
+    "chunk_id": "chunk-4d9375a1cf56edcd49ed90ab4cb440e7",
+    "node_text": "What is the origin of SARS-CoV-2, zoonotic or laboratory, given the presence of both lineages A and B in or near the market?",
+    "quote": "Whether the origin of sars-cov-2 was zoonotic or laboratory, it appears that both lineages A and B were located in or near the market, and the best explanation for the observations is the same for both theories.",
+    "span": [
+      757,
+      968
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-7d5d344eb4ee48a784749ab86e4635b1",
+    "node_type": "research_question",
+    "section_number": "5.3",
+    "chunk_id": "chunk-3c997c792aee23b95c0f2a5ef0572503",
+    "node_text": "What is the significance of the CGGCGG sequence in the sars-cov-2 FCS?",
+    "quote": "I do not see any particular significance to the CGGCGG sequence.",
+    "span": [
+      653,
+      717
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-e438e9f380b12d363625ec0c455f0b24",
+    "node_type": "research_question",
+    "section_number": "5.3",
+    "chunk_id": "chunk-1a8531477f4986b4081a87a7651c3584",
+    "node_text": "Is the CGGCGG sequence evidence against a natural origin of the FCS?",
+    "quote": "Rootclaim argues that this is evidence against a natural origin to the FCS, as it has two consecutive CGG codons.",
+    "span": [
+      536,
+      649
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-a42c64cb992b18835ccb951c7d1f3552",
+    "node_type": "research_question",
+    "section_number": "5.3",
+    "chunk_id": "chunk-1a8531477f4986b4081a87a7651c3584",
+    "node_text": "How does the codon frequency in an insert reflect the frequency of the source of the fragment?",
+    "quote": "I would not expect a priori the codon frequency in an insert to match that of the surrounding genome, but rather to reflect the frequency of the source of the fragment;",
+    "span": [
+      659,
+      827
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-628ec1099c9e3446ff853d9099403656",
+    "node_type": "research_question",
+    "section_number": "5.3",
+    "chunk_id": "chunk-3c997c792aee23b95c0f2a5ef0572503",
+    "node_text": "What is the likelihood of the CGGCGG sequence from a natural source?",
+    "quote": "We would have to analyze the frequency of the non-aligned codons to properly assess the likelihood of the CGGCGG sequence from a natural source.",
+    "span": [
+      508,
+      652
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-33cc6140798c447c5f9cf42303f3e74d",
+    "node_type": "research_question",
+    "section_number": "5.4",
+    "chunk_id": "chunk-fc514f5a88b0d0224047776bafd6aa34",
+    "node_text": "What are the goals and steps of Project DEFUSE?",
+    "quote": "The project involved quite a large number of goals and steps and can be",
+    "span": [
+      364,
+      435
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-893d31864f2b83c93333ad1104cd8105",
+    "node_type": "research_question",
+    "section_number": "5.4",
+    "chunk_id": "chunk-fc514f5a88b0d0224047776bafd6aa34",
+    "node_text": "How likely are bats to have dangerous diseases?",
+    "quote": "Write an app for soldiers to figure out how likely bats are to have dangerous diseases",
+    "span": [
+      594,
+      680
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-91bee926c15bb67be740ab7f1c32a8fb",
+    "node_type": "research_question",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-4e7811bac13482229c68ce4eb9900fe5",
+    "node_text": "What SARSr-CoV nucleic acid sequences will be found in the samples?",
+    "quote": "We will screen samples for SARSr-CoV [sars-cov-1-related coronavirus] nucleic acid",
+    "span": [
+      117,
+      199
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-20aa5c6fff1a4d19888e6584fc5a686f",
+    "node_type": "research_question",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-4e7811bac13482229c68ce4eb9900fe5",
+    "node_text": "How well do the SARSr-CoV S genes bind to human ACE2 receptors?",
+    "quote": "We will analyze the S gene for its ability to bind human ACE2 by Biocore or virus entry assay",
+    "span": [
+      326,
+      419
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-223055418e6f49205d0225bce9cb4795",
+    "node_type": "research_question",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-6197f750ce57000d30c32357e0590b6c",
+    "node_text": "What is the effect of introducing human-specific cleavage sites into SARSr-CoV S genes on virus replication and pathogenesis?",
+    "quote": "We will introduce appropriate human-specific cleavage sites and evaluate growth potential in Vero [monkey kidney] cells and HAE [human airway epithelial cells] cultures",
+    "span": [
+      963,
+      1131
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9881,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-f796208554824749cca0cda477e5d536",
+    "node_type": "research_question",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-6197f750ce57000d30c32357e0590b6c",
+    "node_text": "Do SARSr-CoV S genes with mismatches in proteolytic cleavage sites have the potential to be activated by exogenous trypsin or cathepsin L?",
+    "quote": "SARSr-CoV S with mismatches in proteolytic cleavage sites can be activated by exogenous trypsin or cathepsin L",
+    "span": [
+      821,
+      931
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-f28fe1b247a04f14a29dbac00412b8f7",
+    "node_type": "research_question",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-07afdefd72654f86be09b17c4ab96844",
+    "node_text": "What is the impact of select SARSr-CoV S changes on virus replication and pathogenesis?",
+    "quote": "and evaluate the impact of select SARSr-CoV S changes on virus replication and pathogenesis",
+    "span": [
+      106,
+      197
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-bb762182623b52e4979e9a8fd6437162",
+    "node_type": "research_question",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-07afdefd72654f86be09b17c4ab96844",
+    "node_text": "Are there low abundant high risk SARSr-CoV that encode functional proteolytic cleavage sites?",
+    "quote": "We will also review deep sequence data for low abundant high risk SARSr-CoV that encode functional proteolytic cleavage sites",
+    "span": [
+      199,
+      324
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-754906ee029e6f74d7cc25e4cd55d330",
+    "node_type": "research_question",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "What activities would the Wuhan Institute of Virology (WIV) have been involved in?",
+    "quote": "Here I have summarized each step that WIV would have been involved in:",
+    "span": [
+      126,
+      196
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-ee6143fe2c550f317cfeaaad15bb88a8",
+    "node_type": "research_question",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "Would genetic engineering be performed at the Wuhan Institute of Virology (WIV)?",
+    "quote": "As far as I can see, no genetic engineering would be performed at WIV,",
+    "span": [
+      750,
+      820
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-6ce7e9243fdbc08887ca33a6d0147834",
+    "node_type": "research_question",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "Would chimeric viruses be brought to the Wuhan Institute of Virology (WIV)?",
+    "quote": "nor would any chimeric viruses be brought there, except prototype vaccines which use a raccoonpox chimera.",
+    "span": [
+      821,
+      927
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-a048a2afeca368ef324b661d166921a7",
+    "node_type": "research_question",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "What kind of samples would the Wuhan Institute of Virology (WIV) work with?",
+    "quote": "WIV was to be involved with samples collected from bats, tests on bats, tests on people who live near bats, and experiments in bat caves.",
+    "span": [
+      928,
+      1065
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-3dbd3eb0c739aa357f0bcfbbeb7fa70c",
+    "node_type": "research_question",
+    "section_number": "5.4.3",
+    "chunk_id": "chunk-3f642681bf8e8f93ca3c82d95e95cd1c",
+    "node_text": "What is the infectivity of a recombinant virus created by replacing the spike protein of WIV1 with spike proteins found in viruses collected from bats in Yunnan?",
+    "quote": "Human and monkey cells were then exposed to the recombinant viruses to determine its infectivity",
+    "span": [
+      474,
+      570
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-53bf32b9af60458889c92bb155cdc45d",
+    "node_type": "research_question",
+    "section_number": "5.4.3",
+    "chunk_id": "chunk-3f642681bf8e8f93ca3c82d95e95cd1c",
+    "node_text": "Will a virus still work in human and monkey cells if a gene absent in sars-cov-1 is removed from WIV1?",
+    "quote": "they removed a gene in WIV1 that is absent in sars-cov-1 to see if the virus would still work in human and monkey cells",
+    "span": [
+      592,
+      711
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-9b266cdc095c5bf66632e6f7ffc6e221",
+    "node_type": "research_question",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "Would the proposal add furin cleavage sites to viruses?",
+    "quote": "The proposal does not explicitly state it would add furin cleavage sites to viruses, but it",
+    "span": [
+      0,
+      91
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-990583afe71cc232d7537936fe21b80e",
+    "node_type": "research_question",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "What genetic modification was involved in the proposal?",
+    "quote": "Most, but not all, of the genetic modification involved using backbones from known, pre-existing viruses.",
+    "span": [
+      195,
+      300
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9905,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-2c2f8b6187e3265ae6c1506ebe6dbe7d",
+    "node_type": "research_question",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "Did the proposal discuss in vivo genetic modification?",
+    "quote": "The proposal does not, as far as I understand, discuss any in vivo genetic modification; all",
+    "span": [
+      302,
+      394
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-c98a49c215694e170107762706be30f3",
+    "node_type": "research_question",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "How would viruses be used in the proposal?",
+    "quote": "Viruses would be used in vivo only for testing pathogenecity.",
+    "span": [
+      510,
+      571
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-3ed0055a27a8406adc5952e353d62d83",
+    "node_type": "research_question",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "What was the purpose of screening for wild viruses in the proposal?",
+    "quote": "The proposal does specifically say it would screen for wild viruses with high affinity towards human ACE2.",
+    "span": [
+      572,
+      678
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-70869c990fc25ca26e084f1662717e25",
+    "node_type": "research_question",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "Is the Project DEFUSE proposal a blueprint for building sars-cov-2?",
+    "quote": "the proposal is hardly a blueprint for building sars-cov-2, containing many irrelevancies and missing key components.",
+    "span": [
+      910,
+      1027
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-d4f09858e33d63ed37dc4e4bf5b52803",
+    "node_type": "research_question",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "What does Project DEFUSE show about the community of virologists?",
+    "quote": "Project DEFUSE is most relevant in that it shows that the community of virologists was broadly interested in making chimeric viruses with certain features which have the potential for lab leak risk if handled improperly,",
+    "span": [
+      1028,
+      1248
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-e5cf65193be8d34353c6ba275038a88a",
+    "node_type": "research_question",
+    "section_number": "5.5",
+    "chunk_id": "chunk-daf303c08ff47cafabdf47d20048994e",
+    "node_text": "Why does sars-cov-2 bind best to human ACE2 receptors out of 14 species studied?",
+    "quote": "Piplani et al [28] found in computer simulations that sars-cov-2 binds best to human ACE2 receptors out of 14 species studied;",
+    "span": [
+      0,
+      126
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-5354a203207673f8436f5b879d30a7af",
+    "node_type": "research_question",
+    "section_number": "5.5",
+    "chunk_id": "chunk-daf303c08ff47cafabdf47d20048994e",
+    "node_text": "How could sars-cov-2 have adapted to human ACE2 if it originated from an animal host?",
+    "quote": "if pangolins were an intermediate host, then sars-cov-2 could have adapted to pangolin ACE2 and thus partially to human ACE2",
+    "span": [
+      432,
+      556
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-9a77d63270559f0a58c925ae07fd5a88",
+    "node_type": "research_question",
+    "section_number": "5.5",
+    "chunk_id": "chunk-daf303c08ff47cafabdf47d20048994e",
+    "node_text": "Can the lab leak theory explain the observation that sars-cov-2 binds well to human ACE2?",
+    "quote": "Under the lab leak theory, this observation is explained as a result of lab workers screening many different wild viruses to identify those that bind well to human ACE2",
+    "span": [
+      558,
+      726
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-e69b6c4739f23ddb521d4285f2df9fc6",
+    "node_type": "research_question",
+    "section_number": "5.5",
+    "chunk_id": "chunk-fac8b96cf62f40652132ec533ca4d61d",
+    "node_text": "Is the high binding affinity of sars-cov-2 to human ACE2 due to the receptor being particularly good at binding to spike proteins?",
+    "quote": "maybe human ACE2, either in reality or in the simulation of Piplani et al, is just particularly good at binding to spike proteins?",
+    "span": [
+      28,
+      158
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-9d6fc59fd680afd8e2df60514bbde3b3",
+    "node_type": "research_question",
+    "section_number": "5.6",
+    "chunk_id": "chunk-8894c82d459d34bef45ef0cfb4340d97",
+    "node_text": "What might motivate the decision to include a proline at the specific location near the sars-cov-2 FCS?",
+    "quote": "wherefore the proline P?",
+    "span": [
+      307,
+      331
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-e4a9d0cebf57023f98493d35dce0e6e9",
+    "node_type": "research_question",
+    "section_number": "5.6",
+    "chunk_id": "chunk-8894c82d459d34bef45ef0cfb4340d97",
+    "node_text": "Is the presence of the proline at the exact location that researchers add an additional insert in the natural precursor virus likely?",
+    "quote": "it seems quite unlikely that the natural precursor virus happened to have such an inserted proline at the exact location that researchers add an additional insert",
+    "span": [
+      444,
+      606
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-ed45556f83b04a45d20004da1b17c665",
+    "node_type": "research_question",
+    "section_number": "5.7",
+    "chunk_id": "chunk-714044bdc6c1463673e6fb9ec5c9053c",
+    "node_text": "Could the 12 nucleotide insert at the FCS in SARS-CoV-2 have evolved by chance?",
+    "quote": "There is no particular reason that this mutation could not have evolved by chance.",
+    "span": [
+      257,
+      339
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-80c313ac4ec9399826ebf91dc738405a",
+    "node_type": "research_question",
+    "section_number": "5.7",
+    "chunk_id": "chunk-714044bdc6c1463673e6fb9ec5c9053c",
+    "node_text": "Why is the 12 nucleotide insert at the FCS in SARS-CoV-2 larger than other changes in the genome?",
+    "quote": "The only thing odd about this insert is how large of a change it is compared to the smaller changes elsewhere in the genome;",
+    "span": [
+      340,
+      464
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-f6fbcbe4d3c1922c0ee14856f44c9134",
+    "node_type": "research_question",
+    "section_number": "5.7",
+    "chunk_id": "chunk-714044bdc6c1463673e6fb9ec5c9053c",
+    "node_text": "Can the comparison between SARS-CoV-2 and banal-20-52 provide insight into the origins of SARS-CoV-2?",
+    "quote": "While banal-20-52 is the closest known virus, it is not close enough to make the kind of comparison that Rootclaim seeks to do with sars-cov-2.",
+    "span": [
+      643,
+      786
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-bec0307a8faae94dfda315e57bb7a926",
+    "node_type": "research_question",
+    "section_number": "6",
+    "chunk_id": "chunk-69f4073431f3ab76120530b2fbca077e",
+    "node_text": "Could sars-cov-2 have been kept a secret if it were made in a lab?",
+    "quote": "If sars-cov-2 were made in a lab, could it be kept a secret?",
+    "span": [
+      0,
+      60
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-9deb34173c0539352232f62a3b497658",
+    "node_type": "research_question",
+    "section_number": "6",
+    "chunk_id": "chunk-69f4073431f3ab76120530b2fbca077e",
+    "node_text": "How could researchers have inserted an FCS into a virus, created sars-cov-2, and released it from the lab without realizing its artificial origin?",
+    "quote": "Researchers could have inserted an FCS into a virus, created sars-cov-2, gotten sick and released it from the lab without ever realizing - even in retrospect - that the virus in the lab was the same as the one in the wild.",
+    "span": [
+      777,
+      999
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-1720f8b187bcd6915077a6629d1c205a",
+    "node_type": "research_question",
+    "section_number": "6",
+    "chunk_id": "chunk-69f4073431f3ab76120530b2fbca077e",
+    "node_text": "Would researchers at the WIV have thought to look at the sequence of sars-cov-2 and see if it is like one of the viruses in their lab?",
+    "quote": "Researchers at the WIV had already examined a preliminary sequence for sars-cov-2 by 2019 December 27, 63 wouldn't they have thought at some point to look at that sequence and see if it is like one of the viruses in their lab?",
+    "span": [
+      1054,
+      1280
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-7ff2105ec54f0e7d1aa31db3016364bb",
+    "node_type": "research_question",
+    "section_number": "6",
+    "chunk_id": "chunk-2ca9cccaa0de50a819c4105e9969227d",
+    "node_text": "Could the truth of covid's origins be openly circulating on Chinese social media and western investigators just never see it?",
+    "quote": "Could the truth of covid's origins be openly circulating on Chinese social media and western investigators just never see it?",
+    "span": [
+      1284,
+      1409
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-131b0f4c66ec52ddc06d5b0d3c69da1f",
+    "node_type": "research_question",
+    "section_number": "6",
+    "chunk_id": "chunk-2ca9cccaa0de50a819c4105e9969227d",
+    "node_text": "How could a secret about the artificial origin of sars-cov-2 be kept inside a lab?",
+    "quote": "No matter how I draw the line, it is challenging for me to write a plausible story in which the secret stays inside.",
+    "span": [
+      1411,
+      1527
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-06ba7474864e023b2ec9c2b9b378bda0",
+    "node_type": "research_question",
+    "section_number": "7",
+    "chunk_id": "chunk-c300642270d05f1b62f98c141f39fba6",
+    "node_text": "What is the origin of the COVID-19 pandemic?",
+    "quote": "the origin of the covid pandemic",
+    "span": [
+      129,
+      161
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-020d01ea7f9c0f4623d3fa8d2fdc27c7",
+    "node_type": "research_question",
+    "section_number": "7",
+    "chunk_id": "chunk-c300642270d05f1b62f98c141f39fba6",
+    "node_text": "What is the probability of COVID-19 emerging from a zoonotic spillover in HSM?",
+    "quote": "P (Z)",
+    "span": [
+      923,
+      928
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-1e3fae27e8a156510120346b42aa1301",
+    "node_type": "research_question",
+    "section_number": "7",
+    "chunk_id": "chunk-c300642270d05f1b62f98c141f39fba6",
+    "node_text": "What is the probability of COVID-19 resulting from gain-of-function research in WIV?",
+    "quote": "P (LL)",
+    "span": [
+      933,
+      939
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-2a77c3ad65a0c2a9128811edcabd3bec",
+    "node_type": "research_question",
+    "section_number": "7",
+    "chunk_id": "chunk-c300642270d05f1b62f98c141f39fba6",
+    "node_text": "What are the annual risks of pandemics emerging from zoonotic spillover and gain-of-function research?",
+    "quote": "the yearly rate at which pandemics emerge from those sources",
+    "span": [
+      1016,
+      1076
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-8eff08264eea99174a0f04364e465f55",
+    "node_type": "research_question",
+    "section_number": "7.1",
+    "chunk_id": "chunk-5ce20429331d68cc6124e97de841f1ef",
+    "node_text": "What drives new pandemics?",
+    "quote": "Before the debate I had a fundamental misunderstanding of what drives new pandemics.",
+    "span": [
+      0,
+      84
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-554e0910136a2809996b4fcb9828e56e",
+    "node_type": "research_question",
+    "section_number": "7.1",
+    "chunk_id": "chunk-5ce20429331d68cc6124e97de841f1ef",
+    "node_text": "How common are spillover events from animals to humans?",
+    "quote": "Spillovers from animals to humans are rare, and when they happen they effectively sample a random virus from that continuum of viruses that exist in animals.",
+    "span": [
+      635,
+      792
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-49e3b81128fe732626f480880a914b5c",
+    "node_type": "research_question",
+    "section_number": "7.1",
+    "chunk_id": "chunk-eb66d8f46539dadc2223da3edda7903e",
+    "node_text": "What is the primary limitation on pandemics?",
+    "quote": "the primary limitation on pandemics is not whether the animal-to-human transmission occurs but rather whether a virus with the necessary properties evolves in an animal population humans are exposed to.",
+    "span": [
+      79,
+      281
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-784501d8f8fad01f9d5bd42f7c5e669e",
+    "node_type": "research_question",
+    "section_number": "7.1",
+    "chunk_id": "chunk-eb66d8f46539dadc2223da3edda7903e",
+    "node_text": "How often do suitable viruses evolve in animal populations that humans are exposed to?",
+    "quote": "We will be using the emergence of previous human coronaviruses to choose a prior P (Z).",
+    "span": [
+      494,
+      581
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-37ac0e0183ba113724eb24936b9be800",
+    "node_type": "research_question",
+    "section_number": "7.1",
+    "chunk_id": "chunk-6f43a5cbb96092c2da2048fe360661b8",
+    "node_text": "What is the expected gap between consecutive novel coronaviruses?",
+    "quote": "What we want to know is the expected gap between consecutive novel coronaviruses; ignoring sars-cov-2, from 2002 to 2023 there were sars-cov-1 in 2002 and MERS in 2012.",
+    "span": [
+      821,
+      989
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.994,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-ff06c330dc6399f8855f2719ff3b1af9",
+    "node_type": "research_question",
+    "section_number": "7.1",
+    "chunk_id": "chunk-3eba16b6aafc47ab35b1324e7911a50a",
+    "node_text": "How has the risk of pandemics changed over time due to changes in land use, agricultural intensity, and population?",
+    "quote": "I believe the risk of pandemics has grown greatly on the timescale of decades, due to changes of land use, agricultural intensity, and population;",
+    "span": [
+      192,
+      338
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-c29831024795252c42fdfc83eb30c46a",
+    "node_type": "research_question",
+    "section_number": "7.1",
+    "chunk_id": "chunk-3eba16b6aafc47ab35b1324e7911a50a",
+    "node_text": "What is the probability of a new sars-like virus emerging and causing a pandemic?",
+    "quote": "Not all sars-like viruses can cause a pandemic. Estimating from sars-cov-1 and MERS we get a (0 + 1)/(2 + 2) = 1/4 chance",
+    "span": [
+      618,
+      739
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-ff8c9d4ccb68f50ef8b9be29a0289001",
+    "node_type": "research_question",
+    "section_number": "7.1",
+    "chunk_id": "chunk-7ccd7514b86112b6365c5db4bcdbcb57",
+    "node_text": "Where are novel zoonotic diseases expected to emerge?",
+    "quote": "A large fraction of novel zoonotic diseases are expected to emerge in south or east asia;",
+    "span": [
+      0,
+      89
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-3a4cfcd7a79baf5e0bb4b6b1ebf45b8b",
+    "node_type": "research_question",
+    "section_number": "7.1",
+    "chunk_id": "chunk-7ccd7514b86112b6365c5db4bcdbcb57",
+    "node_text": "What is the probability of a pandemic emerging from a wildlife market in east Asia, specifically from the Huanan Seafood Market (HSM)?",
+    "quote": "Conditioned on the emergence being a wildlife market in east Asia, Peter gives the probability of HSM as 1 /50 [8]; Saar gives it as 1 /500 [7].",
+    "span": [
+      420,
+      564
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-246c37e3a4f155160318ce460bbdbdb4",
+    "node_type": "research_question",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "What is the probability of a lab leak occurring at the Wuhan Institute of Virology (WIV)?",
+    "quote": "To estimate P (LL), rather than extrapolating from historical lab leak events, I will work forwards from first principles.",
+    "span": [
+      0,
+      122
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-ce4f2065e206932ca5180e627f076aba",
+    "node_type": "research_question",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "What is the probability of WIV conducting gain-of-function (GoF) research similar to the Project DEFUSE research plan?",
+    "quote": "WIV conducts GoF research a la 'DEFUSE' 1/50",
+    "span": [
+      535,
+      579
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9545,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-996b38b2c6845ea7eb039a1221aeeda4",
+    "node_type": "research_question",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "What is the probability of WIV using a suitable starting virus for GoF research?",
+    "quote": "WIV uses suitable starting virus 1/2",
+    "span": [
+      599,
+      635
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-0b512736a6e3bdaeafee3ab4c759f833",
+    "node_type": "research_question",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "What is the probability of WIV's GoF research being successful?",
+    "quote": "WIV research is successful 1/2",
+    "span": [
+      636,
+      666
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-01414618d9942b67c472cd1a6ac27bf3",
+    "node_type": "research_question",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "What is the probability of a lab leak of a virus occurring at WIV?",
+    "quote": "lab leak of that virus occurs at WIV 1/50",
+    "span": [
+      667,
+      708
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-d2465cc0c72a4f842c0a1a672d8f79b4",
+    "node_type": "research_question",
+    "section_number": "7.2",
+    "chunk_id": "chunk-0750a6341e30806e362f3e6f8ebe71cc",
+    "node_text": "How does the probability of a lab leak at WIV change when considering the specifics of the Project DEFUSE research plan?",
+    "quote": "For LL to occur, WIV had to undertake the contents of Project DEFUSE alone without collaborators",
+    "span": [
+      872,
+      968
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-d0c2dda052b7656dd5eab8ddd9beaf0d",
+    "node_type": "research_question",
+    "section_number": "7.2",
+    "chunk_id": "chunk-7e899e697fa27babd25f8f30bbb36acd",
+    "node_text": "What is the annualized probability of a lab leak occurring at WIV?",
+    "quote": "After 1.7 years the annualized probability of the first lab leak occurring is at most 1 per 1.7 years.",
+    "span": [
+      519,
+      621
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-187786c8210f550637a9cbf0c85c70af",
+    "node_type": "research_question",
+    "section_number": "7.2",
+    "chunk_id": "chunk-7e899e697fa27babd25f8f30bbb36acd",
+    "node_text": "What is the probability of WIV finding and choosing a sufficiently dangerous virus to start with?",
+    "quote": "This assumes that WIV is able to find the virus, though in reality only a small fraction of wild viruses are ever sampled.",
+    "span": [
+      915,
+      1037
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-c4c7f957387af2c613dd57759d68c505",
+    "node_type": "research_question",
+    "section_number": "7.2",
+    "chunk_id": "chunk-7e899e697fa27babd25f8f30bbb36acd",
+    "node_text": "What is the probability of the virus actually escaping from WIV?",
+    "quote": "Finally, we estimate the chance of the virus actually escaping.",
+    "span": [
+      1038,
+      1101
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-53fa55b7ea3b115826d623f2b3843ded",
+    "node_type": "research_question",
+    "section_number": "7.2",
+    "chunk_id": "chunk-ed5004e7a35f9094e790d9729204a2f5",
+    "node_text": "How does the risk of a lab leak at WIV compare to the risk of a researcher getting COVID-19 from a colleague?",
+    "quote": "However likely it is for a researcher to get covid from a vial in a fume hood, it seems far more likely to get it from a fellow researcher",
+    "span": [
+      458,
+      596
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-22acdd43734f17b3cbd726115b4b36bf",
+    "node_type": "research_question",
+    "section_number": "7.2",
+    "chunk_id": "chunk-ed5004e7a35f9094e790d9729204a2f5",
+    "node_text": "What is the probability of a lab leak at WIV resulting in a outbreak?",
+    "quote": "The chance of a lab leak is surely lower than the chance that leak is followed by a outbreak in the lab",
+    "span": [
+      664,
+      767
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-94e373938cb81c309e1b6d2897e089e0",
+    "node_type": "research_question",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "What is the probability of observing the index case in the west half of HSM given the zoonosis hypothesis?",
+    "quote": "P (H|Z) = 1",
+    "span": [
+      495,
+      506
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-3ae06f91ae8babdac9eb4cd924c91c51",
+    "node_type": "research_question",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "What is the probability of observing the index case in the west half of HSM given the lab-leak hypothesis?",
+    "quote": "P (H|LL) = 1 / 1.2· 107",
+    "span": [
+      507,
+      530
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.913,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-f81d030ecb772c8f7a25fe3bbce6b252",
+    "node_type": "research_question",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "How does the likelihood of a market vendor catching an illness compare to the average resident of Wuhan?",
+    "quote": "I do think a market vendor is more likely to catch an illness than the average resident of Wuhan",
+    "span": [
+      564,
+      660
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-8400485eae17b0a29ada6cd94e4d8185",
+    "node_type": "research_question",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "What is the effect of using a flat prior for the number of transmissions between the primary case and index case on the Bayes factor?",
+    "quote": "so both P (H|Z) and P (H|LL) should be smaller by the same factor, which has no influence on the Bayes factor",
+    "span": [
+      825,
+      934
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-0ef51ce99f537a68703941ec4a1cb342",
+    "node_type": "research_question",
+    "section_number": "7.4",
+    "chunk_id": "chunk-623a9078cb497bb81d8d7db9006df36a",
+    "node_text": "What is the explanation for the distribution of positive SARS-CoV-2 samples within HSM?",
+    "quote": "Of the 15 shops which were sampled 10 or more times, 12 had no positives, 3 had one positive, and shop 6:29 had the other 5 positives.",
+    "span": [
+      271,
+      405
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-471af7ee5b911bfe2d6a5902c190de33",
+    "node_type": "research_question",
+    "section_number": "7.4",
+    "chunk_id": "chunk-623a9078cb497bb81d8d7db9006df36a",
+    "node_text": "Can the observation of positive SARS-CoV-2 samples in shop 6:29 be explained by the lab-leak hypothesis?",
+    "quote": "Arguably, this observation has a Bayes factor of 15 in favor of Z, as LL has no viable explanation for this coincidence.",
+    "span": [
+      406,
+      526
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-46c82c2f5d6420f63a1c591044cc35fd",
+    "node_type": "research_question",
+    "section_number": "7.4",
+    "chunk_id": "chunk-623a9078cb497bb81d8d7db9006df36a",
+    "node_text": "What is the significance of the geographical center of the sample positivity ratio in HSM?",
+    "quote": "more careful statistical analysis places 6:29 at the geographical center of the sample positivity ratio, and the positive drainage samples likewise implicate alley 6.",
+    "span": [
+      578,
+      744
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-1d17b177aebee024f2e647b407e65251",
+    "node_type": "research_question",
+    "section_number": "7.5",
+    "chunk_id": "chunk-0583f85f3748de26a0a4f33bbfb2997d",
+    "node_text": "What is the origin of a virus based on its genetic sequence?",
+    "quote": "it's hard to find definitive proof of a virus's origin by examining its genetic sequence",
+    "span": [
+      107,
+      195
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-6394d62450e17241d6ce99f1f006b0da",
+    "node_type": "research_question",
+    "section_number": "7.5",
+    "chunk_id": "chunk-0583f85f3748de26a0a4f33bbfb2997d",
+    "node_text": "Why does SARS-CoV-2 have a strong affinity to bind to human ACE2 over other species?",
+    "quote": "the strong affinity of sars-cov-2 to bind to human ACE2 over other species",
+    "span": [
+      405,
+      479
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-6f7d77aff7d67a90b9c09bc1c1b32a7d",
+    "node_type": "research_question",
+    "section_number": "7.6",
+    "chunk_id": "chunk-bb0a81c50f1ebd73fa0b3d7010179330",
+    "node_text": "What is the probability of a lab leak being the origin of COVID-19?",
+    "quote": "Do I believe the probability of a lab leak is only 1 in 1300?",
+    "span": [
+      946,
+      1007
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-2e1664e1fa5b0daec06736dcbae59a05",
+    "node_type": "research_question",
+    "section_number": "7.6",
+    "chunk_id": "chunk-945c6d4d7cdc30208982bdd9644a68dd",
+    "node_text": "Is the Bayesian calculation an appropriate way to estimate the relative posterior probability of zoonotic and lab leak hypotheses?",
+    "quote": "Moreover I am not convinced that this Bayesian calculation is even an appropriate way to estimate the relative posterior probability of Z and LL;",
+    "span": [
+      369,
+      514
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-e42119ae839dc38ea1c6c1b6d3f5fab5",
+    "node_type": "research_question",
+    "section_number": "7.6",
+    "chunk_id": "chunk-ce047fa58a6a9a1b1473c58519593f7e",
+    "node_text": "What is the significance of the Project DEFUSE proposal in relation to the lab leak hypothesis?",
+    "quote": "The centerpiece of the lab leak explanation is the Project DEFUSE proposal, and the observation that a number of features from that proposal match features of sars-cov-2:",
+    "span": [
+      0,
+      170
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-92f4687d32acbf44d373086d1d898626",
+    "node_type": "research_question",
+    "section_number": "7.6",
+    "chunk_id": "chunk-ce047fa58a6a9a1b1473c58519593f7e",
+    "node_text": "How does the lack of a known intermediate host for SARS-CoV-2 relate to the zoonotic theory?",
+    "quote": "Conversely, the lack of a known intermediate host for sars-cov-2 could be analogously considered an essential 'step' to the zoonotic theory;",
+    "span": [
+      430,
+      570
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9857,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-5dc7d2c313f117d1eca2b3d9cdeaec19",
+    "node_type": "research_question",
+    "section_number": "7.6",
+    "chunk_id": "chunk-ce047fa58a6a9a1b1473c58519593f7e",
+    "node_text": "What is the significance of Eddie Holmes's 2014 photos in relation to the zoonotic hypothesis?",
+    "quote": "It is a remarkable coincidence that, when searching for potential zoonotic spillover sites, the Wuhan CDC took him to HSM, specifically to the very shop 6:29 which had the greatest number of positive environmental samples",
+    "span": [
+      873,
+      1094
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-1b6ab2e67d168c95b715c26bdd49ea1c",
+    "node_type": "research_question",
+    "section_number": "7.6",
+    "chunk_id": "chunk-dc0bde058d55cd8e718d2fd5a6a72cca",
+    "node_text": "Is the existence of the Project DEFUSE proposal or the Eddie Holmes photos definitive evidence for the origin of SARS-CoV-2?",
+    "quote": "Neither the existence of the Project DEFUSE proposal nor the Eddie Holmes photos are definitive, or even strong, evidence as to the origin of sars-cov-2;",
+    "span": [
+      101,
+      254
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-3738e7f364e62a6df73bc50dfbf38e0b",
+    "node_type": "research_question",
+    "section_number": "7.6",
+    "chunk_id": "chunk-dc0bde058d55cd8e718d2fd5a6a72cca",
+    "node_text": "What is the significance of the physical evidence of the COVID-19 pandemic starting in the immediate vicinity of live animals susceptible to SARS-like coronaviruses?",
+    "quote": "the physical evidence of the covid pandemic starting in the immediate vicinity of live animals susceptible to sars-like coronaviruses and the precedent of previous coronavirus epidemics starting in an analogous manner together point strongly in favor of the hypothesis of zoonotic spillover",
+    "span": [
+      795,
+      1085
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-6e70d71ad5a3a56d6488a262f4645f85",
+    "node_type": "research_question",
+    "section_number": "A",
+    "chunk_id": "chunk-98b63158ab2a0e733729de0554a999ba",
+    "node_text": "Why was the judge not persuaded by the other points brought up by Rootclaim?",
+    "quote": "why I was not persuaded by those other points",
+    "span": [
+      161,
+      206
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-51ef1ee4ca75663ed8ffa7c93dc8bebf",
+    "node_type": "research_question",
+    "section_number": "A.1",
+    "chunk_id": "chunk-fbb62d9368b134d0943e8bbf66d3b07e",
+    "node_text": "Did lineage B outcompete lineage A due to greater evolutionary fitness?",
+    "quote": "Rootclaim argued that some of the observed distribution of lineages A and B in 2019 Decem-ber were due to lineage B having greater evolutionary fitness than lineage A.",
+    "span": [
+      0,
+      167
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.994,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-7d933d2122cdde35cc8a19c0fbeb5753",
+    "node_type": "research_question",
+    "section_number": "A.1",
+    "chunk_id": "chunk-fbb62d9368b134d0943e8bbf66d3b07e",
+    "node_text": "What was the relevance of the non-synonymous mutation between lineages A and B?",
+    "quote": "and the other having unclear relevance",
+    "span": [
+      283,
+      321
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-a30885efe61b2004ec003b0daaafe437",
+    "node_type": "research_question",
+    "section_number": "A.1",
+    "chunk_id": "chunk-fbb62d9368b134d0943e8bbf66d3b07e",
+    "node_text": "Did the D614G mutation increase the evolutionary fitness of sars-cov-2?",
+    "quote": "The D614G mutation greatly increased the evolutionary fitness of sars-cov-2;",
+    "span": [
+      323,
+      399
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-555067fef13a7a5ac0dfd568f1a95f0b",
+    "node_type": "research_question",
+    "section_number": "A.1",
+    "chunk_id": "chunk-fbb62d9368b134d0943e8bbf66d3b07e",
+    "node_text": "Was the D614G mutation significantly present in Wuhan in 2019 December?",
+    "quote": "but it was only due to a mutation that was not significantly present in Wuhan in 2019 December",
+    "span": [
+      632,
+      726
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-f14494aad4ee16b3b8748e177b3f7af0",
+    "node_type": "research_question",
+    "section_number": "A.2",
+    "chunk_id": "chunk-b6531030b4ffd62bdf097c834b7a5cfa",
+    "node_text": "Did Connor Reed acquire COVID-19 on November 25, 2019?",
+    "quote": "If I believed every anecdotal story I saw related on the internet of people contracting covid,",
+    "span": [
+      271,
+      365
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-8887051ab2b0288415b30a94013d5ed1",
+    "node_type": "research_question",
+    "section_number": "A.2",
+    "chunk_id": "chunk-b6531030b4ffd62bdf097c834b7a5cfa",
+    "node_text": "What is the likelihood of a 25-year-old with COVID-19 being hospitalized?",
+    "quote": "It is unlikely for a 25-year-old with covid to be hospitalized.",
+    "span": [
+      764,
+      827
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-8e5f026928232179b2d43e3f3e3567f1",
+    "node_type": "research_question",
+    "section_number": "A.2",
+    "chunk_id": "chunk-b6531030b4ffd62bdf097c834b7a5cfa",
+    "node_text": "Could Connor Reed's illness have been a succession of two or more unrelated illnesses?",
+    "quote": "so even if his story is accurate we only know that he had covid as early as December 6, which could have been the last of a succession of two or more unrelated illnesses.",
+    "span": [
+      916,
+      1086
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-b01295827ad0c8acff948ce8123f9b4e",
+    "node_type": "research_question",
+    "section_number": "A.2",
+    "chunk_id": "chunk-b6531030b4ffd62bdf097c834b7a5cfa",
+    "node_text": "Is it likely that the index case of COVID-19 was a British man?",
+    "quote": "It is also unlikely for the index case of covid to be a British man.",
+    "span": [
+      1087,
+      1155
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-7806543f4a94ace18875569f641f75d9",
+    "node_type": "research_question",
+    "section_number": "A.2",
+    "chunk_id": "chunk-a9a3b1c05ff84b6373e05e727a448e2e",
+    "node_text": "Why does no retrospective search contain Connor Reed's case if his samples tested positive?",
+    "quote": "If Reed is telling the truth that his samples tested positive in a retrospective search conducted by the hospital he went to, then why does no retrospective search contain his case?",
+    "span": [
+      307,
+      488
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-2dd55201df70ebeffc2a7eb234529855",
+    "node_type": "research_question",
+    "section_number": "A.2",
+    "chunk_id": "chunk-a9a3b1c05ff84b6373e05e727a448e2e",
+    "node_text": "Do unpublished retrospective searches exist?",
+    "quote": "This necessitates the existence of unpublished retrospective searches.",
+    "span": [
+      489,
+      559
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-e8f5bf00c1ac82a79a41cc105fe60030",
+    "node_type": "research_question",
+    "section_number": "A.3",
+    "chunk_id": "chunk-7006394c7f08b55d062df95c05a3550d",
+    "node_text": "Was the mahjong room in HSM a nexus of early COVID-19 cases?",
+    "quote": "Rootclaim identified the possibility that the mahjong room in HSM may have been a nexus of early covid cases.",
+    "span": [
+      0,
+      109
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-c0af90f4b7286dc7415a3b5deeacf0a6",
+    "node_type": "research_question",
+    "section_number": "A.3",
+    "chunk_id": "chunk-7006394c7f08b55d062df95c05a3550d",
+    "node_text": "Is there a high rate of disease transmission in the mahjong room?",
+    "quote": "a supposition that the mahjong room would have an unusually high rate of disease transmission.",
+    "span": [
+      252,
+      346
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-355aee23d5f905faa3e022c5b94de309",
+    "node_type": "research_question",
+    "section_number": "A.3",
+    "chunk_id": "chunk-7006394c7f08b55d062df95c05a3550d",
+    "node_text": "How many early COVID-19 cases are linked to the mahjong room or mahjong players?",
+    "quote": "Rootclaim claims that at least 35 early covid cases have been linked to the mahjong room or mahjong players in some way",
+    "span": [
+      400,
+      519
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-e9286f43759e036c4edf6c035633c4fe",
+    "node_type": "research_question",
+    "section_number": "A.3",
+    "chunk_id": "chunk-7006394c7f08b55d062df95c05a3550d",
+    "node_text": "Can the sources provided by Rootclaim be considered reliable for linking COVID-19 cases to the mahjong room?",
+    "quote": "None of the sources are reliable, being indirect anecdotes with no identifying details and few specifics.",
+    "span": [
+      756,
+      861
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-f79db2ee96aaea51961fed5189f42375",
+    "node_type": "research_question",
+    "section_number": "A.3",
+    "chunk_id": "chunk-7006394c7f08b55d062df95c05a3550d",
+    "node_text": "Is the HSM mahjong room more conducive to disease transmission compared to other locations in Wuhan?",
+    "quote": "While the HSM mahjong room would be more conducive to disease transmission than the shops, I don't see a reason it would be especially outstanding, nor in comparison to mahjong rooms (or bars, restaurants, etc.) elsewhere in Wuhan, which are numerous.",
+    "span": [
+      1023,
+      1274
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-b16be6c44cf655cef75db80535842ebc",
+    "node_type": "research_question",
+    "section_number": "A.3",
+    "chunk_id": "chunk-626fcdf483b3afde4663009d39b36aea",
+    "node_text": "Did the HSM mahjong room play a role in the HSM outbreak?",
+    "quote": "While it is certainly possible that the HSM mahjong room played a role in the HSM outbreak, there are no first-hand accounts of mahjong players with covid, no non-anecdotal accounts, and no known specific individuals who played mahjong and acquired covid.",
+    "span": [
+      998,
+      1253
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-464799d7c585fac910c9e02496bca8db",
+    "node_type": "research_question",
+    "section_number": "A.4",
+    "chunk_id": "chunk-da848abc0493ef02ce297c79fbfdd1ec",
+    "node_text": "Were the missing N-glycans strange and how unlikely were they to arise from random chance?",
+    "quote": "I lacked sufficient context to evaluate whether the missing N-glycans were strange, and if so, how unlikely they were to arise from random chance.",
+    "span": [
+      0,
+      146
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-937939126bef96dff0a77c289eeba2b5",
+    "node_type": "research_question",
+    "section_number": "A.5",
+    "chunk_id": "chunk-f79656cf31ec655c9d50be27502d8ad5",
+    "node_text": "What is the mutation rate of a virus immediately after jumping species?",
+    "quote": "Naively one expects that the mutation rate of a virus would be greatest immediately after jumping species.",
+    "span": [
+      0,
+      106
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-4fea9ba8886c4c20f851e340212bc785",
+    "node_type": "research_question",
+    "section_number": "A.5",
+    "chunk_id": "chunk-f79656cf31ec655c9d50be27502d8ad5",
+    "node_text": "Can the early mutation rate distinguish a zoonotic origin from a virus that had been pre-adapted to a human host in the lab?",
+    "quote": "In principle this could be used to distinguish a zoonotic origin from a virus that had been pre-adapted to a human host in the lab.",
+    "span": [
+      107,
+      238
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-6f31bbc81bb4aa9ab44cd9ee2ab0a3e0",
+    "node_type": "research_question",
+    "section_number": "A.5",
+    "chunk_id": "chunk-f79656cf31ec655c9d50be27502d8ad5",
+    "node_text": "How would the early mutation rate be affected by evaluating viruses based on disease they cause in humanized mice?",
+    "quote": "In the proposal for Project DEFUSE, viruses would be evaluated based on disease they cause in humanized mice",
+    "span": [
+      239,
+      347
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9907,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-88d9b0028ac11e76ba8bbe99d7e15c84",
+    "node_type": "research_question",
+    "section_number": "A.5",
+    "chunk_id": "chunk-f79656cf31ec655c9d50be27502d8ad5",
+    "node_text": "Would the effect of evaluating viruses in humanized mice be confined to the receptor binding domain of sars-cov-2?",
+    "quote": "the effect would presumably be confined to the receptor binding domain of sars-cov-2",
+    "span": [
+      487,
+      571
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-31389b07f551613498cf26b2a54e7d48",
+    "node_type": "research_question",
+    "section_number": "A.5",
+    "chunk_id": "chunk-f79656cf31ec655c9d50be27502d8ad5",
+    "node_text": "Is the early mutation rate useful in distinguishing the zoonotic origin and lab-leak hypotheses?",
+    "quote": "Therefore I do not expect the early mutation rate to be useful in distinguishing the hypotheses",
+    "span": [
+      656,
+      751
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-99dd5cf0d9d3b966d2ddb18cdb5775c4",
+    "node_type": "research_question",
+    "section_number": "B",
+    "chunk_id": "chunk-47687c307e5001b3034a533471c17da0",
+    "node_text": "What is the complete list of the earliest known COVID-19 cases?",
+    "quote": "there does not exist any publicly available list of the earliest known covid cases",
+    "span": [
+      32,
+      114
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-55fcdd677b3b6bb86386c35d9658df39",
+    "node_type": "research_question",
+    "section_number": "B",
+    "chunk_id": "chunk-9941480b522a6a397d3f8ee32c390ad5",
+    "node_text": "What are the causes of ascertainment bias in the WHO report on early COVID-19 cases?",
+    "quote": "it is relatively easy to understand the causes of ascertainment bias in the WHO report",
+    "span": [
+      231,
+      317
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-c2d9dac68c5a3de630f0ff8087739c3f",
+    "node_type": "research_question",
+    "section_number": "B",
+    "chunk_id": "chunk-9941480b522a6a397d3f8ee32c390ad5",
+    "node_text": "How can ascertainment bias be controlled when mixing diverse sources of COVID-19 case data?",
+    "quote": "but once a diversity of sources are mixed it is much harder to control ascertainment bias",
+    "span": [
+      319,
+      408
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-d62af8cd8895706a4878c446cb1ebfba",
+    "node_type": "research_question",
+    "section_number": "B.1",
+    "chunk_id": "chunk-cdc253b03fccbbd6eb303d72a38d8b70",
+    "node_text": "What is the number of COVID-19 cases with an established connection to Huanan Seafood Market (HSM) in December 2019?",
+    "quote": "For each date in December, I have listed the number of cases with that onset date according to whether WHO says they have an established connection to HSM",
+    "span": [
+      183,
+      337
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-559001d150d69fa574bc112eb1e1ed58",
+    "node_type": "research_question",
+    "section_number": "B.1",
+    "chunk_id": "chunk-cdc253b03fccbbd6eb303d72a38d8b70",
+    "node_text": "How many COVID-19 cases are associated with vendors who have a fixed shop at Huanan Seafood Market (HSM) in December 2019?",
+    "quote": "vendors who have a fixed shop at HSM",
+    "span": [
+      384,
+      420
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-34504a6fbc22cf7bd0e25cdb016d6150",
+    "node_type": "research_question",
+    "section_number": "B.1",
+    "chunk_id": "chunk-cdc253b03fccbbd6eb303d72a38d8b70",
+    "node_text": "How many COVID-19 cases are associated with visitors who do not have a fixed shop at Huanan Seafood Market (HSM) in December 2019?",
+    "quote": "visitors who do not",
+    "span": [
+      425,
+      444
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-8c87fd8f5adaac5525eb617cf13dcf5b",
+    "node_type": "research_question",
+    "section_number": "B.1",
+    "chunk_id": "chunk-cdc253b03fccbbd6eb303d72a38d8b70",
+    "node_text": "What is the total number of COVID-19 cases identified by the WHO in December 2019?",
+    "quote": "In total the WHO identifies 174 known cases in 2019 December",
+    "span": [
+      121,
+      181
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-487aee05d7b9198a50d74aa57aa15b03",
+    "node_type": "research_question",
+    "section_number": "B.2",
+    "chunk_id": "chunk-442e878ad6b2d39fb0d02ac9a5b4094e",
+    "node_text": "What is the accuracy of the HSM market map in figure 12?",
+    "quote": "I think this map is erroneous in prefixing an 'X' on stall numbers in alley 13",
+    "span": [
+      682,
+      760
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-ab44f4c0bcb720c9d3b2fa1196494e9b",
+    "node_type": "research_question",
+    "section_number": "B.2",
+    "chunk_id": "chunk-442e878ad6b2d39fb0d02ac9a5b4094e",
+    "node_text": "Is the HSM market map in figure 12 to scale?",
+    "quote": "I think this map is not to scale",
+    "span": [
+      762,
+      794
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-662a4b99ef2dc6bc2c3f6d4fc21b7cda",
+    "node_type": "research_question",
+    "section_number": "B.2",
+    "chunk_id": "chunk-442e878ad6b2d39fb0d02ac9a5b4094e",
+    "node_text": "What are the stall numbers of the early COVID-19 cases in the HSM market?",
+    "quote": "I have used the locations of cases as marked on the WHO map and compared those locations with this map to identify the stall numbers of those cases",
+    "span": [
+      429,
+      576
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-4a469dca1971b054b23f68efe9adba66",
+    "node_type": "research_question",
+    "section_number": "B.3",
+    "chunk_id": "chunk-00128efc09b9de2bd705b9971fe8e380",
+    "node_text": "What are the locations of each of the 30 vendor cases in the Huanan Seafood Market (HSM)?",
+    "quote": "With much squinting at the map on annex page 181, and comparing to figure S2 of [12], the locations of each of the 30 vendor cases can be identified.",
+    "span": [
+      239,
+      388
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-f39e6dc868949d7a153f0abf1fecf8b9",
+    "node_type": "research_question",
+    "section_number": "B.3",
+    "chunk_id": "chunk-00128efc09b9de2bd705b9971fe8e380",
+    "node_text": "How can the date ranges of the cases be narrowed?",
+    "quote": "Date ranges can be narrowed in some cases by cross referencing information in other parts of the WHO report.",
+    "span": [
+      759,
+      867
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-0ac07ce4d1033932ad2cf80a5185aedd",
+    "node_type": "research_question",
+    "section_number": "B.3",
+    "chunk_id": "chunk-00128efc09b9de2bd705b9971fe8e380",
+    "node_text": "What is the validity of the case data from Dr. Marion Koopmans?",
+    "quote": "Thus the data has no implied warranty of validity - it could easily be some draft or working data that was accidentally uploaded.",
+    "span": [
+      1049,
+      1178
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-9bc336c8227f8355267f67afde5fb202",
+    "node_type": "research_question",
+    "section_number": "B.3",
+    "chunk_id": "chunk-00128efc09b9de2bd705b9971fe8e380",
+    "node_text": "How do the case maps from Dr. Marion Koopmans match with the data from the WHO report?",
+    "quote": "None-the-less it does match with case maps she has made in public presentations.",
+    "span": [
+      1179,
+      1259
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-791bc3446b64ebbabf0b8799fa30b472",
+    "node_type": "research_question",
+    "section_number": "B.3",
+    "chunk_id": "chunk-605d624887679491fb40538392b952d5",
+    "node_text": "What are the shop locations and corresponding case numbers for the vendors in HSM?",
+    "quote": "In the following table, each shop location is given as the alley followed by the number within that alley.",
+    "span": [
+      0,
+      106
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-727f983666141a662afc8879a6d30ce5",
+    "node_type": "research_question",
+    "section_number": "C",
+    "chunk_id": "chunk-31c59584e921c0bc4cb32fc04fcc5a29",
+    "node_text": "What does it mean to exclude information in the context of this debate?",
+    "quote": "(What does it mean to \"exclude\" information?",
+    "span": [
+      1176,
+      1220
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": true
+  },
+  {
+    "node_id": "research_question-9b9ca8c1704be5741d14755af295caa9",
+    "node_type": "research_question",
+    "section_number": "C",
+    "chunk_id": "chunk-31c59584e921c0bc4cb32fc04fcc5a29",
+    "node_text": "What is the exact number of vendors at HSM?",
+    "quote": "the WHO report annex page 182 [32] gives a more exact figure of 1162 vendors",
+    "span": [
+      754,
+      830
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9211,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": true
+  },
+  {
+    "node_id": "research_question-0844e4b04ae36bc0233f3d36c80c5c5c",
+    "node_type": "research_question",
+    "section_number": "C",
+    "chunk_id": "chunk-3b693406a11683c5dff1d44c4d744e25",
+    "node_text": "How should the balance between the level of scrutiny a claim received in the debate and how contentious that claim is be determined?",
+    "quote": "What is important to me is the balance between the level of scrutiny a claim received in the debate and how contentious that claim is",
+    "span": [
+      191,
+      324
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": true
+  },
+  {
+    "node_id": "research_question-394bffa72fe5e0251f82aeed6d806b04",
+    "node_type": "research_question",
+    "section_number": "C",
+    "chunk_id": "chunk-3b693406a11683c5dff1d44c4d744e25",
+    "node_text": "How can highly contentious claims that faced no scrutiny be treated?",
+    "quote": "highly contentious claims that faced no scrutiny will be treated with extreme skepticism",
+    "span": [
+      326,
+      414
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": true
+  },
+  {
+    "node_id": "research_question-354058142432071d5a8aa506fb8781be",
+    "node_type": "research_question",
+    "section_number": "C.1",
+    "chunk_id": "chunk-b8e92dbec56477fee388f1e7bea65c37",
+    "node_text": "What were the conditions at the Wuhan Institute of Virology (WIV) regarding laboratory work and safety protocols?",
+    "quote": "Annex D7 of the WHO 2021 report presents second-hand information reported from members of the WIV",
+    "span": [
+      0,
+      97
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": true
+  },
+  {
+    "node_id": "research_question-1cc34f3ade71c8fe490747e7a513da37",
+    "node_type": "research_question",
+    "section_number": "C.1",
+    "chunk_id": "chunk-b8e92dbec56477fee388f1e7bea65c37",
+    "node_text": "Did the WIV use recombinant viruses to test whether bat CoVs could use ACE2 to bind?",
+    "quote": "-her laboratory used recombinant viruses to test whether bat CoVs could use ACE2 to bind",
+    "span": [
+      312,
+      400
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": true
+  },
+  {
+    "node_id": "research_question-839e83a03786bf2531cf60a79caac74f",
+    "node_type": "research_question",
+    "section_number": "C.1",
+    "chunk_id": "chunk-b8e92dbec56477fee388f1e7bea65c37",
+    "node_text": "What was the purpose of using bat spike protein on a bat-CoV backbone in WIV's laboratory work?",
+    "quote": "It is important to use this approach because it is difficult to isolate these viruses and envelope protein is most important part to understand function",
+    "span": [
+      467,
+      619
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": true
+  },
+  {
+    "node_id": "research_question-09a1cc34dcd42bb8ef5f308579858084",
+    "node_type": "research_question",
+    "section_number": "C.1",
+    "chunk_id": "chunk-b8e92dbec56477fee388f1e7bea65c37",
+    "node_text": "Did the WIV begin recombinant work in 2015 with WIV-1 and start recombinant experiments with WIV +SHC014 in 2018?",
+    "quote": "WIV began recombinant work in 2015 with WIV-1. It received ACE2 mice in 2016 and started recombinant experiments with WIV +SHC014 in 2018",
+    "span": [
+      726,
+      863
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": true
+  },
+  {
+    "node_id": "research_question-46e2d9a27f22e9b793bbf20087f83dd3",
+    "node_type": "research_question",
+    "section_number": "C.1",
+    "chunk_id": "chunk-b8e92dbec56477fee388f1e7bea65c37",
+    "node_text": "Is it possible that SARS-CoV-2 escaped from the WIV?",
+    "quote": "The WIV director (Professor Yuan Zhiming?) discussed the possibility of sars-cov-2 escaping from WIV",
+    "span": [
+      1150,
+      1250
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": true
+  },
+  {
+    "node_id": "research_question-00b6fe97735a6f9edee6c35ebafe47e7",
+    "node_type": "research_question",
+    "section_number": "C.1",
+    "chunk_id": "chunk-b2b1f0d16de7fa9d73a21a87a5e40dd6",
+    "node_text": "Were staff at the WIV tested for SARS-CoV-2 antibodies and what were the results?",
+    "quote": "There had been no reports of unusual diseases, none diagnosed, and all staff tested negative for SARS-CoV-2 antibodies",
+    "span": [
+      260,
+      378
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": true
+  },
+  {
+    "node_id": "research_question-3fcbe7eff4fabd3325fb9e8f39c147dc",
+    "node_type": "research_question",
+    "section_number": "C.1",
+    "chunk_id": "chunk-b2b1f0d16de7fa9d73a21a87a5e40dd6",
+    "node_text": "What safety protocols were in place at the WIV for laboratory workers?",
+    "quote": "With regards to questions about laboratory workers, all underwent a strict training regime that includes three levels with strict rules",
+    "span": [
+      681,
+      816
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": true
+  },
+  {
+    "node_id": "research_question-0302d25034ea48b613834a0fe109bba2",
+    "node_type": "research_question",
+    "section_number": "C.1",
+    "chunk_id": "chunk-b2b1f0d16de7fa9d73a21a87a5e40dd6",
+    "node_text": "Were there any instances of unusual respiratory infections or COVID-19 cases among WIV staff?",
+    "quote": "Physical and mental health was monitored; no unusual respiratory infections had been noted in the previous year",
+    "span": [
+      1031,
+      1142
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": true
+  },
+  {
+    "node_id": "research_question-b330f3c62bc1f13622bb256500bd3f91",
+    "node_type": "research_question",
+    "section_number": "C.1",
+    "chunk_id": "chunk-b2b1f0d16de7fa9d73a21a87a5e40dd6",
+    "node_text": "How did the WIV respond to conspiracy theories about a lab leak?",
+    "quote": "The Institute did not respond to conspiracy theories but understood why the WHO team needed to ask",
+    "span": [
+      160,
+      258
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": true
+  },
+  {
+    "node_id": "research_question-a5ff382f542f827c603b7d97a1c964e1",
+    "node_type": "research_question",
+    "section_number": "C.1",
+    "chunk_id": "chunk-4c0613091a72bedb9ef8b2e56ba34e6e",
+    "node_text": "What is the significance of the reserved sera from WIV workers being seronegative for SARS-CoV-2 antibodies?",
+    "quote": "The reserved sera in April 2019 and March 2020 from all the workers and students in research group led by Professor Shi Zhengli were seronegative for SARS-CoV-2 antibodies",
+    "span": [
+      434,
+      605
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": true
+  },
+  {
+    "node_id": "research_question-ff8b2c2ae99cac17dfbe484ed5d0e91f",
+    "node_type": "research_question",
+    "section_number": "C.1",
+    "chunk_id": "chunk-4c0613091a72bedb9ef8b2e56ba34e6e",
+    "node_text": "Can the lack of reported infections and negative serum samples from WIV staff rule out the possibility of a lab leak?",
+    "quote": "Close contacts would have been infected if there had been a laboratory leak. But serum samples from Professor Shi's team were all negative",
+    "span": [
+      920,
+      1058
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": true
+  },
+  {
+    "node_id": "research_question-68c171ccaaaddf04cf74c8e25c8a937f",
+    "node_type": "research_question",
+    "section_number": "C.2",
+    "chunk_id": "chunk-7db1347d814cb324e27571e31cf0f438",
+    "node_text": "What is the meaning of the Chinese phrase",
+    "quote": "I asked several native Chinese speakers about the translation of",
+    "span": [
+      41,
+      105
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": true
+  },
+  {
+    "node_id": "research_question-1fd02664045d27ae75bcbb3e4f61e669",
+    "node_type": "research_question",
+    "section_number": "C.2",
+    "chunk_id": "chunk-7db1347d814cb324e27571e31cf0f438",
+    "node_text": "How can the meaning of the Chinese phrase be distinguished between playing cards and mahjong tiles?",
+    "quote": "One said that it could refer to playing any of a variety of game pieces including cards or mahjong tiles, and context would be required to distinguish them",
+    "span": [
+      112,
+      267
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": true
+  },
+  {
+    "node_id": "research_question-9e09e209d3336689f06ac91cf4cfd0a7",
+    "node_type": "research_question",
+    "section_number": "C.2",
+    "chunk_id": "chunk-7db1347d814cb324e27571e31cf0f438",
+    "node_text": "Is the Chinese phrase exclusively used to refer to playing cards?",
+    "quote": "The others (separately) said that they have exclusively heard it in reference to playing cards",
+    "span": [
+      269,
+      363
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": true
+  },
+  {
+    "node_id": "research_question-5ae5b21c4e77fbecd3803f59738b3fa7",
+    "node_type": "research_question",
+    "section_number": "C.2",
+    "chunk_id": "chunk-7db1347d814cb324e27571e31cf0f438",
+    "node_text": "Can the Chinese phrase also mean to play mahjong according to a dictionary?",
+    "quote": "but several found that according to a dictionary it could also mean to play mahjong",
+    "span": [
+      365,
+      448
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": true
+  },
+  {
+    "node_id": "research_question-e5bad38faed3112ce259dcd8813cb2e3",
+    "node_type": "research_question",
+    "section_number": "C.2",
+    "chunk_id": "chunk-7db1347d814cb324e27571e31cf0f438",
+    "node_text": "Why is the specific Chinese word for mahjong not used in the relevant Chinese news articles?",
+    "quote": "Note that there does exist a Chinese word for mahjong (where the English word comes from, of course), which as far as I could tell was not in the relevant Chinese news articles",
+    "span": [
+      450,
+      626
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": true
+  },
+  {
+    "node_id": "research_question-14be2199b3bd490bce869900773f5283",
+    "node_type": "research_question",
+    "section_number": "D",
+    "chunk_id": "chunk-8f2ef0896faba806323f212ce8b4b6d5",
+    "node_text": "What is the origin of SARS-CoV-2?",
+    "quote": "The Huanan Seafood Wholesale Market in Wuhan was the early epicenter of the COVID-19 pandemic.",
+    "span": [
+      631,
+      725
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-9c92ea2ec58145b38ab1bccab7f81394",
+    "node_type": "research_question",
+    "section_number": "D",
+    "chunk_id": "chunk-6a123d15a4ff2e575a3a7505ded2d8ec",
+    "node_text": "How does the spike protein of SARS-CoV-2 bind to human cells?",
+    "quote": "The spike protein of sars-cov-2 binds to ACE2 to enter human cells.",
+    "span": [
+      133,
+      200
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-a0d53d65f61dfb5dfde08e897f3d399d",
+    "node_type": "research_question",
+    "section_number": "D",
+    "chunk_id": "chunk-c02bb0597a68710dbb08b9f787af4a66",
+    "node_text": "What is the role of the receptor binding domain (RBD) in SARS-CoV-2?",
+    "quote": "RBD: receptor binding domain, the part of the coronavirus spike protein that binds to ACE2 (or other receptors)",
+    "span": [
+      799,
+      910
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-02c848b3a94cdb5bd8f3ad7e9c353c81",
+    "node_type": "research_question",
+    "section_number": "D",
+    "chunk_id": "chunk-c02bb0597a68710dbb08b9f787af4a66",
+    "node_text": "What is the significance of the D614G mutation in SARS-CoV-2?",
+    "quote": "The D614G mutation in particular occurred in early 2020 and may have greatly increased the infectivity of sars-cov-2.",
+    "span": [
+      0,
+      117
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-477e8050d17bdc9b48681d3b465c71a9",
+    "node_type": "research_question",
+    "section_number": "D",
+    "chunk_id": "chunk-6cb5964061d59634bc8df2d0c1d11078",
+    "node_text": "What is the relationship between SARS-CoV-2 and bats?",
+    "quote": "Bat coronaviruses related to SARS-CoV-2 and infectious for human cells.",
+    "span": [
+      464,
+      535
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9859,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-7cedd0228faa95daa12209671ec80603",
+    "node_type": "research_question",
+    "section_number": "D",
+    "chunk_id": "chunk-c02bb0597a68710dbb08b9f787af4a66",
+    "node_text": "What is the role of the Wuhan Institute of Virology (WIV) in the origins of SARS-CoV-2?",
+    "quote": "DEFUSE: a 2018 research proposal that involves modifying viruses related to sars-cov-1; one of the involved research groups is at WIV",
+    "span": [
+      120,
+      253
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9925,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-df3975c3629710275f8c491ec981ff11",
+    "node_type": "research_question",
+    "section_number": "D",
+    "chunk_id": "chunk-c02bb0597a68710dbb08b9f787af4a66",
+    "node_text": "How does the furin cleavage site (FCS) contribute to the infectivity of SARS-CoV-2?",
+    "quote": "FCS: furin cleavage site, a sequence of four amino acids in a protein typically of the form RxxR that is cut by the furin protein",
+    "span": [
+      257,
+      386
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-0b9aa96bb0d8d138a7b1df7212836031",
+    "node_type": "research_question",
+    "section_number": "D",
+    "chunk_id": "chunk-9d1b7159874e1bb4a37a04d8e41a3609",
+    "node_text": "What is the significance of the Huanan Seafood Market in the early transmission of SARS-CoV-2?",
+    "quote": "Surveillance of SARS-CoV-2 at the Huanan Seafood Market.",
+    "span": [
+      570,
+      626
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": true,
+    "is_excluded": false
+  }
+]

@@ -1,0 +1,117 @@
+3.3  Is Bayesian reasoning suited for this problem?
+
+⟦1⟧ Outside of simple toy problems that do not reflect the complexities of the real world, ⟦2⟧ ⟦3⟧ ⟦4⟧ Bayesian
+reasoning is best suited for dealing with a small number of strong but conflicting pieces of
+evidence. (Of course, if they were not conflicting, one wouldn't need to do any calculations
+at all.) ⟦5⟧ ⟦6⟧ Each additional multiplicand introduces a great deal of error in the final result,
+both from the uncertainty of its value, but also from the potential sources of bias. ⟦7⟧ ⟦8⟧ ⟦9⟧ ⟦10⟧ ⟦11⟧ Including
+another factor of 2 has the potential to do more harm than good if you cannot be highly
+confident of controlling the error.
+⟦12*⟧ Ideally, one would assemble a list of evidence that is either canonical in some way, pre-
+registered (ie you decide which evidence to include before you know which hypothesis it
+favors), and/or extremely persuasive (has a large Bayes factor that is unlikely to arise from
+chance). ⟦13⟧ ⟦14⟧ ⟦15⟧ ⟦16⟧ Most likely, any naively-computed Bayes factors would have to be renormalized
+towards 1 to account for the steel-manning of both hypotheses; ⟦17⟧ as Saar correctly observed,
+⟦18⟧ ⟦19⟧ if you have any Bayes factors of 1000 and you are not doing a physics experiment then your
+calculation is probably flawed. 27
+Rootclaim's mission is to improve upon brittle intuitive reasoning with the use of careful
+Bayesian calculations; certainly a worthy goal and worthwhile method. ⟦20⟧ However ⟦21*⟧ I take issue
+with their labeling more traditional methods - what I would call deductive reasoning - as
+"human inference", as ⟦22⟧ the human component of the reasoning method has not been removed
+in their approach.
+⟦23⟧ ⟦24⟧ During the debates I asked Saar ([2] at 1:17:55) ⟦25⟧ if he could give some justification for why
+one expects Bayesian reasoning to give the right answer, either in general or for this specific
+application. ⟦26⟧ Part of justifying a method would be to identify the potential flaws of the
+method, so that one can know how to avoid them. Certainly Rootclaim are no fools, and are
+aware of the importance of careful analysis; ⟦27⟧ ⟦28⟧ they make a point of how their conclusions are
+robust against the possibility that one or more of their observations have errors. ⟦29⟧ ⟦30⟧ ⟦31⟧ However
+⟦32⟧ their conclusions remain brittle against the possibility of small, consistent bias; ⟦33⟧ ⟦34⟧ ⟦35⟧ ⟦36⟧ a factor of 2
+too generous applied to 20 observations yields million to one odds.
+The goal of my calculations at the beginning of this section is to serve as a partial answer
+to my question. By understanding the potential ways that the Bayesian calculation can
+reach a flawed answer from valid data, we can accomplish two goals: we can reject Bayesian
+27⟦37⟧ ⟦38⟧ Say you make some real-world observation that appears to be a 1-in-1000 coincidence; what is the best
+explanation for that observation? ⟦39⟧ ⟦40⟧ The odds of a measurement error, or that you failed to understand the
+situation correctly, could easily be greater than 1-in-1000. ⟦41⟧ ⟦42⟧ ⟦43⟧ ⟦44⟧ ⟦45⟧ If any particular observation carries a 95% chance
+that you fully understand it and have made no error, then the greatest Bayes factor you can get out of any
+single piece of evidence is 20.
+arguments that are vulnerable to these flaws, and gain confidence in Bayesian arguments
+that do not.
+⟦46⟧ To reduce errors in Bayesian reasoning, I suggest three (four) things:
+1. ⟦47⟧ ⟦48⟧ Reduce one's bias. The best way to win more basketball games is to score more points
+- facile and useless advice, but true.
+2. ⟦49⟧ ⟦50⟧ Focus on only the most extreme observations: ⟦51⟧ ⟦52⟧ it is harder to introduce a bias with 3
+factors of 100 each than 20 factors of 2 each. Of course, this requires having extreme
+observations available.
+3. ⟦53⟧ ⟦54⟧ Alternatively, use some canonical or clearly unmotivated selection of evidence. Root-
+claim attempts to do this by using all the evidence, which certainly would be a canon-
+ical selection if it were possible; in practice I believe Rootclaim is aiming to include all
+the relevant evidence, which is much harder to do without human bias interfering.
+4. ⟦55⟧ ⟦56⟧ Conservatively add a bias towards the zero point. If the bias you deliberately add
+against your side is larger than whatever bias you inadvertently add towards your side,
+then your result will be conservative. Rootclaim explicitly adds such a bias already.
+⟦57⟧ Rootclaim is certainly aware of the potential for errors in Bayesian reasoning, and already
+tries to follow most of my suggestions above. And perhaps I am not the right person to be
+giving advice here; I do not trust myself to use a Bayesian calculation akin to Rootclaim's
+for this application.
+
+Claims:
+⟦1⟧ [RESEARCH_QUESTION] Is Bayesian reasoning suited for dealing with the complexities of the real world, particularly in the context of the COVID-19 origins debate?
+⟦2⟧ [ANALYSIS] Bayesian reasoning is best suited for dealing with a small number of strong but conflicting pieces of evidence.
+⟦3⟧ [ASSUMPTION] Bayesian reasoning is best suited for dealing with a small number of strong but conflicting pieces of evidence
+⟦4⟧ [EVIDENCE] Bayesian reasoning is best suited for dealing with a small number of strong but conflicting pieces of evidence
+⟦5⟧ [ANALYSIS] Each additional multiplicand introduces a great deal of error in the final result, both from the uncertainty of its value and from the potential sources of bias.
+⟦6⟧ [LIMITATION] Bayesian reasoning is limited by the introduction of error with each additional multiplicand, both from the uncertainty of its value and from potential sources of bias
+⟦7⟧ [ANALYSIS] Including another factor of 2 has the potential to do more harm than good if you cannot be highly confident of controlling the error.
+⟦8⟧ [ASSUMPTION] Including another factor of 2 has the potential to do more harm than good if you cannot be highly confident of controlling the error
+⟦9⟧ [EVIDENCE] Including another factor of 2 has the potential to do more harm than good if you cannot be highly confident of controlling the error
+⟦10⟧ [LIMITATION] Including another factor of 2 has the potential to do more harm than good if you cannot be highly confident of controlling the error
+⟦11⟧ [QUANTITATIVE_RESULT] a factor of 2
+⟦12*⟧ [ANALYSIS] Ideally, one would assemble a list of evidence that is either canonical, pre-registered, and/or extremely persuasive.
+⟦13⟧ [ANALYSIS] Most likely, any naively-computed Bayes factors would have to be renormalized towards 1 to account for the steel-manning of both hypotheses.
+⟦14⟧ [ASSUMPTION] Any naively-computed Bayes factors would have to be renormalized towards 1 to account for the steel-manning of both hypotheses
+⟦15⟧ [EVIDENCE] Most likely, any naively-computed Bayes factors would have to be renormalized towards 1 to account for the steel-manning of both hypotheses
+⟦16⟧ [LIMITATION] Naively-computed Bayes factors may need to be renormalized towards 1 to account for the steel-manning of both hypotheses
+⟦17⟧ [EVIDENCE] Saar observed that if you have any Bayes factors of 1000 and you are not doing a physics experiment then your calculation is probably flawed
+⟦18⟧ [ASSUMPTION] If you have any Bayes factors of 1000 and you are not doing a physics experiment then your calculation is probably flawed
+⟦19⟧ [QUANTITATIVE_RESULT] a Bayes factor of 1000
+⟦20⟧ [ANALYSIS] Rootclaim's approach has not removed the human component of the reasoning method.
+⟦21*⟧ [LIMITATION] The human component of the reasoning method has not been removed in Rootclaim's approach
+⟦22⟧ [ASSUMPTION] The human component of the reasoning method has not been removed in Rootclaim's approach
+⟦23⟧ [LIMITATION] Bayesian reasoning may not give the right answer due to potential flaws in the method
+⟦24⟧ [RESEARCH_QUESTION] How can one justify the use of Bayesian reasoning to give the right answer in the context of the COVID-19 origins debate?
+⟦25⟧ [HYPOTHESIS] Bayesian reasoning can give the right answer in general or for the specific application of determining COVID-19 origins
+⟦26⟧ [RESEARCH_QUESTION] What are the potential flaws of Bayesian reasoning in the context of the COVID-19 origins debate, and how can they be avoided?
+⟦27⟧ [ASSUMPTION] One or more of their observations have errors
+⟦28⟧ [EVIDENCE] Rootclaim's conclusions are robust against the possibility that one or more of their observations have errors
+⟦29⟧ [EVIDENCE] Rootclaim's conclusions remain brittle against the possibility of small, consistent bias
+⟦30⟧ [LIMITATION] Bayesian calculations are brittle against the possibility of small, consistent bias
+⟦31⟧ [RESEARCH_QUESTION] How can small, consistent bias be accounted for in Bayesian calculations to prevent brittle conclusions?
+⟦32⟧ [HYPOTHESIS] Bayesian reasoning is vulnerable to flaws such as small, consistent bias
+⟦33⟧ [ANALYSIS] A factor of 2 too generous applied to 20 observations yields million to one odds.
+⟦34⟧ [ASSUMPTION] A factor of 2 too generous applied to 20 observations yields million to one odds
+⟦35⟧ [EVIDENCE] A factor of 2 too generous applied to 20 observations yields million to one odds
+⟦36⟧ [QUANTITATIVE_RESULT] million to one odds
+⟦37⟧ [LIMITATION] The possibility of measurement error or failure to understand the situation correctly can lead to flawed Bayesian calculations
+⟦38⟧ [QUANTITATIVE_RESULT] 1-in-1000 coincidence
+⟦39⟧ [ASSUMPTION] The odds of a measurement error, or that you failed to understand the situation correctly, could easily be greater than 1-in-1000
+⟦40⟧ [EVIDENCE] The odds of a measurement error, or that you failed to understand the situation correctly, could easily be greater than 1-in-1000
+⟦41⟧ [ASSUMPTION] If any particular observation carries a 95% chance that you fully understand it and have made no error, then the greatest Bayes factor you can get out of any single piece of evidence is 20
+⟦42⟧ [EVIDENCE] If any particular observation carries a 95% chance that you fully understand it and have made no error, then the greatest Bayes factor you can get out of any single piece of evidence is 20
+⟦43⟧ [LIMITATION] The greatest Bayes factor that can be obtained from a single piece of evidence is limited by the probability of fully understanding the evidence and making no error
+⟦44⟧ [QUANTITATIVE_RESULT] 95% chance
+⟦45⟧ [QUANTITATIVE_RESULT] a Bayes factor of 20
+⟦46⟧ [RESEARCH_QUESTION] What is the best way to reduce errors in Bayesian reasoning, particularly in the context of the COVID-19 origins debate?
+⟦47⟧ [ASSUMPTION] Reducing one's bias is necessary to reduce errors in Bayesian reasoning
+⟦48⟧ [HYPOTHESIS] Reducing bias can improve the accuracy of Bayesian reasoning
+⟦49⟧ [ASSUMPTION] Focusing on only the most extreme observations can reduce errors in Bayesian reasoning
+⟦50⟧ [HYPOTHESIS] Focusing on extreme observations can reduce errors in Bayesian reasoning
+⟦51⟧ [QUANTITATIVE_RESULT] 3 factors of 100
+⟦52⟧ [QUANTITATIVE_RESULT] 20 factors of 2
+⟦53⟧ [ASSUMPTION] Using a canonical or clearly unmotivated selection of evidence can reduce errors in Bayesian reasoning
+⟦54⟧ [HYPOTHESIS] Using a canonical or clearly unmotivated selection of evidence can improve the accuracy of Bayesian reasoning
+⟦55⟧ [ASSUMPTION] Conservatively adding a bias towards the zero point can reduce errors in Bayesian reasoning
+⟦56⟧ [HYPOTHESIS] Conservatively adding a bias towards the zero point can make Bayesian reasoning more robust
+⟦57⟧ [ANALYSIS] Rootclaim is aware of the potential for errors in Bayesian reasoning and tries to follow most of the suggested methods to reduce errors.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

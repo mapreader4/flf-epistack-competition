@@ -1,0 +1,257 @@
+B.3  Vendor cases
+
+⟦1⟧ ⟦2⟧ ⟦3⟧ ⟦4⟧ Of the 55 HSM-linked cases in the WHO report, ⟦5⟧ 53 were acquired at HSM ⟦6⟧ and 2 acquired
+indirectly; ⟦7⟧ ⟦8⟧ 30 of these were vendors who work at fixed shops in HSM (annex page 177).
+⟦9⟧ (Some of the other 23 were also HSM employees or regular visitors.) ⟦10⟧ ⟦11⟧ ⟦12⟧ With much squinting
+at the map on annex page 181, and comparing to figure S2 of [12], the locations of each of
+the 30 vendor cases can be identified. ⟦13⟧ I have consolidated this with the HSM vendor cases
+found by Dr Marion Koopmans from the data file of [12], ⟦14*⟧ located at https://github.com/
+sars-cov-2-origins/huanan-market-environment/blob/main/metadata/cases.csv . ⟦15*⟧ ⟦16*⟧ (She
+presumably had access to this data due to being on the 2021 WHO investigative team, specif-
+ically as the head of the molecular epidemiology subteam.) ⟦17⟧ ⟦18⟧ Date ranges can be narrowed in
+some cases by cross referencing information in other parts of the WHO report.
+⟦19⟧ ⟦20⟧ Note that the case data from Dr Koopmans is simply an unannotated csv file with no context
+or discussion that I found in a github repository linked to from a paper she co-authored.
+⟦21⟧ ⟦22⟧ ⟦23⟧ ⟦24⟧ ⟦25⟧ ⟦26⟧ Thus the data has no implied warranty of validity - it could easily be some draft or working
+data that was accidentally uploaded. ⟦27⟧ ⟦28⟧ ⟦29⟧ ⟦30⟧ ⟦31⟧ None-the-less it does match with case maps she has
+made in public presentations.
+⟦32⟧ ⟦33⟧ In the following table, each shop location is given as the alley followed by the number within
+that alley. Most shops are in the west half of HSM; shops in east half are indicated with
+an "E". Some shops occupy multiple numbers, in which case the numbers will be comma
+separated. ⟦34⟧ A superscript indicates multiple cases at the same shop in the same date range.
+date (2019 Dec) stall number source notes
+⟦35⟧ ⟦36⟧ 13 12:19,21,23 WHO+MK annex page 179; ⟦37⟧ WHO has
+this more specifically at
+12:21
+⟦38⟧ ⟦39⟧ ⟦40⟧ 15 or earlier 2:14 MK Wei Guixian, Dec 10, first
+known case
+⟦41⟧ ⟦42⟧ 15 or earlier 6:22,24 MK
+⟦43⟧ ⟦44⟧ 15 or earlier 7:5,7 2 MK
+⟦45⟧ ⟦46⟧ 15 or earlier 7:15,17 MK
+⟦47⟧ ⟦48⟧ 15 or earlier 7:26,28 2 WHO+MK ⟦49⟧ WHO has only one case, in
+Dec 21 to 27
+⟦50⟧ ⟦51⟧ 15 or earlier 8:26,28 MK
+⟦52⟧ ⟦53⟧ 15 or earlier 10:22 MK
+⟦54⟧ ⟦55⟧ 17 13:X1,15:2 WHO+MK cluster 2, annex page 157
+⟦56⟧ ⟦57⟧ 18 to 20 7:5,7 WHO+MK
+⟦58*⟧ ⟦59⟧ 18 to 20 15:13,15,17 WHO+MK ⟦60*⟧ MK has this more specifi-
+cally at 15:15
+⟦61⟧ ⟦62⟧ 18 to 20 back street:2 WHO+MK
+⟦63⟧ ⟦64⟧ 19 13:X1,15:2 WHO+MK cluster 2, annex page 157
+⟦65⟧ ⟦66⟧ 20 5:6,8 WHO+MK cluster 4, annex page 158
+⟦67⟧ ⟦68⟧ 21 to 27 4:6 WHO+MK
+⟦69⟧ ⟦70⟧ 21 to 27 4:24 WHO+MK
+⟦71⟧ ⟦72⟧ 21 to 27 4:26,28 WHO+MK
+⟦73⟧ ⟦74⟧ 21 to 27 4:X4,X6 WHO+MK
+⟦75*⟧ ⟦76⟧ 21 to 27 9:19,21,23 WHO+MK ⟦77*⟧ MK has this more specifi-
+cally at 9:21
+⟦78⟧ ⟦79⟧ 21 to 27 11:15 WHO+MK
+⟦80⟧ ⟦81⟧ 21 to 27 11:17 WHO+MK
+⟦82⟧ ⟦83⟧ 21 to 27 11:25 WHO+MK
+⟦84⟧ ⟦85⟧ 21 to 27 13:X5 WHO+MK
+⟦86⟧ ⟦87⟧ 21 to 27 13:X32 WHO ⟦88⟧ according to [12], the WHO
+has this in 13:26 instead
+⟦89⟧ ⟦90⟧ 21 to 27 E2:1 WHO+MK
+⟦91*⟧ ⟦92⟧ 21 to 27 E3:5,7,9 WHO+MK ⟦93*⟧ MK has this more specifi-
+cally at E3:7
+⟦94⟧ ⟦95⟧ 21 to 27 E7:3 WHO
+⟦96⟧ ⟦97⟧ 21 to 27 E7:15,17 WHO+MK
+⟦98⟧ ⟦99⟧ 21 to 27 E11:42 WHO
+⟦100⟧ ⟦101⟧ 25 13:X1,15:2 WHO+MK cluster 2, annex page 157
+⟦102⟧ ⟦103⟧ 26 5:6,8 WHO+MK cluster 4, annex page 158
+(continued)
+date (2019 Dec) stall number source notes
+⟦104⟧ ⟦105⟧ ⟦106⟧ 16 to 31 E8:19 MK
+⟦107⟧ ⟦108⟧ 16 to 31 E9:46 MK
+⟦109⟧ ⟦110⟧ 16 to 31 1:X3,X5 MK
+⟦111⟧ ⟦112⟧ 16 to 31 2:5,7 2 MK
+⟦113⟧ ⟦114⟧ 16 to 31 2:15 MK
+⟦115⟧ ⟦116⟧ 16 to 31 2:18 MK
+⟦117⟧ ⟦118⟧ 16 to 31 3:6 MK
+⟦119⟧ ⟦120⟧ 16 to 31 4:2,4 2 WHO+MK ⟦121⟧ WHO has only one case, in
+Dec 28 to 31
+⟦122⟧ ⟦123⟧ 16 to 31 4:16,18 2 MK
+⟦124⟧ ⟦125⟧ 16 to 31 4:X1 MK
+⟦126⟧ ⟦127⟧ 16 to 31 5:6,8 MK presumably also part of
+cluster 4
+⟦128⟧ ⟦129⟧ 16 to 31 7:1,3 MK
+⟦130⟧ ⟦131⟧ 16 to 31 7:5,7 MK
+⟦132⟧ ⟦133⟧ 16 to 31 8:2,8:4,9:1,9:3 2 WHO+MK WHO has only one case, in
+Dec 28 to 31
+⟦134⟧ ⟦135⟧ 16 to 31 10:13 MK
+⟦136⟧ ⟦137⟧ 16 to 31 10:22 2 MK
+⟦138⟧ ⟦139⟧ 16 to 31 11:22 MK
+⟦140⟧ ⟦141⟧ 16 to 31 ⟦142⟧ 13:26 MK possibly same as WHO case
+in 13:X32
+⟦143⟧ ⟦144⟧ 16 to 31 13:X1,15:2 MK presumably also part of
+cluster 2
+⟦145⟧ ⟦146⟧ 16 to 31 15:12 MK
+⟦147⟧ ⟦148⟧ 16 to 31 15:35 MK
+⟦149⟧ ⟦150⟧ 16 to 31 15:44 2 WHO+MK WHO has only one case, in
+Dec 21 to 27
+⟦151⟧ ⟦152⟧ 28 to 31 4:X2 WHO+MK
+⟦153⟧ ⟦154⟧ 28 to 31 back street:14 WHO+MK
+⟦155⟧ ⟦156⟧ ⟦157⟧ ⟦158⟧ ⟦159⟧ In total this constitutes 62 cases, assuming the 13:X32 and 13:26 cases are the same.
+
+Claims:
+⟦1⟧ [EVIDENCE] 53 out of 55 HSM-linked cases in the WHO report were acquired at HSM
+⟦2⟧ [EVIDENCE] 2 out of 55 HSM-linked cases in the WHO report were acquired indirectly
+⟦3⟧ [HYPOTHESIS] The COVID-19 outbreak originated from zoonosis at the Huanan Seafood Market (HSM)
+⟦4⟧ [QUANTITATIVE_RESULT] 55 HSM-linked cases
+⟦5⟧ [QUANTITATIVE_RESULT] 53 cases acquired at HSM
+⟦6⟧ [QUANTITATIVE_RESULT] 2 cases acquired indirectly
+⟦7⟧ [EVIDENCE] 30 HSM-linked cases were vendors who work at fixed shops in HSM
+⟦8⟧ [QUANTITATIVE_RESULT] 30 vendor cases
+⟦9⟧ [QUANTITATIVE_RESULT] 23 other cases
+⟦10⟧ [ANALYSIS] The locations of each of the 30 vendor cases can be identified by comparing the map on annex page 181 to figure S2 of [12].
+⟦11⟧ [ASSUMPTION] The locations of each of the 30 vendor cases can be identified by comparing the map on annex page 181 with figure S2 of [12]
+⟦12⟧ [RESEARCH_QUESTION] What are the locations of each of the 30 vendor cases in the Huanan Seafood Market (HSM)?
+⟦13⟧ [EVIDENCE] Dr. Marion Koopmans found HSM vendor cases from the data file of [12]
+⟦14*⟧ [EVIDENCE] The data file of [12] is located at https://github.com/sars-cov-2-origins/huanan-market-environment/blob/main/metadata/cases.csv
+⟦15*⟧ [ASSUMPTION] Dr. Marion Koopmans had access to the data due to being on the 2021 WHO investigative team
+⟦16*⟧ [EVIDENCE] Dr. Marion Koopmans was on the 2021 WHO investigative team, specifically as the head of the molecular epidemiology subteam
+⟦17⟧ [ANALYSIS] Date ranges can be narrowed in some cases by cross-referencing information in other parts of the WHO report.
+⟦18⟧ [RESEARCH_QUESTION] How can the date ranges of the cases be narrowed?
+⟦19⟧ [HYPOTHESIS] Dr. Marion Koopmans' data on HSM vendor cases is valid and accurate
+⟦20⟧ [LIMITATION] The data from Dr. Marion Koopmans is an unannotated csv file with no context or discussion.
+⟦21⟧ [ANALYSIS] The data from Dr. Marion Koopmans has no implied warranty of validity and could be draft or working data that was accidentally uploaded.
+⟦22⟧ [ASSUMPTION] The data from Dr. Marion Koopmans has no implied warranty of validity
+⟦23⟧ [EVIDENCE] The case data from Dr. Koopmans has no implied warranty of validity
+⟦24⟧ [HYPOTHESIS] The WHO and Dr. Marion Koopmans' data on HSM cases are consistent and reliable
+⟦25⟧ [LIMITATION] The case data from Dr. Marion Koopmans has no implied warranty of validity and could be draft or working data that was accidentally uploaded.
+⟦26⟧ [RESEARCH_QUESTION] What is the validity of the case data from Dr. Marion Koopmans?
+⟦27⟧ [ANALYSIS] The case data from Dr. Koopmans matches with case maps she has made in public presentations.
+⟦28⟧ [ASSUMPTION] The case data from Dr. Marion Koopmans matches with case maps she has made in public presentations
+⟦29⟧ [EVIDENCE] The case data from Dr. Koopmans matches with case maps she has made in public presentations
+⟦30⟧ [HYPOTHESIS] The COVID-19 outbreak at HSM was caused by a lab leak
+⟦31⟧ [RESEARCH_QUESTION] How do the case maps from Dr. Marion Koopmans match with the data from the WHO report?
+⟦32⟧ [HYPOTHESIS] The cases at HSM were clustered in specific alleys and shops
+⟦33⟧ [RESEARCH_QUESTION] What are the shop locations and corresponding case numbers for the vendors in HSM?
+⟦34⟧ [HYPOTHESIS] The COVID-19 outbreak at HSM was caused by multiple cases at the same shop in the same date range
+⟦35⟧ [EVIDENCE] There were cases at shop locations 12:19, 12:21, and 12:23 on December 13, 2019, according to the WHO report
+⟦36⟧ [QUANTITATIVE_RESULT] 13 December 2019: 3 stall numbers (12:19, 12:21, 12:23)
+⟦37⟧ [LIMITATION] The WHO report and Dr. Marion Koopmans' data may have discrepancies in case locations and dates.
+⟦38⟧ [EVIDENCE] The first known case was Wei Guixian on December 10, 2019, at shop location 2:14
+⟦39⟧ [HYPOTHESIS] The first known case of COVID-19 was Wei Guixian on December 10, 2019
+⟦40⟧ [QUANTITATIVE_RESULT] 15 December 2019 or earlier: 1 case
+⟦41⟧ [EVIDENCE] There were cases at shop locations 6:22 and 6:24 on or before December 15, 2019, according to Dr. Koopmans
+⟦42⟧ [QUANTITATIVE_RESULT] 15 December 2019 or earlier: 2 cases
+⟦43⟧ [EVIDENCE] There were cases at shop locations 7:5 and 7:7 on or before December 15, 2019, according to Dr. Koopmans, with two cases
+⟦44⟧ [QUANTITATIVE_RESULT] 15 December 2019 or earlier: 2 cases
+⟦45⟧ [EVIDENCE] There were cases at shop locations 7:15 and 7:17 on or before December 15, 2019, according to Dr. Koopmans
+⟦46⟧ [QUANTITATIVE_RESULT] 15 December 2019 or earlier: 2 cases
+⟦47⟧ [EVIDENCE] There were cases at shop locations 7:26 and 7:28 on or before December 15, 2019, according to Dr. Koopmans, with two cases, but the WHO report only has one case in the date range December 21-27
+⟦48⟧ [QUANTITATIVE_RESULT] 15 December 2019 or earlier: 2 cases
+⟦49⟧ [LIMITATION] The WHO report and Dr. Marion Koopmans' data may have discrepancies in case locations and dates.
+⟦50⟧ [EVIDENCE] There were cases at shop locations 8:26 and 8:28 on or before December 15, 2019, according to Dr. Koopmans
+⟦51⟧ [QUANTITATIVE_RESULT] 15 December 2019 or earlier: 1 case
+⟦52⟧ [EVIDENCE] There were cases at shop location 10:22 on or before December 15, 2019, according to Dr. Koopmans
+⟦53⟧ [QUANTITATIVE_RESULT] 15 December 2019 or earlier: 1 case
+⟦54⟧ [EVIDENCE] There were cases at shop locations 13:X1 and 15:2 on December 17, 2019, according to the WHO report and Dr. Koopmans, cluster 2
+⟦55⟧ [QUANTITATIVE_RESULT] 17 December 2019: 2 cases
+⟦56⟧ [EVIDENCE] There were cases at shop locations 7:5 and 7:7 between December 18-20, 2019, according to the WHO report and Dr. Koopmans
+⟦57⟧ [QUANTITATIVE_RESULT] 18-20 December 2019: 2 cases
+⟦58*⟧ [EVIDENCE] There were cases at shop locations 15:13, 15:15, and 15:17 between December 18-20, 2019, according to the WHO report and Dr. Koopmans
+⟦59⟧ [QUANTITATIVE_RESULT] 18-20 December 2019: 3 cases
+⟦60*⟧ [LIMITATION] The WHO report and Dr. Marion Koopmans' data may have discrepancies in case locations and dates.
+⟦61⟧ [EVIDENCE] There were cases at shop location back street:2 between December 18-20, 2019, according to the WHO report and Dr. Koopmans
+⟦62⟧ [QUANTITATIVE_RESULT] 18-20 December 2019: 1 case
+⟦63⟧ [EVIDENCE] There were cases at shop locations 13:X1 and 15:2 on December 19, 2019, according to the WHO report and Dr. Koopmans, cluster 2
+⟦64⟧ [QUANTITATIVE_RESULT] 19 December 2019: 2 cases
+⟦65⟧ [EVIDENCE] There were cases at shop locations 5:6 and 5:8 on December 20, 2019, according to the WHO report and Dr. Koopmans, cluster 4
+⟦66⟧ [QUANTITATIVE_RESULT] 20 December 2019: 2 cases
+⟦67⟧ [EVIDENCE] There were cases at shop location 4:6 between December 21-27, 2019, according to the WHO report and Dr. Koopmans
+⟦68⟧ [QUANTITATIVE_RESULT] 21-27 December 2019: 1 case
+⟦69⟧ [EVIDENCE] There were cases at shop location 4:24 between December 21-27, 2019, according to the WHO report and Dr. Koopmans
+⟦70⟧ [QUANTITATIVE_RESULT] 21-27 December 2019: 1 case
+⟦71⟧ [EVIDENCE] There were cases at shop locations 4:26 and 4:28 between December 21-27, 2019, according to the WHO report and Dr. Koopmans
+⟦72⟧ [QUANTITATIVE_RESULT] 21-27 December 2019: 2 cases
+⟦73⟧ [EVIDENCE] There were cases at shop locations 4:X4 and 4:X6 between December 21-27, 2019, according to the WHO report and Dr. Koopmans
+⟦74⟧ [QUANTITATIVE_RESULT] 21-27 December 2019: 2 cases
+⟦75*⟧ [EVIDENCE] There were cases at shop locations 9:19, 9:21, and 9:23 between December 21-27, 2019, according to the WHO report and Dr. Koopmans, with Dr. Koopmans having this more specifically at 9:21
+⟦76⟧ [QUANTITATIVE_RESULT] 21-27 December 2019: 3 cases
+⟦77*⟧ [LIMITATION] The WHO report and Dr. Marion Koopmans' data may have discrepancies in case locations and dates.
+⟦78⟧ [EVIDENCE] There were cases at shop location 11:15 between December 21-27, 2019, according to the WHO report and Dr. Koopmans
+⟦79⟧ [QUANTITATIVE_RESULT] 21-27 December 2019: 1 case
+⟦80⟧ [EVIDENCE] There were cases at shop location 11:17 between December 21-27, 2019, according to the WHO report and Dr. Koopmans
+⟦81⟧ [QUANTITATIVE_RESULT] 21-27 December 2019: 1 case
+⟦82⟧ [EVIDENCE] There were cases at shop location 11:25 between December 21-27, 2019, according to the WHO report and Dr. Koopmans
+⟦83⟧ [QUANTITATIVE_RESULT] 21-27 December 2019: 1 case
+⟦84⟧ [EVIDENCE] There were cases at shop location 13:X5 between December 21-27, 2019, according to the WHO report and Dr. Koopmans
+⟦85⟧ [QUANTITATIVE_RESULT] 21-27 December 2019: 1 case
+⟦86⟧ [EVIDENCE] There were cases at shop location 13:X32 between December 21-27, 2019, according to the WHO report, but Dr. Koopmans has this in 13:26 instead
+⟦87⟧ [QUANTITATIVE_RESULT] 21-27 December 2019: 1 case
+⟦88⟧ [LIMITATION] The case data may be incomplete or inaccurate due to the lack of information about the 13:X32 and 13:26 cases.
+⟦89⟧ [EVIDENCE] There were cases at shop location E2:1 between December 21-27, 2019, according to the WHO report and Dr. Koopmans
+⟦90⟧ [QUANTITATIVE_RESULT] 21-27 December 2019: 1 case
+⟦91*⟧ [EVIDENCE] There were cases at shop locations E3:5, E3:7, and E3:9 between December 21-27, 2019, according to the WHO report and Dr. Koopmans, with Dr. Koopmans having this more specifically at E3:7
+⟦92⟧ [QUANTITATIVE_RESULT] 21-27 December 2019: 3 cases
+⟦93*⟧ [LIMITATION] The WHO report and Dr. Marion Koopmans' data may have discrepancies in case locations and dates.
+⟦94⟧ [EVIDENCE] There were cases at shop location E7:3 between December 21-27, 2019, according to the WHO report
+⟦95⟧ [QUANTITATIVE_RESULT] 21-27 December 2019: 1 case
+⟦96⟧ [EVIDENCE] There were cases at shop locations E7:15 and E7:17 between December 21-27, 2019, according to the WHO report and Dr. Koopmans
+⟦97⟧ [QUANTITATIVE_RESULT] 21-27 December 2019: 2 cases
+⟦98⟧ [EVIDENCE] There were cases at shop location E11:42 between December 21-27, 2019, according to the WHO report
+⟦99⟧ [QUANTITATIVE_RESULT] 21-27 December 2019: 1 case
+⟦100⟧ [EVIDENCE] There were cases at shop locations 13:X1 and 15:2 on December 25, 2019, according to the WHO report and Dr. Koopmans, cluster 2
+⟦101⟧ [QUANTITATIVE_RESULT] 25 December 2019: 2 cases
+⟦102⟧ [EVIDENCE] There were cases at shop locations 5:6 and 5:8 on December 26, 2019, according to the WHO report and Dr. Koopmans, cluster 4
+⟦103⟧ [QUANTITATIVE_RESULT] 26 December 2019: 2 cases
+⟦104⟧ [EVIDENCE] There were cases at shop location E8:19 between December 16-31, 2019, according to Dr. Koopmans
+⟦105⟧ [LIMITATION] The data from the WHO report and Dr. Marion Koopmans may have inconsistencies in the date ranges.
+⟦106⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 1 case
+⟦107⟧ [EVIDENCE] There were cases at shop location E9:46 between December 16-31, 2019, according to Dr. Koopmans
+⟦108⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 1 case
+⟦109⟧ [EVIDENCE] There were cases at shop locations 1:X3 and 1:X5 between December 16-31, 2019, according to Dr. Koopmans
+⟦110⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 2 cases
+⟦111⟧ [EVIDENCE] There were cases at shop locations 2:5 and 2:7 between December 16-31, 2019, according to Dr. Koopmans, with two cases
+⟦112⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 2 cases
+⟦113⟧ [EVIDENCE] There were cases at shop location 2:15 between December 16-31, 2019, according to Dr. Koopmans
+⟦114⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 1 case
+⟦115⟧ [EVIDENCE] There were cases at shop location 2:18 between December 16-31, 2019, according to Dr. Koopmans
+⟦116⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 1 case
+⟦117⟧ [EVIDENCE] There were cases at shop location 3:6 between December 16-31, 2019, according to Dr. Koopmans
+⟦118⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 1 case
+⟦119⟧ [EVIDENCE] There were cases at shop locations 4:2 and 4:4 between December 16-31, 2019, according to the WHO report and Dr. Koopmans, with two cases, but the WHO report only has one case in the date range December 28-31
+⟦120⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 2 cases
+⟦121⟧ [LIMITATION] The data from the WHO report may have inconsistencies in the date ranges, with some cases listed as 'Dec 28 to 31' and others as 'Dec 21 to 27'.
+⟦122⟧ [EVIDENCE] There were cases at shop location 4:16 and 4:18 between December 16-31, 2019, according to Dr. Koopmans, with two cases
+⟦123⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 2 cases
+⟦124⟧ [EVIDENCE] There were cases at shop location 4:X1 between December 16-31, 2019, according to Dr. Koopmans
+⟦125⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 1 case
+⟦126⟧ [EVIDENCE] There were cases at shop locations 5:6 and 5:8 between December 16-31, 2019, according to Dr. Koopmans, presumably also part of cluster 4
+⟦127⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 2 cases
+⟦128⟧ [EVIDENCE] There were cases at shop locations 7:1 and 7:3 between December 16-31, 2019, according to Dr. Koopmans
+⟦129⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 2 cases
+⟦130⟧ [EVIDENCE] There were cases at shop locations 7:5 and 7:7 between December 16-31, 2019, according to Dr. Koopmans
+⟦131⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 2 cases
+⟦132⟧ [EVIDENCE] There were cases at shop locations 8:2, 8:4, 9:1, and 9:3 between December 16-31, 2019, according to the WHO report and Dr. Koopmans, with two cases, but the WHO report only has one case in the date range December 28-31
+⟦133⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 4 cases
+⟦134⟧ [EVIDENCE] There were cases at shop location 10:13 between December 16-31, 2019, according to Dr. Koopmans
+⟦135⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 1 case
+⟦136⟧ [EVIDENCE] There were cases at shop location 10:22 between December 16-31, 2019, according to Dr. Koopmans, with two cases
+⟦137⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 2 cases
+⟦138⟧ [EVIDENCE] There were cases at shop location 11:22 between December 16-31, 2019, according to Dr. Koopmans
+⟦139⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 1 case
+⟦140⟧ [EVIDENCE] There were cases at shop location 13:26 between December 16-31, 2019, according to Dr. Koopmans, possibly the same as the WHO case in 13:X32
+⟦141⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 1 case
+⟦142⟧ [LIMITATION] The case data may be incomplete or inaccurate due to the possibility that the 13:26 case is the same as the WHO case in 13:X32.
+⟦143⟧ [EVIDENCE] There were cases at shop locations 13:X1 and 15:2 between December 16-31, 2019, according to Dr. Koopmans, presumably also part of cluster 2
+⟦144⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 2 cases
+⟦145⟧ [EVIDENCE] There were cases at shop location 15:12 between December 16-31, 2019, according to Dr. Koopmans
+⟦146⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 1 case
+⟦147⟧ [EVIDENCE] There were cases at shop location 15:35 between December 16-31, 2019, according to Dr. Koopmans
+⟦148⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 1 case
+⟦149⟧ [EVIDENCE] There were cases at shop location 15:44 between December 16-31, 2019, according to the WHO report and Dr. Koopmans, with two cases, but the WHO report only has one case in the date range December 21-27
+⟦150⟧ [QUANTITATIVE_RESULT] 16-31 December 2019: 2 cases
+⟦151⟧ [EVIDENCE] There were cases at shop location 4:X2 between December 28-31, 2019, according to the WHO report and Dr. Koopmans
+⟦152⟧ [QUANTITATIVE_RESULT] 28-31 December 2019: 1 case
+⟦153⟧ [EVIDENCE] There were cases at shop location back street:14 between December 28-31, 2019, according to the WHO report and Dr. Koopmans
+⟦154⟧ [QUANTITATIVE_RESULT] 28-31 December 2019: 1 case
+⟦155⟧ [ANALYSIS] The total number of cases constitutes 62 cases, assuming the 13:X32 and 13:26 cases are the same.
+⟦156⟧ [ASSUMPTION] The 13:X32 and 13:26 cases are the same
+⟦157⟧ [EVIDENCE] There are a total of 62 cases, assuming the 13:X32 and 13:26 cases are the same
+⟦158⟧ [LIMITATION] The case data may be incomplete or inaccurate due to the assumption that the 13:X32 and 13:26 cases are the same.
+⟦159⟧ [QUANTITATIVE_RESULT] 62 cases in total
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

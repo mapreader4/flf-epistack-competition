@@ -1,0 +1,17 @@
+A.4  Missing N-glycans
+
+⟦1⟧ ⟦2⟧ ⟦3⟧ ⟦4⟧ I lacked sufficient context to evaluate ⟦5⟧ whether the missing N-glycans were strange, and if so,
+⟦6⟧ how unlikely they were to arise from random chance. ⟦7⟧ ⟦8⟧ ⟦9⟧ ⟦10⟧ Rootclaim only gave it a Bayes factor
+of 1.5 anyhow.
+
+Claims:
+⟦1⟧ [ANALYSIS] The judge lacked sufficient context to evaluate the likelihood of missing N-glycans arising from random chance, and Rootclaim gave it a Bayes factor of 1.5.
+⟦2⟧ [ASSUMPTION] The missing N-glycans are strange and unlikely to arise from random chance.
+⟦3⟧ [LIMITATION] The author lacked sufficient context to evaluate the significance of missing N-glycans
+⟦4⟧ [RESEARCH_QUESTION] Were the missing N-glycans strange and how unlikely were they to arise from random chance?
+⟦5⟧ [HYPOTHESIS] The missing N-glycans were strange
+⟦6⟧ [HYPOTHESIS] The missing N-glycans arose from random chance
+⟦7⟧ [ANALYSIS] Rootclaim gave the missing N-glycans a Bayes factor of 1.5.
+⟦8⟧ [ASSUMPTION] A Bayes factor of 1.5 is a relevant and sufficient metric for evaluating the significance of the missing N-glycans.
+⟦9⟧ [EVIDENCE] Rootclaim gave the missing N-glycans a Bayes factor of 1.5
+⟦10⟧ [QUANTITATIVE_RESULT] Bayes factor of 1.5 for the missing N-glycans given by Rootclaim

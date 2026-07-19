@@ -1,0 +1,25 @@
+5.4.4  Summary of significance of proposal
+
+The proposal does not explicitly state it would add furin cleavage sites to viruses, but it
+does discuss adding cleavage sites in general shortly after referring to furin cleavage sites by
+name.
+⟦1*⟧ Most, but not all, of the genetic modification involved using backbones from known, pre-
+existing viruses.
+The proposal does not, as far as I understand, discuss any in vivo genetic modification; all
+editing was to be done by directly altering sequences, not by passaging through humanized
+mice or other organisms. Viruses would be used in vivo only for testing pathogenecity.
+The proposal does specifically say it would screen for wild viruses with high affinity towards
+human ACE2.
+Overall, the Project DEFUSE proposal is a bit eerie in how it calls out multiple features that
+are quite distinct in sars-cov-2. However these features were previously known or suspected
+to be important to human coronaviruses, and the proposal is hardly a blueprint for building
+sars-cov-2, containing many irrelevancies and missing key components.
+Project DEFUSE is most relevant in that it shows that the community of virologists was
+broadly interested in making chimeric viruses with certain features which have the potential
+for lab leak risk if handled improperly, and not that WIV in specific planned to do a particular
+research path that would lead to creating sars-cov-2.
+
+Claims:
+⟦1*⟧ [QUANTITATIVE_RESULT] most, but not all, of the genetic modification involved using backbones from known, pre-existing viruses
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

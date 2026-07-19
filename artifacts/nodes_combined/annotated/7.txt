@@ -1,0 +1,45 @@
+7  Analysis
+
+Having criticized others' arguments at great length, at last I come to the more difficult task
+of presenting my best guess as to ⟦1⟧ the origin of the covid pandemic. ⟦2⟧ I will present this in
+the structure of a Bayesian inference computation, though not wholly quantitative, ⟦3⟧ ⟦4⟧ ⟦5⟧ with my
+choice of numbers being subjective and uncertain.
+⟦6⟧ ⟦7⟧ LetZ be the hypothesis that covid emerged from a zoonotic spillover in HSM, and ⟦8⟧ LL that
+covid resulted from gain-of-function research in WIV; ⟦9⟧ ⟦10⟧ ⟦11⟧ ⟦12⟧ these are very slightly narrowings from
+the actual hypotheses at stake.
+⟦13⟧ Note that if you accept Rootclaim's argument in section 3.1, ⟦14⟧ then the definition I gave
+for Z is quite a significant narrowing, ⟦15⟧ ⟦16⟧ as ⟦17⟧ they believe the observational evidence is equally
+consistent with zoonotic spillover anywhere in Wuhan as in HSM, ⟦18⟧ ⟦19⟧ and so Z would have a
+suitably greater prior (but much lower posterior).
+⟦20⟧ ⟦21⟧ The first step is the most challenging, ⟦22⟧ to estimate the priors ⟦23⟧ P (Z) and ⟦24⟧ P (LL). ⟦25⟧ ⟦26⟧ These
+numbers will be given as annual risk, so can also be interpretted as ⟦27⟧ the yearly rate at which
+pandemics emerge from those sources.
+
+Claims:
+⟦1⟧ [RESEARCH_QUESTION] What is the origin of the COVID-19 pandemic?
+⟦2⟧ [EVIDENCE] The author will present their best guess as to the origin of the covid pandemic in the structure of a Bayesian inference computation
+⟦3⟧ [ANALYSIS] The judge's subjective and uncertain choice of numbers for the Bayesian inference computation will be used to present the best guess as to the origin of the covid pandemic.
+⟦4⟧ [ASSUMPTION] The choice of numbers for the Bayesian inference computation is subjective and uncertain
+⟦5⟧ [LIMITATION] The choice of numbers in the Bayesian inference computation is subjective and uncertain.
+⟦6⟧ [ASSUMPTION] The covid pandemic originated from either a zoonotic spillover in HSM or gain-of-function research in WIV
+⟦7⟧ [HYPOTHESIS] COVID-19 emerged from a zoonotic spillover in Huanan Seafood Market (HSM)
+⟦8⟧ [HYPOTHESIS] COVID-19 resulted from gain-of-function research in Wuhan Institute of Virology (WIV)
+⟦9⟧ [ANALYSIS] The hypothesis that covid emerged from a zoonotic spillover in HSM (LetZ) and the hypothesis that covid resulted from gain-of-function research in WIV (LL) are narrowings from the actual hypotheses at stake.
+⟦10⟧ [ASSUMPTION] The definition of Z as a zoonotic spillover in HSM is a narrowing of the actual hypothesis at stake
+⟦11⟧ [EVIDENCE] The definition of Z (zoonotic spillover in HSM) is a narrowing from the actual hypotheses at stake
+⟦12⟧ [LIMITATION] The definition of the zoonotic spillover hypothesis (Z) is a narrowing from the actual hypotheses at stake.
+⟦13⟧ [ANALYSIS] If Rootclaim's argument in section 3.1 is accepted, then the definition of Z is a significant narrowing, as the observational evidence is equally consistent with zoonotic spillover anywhere in Wuhan as in HSM.
+⟦14⟧ [LIMITATION] The definition of the zoonotic spillover hypothesis (Z) may be a significant narrowing if Rootclaim's argument in section 3.1 is accepted.
+⟦15⟧ [ASSUMPTION] Rootclaim's argument in section 3.1 implies that the observational evidence is equally consistent with zoonotic spillover anywhere in Wuhan as in HSM
+⟦16⟧ [EVIDENCE] Rootclaim argues that the observational evidence is equally consistent with zoonotic spillover anywhere in Wuhan as in HSM
+⟦17⟧ [HYPOTHESIS] Zoonotic spillover anywhere in Wuhan could have caused COVID-19
+⟦18⟧ [ANALYSIS] The prior probability of Z (P(Z)) would be suitably greater if the observational evidence is equally consistent with zoonotic spillover anywhere in Wuhan as in HSM, but the posterior probability would be much lower.
+⟦19⟧ [ASSUMPTION] The prior probability of Z would be suitably greater if the definition of Z were broader
+⟦20⟧ [ANALYSIS] The first step in the Bayesian inference computation is to estimate the priors P(Z) and P(LL), which represent the annual risk of pandemics emerging from those sources.
+⟦21⟧ [LIMITATION] Estimating the priors P(Z) and P(LL) is the most challenging step in the Bayesian inference computation.
+⟦22⟧ [QUANTITATIVE_RESULT] P(Z) and P(LL) as annual risk
+⟦23⟧ [RESEARCH_QUESTION] What is the probability of COVID-19 emerging from a zoonotic spillover in HSM?
+⟦24⟧ [RESEARCH_QUESTION] What is the probability of COVID-19 resulting from gain-of-function research in WIV?
+⟦25⟧ [ANALYSIS] The estimated priors P(Z) and P(LL) can be interpreted as the yearly rate at which pandemics emerge from those sources.
+⟦26⟧ [ASSUMPTION] The numbers given for the priors P(Z) and P(LL) can be interpreted as the yearly rate at which pandemics emerge from those sources
+⟦27⟧ [RESEARCH_QUESTION] What are the annual risks of pandemics emerging from zoonotic spillover and gain-of-function research?

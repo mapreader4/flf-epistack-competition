@@ -1,0 +1,26 @@
+{
+  "node_type": "research_question",
+  "sections_requested": 64,
+  "sections_processed": 62,
+  "nodes_extracted": 308,
+  "invalid_pairs": 0,
+  "nodes_resolved": 303,
+  "nodes_dropped": 5,
+  "drop_rate": 0.0162,
+  "truncated_sections": [],
+  "section_match": {
+    "exact": 275,
+    "fuzzy": 28
+  },
+  "chunk_match": {
+    "exact": 303,
+    "fuzzy": 0,
+    "split_across_chunks": 0
+  },
+  "tokens": {
+    "total": 124701,
+    "new_this_run": 103123
+  },
+  "estimated_cost_usd": 0.1097,
+  "aborted_on_budget": false
+}

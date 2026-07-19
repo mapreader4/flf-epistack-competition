@@ -1,0 +1,3125 @@
+{
+  "claims_path": "artifacts/nodes_combined/nodes.json",
+  "n_claims": 3023,
+  "n_flagged": 282,
+  "flagged": [
+    {
+      "claim_id": "analysis-37dbd06bbcede7e22f97957138906ec2",
+      "section_number": "1",
+      "position_in_section": 1,
+      "claim_text": "The author's discussion of the debate is approachable despite the length of the document.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-569d285c4990daea1fca9721b6397648",
+      "section_number": "1",
+      "position_in_section": 5,
+      "claim_text": "The author's analysis involves critically assessing claims made by people with greater expertise or experience than they have.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-b37862ef8cbede78579e0dd527a8abdd",
+      "section_number": "1",
+      "position_in_section": 6,
+      "claim_text": "The author's numerical confidence level in the competing hypotheses should not be taken in earnest due to the speculative or unknowable processes involved.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-352a13dc8d0744ad264cf673afcc7be8",
+      "section_number": "1",
+      "position_in_section": 7,
+      "claim_text": "The author expects the reader to favor different numbers or choices than they made in their analysis.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-3f7bd321eeddd9ef85e3744e150336e8",
+      "section_number": "1",
+      "position_in_section": 9,
+      "claim_text": "The analysis and reasoning can be adequately presented without discussing points of agreement",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "evidence-1bccd8e86a1586961bcfa3a07e29e66d",
+      "section_number": "1",
+      "position_in_section": 14,
+      "claim_text": "The author was checking the news every day, counting cases, tracking international transmissions, and preparing for quarantine",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-3b0d0aaebbb821981cdea7549b163e90",
+      "section_number": "1",
+      "position_in_section": 22,
+      "claim_text": "The author will present their own best interpretation of the zoonotic and lab leak hypotheses and their relative likelihood in section 7",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-5af3b0f3cd87e396829fdf3fb781362e",
+      "section_number": "1",
+      "position_in_section": 23,
+      "claim_text": "The author's analysis was performed under acute time pressure and without independent research",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-24e922cd67d75027b1ceb73f414c9ae5",
+      "section_number": "1",
+      "position_in_section": 24,
+      "claim_text": "The author's analysis involves conflicting tertiary sources",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "limitation-28ea926c70b4284482a29308135a1e42",
+      "section_number": "1",
+      "position_in_section": 27,
+      "claim_text": "The analysis was performed under acute time pressure",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-e95b1b9c430e008ea186d945f46b6802",
+      "section_number": "1",
+      "position_in_section": 28,
+      "claim_text": "The author is not an expert in the subject",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-bbadd3fb619ce94b0a5c13b3f4140caf",
+      "section_number": "1",
+      "position_in_section": 29,
+      "claim_text": "The author did not have a strong pre-existing opinion",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-ac02c7da3ea2e24d432000f19775eb87",
+      "section_number": "1",
+      "position_in_section": 30,
+      "claim_text": "The author could not independently research due to the rules of the debate",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-0ec49727b84817f9dfa757d38935a836",
+      "section_number": "1",
+      "position_in_section": 31,
+      "claim_text": "Much of the analysis involves conflicting tertiary sources",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-554f6d781e3abd443b2936cc7f30ef1a",
+      "section_number": "1",
+      "position_in_section": 32,
+      "claim_text": "The author lacks access to primary or secondary sources",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-0ded31a5a55e56a36e669c471cc7c06e",
+      "section_number": "1",
+      "position_in_section": 34,
+      "claim_text": "The analysis required assigning numbers to many speculative or unknowable processes",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-851c6c12dbeaf80ceaca1593b626e4be",
+      "section_number": "1",
+      "position_in_section": 36,
+      "claim_text": "Many of the claims brought up during the debate pass unchallenged in the document",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-bcf3cf2a0a935b6b00da144cfee35636",
+      "section_number": "1",
+      "position_in_section": 37,
+      "claim_text": "Much of the analysis and reasoning is condensed or omitted",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-3c3adf923d28808d8807b7ed5ecd52d2",
+      "section_number": "1.1",
+      "position_in_section": 27,
+      "claim_text": "The Huanan Seafood Wholesale Market was sanitized and closed, potentially destroying evidence and limiting the ability to trace the origins of covid-19.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "assumption-2e835f27b0b0ba962a7c92a26d624a4a",
+      "section_number": "1.1.1",
+      "position_in_section": 3,
+      "claim_text": "The market sold a variety of goods, including wild or exotic live animals, which is relevant to the origin of sars-cov-2.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "assumption-5602c93ee83b7c815b2ad02e7485a125",
+      "section_number": "1.1.1",
+      "position_in_section": 4,
+      "claim_text": "At least some of the trade in animals at the market was likely illegal.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "limitation-81c866991923ed8bd3489529a71d3dde",
+      "section_number": "1.1.1",
+      "position_in_section": 24,
+      "claim_text": "it is not known that any bats were sold in the Huanan Seafood Market",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-83520f2d458c03778b8023cd21891705",
+      "section_number": "1.2",
+      "position_in_section": 3,
+      "claim_text": "The first two-thirds of the viral genome, called the open reading frame 1ab (ORF1ab), encodes proteins involved in viral replication and assembly, while the rest encodes structural and accessory proteins.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy",
+        "enumeration_language"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "evidence-b65ae28a32c1f5467cf39683e48387f8",
+      "section_number": "1.2",
+      "position_in_section": 14,
+      "claim_text": "The first two-thirds of the viral genome, called the 'open reading frame 1ab' (ORF1ab), encodes 16 different proteins involved in the viral replication and assembly process.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-d400f301350ed3cad01e1428433d27bb",
+      "section_number": "1.2",
+      "position_in_section": 15,
+      "claim_text": "The rest of the protein encodes the four structural proteins: spike (S), envelope (E), membrane (M), and nucleocapsid (N), as well as accessory proteins.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "limitation-31565a002a7228a2a45bd782f462cd24",
+      "section_number": "1.2",
+      "position_in_section": 22,
+      "claim_text": "the author's limited knowledge of the genetic code's design may limit the interpretation of the genetic code's properties",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-eaf9190c2cc89d83cde2edcd0b2401d2",
+      "section_number": "1.2.1",
+      "position_in_section": 27,
+      "claim_text": "The results of assembling a phylogenetic tree of the very earliest covid cases are not without dispute.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-185d4006712061d3ffc129fbee0672a0",
+      "section_number": "1.2.2",
+      "position_in_section": 0,
+      "claim_text": "The presence of a furin cleavage site (FCS) in sars-cov-2 is necessary for the proper functioning of the virus, as it allows the furin enzyme to cut the spike protein into two subregions, S1 and S2.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-b78f4c4b894aa246a2dc9ea1ccd9b68a",
+      "section_number": "1.2.2",
+      "position_in_section": 3,
+      "claim_text": "The presence of an FCS in sars-cov-2, as opposed to banal-20-52, may be related to the different transmission modes of the two viruses, with sars-cov-2 being transmitted primarily through respiratory droplets.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "evidence-2313a645b72a29386c04529c0a80836b",
+      "section_number": "1.2.2",
+      "position_in_section": 10,
+      "claim_text": "SARS-CoV-2 spike protein S binds to the ACE2 receptor on a human target cell and must be cut into two subregions, S1 and S2, by the furin enzyme.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy",
+        "enumeration_language"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "limitation-e5aafbd8fffb3905dbf905a6db2b5baa",
+      "section_number": "1.2.2",
+      "position_in_section": 26,
+      "claim_text": "The comparison between sars-cov-2 and banal-20-52 is limited to a specific location, and there are about 1000 point mutations in the 30000 nucleotides.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-01f1bfbded4a536b2d212604545e76d9",
+      "section_number": "1.3",
+      "position_in_section": 1,
+      "claim_text": "The debate felt more like a collaboration of four people working together to seek the truth than an adversarial contest.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-a9598bd6147a63cb2abf85acb41af091",
+      "section_number": "1.3",
+      "position_in_section": 2,
+      "claim_text": "Both parties argued in good faith and there were no significant violations of the debate rules.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-c88ab9c2ea37dc607e73e4c3ca8bc28d",
+      "section_number": "1.3",
+      "position_in_section": 6,
+      "claim_text": "The sole concern is whose theory is best supported by the evidence.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-b97b8688bdc7bbc5620b85c4de800ce7",
+      "section_number": "1.3",
+      "position_in_section": 8,
+      "claim_text": "Prior beliefs or private research of the judge's own cannot be used.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-bdd94e5e8f4d26e323c4a4ed3c72d74e",
+      "section_number": "1.3",
+      "position_in_section": 10,
+      "claim_text": "Both parties argued in good faith and there were no significant violations of the debate rules.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "assumption-bdc373c5ef6e3f38b408a102f3de07d7",
+      "section_number": "1.3",
+      "position_in_section": 13,
+      "claim_text": "The theory that is best supported by the evidence should be considered the most likely.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "assumption-06c25454a380cff533216caf301e2bf7",
+      "section_number": "1.3",
+      "position_in_section": 14,
+      "claim_text": "Prior beliefs or private research of the judge should not be used in evaluating the arguments.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "assumption-166aefd19b4c2e6707d557bbd5a54498",
+      "section_number": "1.3",
+      "position_in_section": 15,
+      "claim_text": "It is reasonable to challenge each participant on any claims they make that appear suspect.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "evidence-32bb0b40a7d9f1a73cea24f563b4d828",
+      "section_number": "1.3",
+      "position_in_section": 18,
+      "claim_text": "The debate consisted of 3 spoken debate sessions totalling 20 hours",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-2e87b711f12989320713c3f3302b00a9",
+      "section_number": "1.3",
+      "position_in_section": 19,
+      "claim_text": "The debate included various written supplements",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-46964ecb6d8bb6c2fd7da9941aeda3a2",
+      "section_number": "1.3",
+      "position_in_section": 20,
+      "claim_text": "The outcome of the debate was determined by the average of the judges' decisions",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-421d6f4b538c863c2a35e20d1094a648",
+      "section_number": "1.3",
+      "position_in_section": 21,
+      "claim_text": "Saar acted in good faith throughout the debate",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-f08f3856595bbe5846acb0663fcb2c7d",
+      "section_number": "1.3",
+      "position_in_section": 22,
+      "claim_text": "Both parties argued in good faith with no significant violations of the debate rules",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-d40bcddaf465d2605d09639742fa3b74",
+      "section_number": "1.3",
+      "position_in_section": 25,
+      "claim_text": "Peter's challenge is that the sars-cov-2 outbreak was the result of natural spillover from wildlife without laboratory involvement",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "limitation-3b77c6db8fd776235a3337d1de7725c0",
+      "section_number": "1.3",
+      "position_in_section": 30,
+      "claim_text": "time is limited and only so many rounds of argument and counterargument can be sustained",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-ddf1893a3f4d19a585d6f9a2bdfe5d12",
+      "section_number": "1.3",
+      "position_in_section": 34,
+      "claim_text": "Doubtlessly the participants of the debate will have rebuttals to what I write that disagrees with them",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-234e8ce30bddb321553e9b3309409b7f",
+      "section_number": "1.3.1",
+      "position_in_section": 2,
+      "claim_text": "The judge prioritizes simplicity over complexity in their affirmative analysis to minimize the risk of large model error, even if it means sacrificing some accuracy.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-c523561af70de7eba3c69f012677c488",
+      "section_number": "1.3.1",
+      "position_in_section": 4,
+      "claim_text": "The judge has access to all necessary information to make a decision.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "assumption-e6f9cc9c66bdcae6404567c5013ddb79",
+      "section_number": "1.3.1",
+      "position_in_section": 5,
+      "claim_text": "The debate parties' sources are reliable and relevant.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "assumption-1587b4a201749e5a14a1fd44e07dcb94",
+      "section_number": "1.3.1",
+      "position_in_section": 6,
+      "claim_text": "The judge's analysis is not significantly influenced by indirect citations.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "evidence-210f605292d176bb9ed3f957f6edf12f",
+      "section_number": "1.3.1",
+      "position_in_section": 12,
+      "claim_text": "The author used sources directly cited by the debate parties for most of the information.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-76c4a362a7b0ca33055011d7ca6565c6",
+      "section_number": "1.3.1",
+      "position_in_section": 13,
+      "claim_text": "The author may have inadvertently used a few indirect citations.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-b83884ac472a27e7b273cfc7919acb10",
+      "section_number": "1.3.1",
+      "position_in_section": 14,
+      "claim_text": "The author presents a quantitative analysis of the two conflicting theories in section 7.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "hypothesis-058a31692dc20980114b277042dc82a8",
+      "section_number": "1.3.1",
+      "position_in_section": 17,
+      "claim_text": "One theory is more likely than the other based on the information from the debate.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "hypothesis"
+    },
+    {
+      "claim_id": "limitation-7671bf2ac230bc0fd169420ed45cdd3b",
+      "section_number": "1.3.1",
+      "position_in_section": 19,
+      "claim_text": "The judge's analysis may have inadvertently used indirect citations.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-ceb580d2406a54e36e352a4767a891ea",
+      "section_number": "1.3.1",
+      "position_in_section": 20,
+      "claim_text": "The judge's quantitative analysis in section 7 may be unsatisfying.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-f185cf63d8ce4ad8f024b0218cc44e8c",
+      "section_number": "1.3.1",
+      "position_in_section": 21,
+      "claim_text": "The judge's affirmative analysis may have paid a price in accuracy for simplicity.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-f5432f43a13925075ba54b1c7258a37f",
+      "section_number": "1.3.1",
+      "position_in_section": 22,
+      "claim_text": "The judge's use of complicated models or analysis in refutational passages may be limited.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "assumption-7035d4ffff1f20e4372fa893e3aed8d9",
+      "section_number": "2",
+      "position_in_section": 6,
+      "claim_text": "Events follow certain rules, such as if X and Y are events then there is an event called X∩Y, representing that both X and Y are true, satisfying P(X∩Y)≤P(X)",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "limitation-4cc64b87d60eb2887838d3093ed5da26",
+      "section_number": "2",
+      "position_in_section": 34,
+      "claim_text": "One must pay close attention to potential problems, such as accounting for all available evidence, accuracy of probabilities, and robustness of the result to changes in the data",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "research_question-5728d6dfcd48f4f88d121c34f86c542d",
+      "section_number": "2",
+      "position_in_section": 52,
+      "claim_text": "What is the relationship between the prior probabilities P(A) and P(B) and the conditional probabilities P(Oi|A) and P(Oi|B)?",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "research_question"
+    },
+    {
+      "claim_id": "analysis-c5e5cb0d94b098ba38991cef6d786e7a",
+      "section_number": "2.1",
+      "position_in_section": 5,
+      "claim_text": "The mapping in hypothesis testing should satisfy two properties: (1) assuming the null hypothesis, the result p should be a random variable uniformly distributed in the range [0, 1], and (2) assuming the alternate hypothesis, we want p to be as small as possible.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [
+        "enumeration_language"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "limitation-222f90382c501b9dbf9d94bf3b78e886",
+      "section_number": "2.1",
+      "position_in_section": 27,
+      "claim_text": "The choice of mapping for assigning p-values can affect the results.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-279ee553a04cde70d6caf53057b6fddf",
+      "section_number": "3",
+      "position_in_section": 1,
+      "claim_text": "Collecting 100 independent observations can lead to the conclusion that a senator is a lizard from space, even if the data collection is fair, due to the accumulation of weak evidence.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-8d719b9a0ac283291c553645f769ae9c",
+      "section_number": "3",
+      "position_in_section": 13,
+      "claim_text": "If a hypothesis can be broken down into subparts, each necessary for the hypothesis as a whole to hold, then there is less potential for bias in the selection of evidence.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "evidence-c2e3bb4e0a74efa29448f91dcbd3550a",
+      "section_number": "3",
+      "position_in_section": 17,
+      "claim_text": "The data points collected include information on the senator's physical characteristics, vocal patterns, word choices, education history, and other factors.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "quantitative_result-731544f900941f006b8c5a13760a018b",
+      "section_number": "3",
+      "position_in_section": 52,
+      "claim_text": "If 90 out of 100 potential data points are ignored, the result is similar to using all 100 data points, but with more randomness",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "quantitative_result"
+    },
+    {
+      "claim_id": "research_question-34bec2ecc40f39d237282451648b9cc6",
+      "section_number": "3",
+      "position_in_section": 57,
+      "claim_text": "How can one test the hypothesis that a senator is secretly a lizard from space?",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "research_question"
+    },
+    {
+      "claim_id": "analysis-4d6eaaf5f6b5241f5c5a7f670de845e6",
+      "section_number": "3.1",
+      "position_in_section": 4,
+      "claim_text": "The probability of no animal vendors infected is estimated to be between 0.15 and 0.25 under the hypothesis An.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-f3d99a327ab8646011fe4823e6b7450c",
+      "section_number": "3.1",
+      "position_in_section": 5,
+      "claim_text": "The probability of test results unrelated to wildlife is estimated to be between 0.4 and 0.6 under the hypothesis An.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-47836828d9b3f29a6a45a5d1123be641",
+      "section_number": "3.1",
+      "position_in_section": 8,
+      "claim_text": "The probability of early cases associated with HSM, but not strongly, is estimated to be between 0.3 and 0.5 under the hypothesis An.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-d0e30f98c9e13c68ba5bf4a0aa67e92d",
+      "section_number": "3.1",
+      "position_in_section": 9,
+      "claim_text": "The probability of mahjong is estimated to be between 0.3 and 0.4 under the hypothesis An.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-2b06596baa299ed2b45d36d249f15d59",
+      "section_number": "3.1",
+      "position_in_section": 17,
+      "claim_text": "The author believes that the calculation feels like motivated reasoning.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "hypothesis-94e8a9a2392fb8dd3980a27586489ea0",
+      "section_number": "3.1",
+      "position_in_section": 44,
+      "claim_text": "The calculation is an example of motivated reasoning, where the answer was decided and evidence was sought until it aligned with that conclusion",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "hypothesis"
+    },
+    {
+      "claim_id": "limitation-dcd6f4f45c22edc21bfeb1f327d83535",
+      "section_number": "3.1",
+      "position_in_section": 45,
+      "claim_text": "The argument is not cleanly presented, with inconsistent events and numbers being used as Bayes factors but written with percentages and verbally described as probabilities instead",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-4227980dd48bd24940f9a36aa5395575",
+      "section_number": "3.1",
+      "position_in_section": 47,
+      "claim_text": "The calculation does not account for observational bias",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-bbabdb1c0a715db02a193d907fdcf005",
+      "section_number": "3.1",
+      "position_in_section": 53,
+      "claim_text": "The calculation may be influenced by human biases, with the answer being decided and evidence being sought until it aligns with that conclusion",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-3e0f5d99ddc37bda8f3db1833b6322ca",
+      "section_number": "3.2",
+      "position_in_section": 2,
+      "claim_text": "Half of the weight of the positive log-odds terms in Rootclaim's Bayesian calculation comes from three pieces of evidence: the 12nct insert, CGGCGG, and the location of the first SSE.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-f5a9e05d6cb205fc05cec418d70c002e",
+      "section_number": "3.2",
+      "position_in_section": 30,
+      "claim_text": "The three pieces of evidence (12nct insert, CGGCGG, and location of the first SSE) are strong and deserve commensurate analysis",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy",
+        "enumeration_language"
+      ],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "evidence-6331a52d7d3503d46af73460cee4606d",
+      "section_number": "3.2",
+      "position_in_section": 41,
+      "claim_text": "The evidence '12 nucleotide insert' has a log-odds of 3.91",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-12b664e0967c662142b9a2f35240c79a",
+      "section_number": "3.2",
+      "position_in_section": 44,
+      "claim_text": "The evidence 'no contact tracing' has a log-odds of 0.69",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-1ee443a63c41d0eab1245f1a7c936391",
+      "section_number": "3.2",
+      "position_in_section": 45,
+      "claim_text": "The evidence 'no genome sharing' has a log-odds of 0.69",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-7c40dc2bbb1bd980211d31b7955f0db1",
+      "section_number": "3.2",
+      "position_in_section": 47,
+      "claim_text": "The evidence 'no whistleblower' has a log-odds of -0.69",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-85137ca7fb2f5c429bee123b5fc60e3c",
+      "section_number": "3.2",
+      "position_in_section": 48,
+      "claim_text": "The evidence 'no intelligence leaks' has a log-odds of -0.36",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-0d3140b6d55ab8464e272a0061a5ff8d",
+      "section_number": "3.2",
+      "position_in_section": 49,
+      "claim_text": "The evidence 'no published backbone' has a log-odds of -0.92",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-2a1792741769a4647b47c9cd62a5f52c",
+      "section_number": "3.2",
+      "position_in_section": 51,
+      "claim_text": "The evidence 'no intermediate host' has a log-odds of 1.39",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "quantitative_result-0797c8e7edfa5c2a5a53c56e88e22c54",
+      "section_number": "3.2",
+      "position_in_section": 91,
+      "claim_text": "weight of 8.882 for three pieces of evidence (12nct insert, CGGCGG, and location of first SSE)",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ],
+      "node_type": "quantitative_result"
+    },
+    {
+      "claim_id": "research_question-66914fc1aa4ce387a015c82ec2170cff",
+      "section_number": "3.2",
+      "position_in_section": 97,
+      "claim_text": "Are the pieces of evidence selected by Rootclaim comprehensive and canonical, or are they ad hoc and selective?",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "research_question"
+    },
+    {
+      "claim_id": "limitation-e4cb271ea9cd97763c6d8497a862f579",
+      "section_number": "3.3",
+      "position_in_section": 41,
+      "claim_text": "Bayesian reasoning may not give the right answer due to potential flaws in the method",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-2ef6d3e6dd547b64180c15f052aa494e",
+      "section_number": "4",
+      "position_in_section": 18,
+      "claim_text": "The model assumes that each individual has 100 potential contacts that do not vary with time and are equally likely to become ill, which may not accurately reflect real-world scenarios.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-8c1ce46173e37cc4df8adbd685605c42",
+      "section_number": "4",
+      "position_in_section": 20,
+      "claim_text": "The model does not account for multiple transmission chains occurring simultaneously, which is a necessary condition for a disease to grow into a pandemic.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-3542ffeccab6b2e65f655c08e0321abe",
+      "section_number": "4",
+      "position_in_section": 21,
+      "claim_text": "The chain of transmission usually stops relatively soon, which may limit the accuracy of the model in predicting the spread of the disease.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-16ba98a63177e953a331558ec1b523aa",
+      "section_number": "4.1",
+      "position_in_section": 28,
+      "claim_text": "The model is insensitive to the quantitative details of the close-contact graph, but the real-world graph has loops and other complexities that may affect the model's accuracy.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-0f5f804f1b3916f298b24e4b4cc0cf72",
+      "section_number": "4.1",
+      "position_in_section": 33,
+      "claim_text": "The model's accuracy is affected by the choice of prior distribution for n, and a flat prior distribution is used due to a lack of knowledge about what to expect.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "research_question-9d80150dc8149528278d7be52ec5d257",
+      "section_number": "4.1",
+      "position_in_section": 42,
+      "claim_text": "How good is the model that the index case follows a uniform distribution within a sphere of radius n around the primary case?",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "research_question"
+    },
+    {
+      "claim_id": "analysis-7eda2cb0c42c06b1345a2c5d22eb5e96",
+      "section_number": "4.2",
+      "position_in_section": 0,
+      "claim_text": "The probability of the market in question being HSM is estimated to be between 0.2% and 2% by Saar and Peter, respectively.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-6c472f8edc463a5c41c705aa939bb85e",
+      "section_number": "4.2",
+      "position_in_section": 3,
+      "claim_text": "The probability of the index case given the zoonotic hypothesis (P(H|Z)) is estimated to be between 1/(6·10^4) and 1/(6·10^5), and the probability of the index case given the lab-leak hypothesis (P(H|LL)) is estimated to be 1/(6·10^7).",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-f22e370ebd086aced7be910dc12753e1",
+      "section_number": "4.2",
+      "position_in_section": 7,
+      "claim_text": "The choice of Z (zoonotic spillover at an east Asian wildlife market) is arbitrary and could be expanded to include restaurants and locations outside of east Asia, which would affect the probability of P(H|Z).",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-7526b88bc18aad8824e3b870ba89f0b7",
+      "section_number": "4.2",
+      "position_in_section": 9,
+      "claim_text": "The discussion of P(H|Z) and P(H|LL) is intrinsically linked to the discussion of the prior probabilities P(Z) and P(LL).",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-2c9d8f8c1e3fc6b9023cc4d309acb36b",
+      "section_number": "4.2",
+      "position_in_section": 14,
+      "claim_text": "The truth of the origin of covid should not depend on the exact wording used by each side of the debate",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "limitation-f0619a6d05fbac7253c77dd79b093bf3",
+      "section_number": "4.2",
+      "position_in_section": 37,
+      "claim_text": "The model assumes a homogeneous contact graph, which may not accurately represent real-world asymmetries in the graph",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-1faf964e76268eca64199d6a645e2a13",
+      "section_number": "4.2",
+      "position_in_section": 39,
+      "claim_text": "The analysis may be sensitive to the choice of index case, and a slight change in events could have resulted in a different index case",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "research_question-647f34a5f260898987f4ccc68e90bc9a",
+      "section_number": "4.2",
+      "position_in_section": 66,
+      "claim_text": "How do the prior probabilities P(Z) and P(LL) relate to the discussion of P(H|Z) and P(H|LL)?",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "research_question"
+    },
+    {
+      "claim_id": "analysis-abd226dc02a36c7c4bf4383a727efc5a",
+      "section_number": "4.3",
+      "position_in_section": 0,
+      "claim_text": "Using the wrong subpopulation introduces an error of 40 times because most of the analysis scales linearly with population size, and the subpopulations of residents at HSM and visitors disagree by a factor of 40.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "limitation-784db6afeba1a6c2f75a1759c3192aa8",
+      "section_number": "4.3",
+      "position_in_section": 28,
+      "claim_text": "The analysis may require introducing a factor of roughly 2 to account for the fact that most people are strongly associated with 2 locations",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-a824906365a8b61913863a11ba2c2160",
+      "section_number": "4.4",
+      "position_in_section": 20,
+      "claim_text": "The ascertainment rate of covid is uncertain and may be biased due to differences in sampling and diagnosis methods",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-3b3c856888e2c0c13ea1c1cec84052fd",
+      "section_number": "4.5",
+      "position_in_section": 6,
+      "claim_text": "The properties identified by Rootclaim include high traffic, permanent residents, enclosed and poor ventilation, density, organic materials, temperature, and no UV radiation.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-667fba135d70610d2b1d084d4a344f14",
+      "section_number": "4.5",
+      "position_in_section": 8,
+      "claim_text": "The author thinks that other locations, such as restaurants, schools, and community centers, have comparable properties to HSM and could also be potential outbreak locations.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-b262b99f90ba7d84b6111cc2e9593777",
+      "section_number": "4.5",
+      "position_in_section": 9,
+      "claim_text": "The author is skeptical of the relevance and causative relationship of some of the properties identified by Rootclaim, such as UV radiation and temperature.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-d2aec6f5e83dece51bf18a70623ab25b",
+      "section_number": "4.5",
+      "position_in_section": 10,
+      "claim_text": "The author questions the ventilation of HSM, citing photographs and first-hand accounts that describe it as poorly ventilated, but notes that it is a semi-open-air structure.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-9b16761606dfd0d1cf53c4f1bf45be79",
+      "section_number": "4.5",
+      "position_in_section": 18,
+      "claim_text": "Restaurants, schools and universities, dorms and apartment complexes, and community centers are comparable to HSM in terms of factors contributing to the spread of COVID-19",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "hypothesis-20c4a777af04e10244fb12f53bddb54a",
+      "section_number": "4.5",
+      "position_in_section": 35,
+      "claim_text": "Restaurants, schools and universities, dorms and apartment complexes, and community centers are comparable to HSM in terms of factors contributing to the spread of COVID-19",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "hypothesis"
+    },
+    {
+      "claim_id": "analysis-31826b8cc462add955cc0c7f83ab8629",
+      "section_number": "4.5.1",
+      "position_in_section": 4,
+      "claim_text": "To get 2/10 HSM cases within 5 doublings, each resident would need to infect almost 4 other residents, and to maintain the observed half-half split of HSM cases between residents and visitors, each resident would need to infect 4 visitors.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-46f35fcc99a89ae51412eb0249748390",
+      "section_number": "4.5.1",
+      "position_in_section": 7,
+      "claim_text": "It takes on average 10 days for a sick person to visit HSM",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "analysis-9b3fdde7e56cd295a2c0633a4dd11bf8",
+      "section_number": "4.5.2",
+      "position_in_section": 2,
+      "claim_text": "The model's doubling time of 2.14 days from the index non-HSM case to market closure is too short",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-3beb9fd8b6862b7c754a38580a387d74",
+      "section_number": "4.5.2",
+      "position_in_section": 4,
+      "claim_text": "The model's accuracy decreases the earlier in the outbreak one looks, despite possible adjustments for randomness in timing and ascertainment rates",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "limitation-1d4e03cc817c9e200b44c51d29a0910a",
+      "section_number": "4.5.2",
+      "position_in_section": 34,
+      "claim_text": "The model's accuracy decreases the earlier in the outbreak one looks",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-a33c2cde83a00815762d486cff820398",
+      "section_number": "4.5.3",
+      "position_in_section": 4,
+      "claim_text": "The empirical evidence of market outbreaks shows one outbreak in 2022 August with a vague description of being amplified by 'buses' and 'places like farm produce markets', and the 2020 June outbreak in Xinfadi which started due to frozen food in a market, neither of which is a good analogy for Rootclaim's claimed account of events in HSM.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "limitation-87f7cea337a9f4303b50cdf86bff8375",
+      "section_number": "4.5.4",
+      "position_in_section": 37,
+      "claim_text": "The probability of a cluster outside of HSM outcompeting a cluster within HSM of the same size is uncertain and depends on the number of cases and the distribution of infectivity",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-17e54c0812b51c55a6c2ce4fac12c121",
+      "section_number": "4.5.4",
+      "position_in_section": 38,
+      "claim_text": "The model assumes a normal distribution, which may not hold for small numbers of cases",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-eb50fb7d99345d065d8b0be6458cd7c4",
+      "section_number": "4.5.5",
+      "position_in_section": 30,
+      "claim_text": "Nonlinearities in disease transmission may begin when some subpopulation has so many cases as to create significant immunity, affecting the analysis of disease spread.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-71551c02447d8dc1372e1d264aa67f62",
+      "section_number": "4.5.6",
+      "position_in_section": 0,
+      "claim_text": "Rootclaim's market model requires three unlikely events to occur for the HSM outbreak to be correct: a covid patient visiting HSM, the infection taking hold as a local cluster, and the HSM cluster growing rapidly to outpace non-HSM cases",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-e2c9f942e7382fdaa769fa324ba0857a",
+      "section_number": "4.5.6",
+      "position_in_section": 1,
+      "claim_text": "The model's likelihood can be increased by assuming one of the first sick people to visit HSM was super contagious, but this requires explaining the coincidence of the person being super contagious and visiting HSM",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-233d5a7613d8606d1bd05c8a5f03ff78",
+      "section_number": "4.5.6",
+      "position_in_section": 13,
+      "claim_text": "It took multiple sick people visiting HSM for the outbreak to take hold there.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "hypothesis-d0621f2c07c6ae41a29a60b2f3033311",
+      "section_number": "4.5.6",
+      "position_in_section": 31,
+      "claim_text": "The COVID-19 outbreak in HSM occurred because one of the first COVID-19 patients went to HSM and infected an HSM resident, and the infection took hold as a local cluster.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "hypothesis"
+    },
+    {
+      "claim_id": "hypothesis-8e9c3b1e4947062639f8acb6d881cf61",
+      "section_number": "4.5.6",
+      "position_in_section": 35,
+      "claim_text": "It took multiple sick people visiting HSM for the outbreak to take hold there.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "hypothesis"
+    },
+    {
+      "claim_id": "hypothesis-db4dc5ef6f444686f50259519441cb2f",
+      "section_number": "4.5.6",
+      "position_in_section": 37,
+      "claim_text": "One of the first 5 or 10 COVID-19 patients went to HSM and infected a vendor there, and the HSM outbreak steadily outpaced non-HSM cases.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "hypothesis"
+    },
+    {
+      "claim_id": "limitation-1b4b4fb9598a1577e83c8bac21819d77",
+      "section_number": "4.5.6",
+      "position_in_section": 45,
+      "claim_text": "The model struggles to explain the absence of ascertained pre-HSM cases",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-c5efbd1cb98d1917e46fa0a02a00b301",
+      "section_number": "4.6.1",
+      "position_in_section": 3,
+      "claim_text": "The high fraction of positive samples in stores 4:26,28 and 6:29, which had live animals and were located in the southwest region of the west half of HSM, suggests a potential location for the origin of SARS-CoV-2.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "evidence-e6ef776b6eee38e9e1d802e4c79e1e49",
+      "section_number": "4.6.1",
+      "position_in_section": 21,
+      "claim_text": "About 100 animal samples were from stray live animals or their feces around the market",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-a58e6feaecc0943acb9a3398435fb8e0",
+      "section_number": "4.6.1",
+      "position_in_section": 30,
+      "claim_text": "The positive environmental samples were not distributed uniformly around the market",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "hypothesis-2ea048f6de2c806d4b4bc4fe384ac996",
+      "section_number": "4.6.1",
+      "position_in_section": 41,
+      "claim_text": "Sars-cov-2 was imported to the market in an animal",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "hypothesis"
+    },
+    {
+      "claim_id": "hypothesis-06aae33a9f04eb1ee77c181ed2b02e84",
+      "section_number": "4.6.1",
+      "position_in_section": 42,
+      "claim_text": "A zoonotic spillover of sars-cov-2 took place at a specific location in the market",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "hypothesis"
+    },
+    {
+      "claim_id": "limitation-1ed14bc10f62c838d21025bf38a4b6da",
+      "section_number": "4.6.1",
+      "position_in_section": 49,
+      "claim_text": "The positive environmental samples were not distributed uniformly around the market.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-6d75c7acd0dcbff8922dfdfe0ceb9aa3",
+      "section_number": "4.6.2",
+      "position_in_section": 7,
+      "claim_text": "The second round of testing, conducted two weeks after the first round, would have had a lower positivity rate due to the additional time for sars-cov-2 RNA to decay, inducing a negative correlation between samples with wildlife and samples with sars-cov-2.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "evidence-cef211b0c5470e880b58fde5217c902b",
+      "section_number": "4.6.2",
+      "position_in_section": 20,
+      "claim_text": "Disease communication between animals at HSM would presumably have been lower than between humans at HSM who could and did move between multiple shops and interact with other humans.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-68a10270a665586dc47f5054e152beac",
+      "section_number": "4.6.2",
+      "position_in_section": 26,
+      "claim_text": "Several species in HSM, such as raccoon dog, civet, and bamboo rat, are suspected as being potential sars-cov-2 intermediaries.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "analysis-3320f82270abb6f94cb6e9ab023fc47d",
+      "section_number": "4.6.3",
+      "position_in_section": 1,
+      "claim_text": "The judge believes that only one animal vendor would have been directly infected by an animal, with further infections being evenly distributed between all sorts of vendors, with a slight bias towards animal vendors.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-5fc64d291023fba0c1eca944c6f85f1c",
+      "section_number": "4.6.3",
+      "position_in_section": 2,
+      "claim_text": "The judge estimates that there is a low chance that the primary case would be ascertained directly, roughly 5%, which is the hospitalization rate.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-31b6c9e8e0c177084bbc535d623b00f8",
+      "section_number": "4.6.3",
+      "position_in_section": 3,
+      "claim_text": "The judge believes that in the 95% chance that the primary case was not hospitalized, there is no strong reason to be looking specifically to animal vendors to find early infections.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-27454e59422e4993ca5f7db2618db616",
+      "section_number": "5.1",
+      "position_in_section": 0,
+      "claim_text": "The phylogenetic structure of sars-cov-2, with two distinct taxa (lineages A and B) that differ by exactly two nucleotides, cannot be easily explained by either the zoonotic or lab leak hypotheses.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-2d60c0d98a9377104d1587b478d5b9b8",
+      "section_number": "5.1",
+      "position_in_section": 8,
+      "claim_text": "For the two-introductions hypothesis to make sense, we must suppose that animal-to-human transmission is comparatively rare, and that covid was circulating in a small reservoir of animals.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "limitation-44f77bef1aee6908e04cbe570c1976b3",
+      "section_number": "5.1",
+      "position_in_section": 40,
+      "claim_text": "Significant work remains to quantify how well the two-introductions hypothesis explains the data relative to other hypotheses.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-fd24eab4477d4f7d3ef478a9cfde2d4d",
+      "section_number": "5.2",
+      "position_in_section": 2,
+      "claim_text": "The zoonotic theory does not have a clear explanation for the observation, but one possible explanation is that lineage B was ancestral and the sample size was too small to include any lineage A cases by chance.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-49ea1993b568f5ad0fd5900c3101f775",
+      "section_number": "5.2",
+      "position_in_section": 5,
+      "claim_text": "The presence of lineage A in an environmental sample in HSM and in an employee who became ill with COVID before December 15 contradicts the lab leak explanation that lineage A was ancestral and the primary HSM case was lineage B.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "evidence-f62983d9f76d42bf4722a2f4ad87933a",
+      "section_number": "5.2",
+      "position_in_section": 19,
+      "claim_text": "All 11 people associated with HSM had onset dates between December 13 and 23, and were lineage B",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "limitation-4494056f84928f6cd1e09830bee4738d",
+      "section_number": "5.2",
+      "position_in_section": 38,
+      "claim_text": "It is hard to explain the first observed presence of lineage A in close proximity to HSM with the lab leak explanation.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-f100a1616b837d7726dd1defa5b6ff83",
+      "section_number": "5.3",
+      "position_in_section": 0,
+      "claim_text": "The presence of two consecutive CGG codons in the FCS of sars-cov-2 is evidence against a natural origin, according to Rootclaim, because CGG is the rarest of the six possible encodings of arginine in sars-cov-2 and similar viruses.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-01f5ff0889a67ce3b16de26c67f8bb82",
+      "section_number": "5.3",
+      "position_in_section": 9,
+      "claim_text": "It takes time for the mutational bias to impact a novel fragment inserted from an outside source.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "analysis-d8896c99861d0f4b0e2faa7f3bc31cca",
+      "section_number": "5.4",
+      "position_in_section": 1,
+      "claim_text": "Project DEFUSE involved collecting bat coronaviruses and performing computer and lab testing on them.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-bc5f7ec608a9a5ac769a1583a9b807b5",
+      "section_number": "5.4",
+      "position_in_section": 5,
+      "claim_text": "Project DEFUSE involved collecting bat coronaviruses and performing computer and lab testing on them.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "evidence-bfbedb8ab3cda658b42ddca2894b2fa4",
+      "section_number": "5.4",
+      "position_in_section": 12,
+      "claim_text": "The project was not funded, to the author's knowledge",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-ad69d1bc9611a30aad509e77857274f5",
+      "section_number": "5.4",
+      "position_in_section": 13,
+      "claim_text": "Project DEFUSE involved collecting bat coronaviruses and performing computer and lab testing on them",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "hypothesis-0752392b0410276c570b08b45ea623f7",
+      "section_number": "5.4",
+      "position_in_section": 16,
+      "claim_text": "The EcoHealth Alliance's Project DEFUSE would collect bat coronaviruses and perform computer and lab testing on them",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "hypothesis"
+    },
+    {
+      "claim_id": "analysis-39d5a1791a74c0096eade956472b7668",
+      "section_number": "5.4.1",
+      "position_in_section": 3,
+      "claim_text": "The researchers will introduce appropriate human-specific cleavage sites and evaluate growth potential in Vero cells and HAE cultures, which is a comparison of the expected growth potential of SARSr-CoV with and without these cleavage sites.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-30a0c7c6e0383eda886456f4057150b6",
+      "section_number": "5.4.1",
+      "position_in_section": 6,
+      "claim_text": "The SHCO14 and WIV16 molecular clone backbones are BSL-3, not select agents or subject to P3CO, and are pathogenic to hACE2 transgenic mice.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "evidence-12e4c31759678fe7a6630e88fa9f8356",
+      "section_number": "5.4.1",
+      "position_in_section": 14,
+      "claim_text": "SHCO14 and WIV16 molecular clone backbones have 88% and 97% S-protein identity to epidemic SARS-Urbani61",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "limitation-9d1107ed32303f5e8a505d2754d197be",
+      "section_number": "5.4.1",
+      "position_in_section": 28,
+      "claim_text": "The proposal omits details about irrelevant activities",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-d7e7561dca2b2846d8ce7e0ba7debf24",
+      "section_number": "5.4.1",
+      "position_in_section": 29,
+      "claim_text": "It is unclear whether furin is human-specific",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-84abb0db9340b176df61b49d7257543b",
+      "section_number": "5.4.2",
+      "position_in_section": 1,
+      "claim_text": "WIV would have been involved in screening bat samples for sars-like viruses and sequencing spike proteins in Phase 1, tasks 3.1 and 3.2.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-6d4155e6294ab54d15c0ea9c2c451923",
+      "section_number": "5.4.2",
+      "position_in_section": 3,
+      "claim_text": "WIV would have been involved in verifying assays on rabbits and blood samples from people who had SARS-1 in Tasks 6.2 and 6.3.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-dcb913861edd17b063c8bbcb0e334968",
+      "section_number": "5.4.2",
+      "position_in_section": 9,
+      "claim_text": "WIV would be involved in tasks 3.1 and 3.2, which include screening bat samples for sars-like viruses and sequencing spike proteins",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "assumption-4747155280787f6a8c5ffa69afecc83b",
+      "section_number": "5.4.2",
+      "position_in_section": 11,
+      "claim_text": "WIV would verify assays on rabbits and blood samples from people who had SARS-1 in tasks 6.2 and 6.3",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "evidence-d2df3a6fe0b1149424150d9bf3bd1d83",
+      "section_number": "5.4.2",
+      "position_in_section": 18,
+      "claim_text": "WIV was involved in screening bat samples for sars-like viruses and sequencing spike proteins in Phase 1, tasks 3.1 and 3.2",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-590e5897e46f27cde1a9d555659a65eb",
+      "section_number": "5.4.2",
+      "position_in_section": 20,
+      "claim_text": "WIV was involved in verifying assays on rabbits and blood samples from people who had SARS-1 in Tasks 6.2 and 6.3",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "analysis-23d9d1253e052e644602c95c845ef8d0",
+      "section_number": "5.4.4",
+      "position_in_section": 0,
+      "claim_text": "The proposal's discussion of adding cleavage sites, including furin cleavage sites, implies a potential for creating viruses with increased transmissibility.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-693b82ed1a044c896c5bc6e6b03f9787",
+      "section_number": "5.4.4",
+      "position_in_section": 1,
+      "claim_text": "Most genetic modifications in the proposal involved using backbones from known, pre-existing viruses, which may indicate a lower risk of creating a novel virus.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-f9ec0a9634113cd27f6f0a3c2a58b8de",
+      "section_number": "5.4.4",
+      "position_in_section": 2,
+      "claim_text": "The proposal's focus on in vitro genetic editing, rather than in vivo modification, reduces the likelihood of accidental release of a modified virus.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-968d23e829b32a6bb05893ba17c48d91",
+      "section_number": "5.4.4",
+      "position_in_section": 6,
+      "claim_text": "The proposal's discussion of adding cleavage sites in general implies it would add furin cleavage sites to viruses.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "assumption-e2fac91728f533ffa492b7a27155455f",
+      "section_number": "5.4.4",
+      "position_in_section": 8,
+      "claim_text": "The proposal does not discuss any in vivo genetic modification.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "evidence-1f46a1a1a9dafaf138d1657166a7d67b",
+      "section_number": "5.4.4",
+      "position_in_section": 12,
+      "claim_text": "The proposal discusses adding cleavage sites in general, including furin cleavage sites by name.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-81e325004cf577121c200d84c8838b65",
+      "section_number": "5.4.4",
+      "position_in_section": 14,
+      "claim_text": "The proposal does not discuss any in vivo genetic modification.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-a9f9f9aadc7c87918a19f27db735c114",
+      "section_number": "5.4.4",
+      "position_in_section": 19,
+      "claim_text": "These features were previously known or suspected to be important to human coronaviruses.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-5705a638c6e64f75f335b24014ba6aa4",
+      "section_number": "5.4.4",
+      "position_in_section": 20,
+      "claim_text": "The proposal is not a blueprint for building sars-cov-2, containing many irrelevancies and missing key components.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-5f6a504d5ee818bd27f34d1207722562",
+      "section_number": "5.4.4",
+      "position_in_section": 22,
+      "claim_text": "These features have the potential for lab leak risk if handled improperly.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "limitation-28a22c34ea58e0d59ebe3ad0be3259eb",
+      "section_number": "5.4.4",
+      "position_in_section": 26,
+      "claim_text": "The proposal does not explicitly state it would add furin cleavage sites to viruses",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-d2ce285b9cc84b28341b7391a2c2e94a",
+      "section_number": "5.4.4",
+      "position_in_section": 28,
+      "claim_text": "The proposal does not discuss any in vivo genetic modification",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-e60848901051a35379fe17411e357b91",
+      "section_number": "5.4.4",
+      "position_in_section": 29,
+      "claim_text": "The proposal is hardly a blueprint for building sars-cov-2, containing many irrelevancies and missing key components",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "research_question-9b266cdc095c5bf66632e6f7ffc6e221",
+      "section_number": "5.4.4",
+      "position_in_section": 32,
+      "claim_text": "Would the proposal add furin cleavage sites to viruses?",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "research_question"
+    },
+    {
+      "claim_id": "research_question-990583afe71cc232d7537936fe21b80e",
+      "section_number": "5.4.4",
+      "position_in_section": 33,
+      "claim_text": "What genetic modification was involved in the proposal?",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "research_question"
+    },
+    {
+      "claim_id": "research_question-2c2f8b6187e3265ae6c1506ebe6dbe7d",
+      "section_number": "5.4.4",
+      "position_in_section": 34,
+      "claim_text": "Did the proposal discuss in vivo genetic modification?",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "research_question"
+    },
+    {
+      "claim_id": "research_question-c98a49c215694e170107762706be30f3",
+      "section_number": "5.4.4",
+      "position_in_section": 35,
+      "claim_text": "How would viruses be used in the proposal?",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "research_question"
+    },
+    {
+      "claim_id": "research_question-3ed0055a27a8406adc5952e353d62d83",
+      "section_number": "5.4.4",
+      "position_in_section": 36,
+      "claim_text": "What was the purpose of screening for wild viruses in the proposal?",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "research_question"
+    },
+    {
+      "claim_id": "evidence-0cf98b06b2d63d50d0c0f955e8067f73",
+      "section_number": "5.6",
+      "position_in_section": 15,
+      "claim_text": "It is unlikely that the natural precursor virus happened to have an inserted proline at the exact location that researchers add an additional insert",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "limitation-4174012b49c6a1ad7d0e3b960a88a028",
+      "section_number": "5.6",
+      "position_in_section": 21,
+      "claim_text": "It is uncertain whether the natural precursor virus happened to have an inserted proline at the exact location that researchers add an additional insert",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-6c30caa9ff5a4682778779e511b0d646",
+      "section_number": "5.7",
+      "position_in_section": 4,
+      "claim_text": "The difference between sars-cov-2 and banal-20-52 is due to decades of evolutionary time and likely multiple recombination events with other viruses.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-d0a0048419552c555a348d07aedae604",
+      "section_number": "5.7",
+      "position_in_section": 9,
+      "claim_text": "Sars-cov-2 and banal-20-52 are separated by decades of evolutionary time and likely multiple recombination events with other viruses.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "limitation-199da5c0335a04c5becbc8a82993aa42",
+      "section_number": "5.7",
+      "position_in_section": 19,
+      "claim_text": "separation of sars-cov-2 and banal-20-52 by decades of evolutionary time and multiple recombination events",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-71ba25b683b0a1809a5b7fcdb758c9df",
+      "section_number": "6",
+      "position_in_section": 0,
+      "claim_text": "It is difficult to estimate whether a lab-created sars-cov-2 could be kept a secret due to lack of information about the lab's practices and culture.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-7a25e98f7ab9c6c91841d9e53b297cd6",
+      "section_number": "6",
+      "position_in_section": 9,
+      "claim_text": "Rootclaim evaluates the probability of the secret of creating sars-cov-2 being kept as 14%, which is close to the author's estimate of 10%.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-90c2b63303cf83417e0c8775f9d18a9f",
+      "section_number": "6",
+      "position_in_section": 14,
+      "claim_text": "The judge's uncertainty about the practices of the lab and the people involved is significant.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "assumption-d0e0ef875bf6deeb8b9a18de4eb79a4a",
+      "section_number": "6",
+      "position_in_section": 15,
+      "claim_text": "The judge's estimate of the probability of the secret staying secret is conservative.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "hypothesis-271cc8de185c9b3e33dd7bed69fe8665",
+      "section_number": "6",
+      "position_in_section": 21,
+      "claim_text": "SARS-CoV-2 was made in a lab and the information was kept secret by one person, an overworked and underpaid grad student",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "hypothesis"
+    },
+    {
+      "claim_id": "hypothesis-dd1f94c63e44d6ad266e4f505bf76f56",
+      "section_number": "6",
+      "position_in_section": 23,
+      "claim_text": "SARS-CoV-2 was made in a lab and the information was kept secret by people outside of the lab, including funding sources, collaborators, and officials",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "hypothesis"
+    },
+    {
+      "claim_id": "limitation-87e7b8ae2584f373d3af916aacdace6a",
+      "section_number": "6",
+      "position_in_section": 25,
+      "claim_text": "The author's uncertainty about the practices of the lab and the people involved in it",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-7a91a354a9e9b1d7179f7b5a634834a5",
+      "section_number": "6",
+      "position_in_section": 26,
+      "claim_text": "The author's restricted access to information due to the rules of the debate",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-1b31e1676b0a7b8e0351ff16a7466938",
+      "section_number": "6",
+      "position_in_section": 27,
+      "claim_text": "The possibility that the author's imagination is limited in thinking of a plausible story for the secret to stay inside",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-b84b0b84dbebab24141f5307b0f8beef",
+      "section_number": "6",
+      "position_in_section": 29,
+      "claim_text": "The potential for the author's estimate of the probability of the secret staying secret to be inaccurate",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-7faabc5a552544319d667aecdd87809b",
+      "section_number": "7.1",
+      "position_in_section": 2,
+      "claim_text": "The multiple spillovers of SARS-1 and MERS are not independent events, as the limiting factor seems to be the evolution of a suitable virus, not its spillover.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "limitation-e4c5c3e610968a71731fb3b03380f9b1",
+      "section_number": "7.1",
+      "position_in_section": 42,
+      "claim_text": "The estimate of the probability of a pandemic emerging from a new sars-like virus is uncertain and may be influenced by various factors",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-1a63fb7457cb4b4ff540115b7999a993",
+      "section_number": "7.2",
+      "position_in_section": 3,
+      "claim_text": "The judge compares the probability of a lab leak to the probability of a leak being followed by an outbreak in the lab, suggesting that the latter is higher.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-2ca8357c617ac49d2a8ebf60bb04bfea",
+      "section_number": "7.2",
+      "position_in_section": 5,
+      "claim_text": "The judge calculates the probability of a lab leak (P(LL)) as 1/17000, based on the estimated probabilities of various factors, including the annualized probability of the first lab leak, the probability of WIV finding and choosing a sufficiently dangerous virus, and the probability of a lab leak of that virus.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy",
+        "enumeration_language"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-1e9cd1879216519aecf218aa14a5c8e5",
+      "section_number": "7.2",
+      "position_in_section": 7,
+      "claim_text": "The judge questions the intuition that the calculated Bayes factor P(LL)/P(Z) = 2 is grossly too high, considering the relative frequencies of zoonotic pandemics and GoF lab leak pandemics globally and in Wuhan.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-fcb72470a6001fcde88ce7eac47be04e",
+      "section_number": "7.5",
+      "position_in_section": 5,
+      "claim_text": "The number of species in the study is 14.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "quantitative_result-a6e6d22ea874740bc95bea71e58cf27f",
+      "section_number": "7.5",
+      "position_in_section": 17,
+      "claim_text": "14 species in the study",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "quantitative_result"
+    },
+    {
+      "claim_id": "analysis-88af4e3c2a204de5b5e186574aa3aff0",
+      "section_number": "7.6",
+      "position_in_section": 1,
+      "claim_text": "The numerical calculation of the probability of a lab leak may give an undeserved illusion of certainty due to significant uncertainties in the analysis.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-89c91149102266b51afe2f6cb9ac195e",
+      "section_number": "7.6",
+      "position_in_section": 2,
+      "claim_text": "Dampening the components of the calculation towards neutrality is necessary to account for uncertainty, particularly the 1/10000 factor.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-4f773625bc1c279c561bbe9455a99824",
+      "section_number": "7.6",
+      "position_in_section": 8,
+      "claim_text": "The existence of the Project DEFUSE proposal and the Eddie Holmes photos are not definitive or strong evidence for the origin of Sars-cov-2, but rather odd coincidences.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-451abdeea4296bdb1d667b8f0c48c5d4",
+      "section_number": "7.6",
+      "position_in_section": 16,
+      "claim_text": "The uncertainty in the analysis should be accounted for by dampening the components towards neutrality",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "assumption-19f97d1c97c94f1ab6d13f2660a2f63a",
+      "section_number": "7.6",
+      "position_in_section": 27,
+      "claim_text": "The physical evidence of the covid pandemic starting in the immediate vicinity of live animals susceptible to sars-like coronaviruses points strongly in favor of the hypothesis of zoonotic spillover",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "limitation-18434700ac35ff4a04603ff0fc9eb248",
+      "section_number": "7.6",
+      "position_in_section": 47,
+      "claim_text": "The analysis has significant uncertainties, which may affect the estimated probability of a lab leak.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-91db60b56fa9f8197301698edb4935c8",
+      "section_number": "7.6",
+      "position_in_section": 48,
+      "claim_text": "Many components in the calculation should be dampened towards neutrality to account for uncertainty.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-113d384d7509e60cf737ee0f212df0be",
+      "section_number": "7.6",
+      "position_in_section": 53,
+      "claim_text": "The excluded evidence may impact the result, although the author evaluates it as indistinguishable from neutral.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-75e84580295b3e350dd00cb0eb2b7c13",
+      "section_number": "A",
+      "position_in_section": 0,
+      "claim_text": "The judge thinks others are most likely to have found certain arguments convincing.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-e52354c9fe728a958ff87c9aa69daecc",
+      "section_number": "A",
+      "position_in_section": 5,
+      "claim_text": "The author thinks that others may have found certain arguments convincing.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "evidence-3a79fb721bed14386f4884b83c0c4178",
+      "section_number": "A",
+      "position_in_section": 7,
+      "claim_text": "The debate lasted 20 hours",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "limitation-4af4a2b87c926f71f079a59ec1dd9fa4",
+      "section_number": "A",
+      "position_in_section": 9,
+      "claim_text": "The judge's address of additional points is limited to those they think others are most likely to have found convincing.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-7b51e8b23787fae4fcba675da0a9c659",
+      "section_number": "A.2",
+      "position_in_section": 1,
+      "claim_text": "It is unlikely for a 25-year-old with covid to be hospitalized.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-ba63b35e62468a78f2037c20ade48854",
+      "section_number": "A.2",
+      "position_in_section": 2,
+      "claim_text": "Even if Connor Reed's story is accurate, we only know that he had covid as early as December 6, which could have been the last of a succession of two or more unrelated illnesses.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-1086b9ac948ee59a3f4e9b0aad8b0644",
+      "section_number": "A.2",
+      "position_in_section": 3,
+      "claim_text": "It is unlikely for the index case of covid to be a British man due to selection bias introduced by English-speaking residents in Wuhan being more likely to be interviewed by Western journalists.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-da299ca0c0b10c521edf9fa95441bf61",
+      "section_number": "A.2",
+      "position_in_section": 7,
+      "claim_text": "It is unlikely for a 25-year-old with covid to be hospitalized.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "evidence-f6849583cdb7c1472c095d1bbb0cb7c4",
+      "section_number": "A.2",
+      "position_in_section": 17,
+      "claim_text": "It is unlikely for a 25-year-old with COVID-19 to be hospitalized",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "limitation-d208bbb6e94df0d47361337a2a08d257",
+      "section_number": "A.2",
+      "position_in_section": 26,
+      "claim_text": "It is unlikely for a 25-year-old with covid to be hospitalized, which raises questions about Connor Reed's story",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-594b38b01c956f52c553d865a5712e96",
+      "section_number": "A.3",
+      "position_in_section": 5,
+      "claim_text": "There are no first-hand accounts of mahjong players with covid, no non-anecdotal accounts, and no known specific individuals who played mahjong and acquired covid, which limits the evidence for the mahjong room's role in the HSM outbreak.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-cd4dddaf7568502459237bf4eb2da92b",
+      "section_number": "A.5",
+      "position_in_section": 1,
+      "claim_text": "The early mutation rate may not be useful in distinguishing between zoonotic and lab-leak hypotheses without significant and technical investigation.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "hypothesis-c6213613f6c91664455f03617c7c9da8",
+      "section_number": "A.5",
+      "position_in_section": 16,
+      "claim_text": "The early mutation rate is not useful in distinguishing between zoonotic and lab-leak hypotheses without significant and technical investigation.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "hypothesis"
+    },
+    {
+      "claim_id": "limitation-d7120f4130955f6e0bec23557167e6fb",
+      "section_number": "A.5",
+      "position_in_section": 17,
+      "claim_text": "The early mutation rate may not be useful in distinguishing between zoonotic origin and lab-leak hypotheses without significant and very technical investigation.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-c9b0451ef20b12058a5fe968fce6bf16",
+      "section_number": "B",
+      "position_in_section": 5,
+      "claim_text": "It is easier to understand the causes of ascertainment bias in the WHO report alone, rather than when mixed with other sources.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-4e47e3865f85cb8582bd5d0e345e4416",
+      "section_number": "B",
+      "position_in_section": 12,
+      "claim_text": "It is relatively easy to understand the causes of ascertainment bias in the WHO report.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "limitation-53431bf2c1f76164f1e1123081d46274",
+      "section_number": "B",
+      "position_in_section": 31,
+      "claim_text": "It is harder to control ascertainment bias when mixing multiple sources.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "assumption-f89ca69e73f6a41c27eea9664e663ece",
+      "section_number": "B.1",
+      "position_in_section": 4,
+      "claim_text": "The classification of cases into 'vendor', 'visitor', and 'non-HSM' is accurate and relevant for analysis.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "analysis-be3353303296e1532ce69b3a2c8c7a2b",
+      "section_number": "B.2",
+      "position_in_section": 3,
+      "claim_text": "The author found the results of comparing the locations of cases on the two maps to be in quite good agreement with other sources that reported early cases by stall numbers.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "evidence-25efd06ec80845af356f73447efac1d9",
+      "section_number": "B.3",
+      "position_in_section": 14,
+      "claim_text": "The data file of [12] is located at https://github.com/sars-cov-2-origins/huanan-market-environment/blob/main/metadata/cases.csv",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-1c82af9a105c623147e3d639ddf00f07",
+      "section_number": "B.3",
+      "position_in_section": 21,
+      "claim_text": "There were cases at shop locations 7:5 and 7:7 on or before December 15, 2019, according to Dr. Koopmans, with two cases",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-48f80520e5e162cb53ca0a57af50a397",
+      "section_number": "B.3",
+      "position_in_section": 23,
+      "claim_text": "There were cases at shop locations 7:26 and 7:28 on or before December 15, 2019, according to Dr. Koopmans, with two cases, but the WHO report only has one case in the date range December 21-27",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy",
+        "enumeration_language"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-0b47a77ae2e54ad74fc2a9369fdb269d",
+      "section_number": "B.3",
+      "position_in_section": 26,
+      "claim_text": "There were cases at shop locations 13:X1 and 15:2 on December 17, 2019, according to the WHO report and Dr. Koopmans, cluster 2",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-0eda06f0aaf78c65fbcedfb5079dfa3c",
+      "section_number": "B.3",
+      "position_in_section": 27,
+      "claim_text": "There were cases at shop locations 7:5 and 7:7 between December 18-20, 2019, according to the WHO report and Dr. Koopmans",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-2070e9255f8b1c806644bc472442aef4",
+      "section_number": "B.3",
+      "position_in_section": 28,
+      "claim_text": "There were cases at shop locations 15:13, 15:15, and 15:17 between December 18-20, 2019, according to the WHO report and Dr. Koopmans",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-56086629d1f8aafcfd2d2e36db0c3524",
+      "section_number": "B.3",
+      "position_in_section": 30,
+      "claim_text": "There were cases at shop locations 13:X1 and 15:2 on December 19, 2019, according to the WHO report and Dr. Koopmans, cluster 2",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-0b98af2ffb283ff09605caf818fd0b40",
+      "section_number": "B.3",
+      "position_in_section": 31,
+      "claim_text": "There were cases at shop locations 5:6 and 5:8 on December 20, 2019, according to the WHO report and Dr. Koopmans, cluster 4",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-25e87ad0388588a0ad3ed11192257daf",
+      "section_number": "B.3",
+      "position_in_section": 34,
+      "claim_text": "There were cases at shop locations 4:26 and 4:28 between December 21-27, 2019, according to the WHO report and Dr. Koopmans",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-933c6bdd95717cae230728ef2a10d33f",
+      "section_number": "B.3",
+      "position_in_section": 35,
+      "claim_text": "There were cases at shop locations 4:X4 and 4:X6 between December 21-27, 2019, according to the WHO report and Dr. Koopmans",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-4271a5c8fc42c9d8b0216073087e65ae",
+      "section_number": "B.3",
+      "position_in_section": 36,
+      "claim_text": "There were cases at shop locations 9:19, 9:21, and 9:23 between December 21-27, 2019, according to the WHO report and Dr. Koopmans, with Dr. Koopmans having this more specifically at 9:21",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-291e504672e675697113c3678728582a",
+      "section_number": "B.3",
+      "position_in_section": 43,
+      "claim_text": "There were cases at shop locations E3:5, E3:7, and E3:9 between December 21-27, 2019, according to the WHO report and Dr. Koopmans, with Dr. Koopmans having this more specifically at E3:7",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-f747920ea234e8d2f74678fd69dd1ecb",
+      "section_number": "B.3",
+      "position_in_section": 45,
+      "claim_text": "There were cases at shop locations E7:15 and E7:17 between December 21-27, 2019, according to the WHO report and Dr. Koopmans",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-57c7b482983d0a3d2766c5bffabb1d26",
+      "section_number": "B.3",
+      "position_in_section": 47,
+      "claim_text": "There were cases at shop locations 13:X1 and 15:2 on December 25, 2019, according to the WHO report and Dr. Koopmans, cluster 2",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-2b571a133bd3dd3841cab0c8a8f0e84f",
+      "section_number": "B.3",
+      "position_in_section": 48,
+      "claim_text": "There were cases at shop locations 5:6 and 5:8 on December 26, 2019, according to the WHO report and Dr. Koopmans, cluster 4",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-ab09ab553e40bf83ab51a4e26340d909",
+      "section_number": "B.3",
+      "position_in_section": 52,
+      "claim_text": "There were cases at shop locations 2:5 and 2:7 between December 16-31, 2019, according to Dr. Koopmans, with two cases",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-478e84223e923970a274297544511bda",
+      "section_number": "B.3",
+      "position_in_section": 56,
+      "claim_text": "There were cases at shop locations 4:2 and 4:4 between December 16-31, 2019, according to the WHO report and Dr. Koopmans, with two cases, but the WHO report only has one case in the date range December 28-31",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy",
+        "enumeration_language"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-af055f39a90b49064bd2e198d5924c8c",
+      "section_number": "B.3",
+      "position_in_section": 57,
+      "claim_text": "There were cases at shop location 4:16 and 4:18 between December 16-31, 2019, according to Dr. Koopmans, with two cases",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-498efbbbc0e43a708d12e586e69cc512",
+      "section_number": "B.3",
+      "position_in_section": 62,
+      "claim_text": "There were cases at shop locations 8:2, 8:4, 9:1, and 9:3 between December 16-31, 2019, according to the WHO report and Dr. Koopmans, with two cases, but the WHO report only has one case in the date range December 28-31",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy",
+        "enumeration_language"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-a1927bb9707e5862730a28caa5eaaf99",
+      "section_number": "B.3",
+      "position_in_section": 64,
+      "claim_text": "There were cases at shop location 10:22 between December 16-31, 2019, according to Dr. Koopmans, with two cases",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-1ffe142d72bcc385e95682a2feba40d6",
+      "section_number": "B.3",
+      "position_in_section": 70,
+      "claim_text": "There were cases at shop location 15:44 between December 16-31, 2019, according to the WHO report and Dr. Koopmans, with two cases, but the WHO report only has one case in the date range December 21-27",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy",
+        "enumeration_language"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "hypothesis-bd984ce6bf6cb822fa138af279b17aa6",
+      "section_number": "B.3",
+      "position_in_section": 79,
+      "claim_text": "The WHO and Dr. Marion Koopmans' data on HSM cases are consistent and reliable",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "hypothesis"
+    },
+    {
+      "claim_id": "limitation-56cb0d41452c885dfb20705c98759826",
+      "section_number": "B.3",
+      "position_in_section": 83,
+      "claim_text": "The WHO report and Dr. Marion Koopmans' data may have discrepancies in case locations and dates.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-b7421ff794af8bd623c61107be7aaa80",
+      "section_number": "B.3",
+      "position_in_section": 84,
+      "claim_text": "The WHO report and Dr. Marion Koopmans' data may have discrepancies in case locations and dates.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-a4183893d7d50d29419937c00ccf2e6d",
+      "section_number": "B.3",
+      "position_in_section": 85,
+      "claim_text": "The WHO report and Dr. Marion Koopmans' data may have discrepancies in case locations and dates.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-d546526fbaa33022e5de68c287bb0928",
+      "section_number": "B.3",
+      "position_in_section": 86,
+      "claim_text": "The WHO report and Dr. Marion Koopmans' data may have discrepancies in case locations and dates.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-904f7ab556191e5501035b9916e077d2",
+      "section_number": "B.3",
+      "position_in_section": 87,
+      "claim_text": "The WHO report and Dr. Marion Koopmans' data may have discrepancies in case locations and dates.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-5a009c6d525ab4697bbaa53eac7c681a",
+      "section_number": "C",
+      "position_in_section": 0,
+      "claim_text": "The judge's decision is based on information presented by the debate participants, without independent research, to ensure fairness and allow participants to identify flaws or rebut information.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-f22d23bb988cf4e7390967cd5acf4da4",
+      "section_number": "C",
+      "position_in_section": 2,
+      "claim_text": "The judge validated statements cited by debate participants by following references back to primary sources.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-50ab637273bca762239607eb7b5be16c",
+      "section_number": "C",
+      "position_in_section": 3,
+      "claim_text": "Information not presented by the debate participants, but relevant to the central topic, is included in the report with a lower level of critical scrutiny and may exhibit selection bias.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-9c8dcf5110e3d70643dac06ed0bdc402",
+      "section_number": "C",
+      "position_in_section": 4,
+      "claim_text": "The judge applies a balance between the level of scrutiny a claim received in the debate and its contentiousness, treating highly contentious claims with extreme skepticism if they faced no scrutiny.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-2f3ffcb2031d65afd8b6cb61621d842c",
+      "section_number": "C",
+      "position_in_section": 5,
+      "claim_text": "The judge was not permitted to base their decision on independent research beyond what the participants of the debate did.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "assumption-859c136e5c19c9a45811b43d8b7b0048",
+      "section_number": "C",
+      "position_in_section": 7,
+      "claim_text": "The judge has not limited themselves to only using information presented by the debate participants for the purposes of the exposition in the report.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "assumption-e78f8dcb35af3551bc306c9df510ea40",
+      "section_number": "C",
+      "position_in_section": 8,
+      "claim_text": "Information not presented by the debate participants but used in the report may exhibit selection bias.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "assumption-1baa9865a65824899b9700c28feb2d6e",
+      "section_number": "C",
+      "position_in_section": 10,
+      "claim_text": "The level of scrutiny a claim received in the debate and how contentious that claim is are important factors in evaluating the claim.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "evidence-dc034338eead03e5945dcdb60d090c69",
+      "section_number": "C",
+      "position_in_section": 13,
+      "claim_text": "The debate participants cited secondary sources for some statements.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-6ab31b5f3330e3d90632248bf78015f6",
+      "section_number": "C",
+      "position_in_section": 14,
+      "claim_text": "The author validated some statements by following references back to primary sources.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "limitation-c68f2812776c47b2ea8a2fac6dbf0632",
+      "section_number": "C",
+      "position_in_section": 16,
+      "claim_text": "The judge's decision was not based on independent research beyond what the participants of the debate did, to give them opportunity to identify flaws or rebut any information presented against their side.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-04ff0d7cea34dbe31c6e5b3d87d0b017",
+      "section_number": "C",
+      "position_in_section": 17,
+      "claim_text": "The judge's exposition in the report was not limited to the information presented by the debate participants, which may introduce information that does not influence the debate outcome.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-f967b6046ca7ae3a021a2ce49759240e",
+      "section_number": "C",
+      "position_in_section": 18,
+      "claim_text": "Some information in the report has been subjected to a lower level of critical scrutiny and may exhibit selection bias.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-36edb30788d7241829e683a6dbdb7167",
+      "section_number": "C",
+      "position_in_section": 19,
+      "claim_text": "It is possible that one or both parties may have overlooked relevant information in the reference materials, particularly in supplementary materials sections.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-1ba0d2985184fdbbb80da888d5a39edb",
+      "section_number": "C",
+      "position_in_section": 20,
+      "claim_text": "Highly contentious claims that faced no scrutiny in the debate will be treated with extreme skepticism.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "research_question-0844e4b04ae36bc0233f3d36c80c5c5c",
+      "section_number": "C",
+      "position_in_section": 27,
+      "claim_text": "How should the balance between the level of scrutiny a claim received in the debate and how contentious that claim is be determined?",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "research_question"
+    },
+    {
+      "claim_id": "assumption-fd17daa21f0f68dff5690e34f3128582",
+      "section_number": "C.1",
+      "position_in_section": 17,
+      "claim_text": "Physical and mental health was monitored at WIV, and no unusual respiratory infections had been noted in the previous year.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "assumption-b2ea7aade6d12db4240e446b5f4ce301",
+      "section_number": "C.1",
+      "position_in_section": 19,
+      "claim_text": "Surveillance during the outbreak at WIV had been stringent, and no suspected or confirmed case of COVID-19 was seen by PCR and antibody testing of all staff was negative.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "assumption-2b3c9409a4b0b8dc49d2eadf4d9c8437",
+      "section_number": "C.1",
+      "position_in_section": 26,
+      "claim_text": "The laboratory director at WIV, Yuan Zhiming, denied the possibility of a lab leak from WIV for several reasons, including that none of the SARS-like viruses cultured in the laboratory are closely related to SARS-CoV-2.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "evidence-177e759fab179aeebeec22a093fc86c9",
+      "section_number": "C.1",
+      "position_in_section": 55,
+      "claim_text": "Reserved sera from all workers and students in the research group led by Professor Shi Zhengli were seronegative for SARS-CoV-2 antibodies in April 2019 and March 2020",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "limitation-09835af567925384b72e236200e5335a",
+      "section_number": "C.1",
+      "position_in_section": 69,
+      "claim_text": "It is difficult to isolate bat CoVs and envelope protein is the most important part to understand function",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-a1d789a8ef656683192eea244b0960c9",
+      "section_number": "D",
+      "position_in_section": 23,
+      "claim_text": "The recordings of the debate are not publicly available, which may limit the accessibility of the information.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    }
+  ]
+}

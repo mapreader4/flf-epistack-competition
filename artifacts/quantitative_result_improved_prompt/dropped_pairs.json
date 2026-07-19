@@ -1,0 +1,110 @@
+[
+  {
+    "section_number": "1.2.1",
+    "node_type": "quantitative_result",
+    "node_text": "96.8% nucleotide identity between sars-cov-2 and banal-20-52",
+    "quote": "a sample collected from a bat (dropping) in Laos with 96.8% nucleotide identity"
+  },
+  {
+    "section_number": "2",
+    "node_type": "quantitative_result",
+    "node_text": "P(A) + P(B) = 1",
+    "quote": "P(A) + P(B) = 1"
+  },
+  {
+    "section_number": "2",
+    "node_type": "quantitative_result",
+    "node_text": "P(X∩Y) ≤ P(X)",
+    "quote": "P(X∩Y)≤P(X)"
+  },
+  {
+    "section_number": "2",
+    "node_type": "quantitative_result",
+    "node_text": "P(A|O1) = P(A∩O1) / P(O1)",
+    "quote": "P(A|O1) = P(A∩O1) / P(O1)"
+  },
+  {
+    "section_number": "2",
+    "node_type": "quantitative_result",
+    "node_text": "P(A|O) = P(A∩O) / (P(A∩O) + P(B∩O))",
+    "quote": "P(A|O) = P(A∩O) / P(A∩O) +P(B∩O)"
+  },
+  {
+    "section_number": "2",
+    "node_type": "quantitative_result",
+    "node_text": "P(A|O) = 1 / (1 + P(B∩O)/P(A∩O))",
+    "quote": "P(A|O) = 1 / 1 +P(B∩O)/P(A∩O)"
+  },
+  {
+    "section_number": "4.5",
+    "node_type": "quantitative_result",
+    "node_text": "Bayes factor of 13.48 in favor of LL",
+    "quote": "a Bayes factor of 13.48 in favor of LL"
+  },
+  {
+    "section_number": "4.5.4",
+    "node_type": "quantitative_result",
+    "node_text": "mean nμ and variance nσ2 for the number of people infected in total by n people outside of HSM",
+    "quote": "If we consider a protocluster of n cases at one location (outside of HSM), the number of people infected in total by those n people has mean nμ and variance nσ2"
+  },
+  {
+    "section_number": "4.5.4",
+    "node_type": "quantitative_result",
+    "node_text": "p ≈ √(5√τn) exp(-n/10) when μ = σ",
+    "quote": "Trying a few values of n, we get p≈ √(5√τn) exp(-n/10)"
+  },
+  {
+    "section_number": "4.5.4",
+    "node_type": "quantitative_result",
+    "node_text": "10.4% probability for n = 10",
+    "quote": "Trying a few values of n, we get n p ... 10 10 .4 %"
+  },
+  {
+    "section_number": "4.5.4",
+    "node_type": "quantitative_result",
+    "node_text": "2.7% probability for n = 20",
+    "quote": "Trying a few values of n, we get n p ... 20 2 .7%"
+  },
+  {
+    "section_number": "4.5.4",
+    "node_type": "quantitative_result",
+    "node_text": "0.81% probability for n = 30",
+    "quote": "Trying a few values of n, we get n p ... 30 0 .81%"
+  },
+  {
+    "section_number": "4.5.4",
+    "node_type": "quantitative_result",
+    "node_text": "0.26% probability for n = 40",
+    "quote": "Trying a few values of n, we get n p ... 40 0 .26%"
+  },
+  {
+    "section_number": "4.5.4",
+    "node_type": "quantitative_result",
+    "node_text": "0.085% probability for n = 50",
+    "quote": "Trying a few values of n, we get n p ... 50 0 .085%"
+  },
+  {
+    "section_number": "4.5.6",
+    "node_type": "quantitative_result",
+    "node_text": "128 or 245 or 500 sick people going around Wuhan at the time of the HSM primary case",
+    "quote": "If there are 128 or 245 or 500 sick people going around Wuhan at the time of the HSM primary case, shouldn't we expect other large SSEs to start popping up in other locations?"
+  },
+  {
+    "section_number": "5.1",
+    "node_type": "quantitative_result",
+    "node_text": "2 successive mutations",
+    "quote": "when this does happen, it is usually because an early infection underwent two successive mutations rapidly"
+  },
+  {
+    "section_number": "7.3",
+    "node_type": "quantitative_result",
+    "node_text": "P(H|LL) = 1 / 1.2·10^7",
+    "quote": "P (H|LL) = 1 / 1.2· 10^7"
+  },
+  {
+    "section_number": "B.1",
+    "node_type": "quantitative_result",
+    "node_text": "2 people who became infected indirectly",
+    "quote": "\"Visitor\" includes ... 2 people who became infected indirectly"
+  }
+]

@@ -1,0 +1,50 @@
+B.2  Map of HSM, west half
+
+I have only found one map of HSM which labels the individual stalls; I have included the
+west half in figure 12.
+Shown in figure 12 is the west half of the HSM market. ⟦1⟧ ⟦2⟧ The market is organized into streets or
+alleys which are numbered 1 to 15; ⟦3⟧ each alley has many individual shops. Here the numbers
+are given on a regular grid, but in the WHO report ⟦4⟧ ⟦5⟧ ⟦6⟧ some shops span multiple grid cells, and
+thus presumably have multiple numbers. ⟦7⟧ ⟦8⟧ ⟦9⟧ I have used the locations of cases as marked on the
+WHO map and compared those locations with this map to identify the stall numbers of those
+cases; ⟦10⟧ ⟦11⟧ ⟦12⟧ the results were in quite good agreement with other sources that reported early cases
+by stall numbers. ⟦13⟧ ⟦14⟧ ⟦15⟧ ⟦16⟧ ⟦17⟧ ⟦18⟧ I think this map is erroneous in prefixing an 'X' on stall numbers in alley
+13. ⟦19⟧ ⟦20⟧ ⟦21⟧ ⟦22⟧ ⟦23⟧ ⟦24⟧ I think this map is not to scale. ⟦25⟧ ⟦26⟧ Orange-red shading are locations with environmental
+samples positive for covid; ⟦27⟧ ⟦28⟧ sky blue for those with environmental samples which were all
+negative. ⟦29⟧ ⟦30⟧ ⟦31⟧ Unshaded locations had no environmental samples. ⟦32⟧ This is taken from figure S1B
+of [12].
+Figure 12: See text of section B.2.
+
+Claims:
+⟦1⟧ [EVIDENCE] The HSM market is organized into streets or alleys which are numbered 1 to 15
+⟦2⟧ [QUANTITATIVE_RESULT] 15 alleys in the HSM market
+⟦3⟧ [EVIDENCE] Each alley in the HSM market has many individual shops
+⟦4⟧ [EVIDENCE] Some shops in the HSM market span multiple grid cells and thus presumably have multiple numbers
+⟦5⟧ [LIMITATION] Some shops in the HSM market span multiple grid cells and have multiple numbers
+⟦6⟧ [QUANTITATIVE_RESULT] multiple grid cells for some shops
+⟦7⟧ [ANALYSIS] The author compared the locations of cases marked on the WHO map with the map in figure 12 to identify stall numbers of cases.
+⟦8⟧ [ASSUMPTION] The locations of cases as marked on the WHO map are accurate.
+⟦9⟧ [RESEARCH_QUESTION] What are the stall numbers of the early COVID-19 cases in the HSM market?
+⟦10⟧ [ANALYSIS] The author found the results of comparing the locations of cases on the two maps to be in quite good agreement with other sources that reported early cases by stall numbers.
+⟦11⟧ [ASSUMPTION] The map of HSM is accurate enough to identify the stall numbers of early cases.
+⟦12⟧ [EVIDENCE] The locations of cases as marked on the WHO map are in quite good agreement with other sources that reported early cases by stall numbers
+⟦13⟧ [ANALYSIS] The author believes the map of the HSM market is erroneous in prefixing an 'X' on stall numbers in alley 13.
+⟦14⟧ [ASSUMPTION] The prefix 'X' on stall numbers in alley 13 is erroneous.
+⟦15⟧ [EVIDENCE] The map of HSM in figure 12 is erroneous in prefixing an 'X' on stall numbers in alley 13
+⟦16⟧ [HYPOTHESIS] The map of HSM is erroneous in prefixing an 'X' on stall numbers in alley 13
+⟦17⟧ [LIMITATION] The map of HSM may have erroneous stall number labels in alley 13
+⟦18⟧ [RESEARCH_QUESTION] What is the accuracy of the HSM market map in figure 12?
+⟦19⟧ [ANALYSIS] The author's map of the HSM market is not to scale.
+⟦20⟧ [ASSUMPTION] The map is not to scale.
+⟦21⟧ [EVIDENCE] The map of HSM in figure 12 is not to scale
+⟦22⟧ [HYPOTHESIS] The map of HSM is not to scale
+⟦23⟧ [LIMITATION] The map of HSM may not be to scale
+⟦24⟧ [RESEARCH_QUESTION] Is the HSM market map in figure 12 to scale?
+⟦25⟧ [ASSUMPTION] Environmental samples positive for covid are accurately represented by orange-red shading.
+⟦26⟧ [EVIDENCE] Orange-red shading on the map indicates locations with environmental samples positive for covid
+⟦27⟧ [ASSUMPTION] Environmental samples which were all negative are accurately represented by sky blue shading.
+⟦28⟧ [EVIDENCE] Sky blue shading on the map indicates locations with environmental samples which were all negative
+⟦29⟧ [ASSUMPTION] Unshaded locations had no environmental samples taken.
+⟦30⟧ [EVIDENCE] Unshaded locations on the map had no environmental samples
+⟦31⟧ [LIMITATION] There are unshaded locations on the map with no environmental samples
+⟦32⟧ [EVIDENCE] The map data is taken from figure S1B of [12]

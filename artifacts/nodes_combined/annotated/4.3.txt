@@ -1,0 +1,90 @@
+4.3  Where is a person?
+
+⟦1⟧ The distinction between residents at HSM (by which we mean any person who returns to
+HSM on a daily basis, which includes vendors, other staff, and daily shoppers) and visitors
+is at times subtle yet impactful. With ⟦2⟧ ⟦3⟧ estimated 1200 residents and ⟦4*⟧ ⟦5*⟧ perhaps 50000 weekly 39
+unique visitors [7], ⟦6⟧ these subpopulations disagree by a factor of 40; most of our analysis
+scales linearly with population size, ⟦7⟧ ⟦8⟧ so ⟦9⟧ using the wrong subpopulation introduces an error of
+40 times.
+We can imagine making a list of all people in Wuhan, and all locations in Wuhan where
+that person might be. ⟦10⟧ The typical person will be strongly associated with two places, their
+home and their work, 40 with weaker associations with many other places (eg markets they
+shop at). ⟦11*⟧ Instead of talking about the index case as being a specific person, we could refer
+to an "index location" where the first case cluster arises. ⟦12⟧ Looking at transmission from
+location to location is much harder than person to person because locations vary wildly
+in how prominent they are: locations associated with more people will of course have a
+38⟦13⟧ ⟦14⟧ if we assume that zoonotic spillover didn't occur at a different location and then come to HSM
+39I use weekly throughout as that is roughly the time scale over which a person is infectious with covid.
+40This gives rise to the term "third place" to mean a location where one regularly goes to freely socialize;
+a characteristic feature of such a place being that one can spontaneously interact with people there without
+requiring advance planning.
+much higher chance of having outbreaks. ⟦15⟧ ⟦16⟧ ⟦17⟧ ⟦18⟧ ⟦19⟧ To a first order, we can scale the probability of
+an outbreak occurring at a location by the size of that location's subpopulation. ⟦20⟧ Doing so
+may require ⟦21⟧ introducing a factor of roughly 2 to account for the fact that ⟦22⟧ ⟦23⟧ ⟦24⟧ most people are
+strongly associated with 2 locations. (We will frequently just ignore this factor of 2.) ⟦25⟧ If we
+include all the weekly visitors at HSM as part of its population, ⟦26⟧ then we must use a much
+larger adjustment factor, as the typical person is a visitor of many more than 2 locations.
+⟦27⟧ While the initial outbreak at HSM includes both residents and visitors (and people who
+were neither, but instead indirectly linked to HSM), ⟦28*⟧ ⟦29*⟧ ⟦30*⟧ ⟦31*⟧ ⟦32*⟧ for most purposes what is relevant is
+the resident population, because the epidemiological "center" of the outbreak is amongst the
+residents. Throughout this analysis I will take care with which subpopulation I use, but not
+go into detail of my reasoning each time.
+In section 4.5 we will see ⟦33*⟧ Rootclaim's argument that HSM was a likely place for an earlier
+outbreak to arise; a key part of that argument is the observation that ⟦34*⟧ HSM has "permanent
+residents". In contrast, consider for example a train: ⟦35⟧ an outbreak on a train will likely
+be between visitors (ie passengers) who will mostly not return to the same train for further
+transmission. To a first order, this is appropriately accounted for by the fact that we scale the
+relevance of a location with the number of residents it has;⟦36*⟧  ⟦37*⟧ ⟦38*⟧ ⟦39*⟧ for a train, the "residents" would
+be the train staff, which is quite a small number compared to the number of residents at
+HSM, so we'd expect an outbreakamong train staff to be proportionately less likely than one
+among HSM residents. ⟦40⟧ ⟦41⟧ ⟦42⟧ This expectation does a poor job of representing a super-spreading
+event that could happen among train passengers without involving the staff. ⟦43⟧ However since
+the real-world HSM outbreak is unambiguously centered on HSM residents, we don't have
+to think too hard about how best to model such scenarios.
+
+Claims:
+⟦1⟧ [RESEARCH_QUESTION] What is the difference between residents and visitors at HSM in the context of COVID-19 transmission?
+⟦2⟧ [EVIDENCE] HSM has an estimated 1200 residents
+⟦3⟧ [QUANTITATIVE_RESULT] 1200 residents at HSM
+⟦4*⟧ [EVIDENCE] HSM has approximately 50,000 weekly unique visitors
+⟦5*⟧ [QUANTITATIVE_RESULT] 50000 weekly unique visitors at HSM
+⟦6⟧ [QUANTITATIVE_RESULT] factor of 40 difference between residents and visitors at HSM
+⟦7⟧ [ANALYSIS] Using the wrong subpopulation introduces an error of 40 times because most of the analysis scales linearly with population size, and the subpopulations of residents at HSM and visitors disagree by a factor of 40.
+⟦8⟧ [LIMITATION] Using the wrong subpopulation introduces an error of 40 times due to the difference in population size between residents and visitors at HSM
+⟦9⟧ [QUANTITATIVE_RESULT] error of 40 times when using wrong subpopulation
+⟦10⟧ [EVIDENCE] The typical person is strongly associated with two places, their home and their work
+⟦11*⟧ [HYPOTHESIS] The COVID-19 outbreak originated from an index location where the first case cluster arises
+⟦12⟧ [LIMITATION] Transmission from location to location is much harder to analyze than person to person due to varying location prominence
+⟦13⟧ [ASSUMPTION] Zoonotic spillover did not occur at a different location and then come to HSM
+⟦14⟧ [HYPOTHESIS] The COVID-19 outbreak originated from an animal source at a location other than HSM and then spread to HSM
+⟦15⟧ [ANALYSIS] The probability of an outbreak occurring at a location can be scaled by the size of that location's subpopulation, with an adjustment factor of roughly 2 to account for the fact that most people are strongly associated with 2 locations.
+⟦16⟧ [ASSUMPTION] The probability of an outbreak occurring at a location can be scaled by the size of that location's subpopulation
+⟦17⟧ [EVIDENCE] The probability of an outbreak occurring at a location can be scaled by the size of that location's subpopulation
+⟦18⟧ [HYPOTHESIS] The probability of an outbreak occurring at a location is scaled by the size of that location's subpopulation
+⟦19⟧ [RESEARCH_QUESTION] How does the size of a location's subpopulation affect the probability of an outbreak occurring at that location?
+⟦20⟧ [LIMITATION] The analysis may require introducing a factor of roughly 2 to account for the fact that most people are strongly associated with 2 locations
+⟦21⟧ [QUANTITATIVE_RESULT] factor of 2 to account for people being associated with 2 locations
+⟦22⟧ [ASSUMPTION] Most people are strongly associated with 2 locations
+⟦23⟧ [EVIDENCE] Most people are strongly associated with 2 locations
+⟦24⟧ [QUANTITATIVE_RESULT] 2 locations strongly associated with a typical person
+⟦25⟧ [ANALYSIS] Including all weekly visitors at HSM as part of its population requires a much larger adjustment factor because the typical person is a visitor of many more than 2 locations.
+⟦26⟧ [LIMITATION] The adjustment factor for including weekly visitors at HSM as part of its population is uncertain and may be much larger than expected
+⟦27⟧ [EVIDENCE] HSM's initial outbreak includes both residents and visitors
+⟦28*⟧ [ANALYSIS] The resident population of HSM is more relevant to the epidemiological center of the outbreak than the visitor population.
+⟦29*⟧ [ASSUMPTION] The epidemiological center of the outbreak is amongst the residents
+⟦30*⟧ [EVIDENCE] The epidemiological center of the outbreak is amongst HSM residents
+⟦31*⟧ [LIMITATION] The epidemiological analysis focuses on the resident population, which may not fully capture the dynamics of the outbreak
+⟦32*⟧ [RESEARCH_QUESTION] What is the relevance of the resident population versus the visitor population in understanding the epidemiological center of the outbreak at HSM?
+⟦33*⟧ [HYPOTHESIS] HSM was a likely place for an earlier outbreak to arise due to its 'permanent residents'
+⟦34*⟧ [EVIDENCE] HSM has permanent residents
+⟦35⟧ [HYPOTHESIS] An outbreak on a train will likely be between visitors who will mostly not return to the same train for further transmission
+⟦36*⟧ [ASSUMPTION] The number of residents at a location is a relevant factor in determining the likelihood of an outbreak
+⟦37*⟧ [ANALYSIS] The likelihood of an outbreak at a location is proportionately less likely among train staff than among HSM residents because the number of residents at HSM is much larger than the number of train staff.
+⟦38*⟧ [EVIDENCE] A train has a small number of residents, namely the train staff
+⟦39*⟧ [RESEARCH_QUESTION] How can the likelihood of an outbreak be accounted for in locations with a small number of residents, such as a train, versus locations with a large number of residents, such as HSM?
+⟦40⟧ [ANALYSIS] Scaling the relevance of a location with the number of residents it has does a poor job of representing a super-spreading event that could happen among train passengers without involving the staff.
+⟦41⟧ [LIMITATION] The scaling of location relevance by resident population size does a poor job of representing super-spreading events among non-resident populations
+⟦42⟧ [RESEARCH_QUESTION] How can super-spreading events among visitors, such as train passengers, be modeled and accounted for in the context of COVID-19 transmission?
+⟦43⟧ [HYPOTHESIS] A super-spreading event could happen among train passengers without involving the staff
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

@@ -1,0 +1,39 @@
+5.7  12 nucleotide insert at FCS
+
+As shown in section 1.2.2, ⟦1⟧ ⟦2⟧ sars-cov-2 has 12 extra nucleotides at the FCS when compared to
+the most closely known bat viruses, such as banal-20-52.
+⟦3⟧ Certainly this looks suspicious, but ⟦4⟧ there is a lack of definite information to say anything
+more than that. ⟦5⟧ ⟦6⟧ ⟦7⟧ ⟦8⟧ There is no particular reason that this mutation could not have evolved by
+chance. ⟦9⟧ ⟦10⟧ ⟦11⟧ The only thing odd about this insert is how large of a change it is compared to the
+smaller changes elsewhere in the genome; however, ⟦12⟧ ⟦13⟧ ⟦14⟧ ⟦15⟧ we do expect the S1/S2 boundary region
+to be under high evolutionary pressure, especially as the virus crosses species into mammal
+hosts that could make use of the FCS.
+⟦16⟧ ⟦17⟧ ⟦18⟧ ⟦19⟧ While ⟦20⟧ banal-20-52 is the closest known virus, it is not close enough to make the kind of
+comparison that Rootclaim seeks to do with sars-cov-2. ⟦21⟧ ⟦22⟧ ⟦23⟧ ⟦24⟧ The two viruses are separated by
+decades of evolutionary time and likely multiple recombination events with other viruses.
+
+Claims:
+⟦1⟧ [EVIDENCE] SARS-CoV-2 has 12 extra nucleotides at the FCS compared to the most closely known bat viruses, such as Banal-20-52
+⟦2⟧ [QUANTITATIVE_RESULT] 12 extra nucleotides at the FCS in sars-cov-2 compared to the most closely known bat viruses
+⟦3⟧ [ANALYSIS] The 12 nucleotide insert at the FCS in sars-cov-2 compared to banal-20-52 is suspicious, but may have evolved by chance.
+⟦4⟧ [LIMITATION] lack of definite information about the 12 nucleotide insert at the FCS in sars-cov-2
+⟦5⟧ [ASSUMPTION] The 12 nucleotide insert at the FCS in sars-cov-2 could have evolved by chance.
+⟦6⟧ [HYPOTHESIS] The 12 nucleotide insert at the FCS in SARS-CoV-2 could have evolved by chance.
+⟦7⟧ [LIMITATION] uncertainty about whether the 12 nucleotide insert at the FCS in sars-cov-2 could have evolved by chance
+⟦8⟧ [RESEARCH_QUESTION] Could the 12 nucleotide insert at the FCS in SARS-CoV-2 have evolved by chance?
+⟦9⟧ [ANALYSIS] The 12 nucleotide insert at the FCS in sars-cov-2 is a large change compared to smaller changes elsewhere in the genome.
+⟦10⟧ [EVIDENCE] The 12 nucleotide insert at the FCS is a large change compared to smaller changes elsewhere in the SARS-CoV-2 genome
+⟦11⟧ [RESEARCH_QUESTION] Why is the 12 nucleotide insert at the FCS in SARS-CoV-2 larger than other changes in the genome?
+⟦12⟧ [ANALYSIS] The S1/S2 boundary region of sars-cov-2 is under high evolutionary pressure, especially when crossing species into mammal hosts that could make use of the FCS.
+⟦13⟧ [ASSUMPTION] The S1/S2 boundary region is under high evolutionary pressure, especially as the virus crosses species into mammal hosts that could make use of the FCS.
+⟦14⟧ [EVIDENCE] The S1/S2 boundary region of SARS-CoV-2 is under high evolutionary pressure, especially when crossing species into mammal hosts
+⟦15⟧ [HYPOTHESIS] The 12 nucleotide insert at the FCS in SARS-CoV-2 is under high evolutionary pressure, especially as the virus crosses species into mammal hosts.
+⟦16⟧ [ANALYSIS] Banal-20-52 is not close enough to sars-cov-2 to make a meaningful comparison, due to decades of evolutionary time and multiple recombination events with other viruses.
+⟦17⟧ [ASSUMPTION] Banal-20-52 is the closest known virus to sars-cov-2 for comparison purposes.
+⟦18⟧ [ASSUMPTION] The comparison sought by Rootclaim between sars-cov-2 and banal-20-52 requires a closer evolutionary relationship than what exists between the two viruses.
+⟦19⟧ [RESEARCH_QUESTION] Can the comparison between SARS-CoV-2 and banal-20-52 provide insight into the origins of SARS-CoV-2?
+⟦20⟧ [LIMITATION] banal-20-52 is not close enough to sars-cov-2 to make a meaningful comparison
+⟦21⟧ [ANALYSIS] The difference between sars-cov-2 and banal-20-52 is due to decades of evolutionary time and likely multiple recombination events with other viruses.
+⟦22⟧ [ASSUMPTION] Sars-cov-2 and banal-20-52 are separated by decades of evolutionary time and likely multiple recombination events with other viruses.
+⟦23⟧ [EVIDENCE] Banal-20-52 is separated from SARS-CoV-2 by decades of evolutionary time and likely multiple recombination events with other viruses
+⟦24⟧ [LIMITATION] separation of sars-cov-2 and banal-20-52 by decades of evolutionary time and multiple recombination events

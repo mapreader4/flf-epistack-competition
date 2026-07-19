@@ -86,6 +86,14 @@ def main() -> None:
 
     sections_meta = json.loads((ROOT / "data" / "sections.json").read_text(encoding="utf-8"))
     claims = json.loads(Path(args.claims).read_text(encoding="utf-8"))
+    # epistemic_node_extraction.py's typed artifacts (artifacts/{limitation,assumption,...}/*.json)
+    # share this exact schema but call the two claims.json-specific fields
+    # node_id/node_text instead of claim_id/claim_text -- normalize rather than
+    # forking this script per schema.
+    for c in claims:
+        if "claim_text" not in c and "node_text" in c:
+            c["claim_text"] = f"[{c.get('node_type', '?').upper()}] {c['node_text']}"
+            c["claim_id"] = c.get("node_id", c.get("claim_id"))
     sections = recover_sections()
 
     by_section: dict[str, list[dict]] = {}

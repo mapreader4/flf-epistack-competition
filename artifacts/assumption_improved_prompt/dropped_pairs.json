@@ -1,0 +1,38 @@
+[
+  {
+    "section_number": "1.1",
+    "node_type": "assumption",
+    "node_text": "The Huanan Seafood Wholesale Market (HSM) was associated with some of the pneumonia cases of unknown cause.",
+    "quote": "at least some of whom were associated with the Huanan 7 Seafood Wholesale Market (hereafter \"HSM\")"
+  },
+  {
+    "section_number": "1.2.1",
+    "node_type": "assumption",
+    "node_text": "The wild virus most closely related to sars-cov-2 is banal-20-52, a sample collected from a bat (dropping) in Laos.",
+    "quote": "The wild virus most closely related to sars-cov-2 is banal-20-52 [30], a sample collected from a bat (dropping) in Laos"
+  },
+  {
+    "section_number": "1.3",
+    "node_type": "assumption",
+    "node_text": "Only the information provided through the debate, debate material, and references therein may be considered.",
+    "quote": "Only the information provided through the debate, debate material, and references therein may be considered;"
+  },
+  {
+    "section_number": "3.2",
+    "node_type": "assumption",
+    "node_text": "The prior probability of the lab-leak hypothesis is 0.2321",
+    "quote": "which was taken to be 0 .2321"
+  },
+  {
+    "section_number": "4.1",
+    "node_type": "assumption",
+    "node_text": "Disease transmission is a physical process that requires proximity.",
+    "quote": "As most individuals generally stay in roughly one area on the surface of the Earth during their illness, the contact graph becomes approximately two-dimensional."
+  },
+  {
+    "section_number": "4.5",
+    "node_type": "assumption",
+    "node_text": "Hospitals are often nexuses of outbreaks early in a pandemic",
+    "quote": "Hospitals, while usually well-ventilated, are often nexuses of outbreaks early in a pandemic"
+  }
+]

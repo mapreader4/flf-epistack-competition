@@ -1,0 +1,62 @@
+5.3  CGGCGG
+
+Much attention has been drawn to the sars-cov-2 FCS, shown below as found in the Wuhan-
+Hu-1 reference sample [25]:
+⟦1⟧ CAG ACT CAG ACT AAT TCT CCT CGG CGG GCA CGT AGT GTA GCT AGT
+Q T Q T N S P R R A R S V A S
+⟦2⟧ Recall the RRAR sequence is the FCS, with the putative insert relative to the closest known
+viruses being T CCT CGG CGG GC (or perhaps CCT CGG CGG GCA ).
+There are six different codons that code the arginine amino acid; in sars-cov-2 and similar
+viruses, ⟦3⟧ ⟦4⟧ CGG is the rarest of the six possible encodings of arginine, at only 3-5%. ⟦5⟧ ⟦6⟧ ⟦7⟧ ⟦8⟧ Rootclaim
+argues that this is evidence against a natural origin to the FCS, as it has two consecutive
+CGG codons.
+⟦9⟧ However, ⟦10⟧ ⟦11⟧ ⟦12⟧ ⟦13⟧ ⟦14⟧ I would not expect a priori the codon frequency in an insert to match that of
+the surrounding genome, but rather to reflect the frequency of the source of the fragment;
+⟦15⟧ note that CGG is the most common encoding of arginine in humans, for example. ⟦16⟧ ⟦17⟧ The main
+reason CGG is rare in sars-like viruses is that there is a mutational bias against the C and G
+nucleotides; ⟦18⟧ ⟦19⟧ C is the rarest at 18.4% of nucleotides in Wuhan-Hu-1, ⟦20⟧ followed by G at 19.6%,
+⟦21⟧ whereas A has 29.9% ⟦22⟧ and T has 32.1% [25]. ⟦23⟧ ⟦24⟧ ⟦25⟧ After a fragment from an outside source has
+been inserted, it takes time for this mutational bias to impact the novel fragment.
+⟦26⟧ ⟦27⟧ Furthermore, if the fragment was inserted naturally, we do not know if the source had the
+same alignment, or even was a coding region at all. ⟦28⟧ ⟦29⟧ ⟦30⟧ ⟦31⟧ We would have to analyze the frequency
+of the non-aligned codons to properly assess the likelihood of the CGGCGG sequence from a
+natural source.
+⟦32⟧ ⟦33⟧ ⟦34⟧ ⟦35⟧ I do not see any particular significance to the CGGCGG sequence. It is slightly odd, but one
+expects to observe many slightly odd things through random chance.
+
+Claims:
+⟦1⟧ [EVIDENCE] The sars-cov-2 FCS is CAG ACT CAG ACT AAT TCT CCT CGG CGG GCA CGT AGT GTA GCT AGT in the Wuhan-Hu-1 reference sample
+⟦2⟧ [EVIDENCE] The RRAR sequence is the FCS, with the putative insert relative to the closest known viruses being T CCT CGG CGG GC
+⟦3⟧ [EVIDENCE] CGG is the rarest of the six possible encodings of arginine in sars-cov-2 and similar viruses, at only 3-5%
+⟦4⟧ [QUANTITATIVE_RESULT] 3-5% frequency of CGG codon in sars-cov-2 and similar viruses
+⟦5⟧ [ANALYSIS] The presence of two consecutive CGG codons in the FCS of sars-cov-2 is evidence against a natural origin, according to Rootclaim, because CGG is the rarest of the six possible encodings of arginine in sars-cov-2 and similar viruses.
+⟦6⟧ [HYPOTHESIS] The sars-cov-2 FCS has a non-natural origin, specifically a lab-leak origin
+⟦7⟧ [HYPOTHESIS] The CGGCGG sequence in the sars-cov-2 FCS is significant evidence against a natural origin
+⟦8⟧ [RESEARCH_QUESTION] Is the CGGCGG sequence evidence against a natural origin of the FCS?
+⟦9⟧ [HYPOTHESIS] The sars-cov-2 FCS has a natural origin
+⟦10⟧ [ANALYSIS] The codon frequency in an insert may not match that of the surrounding genome, but rather reflect the frequency of the source of the fragment.
+⟦11⟧ [ASSUMPTION] The codon frequency in an insert does not necessarily match that of the surrounding genome.
+⟦12⟧ [ASSUMPTION] The frequency of the codon CGG in an insert reflects the frequency of the source of the fragment.
+⟦13⟧ [LIMITATION] The codon frequency in an insert may not match that of the surrounding genome, but rather reflect the frequency of the source of the fragment.
+⟦14⟧ [RESEARCH_QUESTION] How does the codon frequency in an insert reflect the frequency of the source of the fragment?
+⟦15⟧ [EVIDENCE] CGG is the most common encoding of arginine in humans
+⟦16⟧ [ANALYSIS] The rarity of CGG in sars-like viruses is due to a mutational bias against the C and G nucleotides.
+⟦17⟧ [ASSUMPTION] There is a mutational bias against the C and G nucleotides in sars-like viruses.
+⟦18⟧ [EVIDENCE] The frequency of nucleotides in Wuhan-Hu-1 is C at 18.4%, G at 19.6%, A at 29.9%, and T at 32.1%
+⟦19⟧ [QUANTITATIVE_RESULT] 18.4% frequency of C nucleotides in Wuhan-Hu-1
+⟦20⟧ [QUANTITATIVE_RESULT] 19.6% frequency of G nucleotides in Wuhan-Hu-1
+⟦21⟧ [QUANTITATIVE_RESULT] 29.9% frequency of A nucleotides in Wuhan-Hu-1
+⟦22⟧ [QUANTITATIVE_RESULT] 32.1% frequency of T nucleotides in Wuhan-Hu-1
+⟦23⟧ [ANALYSIS] After a fragment from an outside source has been inserted, it takes time for the mutational bias to impact the novel fragment.
+⟦24⟧ [ASSUMPTION] It takes time for the mutational bias to impact a novel fragment inserted from an outside source.
+⟦25⟧ [LIMITATION] The mutational bias against C and G nucleotides in sars-like viruses may not immediately impact a newly inserted fragment.
+⟦26⟧ [ASSUMPTION] The source of a naturally inserted fragment may not have the same alignment or be a coding region.
+⟦27⟧ [LIMITATION] The source of a naturally inserted fragment may not have the same alignment or be a coding region at all, making it difficult to assess the likelihood of the CGGCGG sequence.
+⟦28⟧ [ANALYSIS] The likelihood of the CGGCGG sequence from a natural source cannot be properly assessed without analyzing the frequency of non-aligned codons.
+⟦29⟧ [ASSUMPTION] The likelihood of the CGGCGG sequence from a natural source can only be properly assessed by analyzing the frequency of non-aligned codons.
+⟦30⟧ [LIMITATION] Analyzing the frequency of non-aligned codons is necessary to properly assess the likelihood of the CGGCGG sequence from a natural source.
+⟦31⟧ [RESEARCH_QUESTION] What is the likelihood of the CGGCGG sequence from a natural source?
+⟦32⟧ [ANALYSIS] The presence of the CGGCGG sequence in sars-cov-2 is not particularly significant and can be expected to occur through random chance.
+⟦33⟧ [HYPOTHESIS] The CGGCGG sequence in the sars-cov-2 FCS is not significant evidence against a natural origin
+⟦34⟧ [LIMITATION] The significance of the CGGCGG sequence may be due to random chance, and many slightly odd things are expected to be observed through random chance.
+⟦35⟧ [RESEARCH_QUESTION] What is the significance of the CGGCGG sequence in the sars-cov-2 FCS?

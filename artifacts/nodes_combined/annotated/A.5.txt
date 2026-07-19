@@ -1,0 +1,40 @@
+A.5  Early mutation rate
+
+⟦1⟧ ⟦2⟧ ⟦3⟧ ⟦4⟧ ⟦5⟧ Naively one expects that the mutation rate of a virus would be greatest immediately after
+jumping species. ⟦6⟧ ⟦7⟧ ⟦8⟧ In principle this could be used to distinguish a zoonotic origin from a virus
+that had been pre-adapted to a human host in the lab.
+⟦9*⟧ ⟦10*⟧ In the proposal for Project DEFUSE, viruses would be evaluated based on disease they
+cause in "humanized mice", ⟦11⟧ ie mice with human ACE2 receptors [14]. ⟦12⟧ While the result of
+this filtering process would be better adapted to humans than wild viruses, ⟦13⟧ ⟦14⟧ ⟦15⟧ ⟦16⟧ ⟦17⟧ the effect would
+presumably be confined to the receptor binding domain of sars-cov-2; ⟦18⟧ ⟦19⟧ the rest of the virus
+would not be selected for being specialized for human hosts. ⟦20⟧ ⟦21⟧ ⟦22⟧ ⟦23⟧ ⟦24⟧ Therefore I do not expect the
+early mutation rate to be useful in distinguishing the hypotheses without significant and
+very technical investigation.
+
+Claims:
+⟦1⟧ [ANALYSIS] The mutation rate of a virus is expected to be greatest immediately after jumping species, which could be used to distinguish a zoonotic origin from a lab-leak origin.
+⟦2⟧ [ASSUMPTION] The mutation rate of a virus is greatest immediately after jumping species.
+⟦3⟧ [EVIDENCE] The mutation rate of a virus is greatest immediately after jumping species.
+⟦4⟧ [HYPOTHESIS] The mutation rate of a virus is greatest immediately after jumping species, which could distinguish a zoonotic origin from a lab-leak origin.
+⟦5⟧ [RESEARCH_QUESTION] What is the mutation rate of a virus immediately after jumping species?
+⟦6⟧ [ASSUMPTION] A virus that had been pre-adapted to a human host in the lab would have a different mutation rate than a zoonotic origin virus.
+⟦7⟧ [HYPOTHESIS] A virus that had been pre-adapted to a human host in the lab would have a different mutation rate compared to a zoonotic origin.
+⟦8⟧ [RESEARCH_QUESTION] Can the early mutation rate distinguish a zoonotic origin from a virus that had been pre-adapted to a human host in the lab?
+⟦9*⟧ [EVIDENCE] Viruses would be evaluated based on disease they cause in humanized mice in Project DEFUSE.
+⟦10*⟧ [RESEARCH_QUESTION] How would the early mutation rate be affected by evaluating viruses based on disease they cause in humanized mice?
+⟦11⟧ [EVIDENCE] Humanized mice have human ACE2 receptors.
+⟦12⟧ [ANALYSIS] Evaluating viruses in humanized mice would result in viruses better adapted to humans than wild viruses, but only in terms of the receptor binding domain.
+⟦13⟧ [ANALYSIS] The effect of evaluating viruses in humanized mice would be confined to the receptor binding domain of sars-cov-2, and not the rest of the virus.
+⟦14⟧ [ASSUMPTION] The effect of evaluating viruses based on disease they cause in humanized mice would be confined to the receptor binding domain of sars-cov-2.
+⟦15⟧ [EVIDENCE] The effect of the filtering process in Project DEFUSE would be confined to the receptor binding domain of sars-cov-2.
+⟦16⟧ [LIMITATION] The effect of evaluating viruses in humanized mice would be confined to the receptor binding domain of sars-cov-2, and not the rest of the virus.
+⟦17⟧ [RESEARCH_QUESTION] Would the effect of evaluating viruses in humanized mice be confined to the receptor binding domain of sars-cov-2?
+⟦18⟧ [ASSUMPTION] The rest of the virus would not be selected for being specialized for human hosts during the filtering process in Project DEFUSE.
+⟦19⟧ [EVIDENCE] The rest of the virus would not be selected for being specialized for human hosts in Project DEFUSE.
+⟦20⟧ [ANALYSIS] The early mutation rate may not be useful in distinguishing between zoonotic and lab-leak hypotheses without significant and technical investigation.
+⟦21⟧ [ASSUMPTION] Significant and very technical investigation is necessary to determine the usefulness of the early mutation rate in distinguishing the hypotheses.
+⟦22⟧ [HYPOTHESIS] The early mutation rate is not useful in distinguishing between zoonotic and lab-leak hypotheses without significant and technical investigation.
+⟦23⟧ [LIMITATION] The early mutation rate may not be useful in distinguishing between zoonotic origin and lab-leak hypotheses without significant and very technical investigation.
+⟦24⟧ [RESEARCH_QUESTION] Is the early mutation rate useful in distinguishing the zoonotic origin and lab-leak hypotheses?
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

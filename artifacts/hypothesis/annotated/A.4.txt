@@ -1,0 +1,7 @@
+A.4  Missing N-glycans
+
+I lacked sufficient context to evaluate whether the missing N-glycans were strange, and if so,
+how unlikely they were to arise from random chance. Rootclaim only gave it a Bayes factor
+of 1.5 anyhow.
+
+(no claims extracted for this section)

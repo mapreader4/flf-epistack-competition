@@ -1,0 +1,121 @@
+4.5  Is covid attracted to HSM?
+
+⟦1*⟧ The simplistic model used in the previous subsection suggests that the early outbreak be-
+ing observed at HSM gives ⟦2⟧ a Bayes factor of 100 to 10000 in favor of Z over LL, but in
+Rootclaim's Bayesian calculation the location of the initial outbreak is counted as favoring
+LL by a Bayes factor of 13.48. 42 ⟦3⟧ This substantial discrepancy is largely due to a single
+factor which we have not included so far: ⟦4⟧ ⟦5⟧ ⟦6⟧ whether outbreaks are disproportionately likely
+to appear in HSM compared to other locations. ⟦7⟧ ⟦8⟧ ⟦9⟧ ⟦10⟧ Rootclaim estimated that, given that the
+first cluster appeared in Wuhan, ⟦11⟧ the chance of it being at HSM under LL is about 10% [7].
+⟦12⟧ ⟦13⟧ Since ⟦14⟧ residents at HSM are 0.01% of the population of Wuhan, ⟦15⟧ this is equivalent to saying
+that ⟦16⟧ ⟦17⟧ residents at HSM have 1000 times the chance of being the index case than the average
+Wuhan resident.43
+⟦18⟧ ⟦19⟧ I do not think there is a 1000 times tendency towards HSM, but a smaller number might be
+justifiable, so let us more carefully consider Rootclaim's argument.
+⟦20⟧ ⟦21⟧ ⟦22⟧ ⟦23⟧ The core of their argument is the claim that HSM gives uniquely good conditions for the
+spread of covid between vendors. ⟦24⟧ ⟦25⟧ They ⟦26*⟧ identify several properties:
+• "⟦27⟧ High traffic" ([1] at 3:12:00); ie, large number of unique weekly visitors
+• "⟦28⟧ Permanent residents" ([1] at 3:12:00); ie, people repeatedly return to the location
+• "Enclosed, poor ventilation" ([1] at 3:12:00)
+• "Density" ([5] at 2:30:40); unclear what this refers to
+• "Organic materials" ([5] at 2:14:36)
+• "Temperature" ([5] at 2:14:00)
+• "No UV radiation" ([5] at 2:14:00)
+⟦29⟧ ⟦30⟧ The idea is that ⟦31⟧ lots of people visit HSM, so even when there are few sick people in Wuhan
+there is a decent chance of one visiting the market; ⟦32⟧ then if a resident becomes sick, the
+resident will return to HSM to infect others; ⟦33⟧ and the growing cluster of cases at HSM will
+outpace infections elsewhere.
+⟦34⟧ ⟦35⟧ At an intuitive level these factors do not seem to especially highlight HSM: ⟦36⟧ ⟦37⟧ restaurants,
+schools and universities, dorms and apartment complexes, and community centers all seem
+comparable to HSM in these factors. Hospitals, while usually well-ventilated, are often
+42This factor comes entirely from the outbreak occurring in Wuhan, and thus proximate to the WIV, with
+the specific location in Wuhan being neutral between Z and LL.
+43⟦38⟧ This is difficult to reconcile with ⟦39⟧ their estimate elsewhere that ⟦40⟧ HSM is 10 to 4 times more likely than a
+typical place to be a superspreader location ([1] at 3:14:00).
+nexuses of outbreaks early in a pandemic. ⟦41⟧ Households are individually too small to have
+a significant chance of being the first cluster, but are collectively likely due to the large
+number of them and the quite high risk of transmission within a household. ⟦42⟧ Indeed the very
+first covid cluster detected was a household cluster consisting of an elderly couple and their
+asymptomatic son found by Dr Zhang; their connection to HSM was only identified later.
+⟦43⟧ (I am also modestly skeptical of how true or relevant some of these factors are for HSM. While
+⟦44⟧ I don't see any obvious flaw with Rootclaim's source [10] that ⟦45⟧ UV radiation is correlated with
+lower growth rate of covid, ⟦46⟧ ⟦47⟧ ⟦48⟧ I am very skeptical that there is any causative relationship; in
+any case, it is equally relevant for any indoors location. While more plausible than UV, ⟦49⟧ ⟦50⟧ ⟦51⟧ ⟦52⟧ the
+causative role of temperature in flu transmission remains uncertain, and covid likewise. ⟦53⟧ ⟦54⟧ ⟦55⟧ The
+presence of organic materials is mostly irrelevant to human-to-human transmission which is
+dominated by respiratory transmission, not fomite transmission.)
+⟦56*⟧ (As for the ventilation of HSM, ⟦57*⟧ based on photographs it appears to be not great but not
+uniquely bad; the end of each alley is open to the air, and ceilings are generally spa-
+cious. Being a semi-open-air structure I would think it is better ventilated than an en-
+closed building. ⟦58*⟧ However ⟦59*⟧ multiple independent first-hand accounts describe it as poorly-
+ventilated; I'm not sure if this is in comparison to other open-air structures or in general.
+A few parts of the structure, such as in the south-west, appear quite cramped and en-
+closed. The building had previously had a ventilation system but it was shut down. Ex-
+tensive pictures and videos can be found at http://babarlelephant.free-hoster.net/
+visiting-the-wuhan-seafood-market/ .)
+⟦60*⟧ (In section 4.3 I briefly discussed the relevance of having "permanent residents"; this warrants
+further consideration, but I lack the time.)
+
+Claims:
+⟦1*⟧ [ANALYSIS] The location of the initial outbreak at HSM gives a Bayes factor of 100 to 10000 in favor of the zoonosis hypothesis (Z) over the lab-leak hypothesis (LL) according to a simplistic model, but Rootclaim's Bayesian calculation counts it as favoring LL by a Bayes factor of 13.48.
+⟦2⟧ [QUANTITATIVE_RESULT] Bayes factor of 100 to 10000 in favor of Z over LL
+⟦3⟧ [ANALYSIS] The substantial discrepancy between the two Bayes factors is largely due to whether outbreaks are disproportionately likely to appear in HSM compared to other locations.
+⟦4⟧ [ASSUMPTION] COVID-19 is disproportionately likely to appear in HSM compared to other locations
+⟦5⟧ [HYPOTHESIS] COVID-19 is disproportionately likely to appear in HSM compared to other locations
+⟦6⟧ [RESEARCH_QUESTION] Is COVID-19 disproportionately likely to appear in HSM compared to other locations?
+⟦7⟧ [ANALYSIS] Rootclaim estimated that, given the first cluster appeared in Wuhan, the chance of it being at HSM under LL is about 10%.
+⟦8⟧ [EVIDENCE] Rootclaim estimated that the chance of the first cluster appearing at HSM under LL is about 10%
+⟦9⟧ [HYPOTHESIS] The chance of the first cluster being at HSM under the lab-leak hypothesis is about 10%
+⟦10⟧ [RESEARCH_QUESTION] What is the chance of the first cluster of COVID-19 cases being at HSM under the lab-leak hypothesis?
+⟦11⟧ [QUANTITATIVE_RESULT] 10% chance of the first cluster being at HSM under LL
+⟦12⟧ [ANALYSIS] Residents at HSM have 1000 times the chance of being the index case than the average Wuhan resident, according to Rootclaim's estimate.
+⟦13⟧ [EVIDENCE] Residents at HSM are 0.01% of the population of Wuhan
+⟦14⟧ [QUANTITATIVE_RESULT] 0.01% of the population of Wuhan are residents at HSM
+⟦15⟧ [HYPOTHESIS] Residents at HSM have 1000 times the chance of being the index case than the average Wuhan resident
+⟦16⟧ [ASSUMPTION] Residents at HSM have a higher chance of being the index case than the average Wuhan resident
+⟦17⟧ [QUANTITATIVE_RESULT] 1000 times the chance of being the index case for HSM residents compared to average Wuhan residents
+⟦18⟧ [ANALYSIS] The author thinks there might be a smaller tendency towards HSM, but not 1000 times.
+⟦19⟧ [LIMITATION] The estimate of HSM being 1000 times more likely to be the index case than the average Wuhan resident may not be accurate
+⟦20⟧ [ANALYSIS] Rootclaim's argument is based on the claim that HSM gives uniquely good conditions for the spread of covid between vendors due to several properties.
+⟦21⟧ [ASSUMPTION] HSM gives uniquely good conditions for the spread of COVID-19 between vendors
+⟦22⟧ [HYPOTHESIS] HSM gives uniquely good conditions for the spread of COVID-19 between vendors
+⟦23⟧ [RESEARCH_QUESTION] Do the conditions at HSM uniquely favor the spread of COVID-19 between vendors?
+⟦24⟧ [ANALYSIS] The properties identified by Rootclaim include high traffic, permanent residents, enclosed and poor ventilation, density, organic materials, temperature, and no UV radiation.
+⟦25⟧ [ASSUMPTION] High traffic, permanent residents, enclosed poor ventilation, density, organic materials, temperature, and no UV radiation contribute to the spread of COVID-19
+⟦26*⟧ [HYPOTHESIS] High traffic, permanent residents, enclosed poor ventilation, density, organic materials, temperature, and no UV radiation contribute to the spread of COVID-19 at HSM
+⟦27⟧ [EVIDENCE] HSM has high traffic, with a large number of unique weekly visitors
+⟦28⟧ [EVIDENCE] HSM has permanent residents who repeatedly return to the location
+⟦29⟧ [ANALYSIS] The idea is that the combination of these properties at HSM increases the chance of an outbreak occurring and spreading.
+⟦30⟧ [RESEARCH_QUESTION] What is the relevance of having permanent residents at HSM to the spread of COVID-19?
+⟦31⟧ [ASSUMPTION] Lots of people visiting HSM increases the chance of a sick person visiting the market
+⟦32⟧ [ASSUMPTION] A resident becoming sick at HSM will return to HSM to infect others
+⟦33⟧ [ASSUMPTION] The growing cluster of cases at HSM will outpace infections elsewhere
+⟦34⟧ [ANALYSIS] The author thinks that other locations, such as restaurants, schools, and community centers, have comparable properties to HSM and could also be potential outbreak locations.
+⟦35⟧ [LIMITATION] The factors identified by Rootclaim may not be unique to HSM
+⟦36⟧ [ASSUMPTION] Restaurants, schools and universities, dorms and apartment complexes, and community centers are comparable to HSM in terms of factors contributing to the spread of COVID-19
+⟦37⟧ [HYPOTHESIS] Restaurants, schools and universities, dorms and apartment complexes, and community centers are comparable to HSM in terms of factors contributing to the spread of COVID-19
+⟦38⟧ [EVIDENCE] Rootclaim estimated that HSM is 10 to 4 times more likely than a typical place to be a superspreader location
+⟦39⟧ [HYPOTHESIS] HSM is 10 to 4 times more likely than a typical place to be a superspreader location
+⟦40⟧ [QUANTITATIVE_RESULT] 10 to 4 times more likely for HSM to be a superspreader location compared to a typical place
+⟦41⟧ [ASSUMPTION] Households are collectively likely to be the first cluster due to the large number of them and the high risk of transmission within a household
+⟦42⟧ [EVIDENCE] The first cluster of COVID-19 cases was detected in a household
+⟦43⟧ [ANALYSIS] The author is skeptical of the relevance and causative relationship of some of the properties identified by Rootclaim, such as UV radiation and temperature.
+⟦44⟧ [ASSUMPTION] UV radiation is correlated with a lower growth rate of COVID-19
+⟦45⟧ [HYPOTHESIS] UV radiation is correlated with lower growth rate of COVID-19
+⟦46⟧ [HYPOTHESIS] There is a causative relationship between UV radiation and the growth rate of COVID-19
+⟦47⟧ [LIMITATION] The relevance of some factors, such as UV radiation, may be uncertain or irrelevant
+⟦48⟧ [RESEARCH_QUESTION] Is there a causative relationship between UV radiation and the growth rate of COVID-19?
+⟦49⟧ [ASSUMPTION] The causative role of temperature in COVID-19 transmission is uncertain
+⟦50⟧ [HYPOTHESIS] Temperature plays a causative role in the transmission of COVID-19
+⟦51⟧ [LIMITATION] The role of temperature in covid transmission remains uncertain
+⟦52⟧ [RESEARCH_QUESTION] What is the role of temperature in the transmission of COVID-19?
+⟦53⟧ [ASSUMPTION] The presence of organic materials is mostly irrelevant to human-to-human transmission of COVID-19
+⟦54⟧ [LIMITATION] The presence of organic materials may be mostly irrelevant to human-to-human transmission
+⟦55⟧ [RESEARCH_QUESTION] Is the presence of organic materials relevant to human-to-human transmission of COVID-19?
+⟦56*⟧ [ANALYSIS] The author questions the ventilation of HSM, citing photographs and first-hand accounts that describe it as poorly ventilated, but notes that it is a semi-open-air structure.
+⟦57*⟧ [LIMITATION] The ventilation of HSM may be difficult to assess accurately
+⟦58*⟧ [EVIDENCE] Multiple independent first-hand accounts describe HSM as poorly-ventilated
+⟦59*⟧ [RESEARCH_QUESTION] Is the ventilation at HSM poor?
+⟦60*⟧ [LIMITATION] The author lacks time to further consider the relevance of having 'permanent residents' at HSM
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

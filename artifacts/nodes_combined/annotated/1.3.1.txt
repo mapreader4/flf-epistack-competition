@@ -1,0 +1,47 @@
+1.3.1  About this document
+
+⟦1⟧ My foremost goal in this document is to give the best possible account for ⟦2⟧ the origins of covid
+as I understand them, and only incidentally explain how I reached my decision. Therefore,
+⟦3⟧ to avoid leaving glaring holes in explanatory passages, I have occasionally looked up minor
+details, eg to fill out the background section or section B; in so far as possible ⟦4⟧ ⟦5⟧ I have restricted
+myself to sources directly cited by the debate parties, ⟦6⟧ ⟦7⟧ ⟦8⟧ though I may have inadvertently used
+a few indirect citations. ⟦9⟧ Most of this information had no bearing on the decision; ⟦10⟧ the one
+piece of information I found that did was relegated to appendix C.
+⟦11⟧ ⟦12⟧ ⟦13⟧ ⟦14⟧ In section 7 I present an uncomfortably quantitative analysis of the two conflicting theories
+⟦15⟧ and my affirmative conclusion for ⟦16⟧ which is more likely based on the information from the
+debate. ⟦17⟧ However it felt unsatisfying to say why I believed the arguments for one theory
+without also saying why I failed to be persuaded by the arguments against it. ⟦18⟧ ⟦19⟧ The majority
+of this document, particularly sections 3.1, 3.2, 4.5, and A, ⟦20⟧ ⟦21⟧ contains detailed criticisms of
+arguments presented by Rootclaim, identifying ⟦22⟧ where I believe those arguments to be flawed.
+These refutational passages are not part of my affirmative conclusion, so I have taken greater
+liberty in the use of complicated models or analysis. ⟦23⟧ ⟦24⟧ ⟦25⟧ For the affirmative analysis I have
+eschewed such complexities: ⟦26⟧ best to keep it simple and pay a small price in accuracy rather
+than risk large model error.
+
+Claims:
+⟦1⟧ [ASSUMPTION] The judge's understanding of the COVID-19 origins is the best possible account.
+⟦2⟧ [RESEARCH_QUESTION] What are the origins of COVID-19?
+⟦3⟧ [ASSUMPTION] The judge has access to all necessary information to make a decision.
+⟦4⟧ [ASSUMPTION] The debate parties' sources are reliable and relevant.
+⟦5⟧ [EVIDENCE] The author used sources directly cited by the debate parties for most of the information.
+⟦6⟧ [ASSUMPTION] The judge's analysis is not significantly influenced by indirect citations.
+⟦7⟧ [EVIDENCE] The author may have inadvertently used a few indirect citations.
+⟦8⟧ [LIMITATION] The judge's analysis may have inadvertently used indirect citations.
+⟦9⟧ [ASSUMPTION] The information found has no significant bearing on the decision, except for one piece of information relegated to appendix C.
+⟦10⟧ [EVIDENCE] The author found one piece of information that had a bearing on the decision, which was relegated to appendix C.
+⟦11⟧ [ANALYSIS] The judge's analysis of the two conflicting theories on COVID-19 origins is quantitative and aims to determine which theory is more likely based on the information from the debate.
+⟦12⟧ [ASSUMPTION] A quantitative analysis is necessary to determine which theory is more likely.
+⟦13⟧ [EVIDENCE] The author presents a quantitative analysis of the two conflicting theories in section 7.
+⟦14⟧ [HYPOTHESIS] The covid origins can be explained by one of two conflicting theories.
+⟦15⟧ [HYPOTHESIS] One theory is more likely than the other based on the information from the debate.
+⟦16⟧ [RESEARCH_QUESTION] Which theory is more likely to explain the origins of COVID-19?
+⟦17⟧ [LIMITATION] The judge's quantitative analysis in section 7 may be unsatisfying.
+⟦18⟧ [ANALYSIS] The judge's analysis involves identifying flaws in the arguments presented by Rootclaim, which is a separate task from presenting their own affirmative conclusion.
+⟦19⟧ [ASSUMPTION] The judge's criticisms of Rootclaim's arguments are valid and relevant.
+⟦20⟧ [EVIDENCE] The author believes the arguments presented by Rootclaim are flawed.
+⟦21⟧ [HYPOTHESIS] The arguments presented by Rootclaim are flawed.
+⟦22⟧ [RESEARCH_QUESTION] What are the flaws in the arguments presented by Rootclaim?
+⟦23⟧ [ANALYSIS] The judge prioritizes simplicity over complexity in their affirmative analysis to minimize the risk of large model error, even if it means sacrificing some accuracy.
+⟦24⟧ [ASSUMPTION] Simple analysis is preferable to complex models to avoid large model error.
+⟦25⟧ [LIMITATION] The judge's use of complicated models or analysis in refutational passages may be limited.
+⟦26⟧ [LIMITATION] The judge's affirmative analysis may have paid a price in accuracy for simplicity.

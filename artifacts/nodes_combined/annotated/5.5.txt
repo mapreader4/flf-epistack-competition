@@ -1,0 +1,60 @@
+5.5  ACE2 binding affinity
+
+⟦1⟧ ⟦2⟧ Piplani et al [28] found in computer simulations that sars-cov-2 binds best to human ACE2
+receptors ⟦3⟧ out of 14 species studied; ⟦4⟧ ⟦5⟧ note that other studies found conflicting results.
+⟦6⟧ ⟦7⟧ This is hard to explain under zoonotic theory, ⟦8⟧ ⟦9⟧ as ⟦10⟧ the sars-cov-2 sample used was from 2019,
+before significant evolution in human hosts should have happened. However, ⟦11⟧ ⟦12⟧ the second
+highest affinity studied was pangolin ACE2, ⟦13⟧ which is similar to human ACE2; ⟦14⟧ ⟦15⟧ ⟦16⟧ ⟦17⟧ if pangolins
+were an intermediate host, then sars-cov-2 could have adapted to pangolin ACE2 and thus
+partially to human ACE2.
+⟦18⟧ ⟦19⟧ Under the lab leak theory, this observation is explained as a result of ⟦20⟧ ⟦21⟧ ⟦22⟧ lab workers screening
+many different wild viruses to identify those that bind well to human ACE2, ⟦23⟧ and possible
+then passaging the virus through mouse hosts that have been genetically modified to have
+human ACE2 receptors. While this may be a better explanation then the zoonotic theory,
+it is still not a great explanation. ⟦24⟧ ⟦25⟧ This process requires screening a large pool of wild viruses
+to find one that happens to be well-adapted to humans already; and ⟦26⟧ presumably researchers
+are screening to find which one best binds to humans, indifferent to whether it binds better
+to humans than other animals. ⟦27⟧ Also, this screening process may use different simulations
+than Piplani et al used.
+⟦28⟧ ⟦29⟧ ⟦30⟧ A control is also required; ⟦31⟧ ⟦32⟧ maybe human ACE2, either in reality or in the simulation of
+Piplani et al, is just particularly good at binding to spike proteins?
+⟦33⟧ ⟦34⟧ ⟦35⟧ ⟦36⟧ The high binding affinity found by Piplani et al appears to be weak circumstantial evidence
+in favor of the lab leak hypothesis.
+
+Claims:
+⟦1⟧ [EVIDENCE] SARS-CoV-2 binds best to human ACE2 receptors out of 14 species studied by Piplani et al
+⟦2⟧ [RESEARCH_QUESTION] Why does sars-cov-2 bind best to human ACE2 receptors out of 14 species studied?
+⟦3⟧ [QUANTITATIVE_RESULT] 14 species studied
+⟦4⟧ [EVIDENCE] Other studies found conflicting results regarding SARS-CoV-2 binding affinity
+⟦5⟧ [LIMITATION] Conflicting results were found by other studies regarding sars-cov-2 binding affinity to human ACE2 receptors
+⟦6⟧ [ANALYSIS] The high binding affinity of sars-cov-2 to human ACE2 receptors is hard to explain under zoonotic theory because the sars-cov-2 sample used was from 2019, before significant evolution in human hosts should have happened.
+⟦7⟧ [LIMITATION] The zoonotic theory struggles to explain the high binding affinity of sars-cov-2 to human ACE2 receptors given the early sample used
+⟦8⟧ [ASSUMPTION] The sars-cov-2 sample used in Piplani et al's study was from 2019, before significant evolution in human hosts should have happened.
+⟦9⟧ [EVIDENCE] SARS-CoV-2 sample used by Piplani et al was from 2019, before significant evolution in human hosts
+⟦10⟧ [QUANTITATIVE_RESULT] 2019
+⟦11⟧ [EVIDENCE] Pangolin ACE2 has the second highest affinity to SARS-CoV-2 among the studied species
+⟦12⟧ [QUANTITATIVE_RESULT] second highest affinity
+⟦13⟧ [EVIDENCE] Pangolin ACE2 is similar to human ACE2
+⟦14⟧ [ANALYSIS] If pangolins were an intermediate host, then sars-cov-2 could have adapted to pangolin ACE2 and thus partially to human ACE2.
+⟦15⟧ [ASSUMPTION] Pangolins could have been an intermediate host for sars-cov-2 to adapt to pangolin ACE2 and thus partially to human ACE2.
+⟦16⟧ [HYPOTHESIS] Sars-cov-2 adapted to human ACE2 receptors through an intermediate host, such as pangolins, under zoonotic theory
+⟦17⟧ [RESEARCH_QUESTION] How could sars-cov-2 have adapted to human ACE2 if it originated from an animal host?
+⟦18⟧ [ANALYSIS] The lab leak theory explains the observation of high binding affinity as a result of lab workers screening many different wild viruses to identify those that bind well to human ACE2.
+⟦19⟧ [RESEARCH_QUESTION] Can the lab leak theory explain the observation that sars-cov-2 binds well to human ACE2?
+⟦20⟧ [ASSUMPTION] Lab workers would screen many different wild viruses to identify those that bind well to human ACE2.
+⟦21⟧ [EVIDENCE] Lab workers may have screened many different wild viruses to identify those that bind well to human ACE2
+⟦22⟧ [HYPOTHESIS] Lab workers screened many different wild viruses to identify those that bind well to human ACE2, leading to the emergence of sars-cov-2 under lab leak theory
+⟦23⟧ [EVIDENCE] The screening process may have used mouse hosts genetically modified to have human ACE2 receptors
+⟦24⟧ [ANALYSIS] The screening process under the lab leak theory requires screening a large pool of wild viruses to find one that happens to be well-adapted to humans already.
+⟦25⟧ [LIMITATION] The lab leak theory's explanation for the high binding affinity of sars-cov-2 to human ACE2 receptors requires screening a large pool of wild viruses
+⟦26⟧ [ASSUMPTION] Researchers are screening to find which virus best binds to humans, indifferent to whether it binds better to humans than other animals.
+⟦27⟧ [LIMITATION] The lab leak theory's explanation for the high binding affinity of sars-cov-2 to human ACE2 receptors may use different simulations than Piplani et al used
+⟦28⟧ [ANALYSIS] A control is required to determine if human ACE2 is particularly good at binding to spike proteins, which could explain the high binding affinity.
+⟦29⟧ [ASSUMPTION] A control is required to determine if human ACE2 is particularly good at binding to spike proteins.
+⟦30⟧ [LIMITATION] A control is required to determine if human ACE2 is particularly good at binding to spike proteins
+⟦31⟧ [HYPOTHESIS] Human ACE2 receptors are particularly good at binding to spike proteins, which could explain the high binding affinity found by Piplani et al
+⟦32⟧ [RESEARCH_QUESTION] Is the high binding affinity of sars-cov-2 to human ACE2 due to the receptor being particularly good at binding to spike proteins?
+⟦33⟧ [ANALYSIS] The high binding affinity found by Piplani et al appears to be weak circumstantial evidence in favor of the lab leak hypothesis.
+⟦34⟧ [ASSUMPTION] The high binding affinity found by Piplani et al is weak circumstantial evidence in favor of the lab leak hypothesis.
+⟦35⟧ [EVIDENCE] The high binding affinity found by Piplani et al appears to be weak circumstantial evidence in favor of the lab leak hypothesis
+⟦36⟧ [LIMITATION] The high binding affinity found by Piplani et al is weak circumstantial evidence in favor of the lab leak hypothesis

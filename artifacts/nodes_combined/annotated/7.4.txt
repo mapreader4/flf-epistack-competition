@@ -1,0 +1,45 @@
+7.4  Environmental samples in HSM
+
+As discussed in section 4.6.1, ⟦1⟧ ⟦2⟧ ⟦3⟧ the distribution of positive sars-cov-2 samples within HSM
+appears to generally point to the region where live animals were kept, or more specifically
+point to ⟦4⟧ shop 6:29 which had been identified as a potential pandemic spillover location.
+⟦5⟧ ⟦6⟧ ⟦7⟧ Of the 15 shops which were sampled 10 or more times, ⟦8⟧ ⟦9⟧ 12 had no positives, ⟦10⟧ ⟦11⟧ 3 had one positive,
+⟦12⟧ and ⟦13⟧ shop 6:29 had the other 5 positives. ⟦14⟧ ⟦15⟧ Arguably, ⟦16⟧ ⟦17⟧ ⟦18⟧ this observation has a Bayes factor of 15
+in favor of Z, as ⟦19⟧ ⟦20⟧ LL has no viable explanation for this coincidence. While ⟦21⟧ this observation
+is certainly very post hoc, ⟦22⟧ ⟦23⟧ ⟦24⟧ ⟦25⟧ more careful statistical analysis places 6:29 at the geographical
+center of the sample positivity ratio, ⟦26⟧ and ⟦27⟧ the positive drainage samples likewise implicate
+alley 6.
+⟦28⟧ ⟦29⟧ However ⟦30⟧ the HSM environmental samples will not contribute to my Bayesian calculation, as
+will be explained.
+
+Claims:
+⟦1⟧ [ANALYSIS] The distribution of positive SARS-CoV-2 samples within HSM points to the region where live animals were kept, specifically shop 6:29, which had been identified as a potential pandemic spillover location.
+⟦2⟧ [ASSUMPTION] The distribution of positive SARS-CoV-2 samples within HSM is related to the location of live animals or shop 6:29.
+⟦3⟧ [HYPOTHESIS] The distribution of positive SARS-CoV-2 samples within HSM points to the region where live animals were kept, specifically shop 6:29, as a potential pandemic spillover location.
+⟦4⟧ [ASSUMPTION] Shop 6:29 is a potential pandemic spillover location.
+⟦5⟧ [EVIDENCE] 15 shops in HSM were sampled 10 or more times
+⟦6⟧ [QUANTITATIVE_RESULT] 15 shops were sampled 10 or more times
+⟦7⟧ [RESEARCH_QUESTION] What is the explanation for the distribution of positive SARS-CoV-2 samples within HSM?
+⟦8⟧ [EVIDENCE] 12 shops had no positive sars-cov-2 samples
+⟦9⟧ [QUANTITATIVE_RESULT] 12 shops had no positives
+⟦10⟧ [EVIDENCE] 3 shops had one positive sars-cov-2 sample
+⟦11⟧ [QUANTITATIVE_RESULT] 3 shops had one positive
+⟦12⟧ [QUANTITATIVE_RESULT] shop 6:29 had 5 positives
+⟦13⟧ [EVIDENCE] Shop 6:29 had 5 positive sars-cov-2 samples
+⟦14⟧ [ANALYSIS] The observation of positive SARS-CoV-2 samples in shop 6:29 has a Bayes factor of 15 in favor of the zoonosis hypothesis (Z), as the lab-leak hypothesis (LL) has no viable explanation for this coincidence.
+⟦15⟧ [RESEARCH_QUESTION] Can the observation of positive SARS-CoV-2 samples in shop 6:29 be explained by the lab-leak hypothesis?
+⟦16⟧ [ASSUMPTION] The observation of positive SARS-CoV-2 samples in shop 6:29 has a Bayes factor of 15 in favor of Z (zoonosis).
+⟦17⟧ [HYPOTHESIS] The zoonosis hypothesis (Z) is favored by the observation of positive SARS-CoV-2 samples in shop 6:29, with a Bayes factor of 15.
+⟦18⟧ [QUANTITATIVE_RESULT] Bayes factor of 15 in favor of Z
+⟦19⟧ [ASSUMPTION] LL (lab-leak hypothesis) has no viable explanation for the coincidence of positive SARS-CoV-2 samples in shop 6:29.
+⟦20⟧ [HYPOTHESIS] The lab-leak hypothesis (LL) has no viable explanation for the coincidence of positive SARS-CoV-2 samples in shop 6:29.
+⟦21⟧ [LIMITATION] The observation of sars-cov-2 samples in HSM is very post hoc
+⟦22⟧ [ANALYSIS] More careful statistical analysis places shop 6:29 at the geographical center of the sample positivity ratio.
+⟦23⟧ [ASSUMPTION] More careful statistical analysis can determine the geographical center of the sample positivity ratio.
+⟦24⟧ [EVIDENCE] Shop 6:29 is at the geographical center of the sample positivity ratio
+⟦25⟧ [RESEARCH_QUESTION] What is the significance of the geographical center of the sample positivity ratio in HSM?
+⟦26⟧ [ANALYSIS] The positive drainage samples implicate alley 6.
+⟦27⟧ [EVIDENCE] Positive drainage samples implicate alley 6
+⟦28⟧ [ANALYSIS] The HSM environmental samples will not contribute to the Bayesian calculation.
+⟦29⟧ [ASSUMPTION] The HSM environmental samples will not contribute to the Bayesian calculation.
+⟦30⟧ [LIMITATION] The HSM environmental samples will not contribute to the Bayesian calculation

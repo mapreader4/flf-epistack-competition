@@ -1,0 +1,101 @@
+4.1  A model for evaluating location of the index case
+
+To estimate this, we will describe a crude model; ⟦1⟧ while we do not know the quantitative
+details of the close-contact graph, fortunately our model is greatly insensitive to these details.
+⟦2⟧ ⟦3⟧ Suppose the shortest path from the primary case to the index case is n steps; call this the
+epidemiological distance between them. Consider drawing a sphere around the primary case
+that contains all people at most n steps away; certainly any random walk of length n that
+starts from the primary case will end up at one of those people in the sphere, with some
+nonzero probability. ⟦4⟧ ⟦5⟧ Our simple model is to say that the index case follows a uniform
+distribution within that sphere; that is, that the index case is equally likely to be any of the
+people at most n steps from the primary case.
+⟦6⟧ How good of a model is this? Well, let us consider two examples of simple graphs that might
+be compared with the real-world close-contact graph.
+⟦7⟧ ⟦8⟧ A Bethe lattice of degree d is a tree 31 where each node has d neighbors; Bethe lattices are
+infinite dimensional.32 ⟦9⟧ If your social network were a Bethe lattice, then you would have 100
+close contacts, ⟦10*⟧ and about 100 2 people within 2 steps, ⟦11*⟧ and 100 3 within 3 steps, and so on.
+⟦12⟧ ⟦13⟧ Random walks on a Bethe lattice very rapidly go away from the starting point; ⟦14⟧ ⟦15⟧ after n steps
+you will be a maximum of n steps away from where you started, ⟦16⟧ ⟦17⟧ and on average be slightly
+more than n(1- 2/d) steps away. Our model that the random walk ends up uniformly
+distributed within a sphere of radius n is very good on a Bethe lattice.
+⟦18⟧ While the real-world close-contact graph does have loops (eg, especially within a household
+or workplace) ⟦19⟧ respiratory diseases easily jump to strangers who will have few shared contacts.
+⟦20⟧ ⟦21⟧ ⟦22⟧ On a very small scale, a Bethe lattice is a fair representation of the connectivity of close
+contacts (this results in the "small-world phenomenon"). One could also imagine that each
+node on the Bethe lattice represents not a person but a small collection of closely connected
+people, such as a household or workplace; if so, when counting distances we would ignore
+transmissions within the same group.
+⟦23⟧ ⟦24⟧ ⟦25⟧ On a larger scale, around the size of a city, this Bethe lattice approximation breaks down,
+because disease transmission is a physical process that requires proximity. As most indi-
+viduals generally stay in roughly one area on the surface of the Earth during their illness,
+31graph with no loops
+32A graph has dimension D if the volume of a sphere of radius r scales like rD. ⟦26⟧ On a Bethe lattice, the
+volume of a sphere grows exponentially with radius.
+the contact graph becomes approximately two-dimensional. ⟦27⟧ ⟦28⟧ If we use a 2D integer lattice to
+represent the contact graph at this scale, we see that diffusion is much slower; ⟦29⟧ ⟦30⟧ for any finite
+dimension, a random walk of n steps will on average end up a distance of ∼√n from its
+starting location.⟦31*⟧  ⟦32⟧ Our simple model can be somewhat salvaged by using a sphere of radius√n33, though the model is less good than with the Bethe lattice. ⟦33⟧ ⟦34⟧ Of course long-distance
+plane travel interferes with representing the close-contact graph as a Euclidean lattice. Re-⟦35*⟧ 
+gardless, we will not be interested in intercity transmission, so we can focus on the small
+scale approximation.
+⟦36⟧ Now if we have some candidate for the primary case, we want to know the probability of
+observing a specific person being the index case. ⟦37*⟧ Had we knowledge of how many steps n
+of cryptic transmission to expect, we would draw a circle 34 of radius n around the primary
+case and see how many people are included; ⟦38⟧ ⟦39⟧ unfortunately, we do not have good information
+about what to expect for n, ⟦40⟧ ⟦41⟧ and we do not have exact information about the contact graph.
+⟦42*⟧ ⟦43*⟧ Suppose we take a flat prior distribution forn, as we don't know what to expect. ⟦44⟧ ⟦45⟧ ⟦46⟧ Then draw
+larger and larger circles around the candidate the primary case until we first include the
+index case; the radius of this smallest circle that includes the index case is a posterior best
+guess for n, and ⟦47⟧ the probability we expect for that index case is the inverse of the number
+of people in that circle.
+
+Claims:
+⟦1⟧ [LIMITATION] The model is insensitive to the quantitative details of the close-contact graph, but the real-world graph has loops and other complexities that may affect the model's accuracy.
+⟦2⟧ [ANALYSIS] The epidemiological distance between the primary case and the index case is estimated using a crude model that assumes a uniform distribution within a sphere of radius n around the primary case.
+⟦3⟧ [ASSUMPTION] The shortest path from the primary case to the index case is n steps.
+⟦4⟧ [ASSUMPTION] The index case follows a uniform distribution within the sphere of radius n around the primary case.
+⟦5⟧ [HYPOTHESIS] The index case follows a uniform distribution within a sphere of radius n around the primary case.
+⟦6⟧ [RESEARCH_QUESTION] How good is the model that the index case follows a uniform distribution within a sphere of radius n around the primary case?
+⟦7⟧ [ANALYSIS] The model's accuracy is evaluated by comparing it to simple graphs, such as a Bethe lattice, which is a tree where each node has d neighbors.
+⟦8⟧ [EVIDENCE] A Bethe lattice of degree d is a tree where each node has d neighbors
+⟦9⟧ [QUANTITATIVE_RESULT] 100 close contacts
+⟦10*⟧ [QUANTITATIVE_RESULT] 100^2 people within 2 steps
+⟦11*⟧ [QUANTITATIVE_RESULT] 100^3 people within 3 steps
+⟦12⟧ [ANALYSIS] Random walks on a Bethe lattice rapidly go away from the starting point, and after n steps, the average distance from the starting point is slightly more than n(1- 2/d) steps.
+⟦13⟧ [EVIDENCE] Random walks on a Bethe lattice very rapidly go away from the starting point
+⟦14⟧ [EVIDENCE] After n steps you will be a maximum of n steps away from where you started on a Bethe lattice
+⟦15⟧ [QUANTITATIVE_RESULT] n steps away from the starting point
+⟦16⟧ [EVIDENCE] On average, you will be slightly more than n(1- 2/d) steps away from the starting point on a Bethe lattice
+⟦17⟧ [QUANTITATIVE_RESULT] n(1- 2/d) steps away on average
+⟦18⟧ [EVIDENCE] The real-world close-contact graph has loops, especially within a household or workplace
+⟦19⟧ [EVIDENCE] Respiratory diseases easily jump to strangers who will have few shared contacts
+⟦20⟧ [ASSUMPTION] The real-world close-contact graph can be approximated by a Bethe lattice on a small scale.
+⟦21⟧ [EVIDENCE] A Bethe lattice is a fair representation of the connectivity of close contacts on a very small scale
+⟦22⟧ [HYPOTHESIS] The real-world close-contact graph can be approximated by a Bethe lattice on a small scale.
+⟦23⟧ [ANALYSIS] The Bethe lattice approximation breaks down on a larger scale, around the size of a city, because disease transmission is a physical process that requires proximity.
+⟦24⟧ [LIMITATION] The Bethe lattice approximation breaks down on a larger scale, around the size of a city, because disease transmission is a physical process that requires proximity.
+⟦25⟧ [RESEARCH_QUESTION] How does the scale of the contact graph, such as the size of a city, affect the representation of disease transmission?
+⟦26⟧ [RESEARCH_QUESTION] How does the dimensionality of the close-contact graph affect the spread of disease?
+⟦27⟧ [ANALYSIS] The contact graph becomes approximately two-dimensional on a larger scale, and a random walk of n steps will on average end up a distance of ∼√n from its starting location.
+⟦28⟧ [ASSUMPTION] The contact graph can be represented by a 2D integer lattice on a larger scale.
+⟦29⟧ [EVIDENCE] For any finite dimension, a random walk of n steps will on average end up a distance of ∼√n from its starting location on a 2D integer lattice
+⟦30⟧ [QUANTITATIVE_RESULT] √n distance from the starting location
+⟦31*⟧ [QUANTITATIVE_RESULT] radius √n
+⟦32⟧ [ANALYSIS] The simple model can be salvaged by using a sphere of radius √n, although the model is less accurate than with the Bethe lattice.
+⟦33⟧ [EVIDENCE] Long-distance plane travel interferes with representing the close-contact graph as a Euclidean lattice
+⟦34⟧ [LIMITATION] The model does not account for long-distance plane travel, which interferes with representing the close-contact graph as a Euclidean lattice.
+⟦35*⟧ [ASSUMPTION] Long-distance plane travel can be ignored for the purpose of modeling intercity transmission.
+⟦36⟧ [RESEARCH_QUESTION] What is the probability of observing a specific person being the index case given a candidate for the primary case?
+⟦37*⟧ [RESEARCH_QUESTION] What is the expected number of steps n of cryptic transmission to expect in the close-contact graph?
+⟦38⟧ [EVIDENCE] We do not have good information about what to expect for the number of steps n of cryptic transmission
+⟦39⟧ [LIMITATION] There is a lack of good information about what to expect for the number of steps n of cryptic transmission.
+⟦40⟧ [EVIDENCE] We do not have exact information about the contact graph
+⟦41⟧ [LIMITATION] There is a lack of exact information about the contact graph.
+⟦42*⟧ [ASSUMPTION] A flat prior distribution is suitable for the number of steps n of cryptic transmission.
+⟦43*⟧ [LIMITATION] The model's accuracy is affected by the choice of prior distribution for n, and a flat prior distribution is used due to a lack of knowledge about what to expect.
+⟦44⟧ [ANALYSIS] The probability of observing a specific person being the index case is estimated by drawing a circle of radius n around the primary case and calculating the inverse of the number of people in that circle.
+⟦45⟧ [ASSUMPTION] The radius of the smallest circle that includes the index case is a posterior best guess for n.
+⟦46⟧ [HYPOTHESIS] The probability of observing a specific person being the index case can be estimated using a posterior best guess for n, the number of steps of cryptic transmission.
+⟦47⟧ [QUANTITATIVE_RESULT] inverse of the number of people in the circle
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

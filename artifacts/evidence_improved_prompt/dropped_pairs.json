@@ -1,0 +1,86 @@
+[
+  {
+    "section_number": "1",
+    "node_type": "evidence",
+    "node_text": "Many claims brought up during the debate pass unchallenged in the document",
+    "quote": "However the reader should not be intimidated by its length; the argument is quite simple at its heart, and I have striven to make my discussion approachable. 2 In this section, we will introduce the necessarily context to understand the differing argu-ments about the origin of covid: ... Even still many of the claims brought up during the debate pass unchallenged here."
+  },
+  {
+    "section_number": "1.1",
+    "node_type": "evidence",
+    "node_text": "Some patients with pneumonia of unknown cause were associated with the Huanan Seafood Wholesale Market (HSM) in downtown Wuhan",
+    "quote": "at least some of whom were associ-ated with the Huanan 7 Seafood Wholesale Market (hereafter \"HSM\") in downtown Wuhan."
+  },
+  {
+    "section_number": "1.2",
+    "node_type": "evidence",
+    "node_text": "The genetic code is not random, with mutations tending to be synonymous and nonsynonymous mutations yielding amino acids with similar chemical properties.",
+    "quote": "The genetic code is not random: mutations tend to be synonymous, and nonsynonymous mutations tend to yield amino acids with similar chemical properties, or at least more often than one would expect from a randomly designed genetic code."
+  },
+  {
+    "section_number": "1.2.1",
+    "node_type": "evidence",
+    "node_text": "The wild virus most closely related to sars-cov-2 is banal-20-52, with 96.8% nucleotide identity.",
+    "quote": "The wild virus most closely related to sars-cov-2 is banal-20-52 [30], a sample collected from a bat (dropping) in Laos with 96.8% nucleotide identity,"
+  },
+  {
+    "section_number": "3",
+    "node_type": "evidence",
+    "node_text": "If there is a slight bias in the data collection, with two-thirds of the data points in favor of the lizard hypothesis and one-third against, the total bias is 100/3 log 4 = 46.21.",
+    "quote": "Suppose we conveniently overlook half the data in favor of humanity; so we have two thirds for lizards, and one thirds for humans. ... The total bias is 100 3 log 4 = 46.21,"
+  },
+  {
+    "section_number": "3.1",
+    "node_type": "evidence",
+    "node_text": "The probability that no known animal vendors became sick was below 15%",
+    "quote": "I could be persuaded with difficulty that the probability under An that no known animal vendors became sick was below the 15% that Rootclaim presented"
+  },
+  {
+    "section_number": "3.2",
+    "node_type": "evidence",
+    "node_text": "Rootclaim's prior probability for the lab-leak hypothesis is 0.2321",
+    "quote": "which was taken to be 0 .2321,"
+  },
+  {
+    "section_number": "4.1",
+    "node_type": "evidence",
+    "node_text": "The contact graph becomes approximately two-dimensional around the size of a city",
+    "quote": "As most individuals generally stay in roughly one area on the surface of the Earth during their illness, the contact graph becomes approximately two-dimensional"
+  },
+  {
+    "section_number": "4.3",
+    "node_type": "evidence",
+    "node_text": "Locations associated with more people have a higher chance of having outbreaks",
+    "quote": "locations associated with more people will of course have a much higher chance of having outbreaks"
+  },
+  {
+    "section_number": "4.5",
+    "node_type": "evidence",
+    "node_text": "HSM has enclosed, poor ventilation areas",
+    "quote": "Enclosed, poor ventilation\" ([1] at 3:12:00)\n    },\n    {\n      \"evidence\": \"HSM has density, although the specific meaning is unclear\",\n      \"quote\": \"Density\" ([5] at 2:30:40); unclear what this refers to"
+  },
+  {
+    "section_number": "4.5",
+    "node_type": "evidence",
+    "node_text": "HSM has organic materials present",
+    "quote": "Organic materials\" ([5] at 2:14:36)\n    },\n    {\n      \"evidence\": \"HSM has a certain temperature, which may affect COVID-19 transmission\",\n      \"quote\": \"Temperature\" ([5] at 2:14:00)\n    },\n    {\n      \"evidence\": \"HSM has no UV radiation, which may affect COVID-19 transmission\",\n      \"quote\": \"No UV radiation\" ([5] at 2:14:00)\n    },\n    {\n      \"evidence\": \"The ventilation system at HSM was shut down\",\n      \"quote\": \"The building had previously had a ventilation system but it was shut down."
+  },
+  {
+    "section_number": "6",
+    "node_type": "evidence",
+    "node_text": "At least six people knew about the research work that created sars-cov-2, with each having at least 50% chance to reveal some information about the existence of their research",
+    "quote": "If we imagine that at least six people knew about the research work that created sars-cov-2 and each has at least 50% chance to reveal some information about the existence of their research"
+  },
+  {
+    "section_number": "7.3",
+    "node_type": "evidence",
+    "node_text": "P(H|LL) = 1 / 1.2·10^7",
+    "quote": "P (H|LL) = 1 / 1.2· 10^7"
+  },
+  {
+    "section_number": "7.5",
+    "node_type": "evidence",
+    "node_text": "SARS-CoV-2 has a 12 nucleotide insert creating a furin cleavage site",
+    "quote": "the strange 12 nucleotide insert creating a furin cleavage site"
+  }
+]

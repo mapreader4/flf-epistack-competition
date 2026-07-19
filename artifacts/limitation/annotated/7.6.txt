@@ -1,0 +1,104 @@
+7.6  Conclusion
+
+We've collected the most pertinent evidence and invented Bayes factors for each of them, so
+it is time to make a grand total.
+evidence Bayes log-odds
+prior 1.88235 0 .63
+outbreak at HSM 1/10000 -9.2
+12 nct insert at FCS 20 3
+ACE2 affinity 2 0 .69
+secret doesn't leak 1/10 -2.3
+total 0.001255 -7.19
+which gives a conditional probability of
+P (LL|O) = 0.07529%
+Note that in this table I have combined observations differently from how either of the debate
+participants did; in particular most of the evidence involving DEFUSE, some of the genetic
+evidence, and the fact that the outbreak started in Wuhan are all baked into the prior. This
+is why the prior is so favorable to LL even though most pandemics are zoonotic in origin. I
+prefer this to using a prior for outbreaks globally and narrowing to Wuhan-specific, as the
+latter would introduce unnecessary errors in calculating the global GoF lab leak rate when
+all I need is the rate in Wuhan.
+Do I believe the probability of a lab leak is only 1 in 1300? No, ⟦1⟧ due to the significant
+uncertainties in my analysis I would give it some higher probability. ⟦2⟧ Many of the components
+in my calculation should be dampened towards neutrality to account for the uncertainty in
+them.71 However I was at times quite conservative, by my estimation, in favor of lab leak,
+so I would not shift the final probability much more than I have already; and no amount of
+dampening towards neutrality can make the probability cross the 50% line.
+⟦3⟧ Moreover I am not convinced that this Bayesian calculation is even an appropriate way
+to estimate the relative posterior probability of Z and LL; it just seemed fair that after
+criticizing Rootclaim's calculations at length I should make an attempt at it myself.
+⟦4⟧ I think the numerical calculation gives an undeserved illusion of certainty, so I prefer perhaps
+a more qualitative summary:
+71⟦5⟧ Most obviously the 1/10000 factor sticks out as needing significant dampening; however it is the only
+factor that is actually based on calculating something, has much higher confidence than the others, and has
+already been dampened by a factor of 2.
+evidence strength
+prior lean zoonotic
+location strong zoonotic
+genetic / DEFUSE weak lab leak
+secret doesn't leak weak zoonotic
+total strong zoonotic
+Here I have broken down the observations differently, better according to how they align
+with my intuition; some of the evidence previously included in the prior has been moved to
+location and genetic / DEFUSE. Notice this qualitative assessment is barely consistent with
+the numbers I gave before, as my intuitive feel for the evidence favors Z more strongly than
+the numbers did.
+⟦6⟧ It is worthwhile to at least briefly consider whether my selection of evidence is sensible or
+motivated. ⟦7⟧ I have excluded quite a few items mentioned by Rootclaim; not that this would
+impact the result, as I evaluate each of the excluded items as indistinguishable from neutral.
+My basis for including evidence is loosely if it is either an essential component of the zoonotic
+/ lab leak hypotheses, or if it is quite strong. The location of the outbreak qualifies on all three
+counts (really, it'd be crazy to ignore where the outbreak started when trying to evaluate
+how it started). The genetic information and DEFUSE proposal are included as they are
+inseparably tied to the lab leak hypothesis. Finally, I included the failure of the secret to
+escape the lab as it is strong evidence (as I gave it 1 / 64 before conservatively adjusting the
+Bayes factor to 1 / 10), and arguably an essential "step" in the lab leak theory. 72
+One piece of evidence I excluded was the distribution of positive environmental samples
+within HSM. While it appears to identify the origin of the HSM outbreak to be specifically the
+area where wild animals were kept, this particular evidence was not an essential component
+of the zoonotic hypothesis, nor was it so convincingly strong in isolation as to not possibly
+be a coincidence.
+I have an alternative, less Bayesian, approach to thinking about the lab leak hypothesis. The
+centerpiece of the lab leak explanation is the Project DEFUSE proposal, and the observation
+that a number of features from that proposal match features of sars-cov-2:
+• Sars-cov-2 first appeared in Wuhan, the same city as one of the labs involved in
+DEFUSE
+• Sars-cov-2 has an FCS that looks artificially inserted when compared to banal-52
+• Sars-cov-2 has a strong affinity to human ACE2
+• Something about N-linked glycans
+72Conversely, the lack of a known intermediate host for sars-cov-2 could be analogously considered an
+essential "step" to the zoonotic theory; I don't mention it as I find this evidence indistinguishable from
+neutral.
+This is sufficient to raise suspicion: how odd to see so many specific details identified in ad-
+vance of the pandemic!73 But the zoonotic hypothesis has an equivalent to Project DEFUSE,
+namely Eddie Holmes's 2014 photos [26]. It is a remarkable coincidence that, when searching
+for potential zoonotic spillover sites, the Wuhan CDC took him to HSM, specifically to the
+very shop 6:29 which had the greatest number of positive environmental samples (and whose
+owner was fined for selling illegal wildlife). This coincidence of location is likewise odd, and
+has no explanation under LL.
+Figure 11: Photographs of shop 6:29 in HSM taken by Eddie Holmes in 2014. Photographs
+are from [39].
+⟦8⟧ Neither the existence of the Project DEFUSE proposal nor the Eddie Holmes photos are
+definitive, or even strong, evidence as to the origin of sars-cov-2; they rise only to the stan-
+dard of being odd, possibly just coincidences. However, Project DEFUSE is the only signif-
+icant evidence suggesting the possibility of a GoF lab leak. Looking through the Bayesian
+calculation presented by Rootclaim, the remaining pieces of evidence they give a Bayes factor
+larger than 2 are CGGCGG , no known intermediate animal host, and "adjust for BSL-2", none
+of which I think are distinguishable from a Bayes factor of 1.
+⟦9⟧ While the lab leak hypothesis has only loose circumstantial evidence in its favor, the physical
+evidence of the covid pandemic starting in the immediate vicinity of live animals susceptible
+to sars-like coronaviruses and the precedent of previous coronavirus epidemics starting in an
+analogous manner together point strongly in favor of the hypothesis of zoonotic spillover.
+73Though, the zoonotic hypothesis has a neat explanation: these details were identified because they were
+known to be relevant to pandemics.
+
+Claims:
+⟦1⟧ [LIMITATION] The analysis has significant uncertainties, which may affect the estimated probability of a lab leak.
+⟦2⟧ [LIMITATION] Many components in the calculation should be dampened towards neutrality to account for uncertainty.
+⟦3⟧ [LIMITATION] The Bayesian calculation may not be an appropriate way to estimate the relative posterior probability of Z and LL.
+⟦4⟧ [LIMITATION] The numerical calculation gives an undeserved illusion of certainty.
+⟦5⟧ [LIMITATION] The 1/10000 factor may need significant dampening.
+⟦6⟧ [LIMITATION] The selection of evidence may be motivated or not sensible.
+⟦7⟧ [LIMITATION] The exclusion of certain evidence items may impact the result.
+⟦8⟧ [LIMITATION] The Project DEFUSE proposal and Eddie Holmes's photos are not definitive or strong evidence.
+⟦9⟧ [LIMITATION] The evidence for the lab leak hypothesis is loose and circumstantial.

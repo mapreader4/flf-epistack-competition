@@ -1,0 +1,82 @@
+1.2.2  Furin cleavage site
+
+While most of the disagreements between sars-cov-2 and banal-20-52 and other bat coron-
+aviruses are point mutations, there is one important larger difference. ⟦1⟧ Recall that when the
+spike protein S binds to the ACE2 receptor on a human target cell, to facilitate fusion with
+the cell the spike protein must be cut into two subregions, called S1 and S2. In sars-cov-2
+infections in humans, this cutting process is performed by the furin enzyme.
+⟦2⟧ ⟦3⟧ Furin recognizes proteins with an amino acid sequence of the form RxxR or especially RRxR
+(here, "x" stands for any amino acid and R stands for arginine), cutting them; thus any such
+amino acid sequence is referred to as a furin cleavage site (FCS). ⟦4⟧ ⟦5⟧ ⟦6⟧ ⟦7⟧ ⟦8⟧ The proper functioning of
+sars-cov-2 therefore necessitates that the boundary between S1 and S2 is an FCS. Indeed:
+⟦9⟧ CAG ACT CAG ACT AAT TCT CCT CGG CGG GCA CGT AGT GTA GCT AGT
+Figure 5: Unrooted phylogenetic "tree" of early sars-cov-2 samples collected in Wuhan. Each
+circle represents a collection of samples with identical genome; the size of the circle is the
+number of samples, and the color(s) of the circle is the date of illness onset for those people.
+Bluer circles are earlier illnesses, and redder circles are later. The number of tick marks
+on a line indicates the number of nucleotides difference between two genomes. The left
+cluster are lineage B cases, and the right cluster are lineage A cases, with a few ambiguous
+cases in between. ⟦10⟧ ⟦11⟧ The middle arrow identifies the first known case, a Mr Chen with onset
+2019 December 8, ⟦12⟧ although he may have become ill on December 12. (Technically this is a
+haplotype network, not a phylogenetic tree, in that it shows only the genetic similarity of
+different cases without any attempt to identify which are ancestral/related to each other.
+⟦13⟧ It is possible for distantly related samples to have similar genomes by chance, as the same
+mutations can arise more than once independently.) ⟦14⟧ Figure from [32], page 79. ⟦15⟧ See also page
+69 for a larger tree.
+⟦16⟧ Q T Q T N S P R R A R S V A S
+Shown is an excerpt from the nucleotide sequence and corresponding amino acid sequence
+for Wuhan-Hu-1, the reference genome for sars-cov-2, collected in 2019 December [25]. ⟦17⟧ ⟦18⟧ The
+RRAR subsequence constitutes an FCS.
+⟦19⟧ ⟦20⟧ ⟦21⟧ While sars-cov-2 passes between humans primarily through respiratory droplets, ⟦22⟧ ⟦23⟧ this is not
+the case for bat coronaviruses, which are spread through droppings and therefore must
+survive the gastrointestinal tract. ⟦24⟧ ⟦25⟧ ⟦26⟧ ⟦27⟧ ⟦28⟧ This creates a different life cycle for virus replication, and
+⟦29⟧ consequentially an FCS may be evolutionarily harmful. ⟦30⟧ ⟦31⟧ We can compare sars-cov-2 to the
+closest known wild virus banal-20-52 at this location ([3] at 35:30):
+⟦32⟧ CAG ACT CAa ACT AAT TCA CGT AGT GTg GCa AGT
+⟦33⟧ Q T Q T N S R S V A S
+⟦34*⟧ I have marked the three point mutations in this section with lower-case letters; each is syn-
+onymous. (⟦35⟧ There are about 1000 point mutations in the 30000 nucleotides.) ⟦36⟧ ⟦37⟧ More notably,
+however, is that ⟦38⟧ banal-20-52 is 12 nucleotides shorter here, as it is missing the sequence T
+CCT CGG CGG GC .14
+
+Claims:
+⟦1⟧ [EVIDENCE] SARS-CoV-2 spike protein S binds to the ACE2 receptor on a human target cell and must be cut into two subregions, S1 and S2, by the furin enzyme.
+⟦2⟧ [ASSUMPTION] Furin recognizes proteins with an amino acid sequence of the form RxxR or especially RRxR
+⟦3⟧ [EVIDENCE] Furin recognizes proteins with an amino acid sequence of the form RxxR or especially RRxR and cuts them.
+⟦4⟧ [ANALYSIS] The presence of a furin cleavage site (FCS) in sars-cov-2 is necessary for the proper functioning of the virus, as it allows the furin enzyme to cut the spike protein into two subregions, S1 and S2.
+⟦5⟧ [ASSUMPTION] The boundary between S1 and S2 in sars-cov-2 is a furin cleavage site (FCS)
+⟦6⟧ [EVIDENCE] The boundary between S1 and S2 in SARS-CoV-2 is a furin cleavage site (FCS).
+⟦7⟧ [HYPOTHESIS] The furin cleavage site (FCS) in sars-cov-2 is necessary for its proper functioning in humans.
+⟦8⟧ [RESEARCH_QUESTION] What is the function of the furin cleavage site in sars-cov-2 infections in humans?
+⟦9⟧ [EVIDENCE] The nucleotide sequence of SARS-CoV-2 reference genome Wuhan-Hu-1 is CAG ACT CAG ACT AAT TCT CCT CGG CGG GCA CGT AGT GTA GCT AGT.
+⟦10⟧ [LIMITATION] The first known case of sars-cov-2, a Mr Chen, may have become ill on December 12, although the onset date is listed as December 8.
+⟦11⟧ [QUANTITATIVE_RESULT] 2019 December 8
+⟦12⟧ [QUANTITATIVE_RESULT] 2019 December 12
+⟦13⟧ [LIMITATION] The phylogenetic tree shown in Figure 5 is technically a haplotype network, not a phylogenetic tree, as it shows only the genetic similarity of different cases without any attempt to identify which are ancestral/related to each other.
+⟦14⟧ [QUANTITATIVE_RESULT] 79
+⟦15⟧ [QUANTITATIVE_RESULT] 69
+⟦16⟧ [EVIDENCE] The amino acid sequence of SARS-CoV-2 reference genome Wuhan-Hu-1 is Q T Q T N S P R R A R S V A S.
+⟦17⟧ [ASSUMPTION] The RRAR subsequence constitutes an FCS
+⟦18⟧ [EVIDENCE] The RRAR subsequence in SARS-CoV-2 constitutes a furin cleavage site (FCS).
+⟦19⟧ [ANALYSIS] The presence of an FCS in sars-cov-2, as opposed to banal-20-52, may be related to the different transmission modes of the two viruses, with sars-cov-2 being transmitted primarily through respiratory droplets.
+⟦20⟧ [ASSUMPTION] Sars-cov-2 passes between humans primarily through respiratory droplets
+⟦21⟧ [EVIDENCE] SARS-CoV-2 is primarily spread between humans through respiratory droplets.
+⟦22⟧ [ASSUMPTION] Bat coronaviruses are spread through droppings and must survive the gastrointestinal tract
+⟦23⟧ [EVIDENCE] Bat coronaviruses are spread through droppings and must survive the gastrointestinal tract.
+⟦24⟧ [ANALYSIS] The FCS in sars-cov-2 is evolutionarily harmful in the context of bat coronaviruses, which are spread through droppings and must survive the gastrointestinal tract.
+⟦25⟧ [HYPOTHESIS] The presence of an FCS in sars-cov-2 may be evolutionarily harmful in a life cycle that involves survival in the gastrointestinal tract.
+⟦26⟧ [HYPOTHESIS] The FCS in sars-cov-2 is not present in bat coronaviruses such as banal-20-52 due to their different life cycle.
+⟦27⟧ [LIMITATION] The presence of an FCS may be evolutionarily harmful for bat coronaviruses, which are spread through droppings and must survive the gastrointestinal tract.
+⟦28⟧ [RESEARCH_QUESTION] Why is an FCS potentially evolutionarily harmful for bat coronaviruses?
+⟦29⟧ [ASSUMPTION] An FCS may be evolutionarily harmful in bat coronaviruses
+⟦30⟧ [QUANTITATIVE_RESULT] 35:30
+⟦31⟧ [RESEARCH_QUESTION] How does the presence of an FCS in sars-cov-2 compare to its presence in the closest known wild virus banal-20-52?
+⟦32⟧ [EVIDENCE] The nucleotide sequence of banal-20-52 is CAG ACT CAa ACT AAT TCA CGT AGT GTg GCa AGT.
+⟦33⟧ [EVIDENCE] The amino acid sequence of banal-20-52 is Q T Q T N S R S V A S.
+⟦34*⟧ [LIMITATION] The comparison between sars-cov-2 and banal-20-52 is limited to a specific location, and there are about 1000 point mutations in the 30000 nucleotides.
+⟦35⟧ [QUANTITATIVE_RESULT] 1000 point mutations in the 30000 nucleotides
+⟦36⟧ [ANALYSIS] The comparison between sars-cov-2 and banal-20-52 at the FCS location reveals that banal-20-52 is missing the sequence T CCT CGG CGG GC, which is present in sars-cov-2.
+⟦37⟧ [EVIDENCE] Banal-20-52 is 12 nucleotides shorter than SARS-CoV-2 at a specific location, missing the sequence T CCT CGG CGG GC.
+⟦38⟧ [QUANTITATIVE_RESULT] 12 nucleotides shorter
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

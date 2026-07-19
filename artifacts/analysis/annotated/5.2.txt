@@ -1,0 +1,46 @@
+5.2  Spatial distribution of lineages A and B
+
+Among people who had onset of covid in 2019 December, 13 people had sars-cov-2 samples
+sequenced; 11 of these people had a known epidemiological association with HSM ([32] page
+76). 12 of the 13 samples were found to be lineage B. This raises the obvious question: where
+was the lineage A?
+More specifically, all 11 associated with HSM (onset dates: Dec 13, 17, 19, 20, 20, 20, 20,
+22, 23, 23, 23) were lineage B, whereas of the other two cases, one (onset date Dec 16 60) was
+lineage B and one (onset date Dec 26) was not. This gives the rather more pointed question
+- why was there no lineage A in HSM?
+The lab leak theory has an elegant explanation for this: based on outgroup analysis, it
+appears that lineage A is ancestral to lineage B, so presumably it was lineage A that was
+leaked from WIV. One of the lineage A descendants mutated to become the root of lineage
+B, which would include the HSM primary case. Thus, the HSM outbreak, and all cases
+descended from the HSM primary case, would be entirely lineage B, whereas Wuhan as a
+whole would have a mix of the two lineages.
+The zoonotic theory does not have a clean explanation for this observation. The most
+obvious, and simplest, is to suppose that lineage B was ancestral, so there were fewer lineage
+A cases, and by chance did not include any of the 11 associated with HSM. The sample size
+involved is so small that this could easily be simple coincidence. Supposing we knew that 1
+of the 13 early cases were lineage A, and we were then to ask the chance of the observation
+that all 13 HSM cases were lineage B, we would get a p-value of 2 /13 = 0.154, which is not
+so unlikely.
+An alternative way of regarding the situation is that if the primary covid case were in HSM,
+then the genetic diversity of sars-cov-2 within HSM should be equal to the genetic diversity
+within all of Wuhan. Observing that the one lineage A case was not in HSM is weak, but
+nonzero, evidence that the genetic diversity within HSM is lower than that of Wuhan as a
+whole, and therefore that HSM is not the origin of the pandemic.
+However the lab leak explanation for this observation is not consistent with further observa-
+tions. A glove in HSM (shop 7:15,17) was tested for covid, and was the one environmental
+sample to be sequenced with lineage A (out of four environmental samples in HSM that were
+sequenced). An employee of this shop became ill with covid with an onset before December
+15, and therefore presumably was lineage A; but if lineage A were ancestral and the primary
+HSM case were lineage B, how did lineage A reach HSM so early?
+Furthermore the first two (three) known lineage A cases were both found in close proximity
+to HSM. The first case sequenced with lineage A, with onset December 26, lived 2 km south-
+southeast of HSM [33]; he got it from his wife, onset December 15, who was presumably also
+lineage A. The second case sequenced, onset December 27, was infected while residing at an
+unspecified hotel "near" HSM [34].
+It is hard to explain the first observed presence of lineage A in close proximity to HSM with
+the lab leak explanation above. Whether the origin of sars-cov-2 was zoonotic or laboratory,
+it appears that both lineages A and B were located in or near the market, and the best
+explanation for the observations is the same for both theories.
+60Though the WHO reports Chen as having an onset of Dec 8, this appears to be incorrect.
+
+(no claims extracted for this section)

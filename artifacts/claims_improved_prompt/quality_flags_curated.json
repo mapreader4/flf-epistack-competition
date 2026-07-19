@@ -1,0 +1,287 @@
+{
+  "claims_path": "artifacts/claims_improved_prompt/claims.json",
+  "n_claims": 216,
+  "n_flagged": 28,
+  "flagged": [
+    {
+      "claim_id": "claim-6e47a1753095bd0328ac377db56a806b",
+      "section_number": "5.4",
+      "position_in_section": 4,
+      "claim_text": "Project DEFUSE involved collecting bat coronaviruses and performing computer and lab testing on them.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-45ca562fa515ee800ecfc7a2462e9086",
+      "section_number": "5.4.1",
+      "position_in_section": 5,
+      "claim_text": "SHCO14 and WIV16 have 88% and 97% S-protein identity to epidemic SARS-Urbani61.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-95baa78e1da02ef15a1fc85dcda901c5",
+      "section_number": "5.4.2",
+      "position_in_section": 0,
+      "claim_text": "The proposal contains a detailed breakdown of the planned activities into 61 tasks.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-731650c08ef06e335e34aa046d193563",
+      "section_number": "5.4.2",
+      "position_in_section": 2,
+      "claim_text": "WIV would screen bat samples for sars-like viruses and sequence spike proteins in tasks 3.1 and 3.2.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-34e5d4c5e9c5026f5b754f6347ac7a3c",
+      "section_number": "5.4.2",
+      "position_in_section": 4,
+      "claim_text": "WIV would verify assays on rabbits and blood samples from people who had SARS-1 in tasks 6.2 and 6.3.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-dd0a7398d2cf153098acd448aa55f810",
+      "section_number": "5.4.4",
+      "position_in_section": 0,
+      "claim_text": "The proposal does not explicitly state it would add furin cleavage sites to viruses.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-6af3d48060286af3f75455dca7d99f8f",
+      "section_number": "5.4.4",
+      "position_in_section": 1,
+      "claim_text": "The proposal discusses adding cleavage sites in general shortly after referring to furin cleavage sites by name.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-d74ac7f8281e0b2072db69f6cac2f625",
+      "section_number": "5.4.4",
+      "position_in_section": 4,
+      "claim_text": "The proposal does not discuss any in vivo genetic modification.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-321b9dd75010d6abb44cbcd1255c1315",
+      "section_number": "5.4.4",
+      "position_in_section": 9,
+      "claim_text": "These features were previously known or suspected to be important to human coronaviruses.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-1ee29edf49d76f77a3da94429a40bd4b",
+      "section_number": "5.4.4",
+      "position_in_section": 10,
+      "claim_text": "The proposal is hardly a blueprint for building sars-cov-2.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-04c36d305f5d175b527733791d60258d",
+      "section_number": "5.4.4",
+      "position_in_section": 11,
+      "claim_text": "The proposal contains many irrelevancies and missing key components.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-e100ec9f3000191f8ffc01dd3c8a25dd",
+      "section_number": "7.1",
+      "position_in_section": 0,
+      "claim_text": "The author had a fundamental misunderstanding of what drives new pandemics before the debate.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-fdd09d3fbf94c9ad1b53368714c61522",
+      "section_number": "7.1",
+      "position_in_section": 22,
+      "claim_text": "The author adds another factor of 1/2 to the probability of a pandemic due to the uniqueness of sars-cov-2.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-517bef3511a8eca7e06cddeaf826bbc5",
+      "section_number": "7.2",
+      "position_in_section": 1,
+      "claim_text": "This approach is error-prone because it requires speculating about the activities and safety of the Wuhan Institute of Virology (WIV) lab.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-a1cd91caa5790b66640d58ca6c96cc82",
+      "section_number": "7.2",
+      "position_in_section": 18,
+      "claim_text": "The judge finds the probability of all these conditions to be at most 1/50.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-dd7206304ccc0cefa5fb4ced86b35c3e",
+      "section_number": "7.2",
+      "position_in_section": 24,
+      "claim_text": "The judge cannot put the probability of a lab leak above 1/50.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-e5c244e7657f562466612951578e6e6c",
+      "section_number": "7.4",
+      "position_in_section": 4,
+      "claim_text": "This observation has a Bayes factor of 15 in favor of Z.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-384140df54ae89d564acacc1786e5634",
+      "section_number": "7.5",
+      "position_in_section": 1,
+      "claim_text": "It's hard to find definitive proof of a virus's origin by examining its genetic sequence",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-80ccc14a5a0c2789e39874ca979a277d",
+      "section_number": "7.5",
+      "position_in_section": 2,
+      "claim_text": "The two halves have similar areas, so the judge assumes workers are roughly evenly split between them",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-be415fc90bf1aad79afd9fbb427fe137",
+      "section_number": "7.5",
+      "position_in_section": 7,
+      "claim_text": "There were 14 species in the study",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-bc99b791c68f163219e6710ab0074423",
+      "section_number": "7.6",
+      "position_in_section": 7,
+      "claim_text": "The author combined observations differently from the debate participants.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-ebc35868061246cc8bfab8b666b2d5f4",
+      "section_number": "7.6",
+      "position_in_section": 10,
+      "claim_text": "The author does not believe the probability of a lab leak is only 1 in 1300 due to significant uncertainties in the analysis.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-4c54907036f9cf28ab9ae65cf50b6712",
+      "section_number": "7.6",
+      "position_in_section": 11,
+      "claim_text": "Many components in the calculation should be dampened towards neutrality to account for uncertainty.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-146105bf8e665a78d6420dbdba3716bd",
+      "section_number": "7.6",
+      "position_in_section": 12,
+      "claim_text": "The author was conservative in favor of a lab leak in the calculation.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-0f9ac71b0d1f55b235b6200cd4f1bc04",
+      "section_number": "7.6",
+      "position_in_section": 13,
+      "claim_text": "The author does not think dampening towards neutrality can make the probability of a lab leak cross the 50% line.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-e5e6b9698df474f0b9263c6ce915c556",
+      "section_number": "7.6",
+      "position_in_section": 16,
+      "claim_text": "The author prefers a qualitative summary.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-22f8fb08ef9818e4e4894043f8c02767",
+      "section_number": "7.6",
+      "position_in_section": 27,
+      "claim_text": "The author includes evidence that is an essential component of the zoonotic/lab leak hypotheses or is quite strong.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-79aadd42d9b7c93967120ae72f9e098f",
+      "section_number": "7.6",
+      "position_in_section": 41,
+      "claim_text": "The coincidence of location between Project DEFUSE and Eddie Holmes's photos is odd and has no explanation under the lab leak hypothesis.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    }
+  ]
+}

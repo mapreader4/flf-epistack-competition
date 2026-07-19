@@ -1,0 +1,90 @@
+1.1.1  Huanan Seafood Market
+
+⟦1⟧ So; what is the significance of HSM? ⟦2⟧ ⟦3*⟧ HSM is a large urban market with ⟦4⟧ at least 1200
+employees9 working in ⟦5⟧ 680 shops, located on the first story of a multistory building; while
+each avenue of stalls is roofed, the ends are not, and a major road divides the market into
+west and east halves. ⟦6⟧ ⟦7⟧ The market sold a variety of goods, some of which included wild or
+exotic live animals. ⟦8⟧ ⟦9⟧ At least some of the trade in animals was likely illegal. ⟦10⟧ While sars-cov-2
+originated in bats, ⟦11⟧ ⟦12⟧ ⟦13⟧ it is not known that any bats were sold in the market; ⟦14⟧ ⟦15⟧ any intermediate
+species between bats and humans are unknown. ⟦16⟧ ⟦17⟧ ⟦18⟧ ⟦19⟧ The market did have live animals that
+were susceptible to sars-like coronaviruses ⟦20⟧ and were imported from south China, ⟦21⟧ ⟦22⟧ where the
+progenitor of sars-cov-2 is almost certainly found [12].
+⟦23⟧ Thus when multiple people who were employed at HSM became sick with a virus resembling
+sars-cov-1, ⟦24⟧ it was natural to suspect the possibility of an animal host at the market being
+responsible; ⟦25⟧ ⟦26⟧ indeed in early January, ⟦27⟧ before there existed adequate capacity for testing for
+covid, ⟦28⟧ having an epidemiological link to the market was one component of a diagnosis of
+covid.
+⟦29⟧ ⟦30⟧ In the time from ⟦31⟧ 2019 December 10, when the earliest known covid case, Wei Guixian,
+became ill, and ⟦32⟧ the market closure on January 1, ⟦33⟧ ⟦34⟧ ⟦35⟧ approximately 200 people are known 10 to
+7ie, "South China"
+8Being off-topic, I elsewhere refrain from giving my extremely vehement opinions about the extraordinary
+incompetence collectively demonstrated by industrialized western countries in the face of the initial covid
+outbreak, made all the more embarrassing by the fact that the WHO gave advance warning with explicit
+action items, and China was successful even without those. I think the US should take a hard look at how
+other countries handle certain issues and have the ambition to at least try to be a world leader; compare
+how the US has ⟦36⟧ 80 km of high-speed rail (the Acela corridor) ⟦37⟧ and plans to build another 192 km by 2033 (in
+California), ⟦38⟧ whereas China has built 42000 km since 2008. While disease control is easier in an autocracy,
+I hasten to point out that New Zealand and Taiwan both successfully eliminated covid until omicron. Had
+the US the same death rate as New Zealand, Taiwan, Australia, Japan, or South Korea, ⟦39⟧ about 1m of the
+estimated 1.2m US covid deaths would have been averted. There needs to be an accounting for the US's
+actions that asks why we let 1 million people die.
+9⟦40⟧ There are ⟦41⟧ 1162 vendors according to [32] annex page 182, and presumably a variety of other full time
+employees as well.
+10⟦42⟧ You'd think that although we don't know how many people had covid in 2019 December, surely we'd
+know how many we know of. Alas not. This is the elusive "unknown known" of the Rumsfeld quadrafecta.
+⟦43⟧ Figure 1: Two photographs from the west half of HSM, showing the varying air circulation
+conditions within the market. The first image looks south along the main corridor from
+alley 13, the second is located within alley 9. These images were taken from http://
+babarlelephant.free-hoster.net/visiting-the-wuhan-seafood-market/ ; click on the
+yellow dot above the 13 and two to the left of the 9.
+have had onset of covid, ⟦44⟧ of which ⟦45⟧ 62 or 63 were vendors at the market and others had known
+epidemiological connections to it.
+
+Claims:
+⟦1⟧ [RESEARCH_QUESTION] What is the significance of the Huanan Seafood Market in the context of COVID-19 origins?
+⟦2⟧ [EVIDENCE] Huanan Seafood Market (HSM) has at least 1200 employees
+⟦3*⟧ [EVIDENCE] HSM has 680 shops
+⟦4⟧ [QUANTITATIVE_RESULT] at least 1200 employees
+⟦5⟧ [QUANTITATIVE_RESULT] 680 shops
+⟦6⟧ [ASSUMPTION] The market sold a variety of goods, including wild or exotic live animals, which is relevant to the origin of sars-cov-2.
+⟦7⟧ [EVIDENCE] HSM sold wild or exotic live animals
+⟦8⟧ [ASSUMPTION] At least some of the trade in animals at the market was likely illegal.
+⟦9⟧ [EVIDENCE] Some animal trade in HSM was likely illegal
+⟦10⟧ [EVIDENCE] Sars-cov-2 originated in bats
+⟦11⟧ [EVIDENCE] No bats were sold in HSM
+⟦12⟧ [LIMITATION] it is not known that any bats were sold in the Huanan Seafood Market
+⟦13⟧ [RESEARCH_QUESTION] Were bats sold at the Huanan Seafood Market?
+⟦14⟧ [LIMITATION] any intermediate species between bats and humans are unknown
+⟦15⟧ [RESEARCH_QUESTION] What intermediate species between bats and humans could have been responsible for the transmission of SARS-CoV-2?
+⟦16⟧ [ANALYSIS] The presence of live animals susceptible to sars-like coronaviruses at HSM, which were imported from south China, increases the likelihood of an animal host at the market being responsible for the COVID-19 outbreak.
+⟦17⟧ [ASSUMPTION] Live animals susceptible to sars-like coronaviruses were imported from south China to the market.
+⟦18⟧ [EVIDENCE] HSM had live animals susceptible to sars-like coronaviruses
+⟦19⟧ [HYPOTHESIS] Live animals susceptible to SARS-like coronaviruses and imported from south China were sold at the Huanan Seafood Market
+⟦20⟧ [EVIDENCE] Live animals in HSM were imported from south China
+⟦21⟧ [ASSUMPTION] The progenitor of sars-cov-2 is almost certainly found in south China.
+⟦22⟧ [HYPOTHESIS] The progenitor of SARS-CoV-2 is found in south China
+⟦23⟧ [ANALYSIS] The fact that multiple people employed at HSM became sick with a virus resembling sars-cov-1 suggests the possibility of an animal host at the market being responsible.
+⟦24⟧ [HYPOTHESIS] An animal host at the Huanan Seafood Market was responsible for the COVID-19 outbreak
+⟦25⟧ [ANALYSIS] The epidemiological link to HSM was a component of a diagnosis of COVID-19 in early January, before adequate testing capacity existed.
+⟦26⟧ [ASSUMPTION] Having an epidemiological link to the market was a component of a diagnosis of covid in early January.
+⟦27⟧ [LIMITATION] there is a lack of adequate capacity for testing for covid in early January
+⟦28⟧ [RESEARCH_QUESTION] What was the role of the Huanan Seafood Market in the early diagnosis of COVID-19?
+⟦29⟧ [ASSUMPTION] The earliest known covid case, Wei Guixian, became ill on December 10, 2019.
+⟦30⟧ [EVIDENCE] Approximately 200 people had onset of covid between December 10, 2019, and January 1, 2020
+⟦31⟧ [QUANTITATIVE_RESULT] 2019 December 10
+⟦32⟧ [QUANTITATIVE_RESULT] January 1
+⟦33⟧ [LIMITATION] the exact number of people who had onset of covid is uncertain
+⟦34⟧ [QUANTITATIVE_RESULT] approximately 200 people
+⟦35⟧ [RESEARCH_QUESTION] How many people had onset of COVID-19 in the time from December 10, 2019, to the market closure on January 1?
+⟦36⟧ [QUANTITATIVE_RESULT] 80 km of high-speed rail
+⟦37⟧ [QUANTITATIVE_RESULT] 192 km by 2033
+⟦38⟧ [QUANTITATIVE_RESULT] 42000 km since 2008
+⟦39⟧ [QUANTITATIVE_RESULT] 1m of the estimated 1.2m US covid deaths
+⟦40⟧ [EVIDENCE] There are 1162 vendors at HSM according to [32] annex page 182
+⟦41⟧ [QUANTITATIVE_RESULT] 1162 vendors
+⟦42⟧ [LIMITATION] the number of people who had covid in 2019 December is unknown
+⟦43⟧ [EVIDENCE] HSM has varying air circulation conditions
+⟦44⟧ [EVIDENCE] 62 or 63 vendors at HSM had covid
+⟦45⟧ [QUANTITATIVE_RESULT] 62 or 63 vendors
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

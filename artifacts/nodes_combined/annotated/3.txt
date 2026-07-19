@@ -1,0 +1,172 @@
+3  Lies, damned lies, and how to get large numbers by taking powers of 2
+
+taking powers of 2
+⟦1*⟧ ⟦2*⟧ In the space of one hundred and seventy-six years ⟦3*⟧ the Lower Missis-
+sippi has shortened itself two hundred and forty-two miles. ⟦4⟧ That is
+⟦5⟧ an average of a trifle over one mile and a third per year. ⟦6⟧ Therefore,
+any calm person, who is not blind or idiotic, can see that in the Old
+Oolitic Silurian Period, just a million years ago next November, ⟦7⟧ ⟦8⟧ ⟦9⟧ the
+Lower Mississippi River was upwards of one million three hundred
+thousand miles long, and stuck out over the Gulf of Mexico like a
+fishing-rod. And by the same token any person can see that seven
+hundred and forty-two years from now ⟦10⟧ the Lower Mississippi will be
+only a mile and three-quarters long, and Cairo and New Orleans will
+have joined their streets together, and be plodding comfortably along
+under a single mayor and a mutual board of aldermen. There is some-
+thing fascinating about science. One gets such wholesale returns of
+conjecture out of such a trifling investment of fact. -Mark Twain [31]
+⟦11⟧ Suppose you suspect something about your senator is quite odd, and ⟦12⟧ perhaps they are not
+human at all, but rather secretly a lizard from space. ⟦13⟧ To test this, ⟦14⟧ you collect 100 pieces of
+data that inform the question. For many of these data points you know what to expect for
+humans: ⟦15⟧ ⟦16⟧ how tall are they, how much do they weigh, shapes of facial features, thickness of
+fingers. Of course they would not make their lizardness so obvious, so you collect data on
+vocal patterns, word choices, oddities in their education history, interviews with supposed
+personal friends. ⟦17⟧ You collect reports on UFOs near their presumed arrival time, look for
+military flight patterns, cryptic comments made by public officials around that time. Soon,
+you have 100 independent observations that bear on the question.
+⟦18⟧ Predictably, even if you have been completely fair in your data collection - all 100 data
+points are accurate, and you did not specifically seek out information that you know will be
+odd21 - if you are naive with your analysis in certain ways you will invariably conclude that
+they are a lizard.
+⟦19⟧ How? Well, if you use hypothesis testing, you might calculate a p-value for each of your 100
+observations. ⟦20⟧ ⟦21⟧ Shockingly, you discover their ring finger is extremely long - at p = 0.01 it is
+highly anomalous, a 1 in 100 coincidence. Clearly a lizard! ⟦22⟧ This is a common trap (usually
+inadvertent) called p-hacking.
+⟦23⟧ ⟦24⟧ Bayesian reasoning is capable of exactly the same error. ⟦25⟧ For each of these observations you
+compute a Bayes factor. Half of them are less anomalous than average (Bayes factor 1) and
+⟦26⟧ half of them are more anomalous than average. They are only weakly anomalous - a 1 in
+2 coincidence each, so Bayes factor 2 - ⟦27⟧ but ⟦28⟧ with 50 such pieces of weak evidence your total
+Bayes factor is 2 50, totally overwhelming any prior you had against secret space lizards.
+⟦29⟧ However let us be a little less reckless; after all, all of those less anomalous observations
+should have had a Bayes factor smaller than 1 because they are evidence for ⟦30*⟧ humanity.
+Recall22 we can convert Bayes factors to probabilities as:
+p = 1
+1 +b
+so for a p-value p we can correspond the Bayes factor b = 1/p- 1. If our observations are
+chosen so thatp is uniformly distributed in the range [0, 1], then b will be distributed [0,∞].⟦31*⟧ 
+As we calculate the total log-odds by adding up each of the 100 random values of log b,
+we undergo a random walk. ⟦32⟧ ⟦33⟧ The median step size |S| =| logb| of this random walk is
+± log 3 =±1.1; ⟦34⟧ the average is± log 4 =±1.39; and ⟦35⟧ the variance σ2 is
+Var(S) =E(S2)-E(S)2 =E(S2) =
+∫ 1
+(logb)2 dp = π2
+3 = 3.28987
+⟦36⟧ ⟦37⟧ so the standard deviation is σ = 1.8138.
+⟦38⟧ ⟦39⟧ After 100 random steps, our final position has a variance of 100 σ2 or standard deviation of
+10σ = 18.138. ⟦40⟧ ⟦41⟧ A Bayes factor of e18.138 gives a probability indistinguishable from certainty,
+so we will most likely find strong evidence either in favor of lizardness or humanness.
+21even though you only chose to start this investigation because you already had made some specific
+observations that are odd!
+22I am eliding some details and assumptions here; basically, ⟦42⟧ I have assumed that any evidence against
+humanity is for space lizards, as this maximizes the statistical power of the test. I also have a nagging
+suspicion that I have omitted a factor of 2 in converting to Bayes factors, but the end result appears not to
+be missing any factors of 2.
+(Digression: ⟦43⟧ for convenience to perform this calculation I have assumed all our observations
+are numerical with known distribution. If so, ⟦44⟧ the appropriate statistical test would be a
+z-test (similar to a t-test) on the mean of the z scores of the observations, and not to do
+any kind of Bayesian calculation at all. More likely, some of our observations will not be
+numerical or come from unknown distributions, so that a z-test cannot be performed.)
+⟦45⟧ However, what happens if we have a slight bias? Indeed even if all of our data points are
+individually fair, we might be biased about which data points we collect.
+⟦46⟧ Suppose we conveniently overlook half the data in favor of humanity; so we have two thirds
+for lizards, and one thirds for humans. This may still look like we are being extremely
+fair - after all, we've included 33 data points against our desired conclusion! However the
+difference is massive, because ⟦47⟧ random walks add noise that scales with the square root of the
+number of steps, but a biased random walk drifts at a rate that is linear with the number of
+steps. ⟦48⟧ The total bias is 100
+3 log 4 = 46.21, completely overwhelming any random noise (which
+will also be slightly less than before, I didn't calculate how much) and ⟦49⟧ leading us consistently
+to the conclusion in favor of lizardness with a confidence of about e46 to 1.
+Of course, such bias in the datacould also exist because lizardness is the right conclusion, and
+the data is accurately reflecting that! ⟦50⟧ But ⟦51⟧ the analysis of any one data point, or potentially
+all 100 data points, is insufficient to distinguish between a completely fair Bayesian analysis
+revealing an anomaly or a slightly biased Bayesian analysis with no true signal.
+(⟦52⟧ What's more, we can get qualitatively the same result using far fewer than 100 data points;
+all we need is 100 potential data points. ⟦53⟧ If there are 100 different ways we could make an
+observation, and we ignore the 90 least interesting ones (with Bayes factors closest to 1),
+they are the ones that make the smallest contribution to the final result, and most will cancel
+with each other. ⟦54⟧ Thus by making only 10 interesting observations we get more-or-less the
+same result as if we had made 100, though with a bit more randomness.)
+⟦55⟧ ⟦56⟧ ⟦57⟧ If instead of a haphazard collection of observations one makes a collection of evidence that
+is in some way canonical it is much harder to introduce bias; say, one considers all fingers,
+but only fingers.
+Alternatively, while we are musing about space lizards, consider the Drake equation, which
+attempts to put numbers to the Fermi paradox.23 ⟦58⟧ While people may (greatly) disagree about
+the specific numbers to use for the terms of Drake equation, and vary slightly on exactly
+how the Drake equation is broken down into factors, ⟦59⟧ the general structure of the equation is
+uncontroversial, as each factor represents an obligate step in the path from lifeless rock to
+observable intelligent life.
+⟦60*⟧ ⟦61*⟧ ⟦62*⟧ Similarly, if⟦63*⟧  a hypothesis can be broken down into subparts, each necessary for the hypoth-
+esis as a whole to hold, then there is less potential for bias in the selection of evidence,
+though there may remain disagreement about the numbers assigned to the evidence or what
+breakdown into subparts is cleanest.
+23⟦64⟧ If each star is a potential host for intelligent alien life, and we can observe billions of stars, why do we
+not observe any alien life?
+
+Claims:
+⟦1*⟧ [EVIDENCE] The Lower Mississippi River shortened itself 242 miles in 176 years.
+⟦2*⟧ [RESEARCH_QUESTION] What is the origin of COVID-19, zoonosis or lab-leak?
+⟦3*⟧ [QUANTITATIVE_RESULT] The Lower Mississippi River has shortened itself 242 miles in 176 years
+⟦4⟧ [EVIDENCE] The average shortening of the Lower Mississippi River is approximately 1 mile and 1/3 per year.
+⟦5⟧ [QUANTITATIVE_RESULT] The Lower Mississippi River shortens itself at an average rate of 1 mile and 1/3 per year
+⟦6⟧ [ANALYSIS] The Lower Mississippi River's length can be calculated to have been over 1 million 300 thousand miles long in the Old Oolitic Silurian Period, based on its average shortening rate of over 1 mile and a third per year.
+⟦7⟧ [ASSUMPTION] The Lower Mississippi River was upwards of one million three hundred thousand miles long in the Old Oolitic Silurian Period.
+⟦8⟧ [HYPOTHESIS] The Lower Mississippi River was upwards of one million three hundred thousand miles long in the Old Oolitic Silurian Period.
+⟦9⟧ [QUANTITATIVE_RESULT] The Lower Mississippi River was approximately 1,300,000 miles long 1 million years ago
+⟦10⟧ [QUANTITATIVE_RESULT] The Lower Mississippi River will be approximately 1.75 miles long in 742 years
+⟦11⟧ [RESEARCH_QUESTION] How can one test the hypothesis that a senator is secretly a lizard from space?
+⟦12⟧ [HYPOTHESIS] The senator is a lizard from space.
+⟦13⟧ [EVIDENCE] 100 pieces of data were collected to inform the question of whether a senator is human or a lizard from space.
+⟦14⟧ [QUANTITATIVE_RESULT] 100 pieces of data are collected to inform the question of whether a senator is a lizard from space
+⟦15⟧ [EVIDENCE] The data points collected include information on the senator's physical characteristics, vocal patterns, word choices, education history, and other factors.
+⟦16⟧ [HYPOTHESIS] The senator is human.
+⟦17⟧ [EVIDENCE] The data points also include reports on UFOs near the senator's presumed arrival time and military flight patterns.
+⟦18⟧ [ANALYSIS] Collecting 100 independent observations can lead to the conclusion that a senator is a lizard from space, even if the data collection is fair, due to the accumulation of weak evidence.
+⟦19⟧ [RESEARCH_QUESTION] What is the effect of p-hacking on hypothesis testing?
+⟦20⟧ [ANALYSIS] Using hypothesis testing can result in a p-value of 0.01 for a single observation, making it seem highly anomalous and supporting the lizard hypothesis.
+⟦21⟧ [EVIDENCE] The ring finger of the senator is extremely long, with a p-value of 0.01.
+⟦22⟧ [LIMITATION] p-hacking can lead to incorrect conclusions in hypothesis testing
+⟦23⟧ [LIMITATION] Bayesian reasoning can also be prone to errors, such as overwhelming prior probabilities with weak evidence
+⟦24⟧ [RESEARCH_QUESTION] Can Bayesian reasoning be susceptible to the same errors as hypothesis testing?
+⟦25⟧ [EVIDENCE] The Bayes factor for each observation is calculated, with half of them being less anomalous than average (Bayes factor 1) and half being more anomalous than average (Bayes factor 2).
+⟦26⟧ [QUANTITATIVE_RESULT] 50 observations have a Bayes factor of 2, indicating weak anomaly
+⟦27⟧ [EVIDENCE] The total Bayes factor is 2^50, which is overwhelming any prior against secret space lizards.
+⟦28⟧ [QUANTITATIVE_RESULT] The total Bayes factor for 50 weakly anomalous observations is 2^50
+⟦29⟧ [LIMITATION] failure to account for less anomalous observations can lead to biased conclusions
+⟦30*⟧ [ANALYSIS] Converting Bayes factors to probabilities using the formula p = 1 / (1 + b) allows for the calculation of the total log-odds by adding up each of the 100 random values of log b, resulting in a random walk.
+⟦31*⟧ [ANALYSIS] The median step size of the random walk is ± log 3 = ±1.1, the average is ± log 4 = ±1.39, and the variance σ^2 is approximately 3.28987, resulting in a standard deviation of σ = 1.8138.
+⟦32⟧ [EVIDENCE] The median step size of the random walk is ± log 3 = ±1.1, the average is ± log 4 = ±1.39, and the variance is σ^2 = 3.28987.
+⟦33⟧ [QUANTITATIVE_RESULT] The median step size of a random walk is ± log 3 = ±1.1
+⟦34⟧ [QUANTITATIVE_RESULT] The average step size of a random walk is ± log 4 = ±1.39
+⟦35⟧ [QUANTITATIVE_RESULT] The variance of the step size is σ^2 = 3.28987
+⟦36⟧ [EVIDENCE] The standard deviation of the random walk is σ = 1.8138, and after 100 random steps, the final position has a variance of 100 σ^2 or standard deviation of 10σ = 18.138.
+⟦37⟧ [QUANTITATIVE_RESULT] The standard deviation of the step size is σ = 1.8138
+⟦38⟧ [ANALYSIS] After 100 random steps, the final position has a variance of 100 σ^2 or standard deviation of 10σ = 18.138, resulting in a Bayes factor of e^18.138, which gives a probability indistinguishable from certainty.
+⟦39⟧ [QUANTITATIVE_RESULT] The final position after 100 random steps has a variance of 100 σ^2 and a standard deviation of 10σ = 18.138
+⟦40⟧ [EVIDENCE] A Bayes factor of e^18.138 gives a probability indistinguishable from certainty.
+⟦41⟧ [QUANTITATIVE_RESULT] A Bayes factor of e^18.138 gives a probability indistinguishable from certainty
+⟦42⟧ [ASSUMPTION] The senator in question is either human or a lizard from space.
+⟦43⟧ [ASSUMPTION] All observations are numerical with known distribution.
+⟦44⟧ [ASSUMPTION] A z-test (similar to a t-test) on the mean of the z scores of the observations is the appropriate statistical test if all observations are numerical with known distribution.
+⟦45⟧ [RESEARCH_QUESTION] What is the impact of bias on Bayesian analysis?
+⟦46⟧ [LIMITATION] biased data collection can lead to massive differences in conclusions, even if individual data points are fair
+⟦47⟧ [LIMITATION] random walks can add noise that scales with the square root of the number of steps, leading to potential biases
+⟦48⟧ [QUANTITATIVE_RESULT] The total bias in a biased random walk is 100/3 log 4 = 46.21
+⟦49⟧ [QUANTITATIVE_RESULT] The biased random walk leads to a conclusion in favor of lizardness with a confidence of about e^46 to 1
+⟦50⟧ [RESEARCH_QUESTION] How can one distinguish between a completely fair Bayesian analysis and a slightly biased Bayesian analysis?
+⟦51⟧ [LIMITATION] analysis of individual data points or all data points may be insufficient to distinguish between fair and biased Bayesian analysis
+⟦52⟧ [LIMITATION] using fewer data points can still lead to similar results, but with more randomness
+⟦53⟧ [QUANTITATIVE_RESULT] If 90 out of 100 potential data points are ignored, the result is similar to using all 100 data points, but with more randomness
+⟦54⟧ [QUANTITATIVE_RESULT] Using 10 interesting observations can give a similar result to using 100 observations, but with more randomness
+⟦55⟧ [ANALYSIS] Using a canonical collection of evidence, such as considering all fingers, can make it much harder to introduce bias, whereas a haphazard collection of observations can lead to biased conclusions.
+⟦56⟧ [LIMITATION] introducing bias can be harder when using canonical collections of evidence
+⟦57⟧ [RESEARCH_QUESTION] What is the purpose of the Drake equation in the context of the Fermi paradox?
+⟦58⟧ [EVIDENCE] The Drake equation attempts to put numbers to the Fermi paradox, with a general structure that is uncontroversial.
+⟦59⟧ [ASSUMPTION] The general structure of the Drake equation is uncontroversial, as each factor represents an obligate step in the path from lifeless rock to observable intelligent life.
+⟦60*⟧ [ANALYSIS] Breaking down a hypothesis into subparts, each necessary for the hypothesis as a whole to hold, can reduce the potential for bias in the selection of evidence, as seen in the Drake equation.
+⟦61*⟧ [LIMITATION] breaking down hypotheses into subparts can reduce potential bias, but may still lead to disagreements about numbers or breakdowns
+⟦62*⟧ [RESEARCH_QUESTION] How can breaking down a hypothesis into subparts reduce the potential for bias in the selection of evidence?
+⟦63*⟧ [ASSUMPTION] If a hypothesis can be broken down into subparts, each necessary for the hypothesis as a whole to hold, then there is less potential for bias in the selection of evidence.
+⟦64⟧ [HYPOTHESIS] Intelligent alien life exists and can be observed.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

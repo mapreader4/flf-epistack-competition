@@ -1,0 +1,96 @@
+B.3  Vendor cases
+
+Of the 55 HSM-linked cases in the WHO report, 53 were acquired at HSM and 2 acquired
+indirectly; 30 of these were vendors who work at fixed shops in HSM (annex page 177).
+(Some of the other 23 were also HSM employees or regular visitors.) With much squinting
+at the map on annex page 181, and comparing to figure S2 of [12], the locations of each of
+the 30 vendor cases can be identified. I have consolidated this with the HSM vendor cases
+found by Dr Marion Koopmans from the data file of [12], located at https://github.com/
+sars-cov-2-origins/huanan-market-environment/blob/main/metadata/cases.csv . (She
+presumably had access to this data due to being on the 2021 WHO investigative team, specif-
+ically as the head of the molecular epidemiology subteam.) Date ranges can be narrowed in
+some cases by cross referencing information in other parts of the WHO report.
+Note that the case data from Dr Koopmans is simply an unannotated csv file with no context
+or discussion that I found in a github repository linked to from a paper she co-authored.
+Thus the data has no implied warranty of validity - it could easily be some draft or working
+data that was accidentally uploaded. None-the-less it does match with case maps she has
+made in public presentations.
+In the following table, each shop location is given as the alley followed by the number within
+that alley. Most shops are in the west half of HSM; shops in east half are indicated with
+an "E". Some shops occupy multiple numbers, in which case the numbers will be comma
+separated. A superscript indicates multiple cases at the same shop in the same date range.
+date (2019 Dec) stall number source notes
+13 12:19,21,23 WHO+MK annex page 179; WHO has
+this more specifically at
+12:21
+15 or earlier 2:14 MK Wei Guixian, Dec 10, first
+known case
+15 or earlier 6:22,24 MK
+15 or earlier 7:5,7 2 MK
+15 or earlier 7:15,17 MK
+15 or earlier 7:26,28 2 WHO+MK WHO has only one case, in
+Dec 21 to 27
+15 or earlier 8:26,28 MK
+15 or earlier 10:22 MK
+17 13:X1,15:2 WHO+MK cluster 2, annex page 157
+18 to 20 7:5,7 WHO+MK
+18 to 20 15:13,15,17 WHO+MK MK has this more specifi-
+cally at 15:15
+18 to 20 back street:2 WHO+MK
+19 13:X1,15:2 WHO+MK cluster 2, annex page 157
+20 5:6,8 WHO+MK cluster 4, annex page 158
+21 to 27 4:6 WHO+MK
+21 to 27 4:24 WHO+MK
+21 to 27 4:26,28 WHO+MK
+21 to 27 4:X4,X6 WHO+MK
+21 to 27 9:19,21,23 WHO+MK MK has this more specifi-
+cally at 9:21
+21 to 27 11:15 WHO+MK
+21 to 27 11:17 WHO+MK
+21 to 27 11:25 WHO+MK
+21 to 27 13:X5 WHO+MK
+21 to 27 13:X32 WHO according to [12], the WHO
+has this in 13:26 instead
+21 to 27 E2:1 WHO+MK
+21 to 27 E3:5,7,9 WHO+MK MK has this more specifi-
+cally at E3:7
+21 to 27 E7:3 WHO
+21 to 27 E7:15,17 WHO+MK
+21 to 27 E11:42 WHO
+25 13:X1,15:2 WHO+MK cluster 2, annex page 157
+26 5:6,8 WHO+MK cluster 4, annex page 158
+(continued)
+date (2019 Dec) stall number source notes
+16 to 31 E8:19 MK
+16 to 31 E9:46 MK
+16 to 31 1:X3,X5 MK
+16 to 31 2:5,7 2 MK
+16 to 31 2:15 MK
+16 to 31 2:18 MK
+16 to 31 3:6 MK
+16 to 31 4:2,4 2 WHO+MK WHO has only one case, in
+Dec 28 to 31
+16 to 31 4:16,18 2 MK
+16 to 31 4:X1 MK
+16 to 31 5:6,8 MK presumably also part of
+cluster 4
+16 to 31 7:1,3 MK
+16 to 31 7:5,7 MK
+16 to 31 8:2,8:4,9:1,9:3 2 WHO+MK WHO has only one case, in
+Dec 28 to 31
+16 to 31 10:13 MK
+16 to 31 10:22 2 MK
+16 to 31 11:22 MK
+16 to 31 13:26 MK possibly same as WHO case
+in 13:X32
+16 to 31 13:X1,15:2 MK presumably also part of
+cluster 2
+16 to 31 15:12 MK
+16 to 31 15:35 MK
+16 to 31 15:44 2 WHO+MK WHO has only one case, in
+Dec 21 to 27
+28 to 31 4:X2 WHO+MK
+28 to 31 back street:14 WHO+MK
+In total this constitutes 62 cases, assuming the 13:X32 and 13:26 cases are the same.
+
+(no claims extracted for this section)

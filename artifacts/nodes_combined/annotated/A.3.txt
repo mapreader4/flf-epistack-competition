@@ -1,0 +1,106 @@
+A.3  Mahjong hall
+
+⟦1⟧ ⟦2⟧ ⟦3⟧ Rootclaim identified the possibility that the mahjong room in HSM may have been a nexus
+of early covid cases. I think there are two facets to their tentative argument; one, anecdotal
+observations linking early covid cases to the mahjong room; and two, ⟦4⟧ ⟦5⟧ ⟦6⟧ a supposition that the
+mahjong room would have an unusually high rate of disease transmission.
+I think neither facet is sufficiently substantiated. ⟦7⟧ ⟦8⟧ ⟦9⟧ ⟦10⟧ ⟦11⟧ Rootclaim claims that at least 35 early
+covid cases have been linked to the mahjong room or mahjong players in some way ([1]
+at 3:17:30). As far as I can tell, this number is reached by adding up each of the listed
+anecdotes. ⟦12⟧ ⟦13⟧ 27 of these come from a single source, ⟦14⟧ a Chinese-language video that I cannot
+evaluate, or even verify the quote is in the video. ⟦15⟧ ⟦16⟧ ⟦17⟧ ⟦18⟧ ⟦19⟧ None of the sources are reliable, being
+indirect anecdotes with no identifying details and few specifics. ⟦20⟧ ⟦21⟧ I do not see any attempt
+to de-duplicate individuals that might have appeared in multiple anecdotes, ⟦22⟧ nor compare
+against the background rate of mahjong players.
+⟦23⟧ ⟦24⟧ ⟦25⟧ While the HSM mahjong room would be more conducive to disease transmission than the
+shops, I don't see a reason it would be especially outstanding, nor in comparison to mahjong
+rooms (or bars, restaurants, etc.) elsewhere in Wuhan, which are numerous. ⟦26⟧ And regardless
+of how infective the room may be, ⟦27⟧ ⟦28⟧ its effect is limited to people physically in the room, which
+appears not to have been many:
+⟦29*⟧ The shopkeeper mentioned an illicit mah-jongg parlor in the seafood
+market. "⟦30⟧ I heard that four people were playing at one table, and all
+four got sick," he said.
+[...] By then, the journalist had heard about a possible virus, and also
+about some mah-jongg infections. He found the players unfazed by
+the rumors, still gambling for small stakes.⟦31*⟧  "It was kind of a secret
+room," the journalist said. [...] "It was next to the public toilet, and
+you had to climb a ladder to get there. You wouldn't find it unless
+you were looking for it. Everybody was smoking and there was no
+ventilation." [18]
+⟦32⟧ Out of thoroughness I read each of the six sources provided in so far as I could:
+• the New Yorker article quoted above; it contains fourth-hand accounts which were
+related in 2020 August.
+• a Chinese-language video
+• ⟦33⟧ an Australian reporter who met a Wuhan resident who said their friend is (as of 2020
+January 22) in the hospital with covid and thinks he may have gotten it while playing
+mahjong, with no further detail. This is well over a month after the time relevant to
+the HSM outbreak.
+• ⟦34⟧ a contemporaneous Chinese-language news report with many interviews with employees
+at HSM; ⟦35⟧ based on a machine-translation, it contains two references to shopkeepers
+playing cards but does not mention mahjong. ⟦36⟧ I do not think it is fair to translate the
+characters "
+ " ("play cards") as "play mahjong" without context to indicate that it
+is specifically mahjong being referred to. Even still, one instance refers to "three shop
+owners who often played cards at the stalls near tenth street", which is not near the
+mahjong room on fifth or sixth street.
+• ⟦37⟧ two Chinese-language news reports which machine translation failed on
+⟦38⟧ ⟦39⟧ ⟦40⟧ The only source I could read that referred to illnesses that could even be compatible with the
+HSM mahjong room and in a relevant time period is the New Yorker article; I have quoted
+the relevant portion of it in full. It is also the only source that makes specific reference to
+the HSM mahjong room.
+⟦41⟧ ⟦42⟧ ⟦43⟧ ⟦44⟧ ⟦45⟧ While it is certainly possible that the HSM mahjong room played a role in the HSM outbreak,
+there are no first-hand accounts of mahjong players with covid, no non-anecdotal accounts,
+⟦46⟧ and no known specific individuals who played mahjong and acquired covid. ⟦47⟧ The only evidence
+is a single sentence published almost a year after the events in question with a fourth-hand
+anecdotal account of non-specific people.
+
+Claims:
+⟦1⟧ [ASSUMPTION] The HSM mahjong room was a nexus of early covid cases
+⟦2⟧ [HYPOTHESIS] The mahjong room in HSM was a nexus of early COVID-19 cases.
+⟦3⟧ [RESEARCH_QUESTION] Was the mahjong room in HSM a nexus of early COVID-19 cases?
+⟦4⟧ [ASSUMPTION] The mahjong room in HSM would have an unusually high rate of disease transmission
+⟦5⟧ [HYPOTHESIS] The mahjong room would have an unusually high rate of disease transmission.
+⟦6⟧ [RESEARCH_QUESTION] Is there a high rate of disease transmission in the mahjong room?
+⟦7⟧ [ASSUMPTION] At least 35 early covid cases have been linked to the mahjong room or mahjong players
+⟦8⟧ [EVIDENCE] At least 35 early covid cases have been linked to the mahjong room or mahjong players in some way, according to Rootclaim.
+⟦9⟧ [HYPOTHESIS] At least 35 early COVID-19 cases have been linked to the mahjong room or mahjong players.
+⟦10⟧ [QUANTITATIVE_RESULT] at least 35 early covid cases linked to the mahjong room or mahjong players
+⟦11⟧ [RESEARCH_QUESTION] How many early COVID-19 cases are linked to the mahjong room or mahjong players?
+⟦12⟧ [EVIDENCE] 27 of the early covid cases linked to the mahjong room come from a single Chinese-language video source.
+⟦13⟧ [QUANTITATIVE_RESULT] 27 early covid cases come from a single Chinese-language video source
+⟦14⟧ [LIMITATION] The Chinese-language video source cannot be evaluated or verified by the author.
+⟦15⟧ [ANALYSIS] The number of early covid cases linked to the mahjong room or mahjong players is not sufficiently substantiated because the sources are indirect anecdotes with no identifying details and few specifics.
+⟦16⟧ [ASSUMPTION] The sources provided by Rootclaim are reliable
+⟦17⟧ [EVIDENCE] The sources of the early covid cases linked to the mahjong room are indirect anecdotes with no identifying details and few specifics.
+⟦18⟧ [LIMITATION] The number of early covid cases linked to the mahjong room is based on indirect anecdotes with no identifying details and few specifics, which may not be reliable.
+⟦19⟧ [RESEARCH_QUESTION] Can the sources provided by Rootclaim be considered reliable for linking COVID-19 cases to the mahjong room?
+⟦20⟧ [ANALYSIS] There is no attempt to de-duplicate individuals that might have appeared in multiple anecdotes, which could lead to an overcount of early covid cases linked to the mahjong room.
+⟦21⟧ [LIMITATION] There is no attempt to de-duplicate individuals that might have appeared in multiple anecdotes, which could lead to an overcount of cases.
+⟦22⟧ [LIMITATION] The comparison of the mahjong room's disease transmission rate to the background rate of mahjong players is missing.
+⟦23⟧ [ANALYSIS] The HSM mahjong room would be more conducive to disease transmission than the shops, but it is not especially outstanding compared to other mahjong rooms or establishments in Wuhan.
+⟦24⟧ [ASSUMPTION] The HSM mahjong room was more conducive to disease transmission than other locations in Wuhan
+⟦25⟧ [RESEARCH_QUESTION] Is the HSM mahjong room more conducive to disease transmission compared to other locations in Wuhan?
+⟦26⟧ [ANALYSIS] The effect of the mahjong room on disease transmission is limited to people physically in the room, which appears to be a small number.
+⟦27⟧ [ASSUMPTION] The effect of the mahjong room on disease transmission is limited to people physically in the room
+⟦28⟧ [LIMITATION] The effect of the mahjong room is limited to people physically in the room, which appears not to have been many.
+⟦29*⟧ [EVIDENCE] A shopkeeper mentioned an illicit mah-jongg parlor in the seafood market where four people playing at one table all got sick.
+⟦30⟧ [QUANTITATIVE_RESULT] four people playing at one table got sick
+⟦31*⟧ [EVIDENCE] The mahjong room was described as a secret room next to the public toilet with no ventilation and where everybody was smoking.
+⟦32⟧ [QUANTITATIVE_RESULT] six sources provided
+⟦33⟧ [EVIDENCE] A Wuhan resident's friend was in the hospital with covid and thought they may have gotten it while playing mahjong, as reported by an Australian reporter.
+⟦34⟧ [EVIDENCE] A contemporaneous Chinese-language news report contains interviews with employees at HSM, but does not mention mahjong.
+⟦35⟧ [ASSUMPTION] The machine translation of the Chinese-language news report is accurate
+⟦36⟧ [LIMITATION] The contemporaneous Chinese-language news report does not specifically mention mahjong, and it is not fair to translate the characters as 'play mahjong' without context.
+⟦37⟧ [LIMITATION] Machine translation failed on two Chinese-language news reports, which may contain relevant information.
+⟦38⟧ [ANALYSIS] The only source that refers to illnesses compatible with the HSM mahjong room and in a relevant time period is the New Yorker article, which provides a fourth-hand anecdotal account.
+⟦39⟧ [ASSUMPTION] The New Yorker article is a reliable source of information about the HSM mahjong room
+⟦40⟧ [EVIDENCE] The New Yorker article is the only source that refers to illnesses compatible with the HSM mahjong room and in a relevant time period.
+⟦41⟧ [ANALYSIS] There are no first-hand accounts of mahjong players with covid, no non-anecdotal accounts, and no known specific individuals who played mahjong and acquired covid, which limits the evidence for the mahjong room's role in the HSM outbreak.
+⟦42⟧ [ASSUMPTION] The HSM mahjong room played a role in the HSM outbreak
+⟦43⟧ [HYPOTHESIS] The HSM mahjong room played a role in the HSM outbreak.
+⟦44⟧ [LIMITATION] There are no first-hand accounts of mahjong players with covid, and no non-anecdotal accounts.
+⟦45⟧ [RESEARCH_QUESTION] Did the HSM mahjong room play a role in the HSM outbreak?
+⟦46⟧ [LIMITATION] There are no known specific individuals who played mahjong and acquired covid.
+⟦47⟧ [LIMITATION] The only source that refers to illnesses compatible with the HSM mahjong room is a fourth-hand anecdotal account published almost a year after the events.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

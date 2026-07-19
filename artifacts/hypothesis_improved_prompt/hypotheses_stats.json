@@ -1,0 +1,26 @@
+{
+  "node_type": "hypothesis",
+  "sections_requested": 64,
+  "sections_processed": 62,
+  "nodes_extracted": 290,
+  "invalid_pairs": 0,
+  "nodes_resolved": 279,
+  "nodes_dropped": 11,
+  "drop_rate": 0.0379,
+  "truncated_sections": [],
+  "section_match": {
+    "exact": 256,
+    "fuzzy": 23
+  },
+  "chunk_match": {
+    "exact": 279,
+    "fuzzy": 0,
+    "split_across_chunks": 0
+  },
+  "tokens": {
+    "total": 121942,
+    "new_this_run": 100912
+  },
+  "estimated_cost_usd": 0.1073,
+  "aborted_on_budget": false
+}
