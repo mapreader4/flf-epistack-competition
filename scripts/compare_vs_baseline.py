@@ -53,17 +53,24 @@ def build_graph_context(target: str) -> dict:
                     "section": (entry.get("provenance") or [{}])[0].get("section_number"),
                     "quote": (entry.get("provenance") or [{}])[0].get("quote"),
                     "text": entry["text"]})
-        for c in entry.get("children", [])[:2]:
+        for c in entry.get("children", []):   # no cap: evidence-for queries want the full connected chain
             flat(c, depth + 1, out)
         return out
 
     evidence = []
-    for child in ev.get("children", [])[:5]:
+    for child in ev.get("children", []):       # all direct supporters, not just the top 5
         evidence.extend(flat(child))
+    # dedup by node_id (a node reachable via multiple parents appears once), keep first/highest-ranked occurrence
+    seen, deduped = set(), []
+    for e in evidence:
+        if e["node_id"] in seen:
+            continue
+        seen.add(e["node_id"])
+        deduped.append(e)
     return {
         "hypothesis": {"node_id": target, "text": nbi[target]["canonical_text"],
                        "strength": round(sbi[target]["strength"], 3)},
-        "ranked_evidence": evidence[:8],
+        "ranked_evidence": deduped,            # uncapped: all reachable evidence reaches the prose prompt
         "weakest_link_by_ablation": [
             {"card_id": w["card_id"], "delta": round(w["delta"], 4), "kind": w["kind"],
              "premise": w["premises"][0]["text"] if w["premises"] else None} for w in wl],

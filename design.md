@@ -124,6 +124,65 @@ So the LLM cost is fixed regardless of corpus size.
 What changes is how aggressively the funnel filters.
 
 
+THE TWO DIRECTIONS: TOP-DOWN AND BOTTOM-UP
+==========================================
+
+Type-based blocking (stage 1) isn't symmetric. Evidence
+supports arguments; arguments answer hypotheses. So the
+pair budget splits across four channels, each a direction
+through the three layers (data → argument → question):
+
+  TOP-DOWN      (~50%) for each hypothesis/question node, its
+                nearest data by embedding — evidence paired with
+                the question it bears on. Highest hit rate.
+  BOTTOM-UP     data → argument (~30%) and argument → question
+                (~15%). Builds the two-hop chain that lets a raw
+                fact reach a hypothesis THROUGH an argument.
+  CONTRADICTION (~5%) within-layer, NLI-gated (cosine can't tell
+                "agrees" from "contradicts").
+
+Why both directions matter — the depth lesson:
+
+A query for "evidence for hypothesis H" follows support cards
+inward from H. If H's only supporters are one-line summary
+nodes ("the prior evidence leans zoonotic"), the chain is one
+hop deep and the raw data never surfaces. To reach the data you
+need a TWO-HOP chain:
+
+    hypothesis  <--(top-down: argument→question)--  argument
+    argument    <--(bottom-up: data→argument)------  data
+
+Two things must be true for that chain to exist:
+
+  1. The bridge must live in the ARGUMENT layer. Interpretive
+     conclusions ("the sample distribution points to shop 6:29")
+     are often mis-typed as evidence/data. Stage-1 blocking then
+     forbids data→data pairing, so raw counts can never attach
+     beneath them and the bridge stays a childless leaf. RETYPING
+     these conclusions to the argument layer unblocks the
+     bottom-up hop. (FIX 1)
+
+  2. The bridge must connect UP. A bottom-up hop with no matching
+     top-down hop leaves a rich data subtree "floating" —
+     attached to nothing the query starts from. Pairing the
+     argument bridges to their hypotheses closes the chain. (FIX 2)
+
+On the COVID fixture, applying both took the "evidence for
+HSM-origin" query from 7 summary leaves (0 raw data, depth 1) to
+11 supporters over 22 raw data nodes (depth 2), and made the
+hypothesis correctly CONTESTED (support and attack both present)
+instead of one-sidedly high.
+
+The limit: you cannot force a relation the labeler won't affirm.
+If a raw count doesn't dialectically support any existing
+argument, no pairing recovers it — the graph needs an
+intermediate interpretive node ("environmental sampling shows
+contamination concentrated in the animal section") that the
+EXTRACTION step must produce. That is an extraction-prompt gap,
+not a funnel gap; forcing the pair makes the graph wrong, not
+better.
+
+
 TWO OPERATIONS
 ===============
 

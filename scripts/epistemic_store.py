@@ -153,6 +153,9 @@ class Provenance:
     quote: str | None = None
     span: list[int] | None = None
     tier: str = "T1"
+    # source document id; None on the single-document corpus (resolve_document falls
+    # back to the default doc via chunk_id). Set explicitly by document-aware ingestion.
+    document: str | None = None
 
     def validate(self) -> list[str]:
         errs = []
