@@ -314,7 +314,9 @@ THE PIPELINE
    ⚠️  boundary claims not human-adjudicated (deferred)
 
 4. SOURCE ATTRIBUTION (who said each thing)
-   ❌ Not done -- not necessary with one document in source but necessary when there are more docs.
+   ✅ Done — 1,370 attributed gpt-oss (adjudicator 225 / party 61 /
+       cited_source 105 / witness 19 / unattributed 960); attribute_sources.py.
+       Pays off most with multiple documents (corroboration / independence).
 
 5. EMBED nodes
    ✅ Done — e5-large-instruct, 1,370 × 1024 (embed_nodes.py)

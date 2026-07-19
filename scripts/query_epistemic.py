@@ -49,7 +49,7 @@ FIXTURES_DIR = ROOT / "artifacts" / "epistemic" / "fixtures"
 load_dotenv(ROOT / ".env")
 
 TOGETHER_BASE_URL = "https://api.together.xyz/v1"
-DEFAULT_MODEL = os.getenv("TOGETHER_MODEL", "meta-llama/Llama-3.3-70B-Instruct-Turbo")
+DEFAULT_MODEL = os.getenv("TOGETHER_MODEL", "openai/gpt-oss-120b")  # project model policy
 
 
 def build_client() -> OpenAI:
@@ -62,7 +62,7 @@ def build_client() -> OpenAI:
 def preflight(client: OpenAI, model: str) -> None:
     """Together rejects some params OpenAI accepts; fail here, not mid-query."""
     resp = client.chat.completions.create(
-        model=model, temperature=0,
+        model=model, temperature=0, max_tokens=200,
         messages=[{"role": "user", "content": 'Reply with exactly this JSON: {"ok": true}'}],
     )
     msg = (resp.choices[0].message.content or "").strip()
@@ -416,7 +416,7 @@ def generate_prose(client, model: str, query_label: str, structured_result) -> s
         f"Structured result:\n{json.dumps(structured_result, indent=2)}"
     )
     resp = client.chat.completions.create(
-        model=model, temperature=0,
+        model=model, temperature=0, max_tokens=4000,  # gpt-oss reasoning headroom
         messages=[{"role": "user", "content": prompt}],
     )
     return (resp.choices[0].message.content or "").strip()

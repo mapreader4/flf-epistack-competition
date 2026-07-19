@@ -244,8 +244,10 @@ def main() -> None:
     ap.add_argument("--base", type=float, default=0.5)
     ap.add_argument("--damping", type=float, default=0.5)
     ap.add_argument("--max-iter", type=int, default=100)
-    ap.add_argument("--no-leakage-guard", action="store_true",
-                    help="skip the conclusory-node assert (not recommended)")
+    ap.add_argument("--leakage-guard", action="store_true",
+                    help="opt-in: assert no card touches a conclusory node. RETIRED by "
+                         "default — the conclusory/evidentiary holdout was dropped; the "
+                         "judge's conclusions are attributed nodes, not an answer key.")
     args = ap.parse_args()
 
     if args.selftest:
@@ -253,7 +255,7 @@ def main() -> None:
 
     nodes = read_nodes(args.nodes)
     cards = read_cards(args.cards)
-    roles = None if args.no_leakage_guard else roles_from_tagged(nodes, args.tagged)
+    roles = roles_from_tagged(nodes, args.tagged) if args.leakage_guard else None
     scores = score_graph(nodes, cards, roles=roles, base=args.base,
                          damping=args.damping, max_iter=args.max_iter)
     n = write_jsonl(args.out, list(scores.values()))
