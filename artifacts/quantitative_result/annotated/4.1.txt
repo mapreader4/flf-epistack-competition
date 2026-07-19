@@ -1,0 +1,52 @@
+4.1  A model for evaluating location of the index case
+
+To estimate this, we will describe a crude model; while we do not know the quantitative
+details of the close-contact graph, fortunately our model is greatly insensitive to these details.
+Suppose the shortest path from the primary case to the index case is n steps; call this the
+epidemiological distance between them. Consider drawing a sphere around the primary case
+that contains all people at most n steps away; certainly any random walk of length n that
+starts from the primary case will end up at one of those people in the sphere, with some
+nonzero probability. Our simple model is to say that the index case follows a uniform
+distribution within that sphere; that is, that the index case is equally likely to be any of the
+people at most n steps from the primary case.
+How good of a model is this? Well, let us consider two examples of simple graphs that might
+be compared with the real-world close-contact graph.
+A Bethe lattice of degree d is a tree 31 where each node has d neighbors; Bethe lattices are
+infinite dimensional.32 If your social network were a Bethe lattice, then you would have 100
+close contacts, and about 100 2 people within 2 steps, and 100 3 within 3 steps, and so on.
+Random walks on a Bethe lattice very rapidly go away from the starting point; after n steps
+you will be a maximum of n steps away from where you started, and on average be slightly
+more than n(1- 2/d) steps away. Our model that the random walk ends up uniformly
+distributed within a sphere of radius n is very good on a Bethe lattice.
+While the real-world close-contact graph does have loops (eg, especially within a household
+or workplace) respiratory diseases easily jump to strangers who will have few shared contacts.
+On a very small scale, a Bethe lattice is a fair representation of the connectivity of close
+contacts (this results in the "small-world phenomenon"). One could also imagine that each
+node on the Bethe lattice represents not a person but a small collection of closely connected
+people, such as a household or workplace; if so, when counting distances we would ignore
+transmissions within the same group.
+On a larger scale, around the size of a city, this Bethe lattice approximation breaks down,
+because disease transmission is a physical process that requires proximity. As most indi-
+viduals generally stay in roughly one area on the surface of the Earth during their illness,
+31graph with no loops
+32A graph has dimension D if the volume of a sphere of radius r scales like rD. On a Bethe lattice, the
+volume of a sphere grows exponentially with radius.
+the contact graph becomes approximately two-dimensional. If we use a 2D integer lattice to
+represent the contact graph at this scale, we see that diffusion is much slower; for any finite
+dimension, a random walk of n steps will on average end up a distance of ∼√n from its
+starting location. Our simple model can be somewhat salvaged by using a sphere of radius√n33, though the model is less good than with the Bethe lattice. Of course long-distance
+plane travel interferes with representing the close-contact graph as a Euclidean lattice. Re-
+gardless, we will not be interested in intercity transmission, so we can focus on the small
+scale approximation.
+Now if we have some candidate for the primary case, we want to know the probability of
+observing a specific person being the index case. Had we knowledge of how many steps n
+of cryptic transmission to expect, we would draw a circle 34 of radius n around the primary
+case and see how many people are included; unfortunately, we do not have good information
+about what to expect for n, and we do not have exact information about the contact graph.
+Suppose we take a flat prior distribution forn, as we don't know what to expect. Then draw
+larger and larger circles around the candidate the primary case until we first include the
+index case; the radius of this smallest circle that includes the index case is a posterior best
+guess for n, and the probability we expect for that index case is the inverse of the number
+of people in that circle.
+
+(no claims extracted for this section)

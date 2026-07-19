@@ -1,0 +1,24 @@
+B  Inventory of earliest known covid cases
+
+To be the best of my knowledge, there does not exist any publicly available list of the earliest
+known covid cases. The best source, and nearly the only source, on early covid cases is the
+2021 WHO report [32] and its annex. This report does not have a complete list of early
+cases, but does give aggregate data on known 2019 cases broken down by date and other
+features, as well as blurry maps of cases, which with some effort can be used to infer some
+of the individual case information. This aggregate data is derived from extensive searching
+conducted by the WHO team, including interviews with many early patients, which cannot
+be independently verified or duplicated.
+While the data in the WHO report is irreplaceable, it is not error free, nor is it complete.
+Notably other researchers have found that the WHO's primary case actually had on onset
+of 2019 December 16, not 8; and the report omits Wei Guixian with an onset of December
+10, making her the primary covid case.
+We begin by delineating the information in the WHO report, before incorporating other
+sources. This separation is useful for several reasons:
+• I am not aware of any other place that presents the WHO data in tabular form.
+• The WHO report is the highest quality source, so mixing other sources may introduce
+quality issues.
+• It is relatively easy to understand the causes of ascertainment bias in the WHO report,
+but once a diversity of sources are mixed it is much harder to control ascertainment
+bias, as even the selection of sources 75 can be a cause of bias.
+
+(no claims extracted for this section)

@@ -1,0 +1,337 @@
+{
+  "claims_path": "artifacts/nodes_combined/nodes_original.json",
+  "n_claims": 371,
+  "n_flagged": 30,
+  "flagged": [
+    {
+      "claim_id": "analysis-d66adac1a9347315179fb5bf8b1e95a2",
+      "section_number": "5.4",
+      "position_in_section": 0,
+      "claim_text": "The project involved a large number of goals and steps, including collecting bat coronaviruses, performing computer and lab testing, deploying vaccines and immune boosting agents, and writing an app to determine disease likelihood.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-0b3c6f2839ed125d2ac15824e62739d7",
+      "section_number": "5.4",
+      "position_in_section": 1,
+      "claim_text": "The project's goals and steps can be organized into specific tasks, such as collecting bat coronaviruses and performing computer and lab testing on them.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-b1c697264de43b46691deec39d54d45a",
+      "section_number": "5.4",
+      "position_in_section": 4,
+      "claim_text": "The EcoHealth Alliance and its collaborators have the necessary expertise and resources to collect bat coronaviruses and perform computer and lab testing on them.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "assumption-ef49e174d30693012bb63543b6611b23",
+      "section_number": "5.4",
+      "position_in_section": 7,
+      "claim_text": "The project's goals and steps are feasible and can be accomplished within the proposed 3.5-year timeframe.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "evidence-764d88f26586600432f13219b7c065b0",
+      "section_number": "5.4",
+      "position_in_section": 11,
+      "claim_text": "The project was not funded, to the judge's knowledge",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "evidence-ad69d1bc9611a30aad509e77857274f5",
+      "section_number": "5.4",
+      "position_in_section": 12,
+      "claim_text": "Project DEFUSE involved collecting bat coronaviruses and performing computer and lab testing on them",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "analysis-8d0b2be538c06cbe3e627c9c2b9aeff0",
+      "section_number": "5.4.1",
+      "position_in_section": 3,
+      "claim_text": "The comparison of the growth potential of chimeric viruses with and without human-specific cleavage sites will help explain the role of these sites in virus replication and pathogenesis.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "evidence-12e4c31759678fe7a6630e88fa9f8356",
+      "section_number": "5.4.1",
+      "position_in_section": 13,
+      "claim_text": "SHCO14 and WIV16 molecular clone backbones have 88% and 97% S-protein identity to epidemic SARS-Urbani61",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "limitation-9d1107ed32303f5e8a505d2754d197be",
+      "section_number": "5.4.1",
+      "position_in_section": 22,
+      "claim_text": "The proposal omits details about irrelevant activities",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "assumption-2a383e455ba2f9669164308595df4b06",
+      "section_number": "5.4.2",
+      "position_in_section": 2,
+      "claim_text": "The proposal contains a detailed breakdown of the planned activities into 61 tasks.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "evidence-3d5a0b0ce3bcd644d5cb2587cdfd6c7d",
+      "section_number": "5.4.3",
+      "position_in_section": 7,
+      "claim_text": "Two papers described laboratory work conducted at WIV, involving editing a backbone of WIV1, a sars-like coronavirus genome.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "analysis-23d9d1253e052e644602c95c845ef8d0",
+      "section_number": "5.4.4",
+      "position_in_section": 0,
+      "claim_text": "The proposal's discussion of adding cleavage sites, including furin cleavage sites, implies a potential for creating viruses with increased transmissibility.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-7d46bcccfe8886363a5b96c3be2f120c",
+      "section_number": "5.4.4",
+      "position_in_section": 2,
+      "claim_text": "The proposal's focus on in vitro genetic editing, rather than in vivo modification, reduces the risk of accidental creation of a highly transmissible virus.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "assumption-968d23e829b32a6bb05893ba17c48d91",
+      "section_number": "5.4.4",
+      "position_in_section": 6,
+      "claim_text": "The proposal's discussion of adding cleavage sites in general implies it would add furin cleavage sites to viruses.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "assumption-e2fac91728f533ffa492b7a27155455f",
+      "section_number": "5.4.4",
+      "position_in_section": 8,
+      "claim_text": "The proposal does not discuss any in vivo genetic modification.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "assumption"
+    },
+    {
+      "claim_id": "evidence-1f46a1a1a9dafaf138d1657166a7d67b",
+      "section_number": "5.4.4",
+      "position_in_section": 11,
+      "claim_text": "The proposal discusses adding cleavage sites in general, including furin cleavage sites by name.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "evidence"
+    },
+    {
+      "claim_id": "hypothesis-58e5534cf1d95c4bfba15bbe4aade9c5",
+      "section_number": "5.4.4",
+      "position_in_section": 21,
+      "claim_text": "The proposal would add furin cleavage sites to viruses",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "hypothesis"
+    },
+    {
+      "claim_id": "hypothesis-557f76416c275c5f0152a131bccbca67",
+      "section_number": "5.4.4",
+      "position_in_section": 22,
+      "claim_text": "The proposal discusses in vivo genetic modification",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "hypothesis"
+    },
+    {
+      "claim_id": "limitation-28a22c34ea58e0d59ebe3ad0be3259eb",
+      "section_number": "5.4.4",
+      "position_in_section": 23,
+      "claim_text": "The proposal does not explicitly state it would add furin cleavage sites to viruses",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-d2ce285b9cc84b28341b7391a2c2e94a",
+      "section_number": "5.4.4",
+      "position_in_section": 25,
+      "claim_text": "The proposal does not discuss any in vivo genetic modification",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-e60848901051a35379fe17411e357b91",
+      "section_number": "5.4.4",
+      "position_in_section": 26,
+      "claim_text": "The proposal is hardly a blueprint for building sars-cov-2, containing many irrelevancies and missing key components",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-663af727f79bf63830410ada83bb04ff",
+      "section_number": "7.1",
+      "position_in_section": 35,
+      "claim_text": "Not all sars-like viruses can cause a pandemic, and estimating the probability of a pandemic from sars-cov-1 and MERS may not be accurate.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-d0757a5b0c3580e97ac1db48421221cd",
+      "section_number": "7.5",
+      "position_in_section": 11,
+      "claim_text": "it's hard to find definitive proof of a virus's origin by examining its genetic sequence",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "analysis-4169d8ca25c23989e5d56f6f4f44a22b",
+      "section_number": "7.6",
+      "position_in_section": 3,
+      "claim_text": "The evidence strength for the zoonotic hypothesis is strong, while the evidence for the lab leak hypothesis is weak, based on the qualitative assessment of the observations.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-dee5d79a5017a10d0108a6cb8d9b982b",
+      "section_number": "7.6",
+      "position_in_section": 5,
+      "claim_text": "The Project DEFUSE proposal and the observation that its features match those of SARS-CoV-2 raise suspicion, but the zoonotic hypothesis has an equivalent, namely Eddie Holmes's 2014 photos.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "analysis-4ccf1832d4f0747443597a6f525d8700",
+      "section_number": "7.6",
+      "position_in_section": 6,
+      "claim_text": "The existence of the Project DEFUSE proposal and the Eddie Holmes photos are not definitive or strong evidence, but rather odd coincidences that raise suspicion.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ],
+      "node_type": "analysis"
+    },
+    {
+      "claim_id": "limitation-410f00f67b02d84d2678f80b3d3162ab",
+      "section_number": "7.6",
+      "position_in_section": 35,
+      "claim_text": "The analysis has significant uncertainties, which may affect the estimated probability of a lab leak.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-91db60b56fa9f8197301698edb4935c8",
+      "section_number": "7.6",
+      "position_in_section": 36,
+      "claim_text": "Many components in the calculation should be dampened towards neutrality to account for uncertainty.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-5ef05a4f89a6bf7210d92d78f833086f",
+      "section_number": "7.6",
+      "position_in_section": 40,
+      "claim_text": "The exclusion of certain evidence items may impact the result.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    },
+    {
+      "claim_id": "limitation-8a4b589c31a043b30c7d73203d73f61e",
+      "section_number": "7.6",
+      "position_in_section": 41,
+      "claim_text": "The evidence for the lab leak hypothesis is loose and circumstantial.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [],
+      "node_type": "limitation"
+    }
+  ]
+}

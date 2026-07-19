@@ -1,0 +1,132 @@
+B.1  WHO cases by date and connection to HSM
+
+Aggregate case data is presented as bar graphs found in the WHO report [32], annex pages
+146, 152, and 179 (and others). ⟦1⟧ ⟦2⟧ ⟦3⟧ ⟦4⟧ In total the WHO identifies 174 known cases in 2019
+December. ⟦5⟧ For each date in December, I have listed the number of cases with that onset
+date according to whether WHO says they have an established connection to HSM, ⟦6⟧ ⟦7⟧ ⟦8⟧ with
+those with connections broken down into ⟦9⟧ vendors who have a fixed shop at HSM and ⟦10⟧ visitors
+who do not. (⟦11⟧ ⟦12⟧ ⟦13⟧ "Visitor" includes 23 people who became infected at HSM and 2 people who
+became infected indirectly. ⟦14⟧ ⟦15⟧ ⟦16*⟧ ⟦17⟧ "Unknown" presumably means that the patient was unavailable
+for interview.)
+⟦18⟧ ⟦19⟧ 75including publication bias, which is largely invisible
+date (2019 Dec) vendor visitor ⟦20⟧ non-HSM unknown
+⟦21⟧ ⟦22⟧ 8 1
+⟦23⟧ ⟦24⟧ 11 1
+⟦25⟧ ⟦26⟧ ⟦27⟧ 12 1 2
+⟦28⟧ ⟦29⟧ 13 1
+⟦30⟧ ⟦31⟧ 15 3
+⟦32⟧ ⟦33⟧ 16 2
+⟦34⟧ ⟦35⟧ ⟦36⟧ ⟦37⟧ ⟦38⟧ 17 1 1 3 1
+⟦39⟧ ⟦40⟧ ⟦41⟧ 18 1 4
+⟦42⟧ ⟦43⟧ ⟦44⟧ 19 2 1
+⟦45⟧ ⟦46⟧ ⟦47⟧ ⟦48⟧ 20 2 4 5
+⟦49⟧ ⟦50⟧ ⟦51⟧ 21 2 2
+⟦52⟧ ⟦53⟧ ⟦54⟧ 22 1 4
+⟦55⟧ ⟦56⟧ ⟦57⟧ ⟦58⟧ 23 6 1 7
+⟦59⟧ ⟦60⟧ ⟦61⟧ ⟦62⟧ 24 2 6 1
+⟦63⟧ ⟦64⟧ ⟦65⟧ ⟦66⟧ 25 7 2 8
+⟦67⟧ ⟦68⟧ ⟦69⟧ ⟦70⟧ 26 2 6 1
+⟦71⟧ ⟦72⟧ ⟦73⟧ ⟦74⟧ 27 2 2 12
+⟦75⟧ ⟦76⟧ ⟦77⟧ 28 3 11
+⟦78⟧ ⟦79⟧ ⟦80⟧ ⟦81⟧ 29 2 10 2
+⟦82⟧ ⟦83⟧ ⟦84⟧ ⟦85⟧ 30 4 16 1
+⟦86⟧ ⟦87⟧ ⟦88⟧ ⟦89⟧ 31 1 4 10
+⟦90⟧ ⟦91⟧ ⟦92⟧ ⟦93⟧ ⟦94⟧ total 30 25 113 6
+
+Claims:
+⟦1⟧ [ASSUMPTION] The WHO report [32] accurately identifies cases with an established connection to HSM.
+⟦2⟧ [EVIDENCE] The WHO report identifies 174 known cases in 2019 December.
+⟦3⟧ [QUANTITATIVE_RESULT] 174 known cases in 2019 December
+⟦4⟧ [RESEARCH_QUESTION] What is the total number of COVID-19 cases identified by the WHO in December 2019?
+⟦5⟧ [RESEARCH_QUESTION] What is the number of COVID-19 cases with an established connection to Huanan Seafood Market (HSM) in December 2019?
+⟦6⟧ [ANALYSIS] The number of cases with an established connection to HSM is broken down into vendors with a fixed shop at HSM and visitors who do not.
+⟦7⟧ [ASSUMPTION] The classification of cases into 'vendor', 'visitor', and 'non-HSM' is accurate and relevant for analysis.
+⟦8⟧ [HYPOTHESIS] The COVID-19 outbreak is connected to the Huanan Seafood Market (HSM), with some cases linked to vendors who have a fixed shop at HSM and others linked to visitors who do not.
+⟦9⟧ [RESEARCH_QUESTION] How many COVID-19 cases are associated with vendors who have a fixed shop at Huanan Seafood Market (HSM) in December 2019?
+⟦10⟧ [RESEARCH_QUESTION] How many COVID-19 cases are associated with visitors who do not have a fixed shop at Huanan Seafood Market (HSM) in December 2019?
+⟦11⟧ [ANALYSIS] The category 'Visitor' includes people who became infected at HSM and people who became infected indirectly.
+⟦12⟧ [EVIDENCE] 23 people became infected at HSM and 2 people became infected indirectly.
+⟦13⟧ [QUANTITATIVE_RESULT] 23 people who became infected at HSM
+⟦14⟧ [ANALYSIS] The category 'Unknown' presumably means that the patient was unavailable for interview.
+⟦15⟧ [ASSUMPTION] The 'unknown' category for cases refers to patients who were unavailable for interview.
+⟦16*⟧ [HYPOTHESIS] There are COVID-19 cases with unknown connections to HSM, possibly due to patients being unavailable for interview.
+⟦17⟧ [LIMITATION] some patients were unavailable for interview, leading to 'unknown' connections to HSM
+⟦18⟧ [ASSUMPTION] Publication bias is a significant factor that may affect the accuracy of the case data.
+⟦19⟧ [LIMITATION] publication bias is largely invisible in the WHO report
+⟦20⟧ [HYPOTHESIS] Some COVID-19 cases are not connected to HSM, as indicated by the 'non-HSM' category.
+⟦21⟧ [EVIDENCE] On December 8, 2019, there was 1 case with an established connection to HSM as a vendor.
+⟦22⟧ [QUANTITATIVE_RESULT] 1 case with onset date 2019 Dec 8 and connection to HSM as vendor
+⟦23⟧ [EVIDENCE] On December 11, 2019, there was 1 case with an established connection to HSM as a vendor.
+⟦24⟧ [QUANTITATIVE_RESULT] 1 case with onset date 2019 Dec 11 and connection to HSM as vendor
+⟦25⟧ [EVIDENCE] On December 12, 2019, there was 1 case with an established connection to HSM as a vendor and 2 cases with an established connection to HSM as visitors.
+⟦26⟧ [QUANTITATIVE_RESULT] 1 case with onset date 2019 Dec 12 and connection to HSM as vendor
+⟦27⟧ [QUANTITATIVE_RESULT] 2 cases with onset date 2019 Dec 12 and connection to HSM as visitor
+⟦28⟧ [EVIDENCE] On December 13, 2019, there was 1 case with an established connection to HSM as a vendor.
+⟦29⟧ [QUANTITATIVE_RESULT] 1 case with onset date 2019 Dec 13 and connection to HSM as vendor
+⟦30⟧ [EVIDENCE] On December 15, 2019, there were 3 cases with an established connection to HSM as vendors.
+⟦31⟧ [QUANTITATIVE_RESULT] 3 cases with onset date 2019 Dec 15 and connection to HSM as vendor
+⟦32⟧ [EVIDENCE] On December 16, 2019, there were 2 cases with an established connection to HSM as vendors.
+⟦33⟧ [QUANTITATIVE_RESULT] 2 cases with onset date 2019 Dec 16 and connection to HSM as vendor
+⟦34⟧ [EVIDENCE] On December 17, 2019, there was 1 case with an established connection to HSM as a vendor, 1 case with an established connection to HSM as a visitor, 3 cases with no established connection to HSM, and 1 case with an unknown connection to HSM.
+⟦35⟧ [QUANTITATIVE_RESULT] 1 case with onset date 2019 Dec 17 and connection to HSM as vendor
+⟦36⟧ [QUANTITATIVE_RESULT] 1 case with onset date 2019 Dec 17 and connection to HSM as visitor
+⟦37⟧ [QUANTITATIVE_RESULT] 3 cases with onset date 2019 Dec 17 and no connection to HSM
+⟦38⟧ [QUANTITATIVE_RESULT] 1 case with onset date 2019 Dec 17 and unknown connection to HSM
+⟦39⟧ [EVIDENCE] On December 18, 2019, there was 1 case with an established connection to HSM as a vendor and 4 cases with no established connection to HSM.
+⟦40⟧ [QUANTITATIVE_RESULT] 1 case with onset date 2019 Dec 18 and connection to HSM as vendor
+⟦41⟧ [QUANTITATIVE_RESULT] 4 cases with onset date 2019 Dec 18 and connection to HSM as visitor
+⟦42⟧ [EVIDENCE] On December 19, 2019, there were 2 cases with an established connection to HSM as vendors and 1 case with an established connection to HSM as a visitor.
+⟦43⟧ [QUANTITATIVE_RESULT] 2 cases with onset date 2019 Dec 19 and connection to HSM as vendor
+⟦44⟧ [QUANTITATIVE_RESULT] 1 case with onset date 2019 Dec 19 and connection to HSM as visitor
+⟦45⟧ [EVIDENCE] On December 20, 2019, there were 2 cases with an established connection to HSM as vendors, 4 cases with an established connection to HSM as visitors, and 5 cases with no established connection to HSM.
+⟦46⟧ [QUANTITATIVE_RESULT] 2 cases with onset date 2019 Dec 20 and connection to HSM as vendor
+⟦47⟧ [QUANTITATIVE_RESULT] 4 cases with onset date 2019 Dec 20 and connection to HSM as visitor
+⟦48⟧ [QUANTITATIVE_RESULT] 5 cases with onset date 2019 Dec 20 and no connection to HSM
+⟦49⟧ [EVIDENCE] On December 21, 2019, there were 2 cases with an established connection to HSM as vendors and 2 cases with an established connection to HSM as visitors.
+⟦50⟧ [QUANTITATIVE_RESULT] 2 cases with onset date 2019 Dec 21 and connection to HSM as vendor
+⟦51⟧ [QUANTITATIVE_RESULT] 2 cases with onset date 2019 Dec 21 and connection to HSM as visitor
+⟦52⟧ [EVIDENCE] On December 22, 2019, there was 1 case with an established connection to HSM as a vendor and 4 cases with an established connection to HSM as visitors.
+⟦53⟧ [QUANTITATIVE_RESULT] 1 case with onset date 2019 Dec 22 and connection to HSM as vendor
+⟦54⟧ [QUANTITATIVE_RESULT] 4 cases with onset date 2019 Dec 22 and connection to HSM as visitor
+⟦55⟧ [EVIDENCE] On December 23, 2019, there were 6 cases with an established connection to HSM as vendors, 1 case with an established connection to HSM as a visitor, and 7 cases with no established connection to HSM.
+⟦56⟧ [QUANTITATIVE_RESULT] 6 cases with onset date 2019 Dec 23 and connection to HSM as vendor
+⟦57⟧ [QUANTITATIVE_RESULT] 1 case with onset date 2019 Dec 23 and connection to HSM as visitor
+⟦58⟧ [QUANTITATIVE_RESULT] 7 cases with onset date 2019 Dec 23 and no connection to HSM
+⟦59⟧ [EVIDENCE] On December 24, 2019, there were 2 cases with an established connection to HSM as vendors, 6 cases with an established connection to HSM as visitors, and 1 case with an unknown connection to HSM.
+⟦60⟧ [QUANTITATIVE_RESULT] 2 cases with onset date 2019 Dec 24 and connection to HSM as vendor
+⟦61⟧ [QUANTITATIVE_RESULT] 6 cases with onset date 2019 Dec 24 and connection to HSM as visitor
+⟦62⟧ [QUANTITATIVE_RESULT] 1 case with onset date 2019 Dec 24 and unknown connection to HSM
+⟦63⟧ [EVIDENCE] On December 25, 2019, there were 7 cases with an established connection to HSM as vendors, 2 cases with an established connection to HSM as visitors, and 8 cases with no established connection to HSM.
+⟦64⟧ [QUANTITATIVE_RESULT] 7 cases with onset date 2019 Dec 25 and connection to HSM as vendor
+⟦65⟧ [QUANTITATIVE_RESULT] 2 cases with onset date 2019 Dec 25 and connection to HSM as visitor
+⟦66⟧ [QUANTITATIVE_RESULT] 8 cases with onset date 2019 Dec 25 and no connection to HSM
+⟦67⟧ [EVIDENCE] On December 26, 2019, there were 2 cases with an established connection to HSM as vendors, 6 cases with an established connection to HSM as visitors, and 1 case with an unknown connection to HSM.
+⟦68⟧ [QUANTITATIVE_RESULT] 2 cases with onset date 2019 Dec 26 and connection to HSM as vendor
+⟦69⟧ [QUANTITATIVE_RESULT] 6 cases with onset date 2019 Dec 26 and connection to HSM as visitor
+⟦70⟧ [QUANTITATIVE_RESULT] 1 case with onset date 2019 Dec 26 and unknown connection to HSM
+⟦71⟧ [EVIDENCE] On December 27, 2019, there were 2 cases with an established connection to HSM as vendors, 2 cases with an established connection to HSM as visitors, and 12 cases with no established connection to HSM.
+⟦72⟧ [QUANTITATIVE_RESULT] 2 cases with onset date 2019 Dec 27 and connection to HSM as vendor
+⟦73⟧ [QUANTITATIVE_RESULT] 2 cases with onset date 2019 Dec 27 and connection to HSM as visitor
+⟦74⟧ [QUANTITATIVE_RESULT] 12 cases with onset date 2019 Dec 27 and no connection to HSM
+⟦75⟧ [EVIDENCE] On December 28, 2019, there were 3 cases with an established connection to HSM as vendors and 11 cases with no established connection to HSM.
+⟦76⟧ [QUANTITATIVE_RESULT] 3 cases with onset date 2019 Dec 28 and connection to HSM as vendor
+⟦77⟧ [QUANTITATIVE_RESULT] 11 cases with onset date 2019 Dec 28 and connection to HSM as visitor
+⟦78⟧ [EVIDENCE] On December 29, 2019, there were 2 cases with an established connection to HSM as vendors, 10 cases with an established connection to HSM as visitors, and 2 cases with an unknown connection to HSM.
+⟦79⟧ [QUANTITATIVE_RESULT] 2 cases with onset date 2019 Dec 29 and connection to HSM as vendor
+⟦80⟧ [QUANTITATIVE_RESULT] 10 cases with onset date 2019 Dec 29 and connection to HSM as visitor
+⟦81⟧ [QUANTITATIVE_RESULT] 2 cases with onset date 2019 Dec 29 and unknown connection to HSM
+⟦82⟧ [EVIDENCE] On December 30, 2019, there were 4 cases with an established connection to HSM as vendors, 16 cases with an established connection to HSM as visitors, and 1 case with an unknown connection to HSM.
+⟦83⟧ [QUANTITATIVE_RESULT] 4 cases with onset date 2019 Dec 30 and connection to HSM as vendor
+⟦84⟧ [QUANTITATIVE_RESULT] 16 cases with onset date 2019 Dec 30 and connection to HSM as visitor
+⟦85⟧ [QUANTITATIVE_RESULT] 1 case with onset date 2019 Dec 30 and unknown connection to HSM
+⟦86⟧ [EVIDENCE] On December 31, 2019, there was 1 case with an established connection to HSM as a vendor, 4 cases with an established connection to HSM as visitors, and 10 cases with no established connection to HSM.
+⟦87⟧ [QUANTITATIVE_RESULT] 1 case with onset date 2019 Dec 31 and connection to HSM as vendor
+⟦88⟧ [QUANTITATIVE_RESULT] 4 cases with onset date 2019 Dec 31 and connection to HSM as visitor
+⟦89⟧ [QUANTITATIVE_RESULT] 10 cases with onset date 2019 Dec 31 and no connection to HSM
+⟦90⟧ [EVIDENCE] In total, there were 30 cases with an established connection to HSM as vendors, 25 cases with an established connection to HSM as visitors, 113 cases with no established connection to HSM, and 6 cases with an unknown connection to HSM.
+⟦91⟧ [QUANTITATIVE_RESULT] 30 total cases with connection to HSM as vendor
+⟦92⟧ [QUANTITATIVE_RESULT] 25 total cases with connection to HSM as visitor
+⟦93⟧ [QUANTITATIVE_RESULT] 113 total cases with no connection to HSM
+⟦94⟧ [QUANTITATIVE_RESULT] 6 total cases with unknown connection to HSM
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

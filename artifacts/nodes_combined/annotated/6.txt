@@ -1,0 +1,98 @@
+6  Can you keep a secret?
+
+⟦1⟧ ⟦2⟧ If sars-cov-2 were made in a lab, could it be kept a secret?
+This is difficult to estimate in the best of circumstances, and here ⟦3⟧ I am concerned with the
+practices of a lab about which I know nothing, all primary sources about which are in a
+language I cannot read, and in a culture I have no experience with. ⟦4⟧ I do not know any of the
+people involved or how they usually operate, and ⟦5⟧ I am restricted by the rules of the debate
+to the information brought by each side, which includes almost nothing that bears on this
+question.
+⟦6⟧ So I must keep in mind my great uncertainty; ⟦7⟧ and yet I find it hard to imagine how to draw
+a line around the bubble of people aware of the artificial origin of sars-cov-2 so that that
+information does not escape that line.
+⟦8⟧ Possibly zero people know. ⟦9⟧ Researchers could have inserted an FCS into a virus, created
+sars-cov-2, gotten sick and released it from the lab without ever realizing - even in retrospect
+- that the virus in the lab was the same as the one in the wild. But surely they would have
+figured it out eventually? ⟦10⟧ ⟦11⟧ ⟦12⟧ Researchers at the WIV had already examined a preliminary
+sequence for sars-cov-2 by 2019 December 27, 63 wouldn't they have thought at some point
+to look at that sequence and see if it is like one of the viruses in their lab?
+⟦13⟧ ⟦14⟧ Possibly one person knows. Some overworked, underpaid grad student took initiative to
+charge ahead on a (major, multi-year) research project unsupervised and got themselves
+sick. Shocked and overwhelmed by what happened, they covered up their research, threw
+away the materials, and vowed to take the secret to the grave.
+⟦15⟧ ⟦16⟧ Possibly most of the lab knows. Sometimes research groups will write proposals based on
+work that is largely already completed; maybe the PI had started a major research project
+on the speculative hope of it getting funded down the road. The group worked hard and
+had success - until the pandemic, and they were afraid that if it became known how reckless
+they were, the whole lab would be shut down. The group agreed, perhaps tacitly, that no
+one was to know.
+⟦17⟧ ⟦18⟧ Possibly people outside of the lab know. Funding sources in China might have approved the
+project. Researchers might have discussed their work with professional colleagues, friends,
+and family members. Domestic and international collaborators might have contributed to
+the research. Chinese officials might have interviewed lab personnel and found out the truth,
+or found physical evidence of the virus in the lab. Lab workers might have accidentally or
+anonymously let slip the truth, or pieces of the truth, on social media. (⟦19⟧ Could the truth of
+covid's origins be openly circulating on Chinese social media and western investigators just
+never see it?)
+⟦20⟧ No matter how I draw the line, it is challenging for me to write a plausible story in which
+the secret stays inside. ⟦21⟧ ⟦22⟧ I think the most reasonable of these is the third, that the secret does
+not leave the lab. In this version, ⟦23⟧ maybe a half dozen or dozen people directly worked on the
+project to create sars-cov-2, and then told no-one, and several took active steps to conceal
+it. ⟦24⟧ Or perhaps the true explanation of how the secret kept is too strange for me to ever think
+of it.
+⟦25⟧ ⟦26⟧ If we imagine that at least six people knew about the research work that created sars-cov-2
+63⟦27⟧ ⟦28⟧ The source I saw for this claim was a broken link, but the exact day isn't important here.
+⟦29⟧ and ⟦30⟧ each has at least 50% chance to reveal some information about the existence of their
+research, ⟦31⟧ ⟦32⟧ then there is only 2% odds of the secret staying secret. ⟦33⟧ ⟦34⟧ Conspiracies are hard to
+keep, especially when the participants are unwilling (ie, they didn't specifically choose to join
+the conspiracy) and secrecy is required weeks to years before there was any known reason
+for it. ⟦35⟧ ⟦36⟧ ⟦37⟧ 2% sounds about right, but considering my great uncertainty ⟦38⟧ I could not give this
+lack of evidence a Bayes factor greater than 10.
+⟦39⟧ ⟦40⟧ ⟦41⟧ ⟦42⟧ Rootclaim evaluates lack of whistleblower, intelligence leaks, and published backbone (any
+of which would constitute the secret escaping) as a combined probability of 14%, not far
+from the 10% ⟦43⟧ I quite conservatively gave it.
+
+Claims:
+⟦1⟧ [ANALYSIS] It is difficult to estimate whether a lab-created sars-cov-2 could be kept a secret due to lack of information about the lab's practices and culture.
+⟦2⟧ [RESEARCH_QUESTION] Could sars-cov-2 have been kept a secret if it were made in a lab?
+⟦3⟧ [LIMITATION] The author's uncertainty about the practices of the lab and the people involved in it
+⟦4⟧ [ASSUMPTION] The judge's uncertainty about the practices of the lab and the people involved is significant.
+⟦5⟧ [LIMITATION] The author's restricted access to information due to the rules of the debate
+⟦6⟧ [LIMITATION] The uncertainty in estimating the probability of the secret staying secret due to the lack of information
+⟦7⟧ [ANALYSIS] The information about the artificial origin of sars-cov-2 may not be able to be contained within a small group of people.
+⟦8⟧ [HYPOTHESIS] SARS-CoV-2 was made in a lab and the information was kept secret by zero people involved
+⟦9⟧ [RESEARCH_QUESTION] How could researchers have inserted an FCS into a virus, created sars-cov-2, and released it from the lab without realizing its artificial origin?
+⟦10⟧ [ANALYSIS] Researchers at the WIV would likely have discovered that the virus in the lab was the same as the one in the wild by examining the sequence.
+⟦11⟧ [EVIDENCE] Researchers at the WIV examined a preliminary sequence for sars-cov-2 by 2019 December 27
+⟦12⟧ [RESEARCH_QUESTION] Would researchers at the WIV have thought to look at the sequence of sars-cov-2 and see if it is like one of the viruses in their lab?
+⟦13⟧ [ANALYSIS] A single person, such as an overworked grad student, might be able to keep the secret of creating sars-cov-2.
+⟦14⟧ [HYPOTHESIS] SARS-CoV-2 was made in a lab and the information was kept secret by one person, an overworked and underpaid grad student
+⟦15⟧ [ANALYSIS] A research group might be able to keep the secret of creating sars-cov-2 if they worked together and agreed not to disclose the information.
+⟦16⟧ [HYPOTHESIS] SARS-CoV-2 was made in a lab and the information was kept secret by most of the lab personnel
+⟦17⟧ [ANALYSIS] People outside of the lab, such as funding sources, collaborators, or officials, might discover the secret of creating sars-cov-2.
+⟦18⟧ [HYPOTHESIS] SARS-CoV-2 was made in a lab and the information was kept secret by people outside of the lab, including funding sources, collaborators, and officials
+⟦19⟧ [RESEARCH_QUESTION] Could the truth of covid's origins be openly circulating on Chinese social media and western investigators just never see it?
+⟦20⟧ [RESEARCH_QUESTION] How could a secret about the artificial origin of sars-cov-2 be kept inside a lab?
+⟦21⟧ [ANALYSIS] The most plausible scenario is that the secret of creating sars-cov-2 is kept within the lab, with a small group of people directly involved in the project.
+⟦22⟧ [HYPOTHESIS] The secret of SARS-CoV-2's artificial origin stays inside the lab, known only to a half dozen or dozen people directly involved in the project
+⟦23⟧ [QUANTITATIVE_RESULT] a half dozen or dozen people directly worked on the project to create sars-cov-2
+⟦24⟧ [LIMITATION] The possibility that the author's imagination is limited in thinking of a plausible story for the secret to stay inside
+⟦25⟧ [ASSUMPTION] The creation of sars-cov-2 in a lab would involve a limited number of people who could keep the secret.
+⟦26⟧ [QUANTITATIVE_RESULT] at least six people knew about the research work that created sars-cov-2
+⟦27⟧ [EVIDENCE] The source for the claim about researchers at the WIV examining a preliminary sequence for sars-cov-2 is a broken link
+⟦28⟧ [LIMITATION] The reliance on a broken link as a source for a claim, which may not be reliable
+⟦29⟧ [ASSUMPTION] Each person involved in the research work that created sars-cov-2 has at least a 50% chance of revealing some information about the existence of their research.
+⟦30⟧ [QUANTITATIVE_RESULT] 50% chance to reveal some information about the existence of their research
+⟦31⟧ [EVIDENCE] The probability of the secret staying secret is 2% if at least six people knew about the research work that created sars-cov-2
+⟦32⟧ [QUANTITATIVE_RESULT] 2% odds of the secret staying secret
+⟦33⟧ [ANALYSIS] Conspiracies are hard to keep, especially when participants are unwilling and secrecy is required for an extended period.
+⟦34⟧ [ASSUMPTION] Conspiracies involving unwilling participants and requiring secrecy for weeks to years are hard to keep.
+⟦35⟧ [ANALYSIS] The lack of evidence for the secret of creating sars-cov-2 being kept is given a Bayes factor of no more than 10 due to great uncertainty.
+⟦36⟧ [ASSUMPTION] The judge's estimate of the probability of the secret staying secret is conservative.
+⟦37⟧ [LIMITATION] The potential for the author's estimate of the probability of the secret staying secret to be inaccurate
+⟦38⟧ [QUANTITATIVE_RESULT] Bayes factor greater than 10
+⟦39⟧ [ANALYSIS] Rootclaim evaluates the probability of the secret of creating sars-cov-2 being kept as 14%, which is close to the author's estimate of 10%.
+⟦40⟧ [ASSUMPTION] The lack of evidence of a whistleblower, intelligence leaks, or published backbone constitutes a probability of the secret escaping.
+⟦41⟧ [EVIDENCE] Rootclaim evaluates the combined probability of lack of whistleblower, intelligence leaks, and published backbone at 14%
+⟦42⟧ [QUANTITATIVE_RESULT] 14% combined probability of lack of whistleblower, intelligence leaks, and published backbone
+⟦43⟧ [QUANTITATIVE_RESULT] 10% conservative estimate of lack of evidence

@@ -1,0 +1,18 @@
+B.2  Map of HSM, west half
+
+I have only found one map of HSM which labels the individual stalls; I have included the
+west half in figure 12.
+Shown in figure 12 is the west half of the HSM market. The market is organized into streets or
+alleys which are numbered 1 to 15; each alley has many individual shops. Here the numbers
+are given on a regular grid, but in the WHO report some shops span multiple grid cells, and
+thus presumably have multiple numbers. I have used the locations of cases as marked on the
+WHO map and compared those locations with this map to identify the stall numbers of those
+cases; the results were in quite good agreement with other sources that reported early cases
+by stall numbers. I think this map is erroneous in prefixing an 'X' on stall numbers in alley
+13. I think this map is not to scale. Orange-red shading are locations with environmental
+samples positive for covid; sky blue for those with environmental samples which were all
+negative. Unshaded locations had no environmental samples. This is taken from figure S1B
+of [12].
+Figure 12: See text of section B.2.
+
+(no claims extracted for this section)

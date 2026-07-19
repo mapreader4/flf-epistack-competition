@@ -1,0 +1,84 @@
+4.6.3  Covid testing of animal vendors
+
+⟦1⟧ ⟦2⟧ ⟦3⟧ Rootclaim claims that no animal vendors at HSM tested positive for covid, in contrast to ⟦4⟧ ⟦5⟧ ⟦6⟧ a
+significant association between people who worked with wild animals and seropositivity for
+SARS-1 ([1] at 3:07:50, [5] at 1:46:00, [13]).
+There are two reasons I do not find significance in this. ⟦7⟧ First, as with the animals themselves,
+⟦8⟧ I would not particularly expect to find a trend connecting animal vendors with testing
+positive for covid ⟦9⟧ even if sars-cov-2 did spill over at HSM. ⟦10⟧ ⟦11⟧ ⟦12⟧ ⟦13⟧ Only one animal vendor would
+have been directly infected by an animal (⟦14⟧ or two if there were two spillovers, as discussed
+in section 5.1), ⟦15⟧ with further infections being evenly distributed between all sorts of vendors,
+with a slight bias towards animal vendors as they are loosely clustered in the west half of
+HSM.
+⟦16⟧ ⟦17⟧ As early cases have a lower ascertainment rate, ⟦18⟧ we expect a low chance that the primary case
+would be ascertained directly: ⟦19⟧ roughly 5%, the hospitalization rate. ⟦20⟧ ⟦21⟧ ⟦22⟧ ⟦23⟧ ⟦24⟧ In the 95% chance that
+the primary case was not hospitalized, we have no strong reason to be looking specifically to
+animal vendors to find early infections.
+⟦25⟧ Second, ⟦26⟧ ⟦27⟧ it is not clear to me that the claim is true. ⟦28⟧ Rootclaim gives no source for the assertion.
+⟦29⟧ ⟦30⟧ ⟦31⟧ ⟦32⟧ Presumably if this information is available at all, the source would have to be the WHO
+report, which has a near monopoly on data on early cases, along with other publications
+co-authored by members of the WHO investigative team. ⟦33⟧ ⟦34⟧ ⟦35⟧ ⟦36⟧ The HSM map published by the
+WHO labels 10 stalls known to sell live animals, and does not show any cases at those stalls;
+this makes me think it is probably true ([32] page 46; or see section B.2). However ⟦37⟧ I could
+not find any explicit mention in the text that no animal vendors were positive,58 ⟦38⟧ despite very
+lengthy discussion of testing of the animals themselves, and the WHO report only specifies
+the types of goods vendors sell in a very few cases. ⟦39⟧ ⟦40⟧ ⟦41⟧ It does say that ⟦42⟧ ⟦43⟧ 20 of 168 December cases
+self-report exposure to live animals ([32] page 45), but does not clarify how many of those
+were at HSM, nor the nature of that exposure (could it include pets? ⟦44⟧ but would only 11.8%
+of people have pets?). ⟦45*⟧ ⟦46⟧ ⟦47⟧ ⟦48*⟧ ⟦49⟧ The breakdown of all vendors at HSM by type of goods sold ([32]
+annex page 182) does not mention live animals at all; perhaps this is included in "others",
+or perhaps they are included in meat sellers if the animals are being butchered on site, or
+perhaps the live animal sellers also sold other products.
+
+Claims:
+⟦1⟧ [EVIDENCE] No animal vendors at Huanan Seafood Market (HSM) tested positive for COVID-19, according to Rootclaim
+⟦2⟧ [HYPOTHESIS] Animal vendors at HSM were not infected with COVID-19, as claimed by Rootclaim
+⟦3⟧ [RESEARCH_QUESTION] Did animal vendors at Huanan Seafood Market test positive for COVID-19?
+⟦4⟧ [EVIDENCE] Significant association between people who worked with wild animals and seropositivity for SARS-1
+⟦5⟧ [HYPOTHESIS] There was a significant association between people who worked with wild animals and seropositivity for SARS-1
+⟦6⟧ [RESEARCH_QUESTION] What is the significance of the association between people who worked with wild animals and seropositivity for SARS-1 in the context of COVID-19 origins?
+⟦7⟧ [ANALYSIS] The judge does not find significance in the claim that no animal vendors at HSM tested positive for covid because they would not expect to find a trend connecting animal vendors with testing positive for covid even if sars-cov-2 did spill over at HSM.
+⟦8⟧ [RESEARCH_QUESTION] Would a trend connecting animal vendors with testing positive for COVID-19 be expected if SARS-CoV-2 did spill over at Huanan Seafood Market?
+⟦9⟧ [HYPOTHESIS] SARS-CoV-2 spilled over at HSM from an animal to an animal vendor
+⟦10⟧ [ANALYSIS] The judge believes that only one animal vendor would have been directly infected by an animal, with further infections being evenly distributed between all sorts of vendors, with a slight bias towards animal vendors.
+⟦11⟧ [ASSUMPTION] Only one animal vendor would have been directly infected by an animal if sars-cov-2 did spill over at HSM
+⟦12⟧ [EVIDENCE] Only one animal vendor would have been directly infected by an animal, with further infections being evenly distributed between all sorts of vendors
+⟦13⟧ [HYPOTHESIS] The primary case of COVID-19 at HSM was directly infected by an animal
+⟦14⟧ [HYPOTHESIS] There were two spillovers of SARS-CoV-2 at HSM, resulting in two primary cases
+⟦15⟧ [ASSUMPTION] Further infections would be evenly distributed between all sorts of vendors, with a slight bias towards animal vendors
+⟦16⟧ [ANALYSIS] The judge estimates that there is a low chance that the primary case would be ascertained directly, roughly 5%, which is the hospitalization rate.
+⟦17⟧ [ASSUMPTION] The primary case would have a low ascertainment rate, roughly 5%, the hospitalization rate
+⟦18⟧ [RESEARCH_QUESTION] What is the chance that the primary case of COVID-19 would be ascertained directly, and what are the implications for identifying early infections among animal vendors?
+⟦19⟧ [QUANTITATIVE_RESULT] 5% hospitalization rate for early cases
+⟦20⟧ [ANALYSIS] The judge believes that in the 95% chance that the primary case was not hospitalized, there is no strong reason to be looking specifically to animal vendors to find early infections.
+⟦21⟧ [EVIDENCE] Low chance (roughly 5%) that the primary case would be ascertained directly, due to hospitalization rate
+⟦22⟧ [HYPOTHESIS] The primary case of COVID-19 at HSM was not hospitalized
+⟦23⟧ [LIMITATION] The primary case of COVID-19 may not have been ascertained directly due to a low ascertainment rate, specifically a hospitalization rate of roughly 5%.
+⟦24⟧ [QUANTITATIVE_RESULT] 95% chance that the primary case was not hospitalized
+⟦25⟧ [ANALYSIS] The judge questions the truth of the claim that no animal vendors at HSM tested positive for covid because Rootclaim gives no source for the assertion.
+⟦26⟧ [HYPOTHESIS] The claim that no animal vendors at HSM tested positive for COVID-19 is not supported by available data
+⟦27⟧ [RESEARCH_QUESTION] Is the claim that no animal vendors at Huanan Seafood Market tested positive for COVID-19 supported by available data and sources?
+⟦28⟧ [LIMITATION] The claim that no animal vendors at HSM tested positive for COVID-19 may not be true due to lack of a clear source for the assertion.
+⟦29⟧ [ANALYSIS] The judge believes that the WHO report is the most likely source of information on early cases, but could not find any explicit mention that no animal vendors were positive.
+⟦30⟧ [ASSUMPTION] The WHO report has a near monopoly on data on early cases
+⟦31⟧ [ASSUMPTION] The information about animal vendors testing positive for covid is available in the WHO report or other publications co-authored by members of the WHO investigative team
+⟦32⟧ [EVIDENCE] WHO report has a near monopoly on data on early cases, along with other publications co-authored by members of the WHO investigative team
+⟦33⟧ [ANALYSIS] The judge notes that the HSM map published by the WHO labels 10 stalls known to sell live animals, and does not show any cases at those stalls, which suggests that it is probably true that no animal vendors were positive.
+⟦34⟧ [ASSUMPTION] The HSM map published by the WHO accurately labels stalls known to sell live animals
+⟦35⟧ [EVIDENCE] HSM map published by the WHO labels 10 stalls known to sell live animals, and does not show any cases at those stalls
+⟦36⟧ [QUANTITATIVE_RESULT] 10 stalls known to sell live animals at HSM
+⟦37⟧ [LIMITATION] The WHO report does not provide explicit information on whether animal vendors were tested positive for COVID-19, despite discussing testing of animals themselves.
+⟦38⟧ [ASSUMPTION] The WHO report's discussion of testing of animals themselves is relevant to the question of whether animal vendors were tested positive for covid
+⟦39⟧ [EVIDENCE] 20 of 168 December cases self-report exposure to live animals, according to the WHO report
+⟦40⟧ [LIMITATION] The data on exposure to live animals is incomplete, as it does not specify how many of the 20 cases self-reporting exposure to live animals were at HSM, nor the nature of that exposure.
+⟦41⟧ [QUANTITATIVE_RESULT] 20 of 168 December cases self-report exposure to live animals
+⟦42⟧ [HYPOTHESIS] People who worked with live animals at HSM were exposed to SARS-CoV-2
+⟦43⟧ [RESEARCH_QUESTION] What is the nature of exposure to live animals reported by December cases, and how many of those cases were at Huanan Seafood Market?
+⟦44⟧ [QUANTITATIVE_RESULT] 11.8% of people have pets
+⟦45*⟧ [ANALYSIS] The judge believes that the WHO report's specification of the types of goods vendors sell in only a few cases, and the lack of mention of live animals in the breakdown of all vendors at HSM, makes it unclear whether the claim is true.
+⟦46⟧ [ASSUMPTION] The breakdown of vendors at HSM by type of goods sold is relevant to the question of whether animal vendors were tested positive for covid
+⟦47⟧ [EVIDENCE] Breakdown of all vendors at HSM by type of goods sold does not mention live animals, according to the WHO report
+⟦48*⟧ [LIMITATION] The breakdown of vendors at HSM by type of goods sold does not mention live animals, which may be included in other categories such as 'others' or 'meat sellers'.
+⟦49⟧ [RESEARCH_QUESTION] How are live animal sellers classified in the breakdown of vendors at Huanan Seafood Market by type of goods sold?
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

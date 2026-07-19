@@ -1,0 +1,80 @@
+7.2  Lab leak prior
+
+To estimate P (LL), rather than extrapolating from historical lab leak events, I will work
+forwards from first principles. This is an error-prone approach, not just because it requires
+speculating about the activities and safety of a lab I have no first- or second-hand knowledge
+of, but also because any errors introduced are unlikely to cancel out with errors in P (Z).
+However this is necessary as I know no analogous precedent for LL.
+As my numbers are more-or-less conjecture from thin air, I will just give them in tabular
+form:
+⟦1⟧ WIV conducts GoF research a la "DEFUSE" 1/50
+(annualized) 1/1.7
+WIV uses suitable starting virus 1/2
+WIV research is successful 1/2
+lab leak of that virus occurs at WIV 1/50
+⟦2⟧ The Project DEFUSE research plan [14, 20] looks eerily similar, in parts, to sars-cov-2.
+However following Project DEFUSE exactly is not consistent with LL. Here are some of the
+most important discrepancies:
+• Project DEFUSE was a collaboration of multiple research groups; but the more people
+involved, the easier for people to become aware of the research
+• most of the work, including all work on virus chimeras, was to be done in UNC or
+other US labs
+69The proper way to include this is to first estimate the chance of spillover at HSM excluding Holmes's
+prognostication, second estimate the chance the spillover site would have been successfully forecast (and
+applying a Bonferroni correction), then take some sort of average of these two estimates according to your
+relative confidence in them.
+• the project was planned to last 3.5 years
+• the project was interested in viruses related to sars-cov-1
+• the project planned on using backbones from previously known viruses, selected for
+lack of pandemic potential in humans
+⟦3⟧ For LL to occur, WIV had to undertake the contents of Project DEFUSE alone without
+collaborators (presumably their former collaborators would know of a falling out between
+them?), abandon the idea of using wild viruses closely related to sars-cov-1, use wild back-
+bones instead of safe backbones, and rush the project in half the proposed time. It is also
+necessary for WIV to keep the elements of the proposal that are in accord with sars-cov-2
+without alteration. The only known precedent for activities like this taking place at WIV
+is the construction of a chimera of the WIV1 backbone with spike gene collected from wild
+viruses; I know of no precedent for WIV inserting FCSs, filtering viruses based on infectivity,
+nor using wild-type backbones. ⟦4⟧ I find the probability of all of this to be at most 1/50.
+That gives the probability of WIV undertaking the GoF research as described, but we want
+an annual risk. Assuming a Poisson distribution of lab leaks with unknown parameter, ⟦5⟧ after
+1.7 years the annualized probability of the first lab leak occurring is at most 1 per 1.7 years.
+Under LL, WIV must find and choose a sufficiently dangerous virus to start with, which at
+minimum requires such a virus to exist. Arguably the latter is the same factor of 1 /8 as
+fromZ, but I have weakened this to 1/2 as GoF research lowers how dangerous the starting
+point would need to be. This assumes that WIV is able to find the virus, though in reality
+only a small fraction of wild viruses are ever sampled.
+Finally, we estimate the chance of the virus actually escaping. Rootclaim describes this
+as almost certainty once sars-cov-2 is manufactured, but I cannot take this seriously when
+Rootclaim does not quantify the risk of a outbreak of covid at the lab origin, and suggests
+that 128 sick people in Wuhan might lead only to a cluster at HSM. Even supposing WIV
+chose not to use a pseudovirus and performed aerosol-generating procedures on the virus
+under BSL-2 conditions, is this riskier than having a colleague with covid? However likely it
+is for a researcher to get covid from a vial in a fume hood, it seems far more likely to get it
+from a fellow researcher - they aren't bringing their BSL-2 equipment out to group dinners.
+The chance of a lab leak is surely lower than the chance that leak is followed by a outbreak
+in the lab, and Rootclaim finds the latter to be too low to be noteworthy.
+Also, while lab leaks of infectious agents do happen, they still are very rare, especially if you
+restrict to lab leaks that had secondary infections; there are many virology labs, and most
+have never experienced a leak. I cannot put the probability above 1 /50; I think it is lower,
+and only put it so high as sars-cov-2 is uncommonly contagious.
+Putting these together, we get
+P (LL) = 1
+50· 1
+1.7· 1
+2· 1
+2· 1
+50 = 1
+17000.
+Compared to P (Z), we see P (LL) is twice as high. ⟦6⟧ While zoonotic pandemics are much
+more likely than GoF lab leak pandemics globally, the latter tends to happen in Wuhan
+more often than the former. My intuition is that the Bayes factor P (LL)/P (Z) = 2 I
+calculated is grossly too high.
+
+Claims:
+⟦1⟧ [HYPOTHESIS] The SARS-CoV-2 virus originated from a lab leak at the Wuhan Institute of Virology (WIV) due to gain-of-function (GoF) research
+⟦2⟧ [HYPOTHESIS] The Project DEFUSE research plan is similar to the SARS-CoV-2 virus, but with discrepancies that make it inconsistent with a lab leak
+⟦3⟧ [HYPOTHESIS] The WIV had to undertake the contents of Project DEFUSE alone, without collaborators, and make significant changes to the original plan for a lab leak to occur
+⟦4⟧ [HYPOTHESIS] The probability of a lab leak at WIV is at most 1/50, considering the necessary conditions and precedents
+⟦5⟧ [HYPOTHESIS] The annualized probability of a lab leak at WIV is at most 1 per 1.7 years, assuming a Poisson distribution
+⟦6⟧ [HYPOTHESIS] The SARS-CoV-2 virus originated from a zoonotic source, with a higher probability than a lab leak

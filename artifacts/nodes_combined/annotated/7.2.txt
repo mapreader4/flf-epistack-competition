@@ -1,0 +1,144 @@
+7.2  Lab leak prior
+
+⟦1⟧ To estimate P (LL), rather than extrapolating from historical lab leak events, I will work
+forwards from first principles. ⟦2⟧ This is an error-prone approach, not just because it requires
+speculating about the activities and safety of a lab I have no first- or second-hand knowledge
+of, ⟦3⟧ but also because any errors introduced are unlikely to cancel out with errors in P (Z).
+However this is necessary as I know no analogous precedent for LL.
+⟦4⟧ As my numbers are more-or-less conjecture from thin air, I will just give them in tabular
+form:
+⟦5⟧ ⟦6⟧ ⟦7⟧ ⟦8*⟧ WIV conducts GoF research a la "DEFUSE" 1/50
+(annualized) 1/1.7
+⟦9⟧ ⟦10⟧ ⟦11⟧ WIV uses suitable starting virus 1/2
+⟦12⟧ ⟦13⟧ ⟦14⟧ WIV research is successful 1/2
+⟦15⟧ ⟦16⟧ ⟦17⟧ lab leak of that virus occurs at WIV 1/50
+The Project DEFUSE research plan [14, 20] looks eerily similar, in parts, to sars-cov-2.
+⟦18⟧ However following Project DEFUSE exactly is not consistent with LL. Here are some of the
+most important discrepancies:
+• ⟦19⟧ Project DEFUSE was a collaboration of multiple research groups; but the more people
+involved, the easier for people to become aware of the research
+• ⟦20⟧ most of the work, including all work on virus chimeras, was to be done in UNC or
+other US labs
+69⟦21⟧ The proper way to include this is to first estimate the chance of spillover at HSM excluding Holmes's
+prognostication, second estimate the chance the spillover site would have been successfully forecast (and
+applying a Bonferroni correction), then take some sort of average of these two estimates according to your
+relative confidence in them.
+• ⟦22⟧ ⟦23⟧ the project was planned to last 3.5 years
+• ⟦24⟧ the project was interested in viruses related to sars-cov-1
+• ⟦25⟧ the project planned on using backbones from previously known viruses, selected for
+lack of pandemic potential in humans
+⟦26*⟧ ⟦27⟧ For LL to occur, WIV had to undertake the contents of Project DEFUSE alone without
+collaborators (presumably their former collaborators would know of a falling out between
+them?), abandon the idea of using wild viruses closely related to sars-cov-1, use wild back-
+bones instead of safe backbones, and rush the project in half the proposed time. It is also
+necessary for WIV to keep the elements of the proposal that are in accord with sars-cov-2
+without alteration. ⟦28⟧ The only known precedent for activities like this taking place at WIV
+is the construction of a chimera of the WIV1 backbone with spike gene collected from wild
+viruses; I know of no precedent for WIV inserting FCSs, filtering viruses based on infectivity,
+nor using wild-type backbones. ⟦29⟧ ⟦30⟧ ⟦31⟧ I find the probability of all of this to be at most 1/50.
+That gives the probability of WIV undertaking the GoF research as described, but we want
+an annual risk. ⟦32⟧ ⟦33⟧ ⟦34⟧ Assuming a Poisson distribution of lab leaks with unknown parameter, ⟦35⟧ ⟦36⟧ ⟦37⟧ ⟦38⟧ after
+1.7 years the annualized probability of the first lab leak occurring is at most 1 per 1.7 years.
+⟦39⟧ Under LL, WIV must find and choose a sufficiently dangerous virus to start with, which at
+minimum requires such a virus to exist. ⟦40⟧ ⟦41⟧ Arguably the latter is the same factor of 1 /8 as
+fromZ, ⟦42⟧ but I have weakened this to 1/2 as GoF research lowers how dangerous the starting
+point would need to be. ⟦43⟧ ⟦44⟧ ⟦45⟧ ⟦46⟧ This assumes that WIV is able to find the virus, though in reality
+only a small fraction of wild viruses are ever sampled.
+⟦47⟧ Finally, we estimate the chance of the virus actually escaping. ⟦48⟧ ⟦49⟧ Rootclaim describes this
+as almost certainty once sars-cov-2 is manufactured, but I cannot take this seriously when
+Rootclaim does not quantify the risk of a outbreak of covid at the lab origin, ⟦50⟧ and suggests
+that 128 sick people in Wuhan might lead only to a cluster at HSM. Even supposing WIV
+chose not to use a pseudovirus and performed aerosol-generating procedures on the virus
+under BSL-2 conditions, is this riskier than having a colleague with covid? ⟦51⟧ However likely it
+is for a researcher to get covid from a vial in a fume hood, it seems far more likely to get it
+from a fellow researcher - they aren't bringing their BSL-2 equipment out to group dinners.
+⟦52⟧ ⟦53⟧ ⟦54⟧ ⟦55⟧ The chance of a lab leak is surely lower than the chance that leak is followed by a outbreak
+in the lab, and Rootclaim finds the latter to be too low to be noteworthy.
+⟦56⟧ ⟦57⟧ ⟦58⟧ Also, while lab leaks of infectious agents do happen, they still are very rare, especially if you
+restrict to lab leaks that had secondary infections; there are many virology labs, and most
+have never experienced a leak. ⟦59⟧ ⟦60⟧ I cannot put the probability above 1 /50; ⟦61⟧ I think it is lower,
+and only put it so high as sars-cov-2 is uncommonly contagious.
+Putting these together, we get
+⟦62⟧ ⟦63⟧ P (LL) = 1
+50· 1
+1.7· 1
+2· 1
+2· 1
+50 = 1
+17000.
+⟦64⟧ Compared to P (Z), we see P (LL) is twice as high. ⟦65⟧ While zoonotic pandemics are much
+more likely than GoF lab leak pandemics globally, the latter tends to happen in Wuhan
+more often than the former. ⟦66⟧ ⟦67⟧ ⟦68⟧ My intuition is that the Bayes factor P (LL)/P (Z) = 2 I
+calculated is grossly too high.
+
+Claims:
+⟦1⟧ [RESEARCH_QUESTION] What is the probability of a lab leak occurring at the Wuhan Institute of Virology (WIV)?
+⟦2⟧ [LIMITATION] The approach of estimating P(LL) from first principles is error-prone due to lack of knowledge about the lab's activities and safety
+⟦3⟧ [LIMITATION] Errors introduced in estimating P(LL) are unlikely to cancel out with errors in P(Z)
+⟦4⟧ [LIMITATION] The numbers used in the estimation are conjectural and lack a solid basis
+⟦5⟧ [EVIDENCE] WIV conducts GoF research similar to 'DEFUSE' with a probability of 1/50
+⟦6⟧ [HYPOTHESIS] The SARS-CoV-2 virus originated from a lab leak at the Wuhan Institute of Virology (WIV) due to gain-of-function (GoF) research
+⟦7⟧ [QUANTITATIVE_RESULT] 1/50 (annualized probability of WIV conducting GoF research a la 'DEFUSE')
+⟦8*⟧ [RESEARCH_QUESTION] What is the probability of WIV conducting gain-of-function (GoF) research similar to the Project DEFUSE research plan?
+⟦9⟧ [EVIDENCE] WIV uses a suitable starting virus with a probability of 1/2
+⟦10⟧ [QUANTITATIVE_RESULT] 1/2 (probability of WIV using a suitable starting virus)
+⟦11⟧ [RESEARCH_QUESTION] What is the probability of WIV using a suitable starting virus for GoF research?
+⟦12⟧ [EVIDENCE] WIV research is successful with a probability of 1/2
+⟦13⟧ [QUANTITATIVE_RESULT] 1/2 (probability of WIV research being successful)
+⟦14⟧ [RESEARCH_QUESTION] What is the probability of WIV's GoF research being successful?
+⟦15⟧ [EVIDENCE] A lab leak of the virus occurs at WIV with a probability of 1/50
+⟦16⟧ [QUANTITATIVE_RESULT] 1/50 (probability of a lab leak of the virus occurring at WIV)
+⟦17⟧ [RESEARCH_QUESTION] What is the probability of a lab leak of a virus occurring at WIV?
+⟦18⟧ [LIMITATION] The Project DEFUSE research plan is not directly applicable to the lab leak hypothesis
+⟦19⟧ [EVIDENCE] Project DEFUSE was a collaboration of multiple research groups
+⟦20⟧ [EVIDENCE] Most of the work in Project DEFUSE was to be done in UNC or other US labs
+⟦21⟧ [LIMITATION] The estimation of the chance of spillover at HSM is incomplete and requires additional considerations
+⟦22⟧ [EVIDENCE] Project DEFUSE was planned to last 3.5 years
+⟦23⟧ [QUANTITATIVE_RESULT] 3.5 years (planned duration of Project DEFUSE)
+⟦24⟧ [EVIDENCE] Project DEFUSE was interested in viruses related to sars-cov-1
+⟦25⟧ [EVIDENCE] Project DEFUSE planned to use backbones from previously known viruses selected for lack of pandemic potential in humans
+⟦26*⟧ [HYPOTHESIS] The WIV undertook the contents of Project DEFUSE alone without collaborators, abandoned the idea of using wild viruses closely related to SARS-CoV-1, used wild backbones instead of safe backbones, and rushed the project in half the proposed time
+⟦27⟧ [RESEARCH_QUESTION] How does the probability of a lab leak at WIV change when considering the specifics of the Project DEFUSE research plan?
+⟦28⟧ [EVIDENCE] WIV constructed a chimera of the WIV1 backbone with spike gene collected from wild viruses
+⟦29⟧ [ANALYSIS] The judge estimates the probability of a lab leak at the Wuhan Institute of Virology (WIV) as at most 1/50, considering the lack of precedent for WIV undertaking certain activities alone and without collaborators.
+⟦30⟧ [ASSUMPTION] The probability of WIV undertaking the GoF research as described is at most 1/50.
+⟦31⟧ [HYPOTHESIS] The probability of WIV undertaking the GoF research as described is at most 1/50
+⟦32⟧ [ASSUMPTION] The annualized probability of the first lab leak occurring at WIV follows a Poisson distribution with unknown parameter.
+⟦33⟧ [HYPOTHESIS] The annualized probability of the first lab leak occurring at WIV is at most 1 per 1.7 years
+⟦34⟧ [LIMITATION] The use of a Poisson distribution to model lab leaks assumes an unknown parameter
+⟦35⟧ [ANALYSIS] The judge calculates the annualized probability of the first lab leak occurring at WIV as at most 1 per 1.7 years, assuming a Poisson distribution of lab leaks with unknown parameter.
+⟦36⟧ [LIMITATION] The annualized probability of a lab leak is uncertain and may be lower than estimated
+⟦37⟧ [QUANTITATIVE_RESULT] 1/1.7 (annualized probability of the first lab leak occurring)
+⟦38⟧ [RESEARCH_QUESTION] What is the annualized probability of a lab leak occurring at WIV?
+⟦39⟧ [ASSUMPTION] The starting virus for GoF research at WIV must exist.
+⟦40⟧ [ASSUMPTION] GoF research lowers the required danger of the starting virus.
+⟦41⟧ [QUANTITATIVE_RESULT] 1/8 (arguable factor for the existence of a sufficiently dangerous virus to start with)
+⟦42⟧ [QUANTITATIVE_RESULT] 1/2 (weakened factor for the existence of a sufficiently dangerous virus to start with, considering GoF research)
+⟦43⟧ [ANALYSIS] The judge estimates the probability of WIV finding and choosing a sufficiently dangerous virus to start with as 1/2, considering that gain-of-function (GoF) research lowers the required danger level of the starting point.
+⟦44⟧ [ASSUMPTION] WIV is able to find a sufficiently dangerous virus to start with.
+⟦45⟧ [LIMITATION] The assumption that WIV can find a sufficiently dangerous virus to start with is uncertain
+⟦46⟧ [RESEARCH_QUESTION] What is the probability of WIV finding and choosing a sufficiently dangerous virus to start with?
+⟦47⟧ [RESEARCH_QUESTION] What is the probability of the virus actually escaping from WIV?
+⟦48⟧ [EVIDENCE] Rootclaim describes the risk of a lab leak leading to an outbreak as almost certainty once sars-cov-2 is manufactured
+⟦49⟧ [LIMITATION] The risk of a lab leak leading to an outbreak is difficult to quantify and may be lower than estimated
+⟦50⟧ [QUANTITATIVE_RESULT] 128 (number of sick people in Wuhan that might lead only to a cluster at HSM, according to Rootclaim)
+⟦51⟧ [RESEARCH_QUESTION] How does the risk of a lab leak at WIV compare to the risk of a researcher getting COVID-19 from a colleague?
+⟦52⟧ [ANALYSIS] The judge compares the probability of a lab leak to the probability of a leak being followed by an outbreak in the lab, suggesting that the latter is higher.
+⟦53⟧ [ASSUMPTION] The probability of a lab leak of a virus at WIV is lower than the probability of an outbreak in the lab following a leak.
+⟦54⟧ [HYPOTHESIS] The chance of a lab leak of SARS-CoV-2 at WIV is lower than the chance that the leak is followed by an outbreak in the lab
+⟦55⟧ [RESEARCH_QUESTION] What is the probability of a lab leak at WIV resulting in a outbreak?
+⟦56⟧ [ASSUMPTION] Lab leaks of infectious agents that result in secondary infections are very rare.
+⟦57⟧ [EVIDENCE] Lab leaks of infectious agents are very rare, especially if restricted to lab leaks with secondary infections
+⟦58⟧ [LIMITATION] Lab leaks of infectious agents are rare, especially those with secondary infections
+⟦59⟧ [ANALYSIS] The judge estimates the probability of a lab leak of a virus at WIV as lower than 1/50, considering the rarity of lab leaks with secondary infections.
+⟦60⟧ [QUANTITATIVE_RESULT] 1/50 (upper bound for the probability of a lab leak)
+⟦61⟧ [LIMITATION] The estimated probability of a lab leak may be too high due to the uncommon contagiousness of sars-cov-2
+⟦62⟧ [ANALYSIS] The judge calculates the probability of a lab leak (P(LL)) as 1/17000, based on the estimated probabilities of various factors, including the annualized probability of the first lab leak, the probability of WIV finding and choosing a sufficiently dangerous virus, and the probability of a lab leak of that virus.
+⟦63⟧ [QUANTITATIVE_RESULT] 1/17000 (estimated probability of P(LL))
+⟦64⟧ [ANALYSIS] The judge compares the calculated probability of a lab leak (P(LL)) to the probability of a zoonotic origin (P(Z)), suggesting that P(LL) is twice as high as P(Z).
+⟦65⟧ [HYPOTHESIS] The SARS-CoV-2 virus originated from a zoonotic source
+⟦66⟧ [ANALYSIS] The judge questions the intuition that the calculated Bayes factor P(LL)/P(Z) = 2 is grossly too high, considering the relative frequencies of zoonotic pandemics and GoF lab leak pandemics globally and in Wuhan.
+⟦67⟧ [LIMITATION] The intuition that the Bayes factor P(LL)/P(Z) = 2 is grossly too high is uncertain and requires further evaluation
+⟦68⟧ [QUANTITATIVE_RESULT] 2 (Bayes factor P(LL)/P(Z))
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

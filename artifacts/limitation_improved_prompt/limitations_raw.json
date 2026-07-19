@@ -1,0 +1,2120 @@
+[
+  {
+    "section_number": "1",
+    "node_type": "limitation",
+    "node_text": "The analysis was performed under acute time pressure",
+    "quote": "it was performed under acute time pressure"
+  },
+  {
+    "section_number": "1",
+    "node_type": "limitation",
+    "node_text": "The author is not an expert in the subject",
+    "quote": "on a subject which I am not an expert in"
+  },
+  {
+    "section_number": "1",
+    "node_type": "limitation",
+    "node_text": "The author did not have a strong pre-existing opinion",
+    "quote": "did not have a strong pre-existing opinion"
+  },
+  {
+    "section_number": "1",
+    "node_type": "limitation",
+    "node_text": "The author could not independently research due to the rules of the debate",
+    "quote": "and (per the rules of the debate) I could not independently research"
+  },
+  {
+    "section_number": "1",
+    "node_type": "limitation",
+    "node_text": "Much of the analysis involves conflicting tertiary sources",
+    "quote": "Much of the analysis involves conflicting tertiary sources"
+  },
+  {
+    "section_number": "1",
+    "node_type": "limitation",
+    "node_text": "The author lacks access to primary or secondary sources",
+    "quote": "with access to primary or secondary sources that I lack"
+  },
+  {
+    "section_number": "1",
+    "node_type": "limitation",
+    "node_text": "The numerical confidence level in the competing hypotheses should not be taken in earnest",
+    "quote": "the resulting number should not be taken in earnest"
+  },
+  {
+    "section_number": "1",
+    "node_type": "limitation",
+    "node_text": "The analysis required assigning numbers to many speculative or unknowable processes",
+    "quote": "required assigning numbers to many speculative or unknowable processes"
+  },
+  {
+    "section_number": "1",
+    "node_type": "limitation",
+    "node_text": "There is a wide range of believable values for the speculative or unknowable processes",
+    "quote": "for which there are a wide range of believable values"
+  },
+  {
+    "section_number": "1",
+    "node_type": "limitation",
+    "node_text": "Many of the claims brought up during the debate pass unchallenged in the document",
+    "quote": "However the reader should not be intimidated by its length; the argument is quite simple at its heart, and I have striven to make my discussion approachable. 2 In this section, we will introduce the necessarily context to understand the differing argu- ments about the origin of covid: this covers both the spread of the earliest known covid cases, and the details of how the sars-cov-2 virus works and how it relates to other viruses. ... Even still many of the claims brought up during the debate pass unchallenged here."
+  },
+  {
+    "section_number": "1",
+    "node_type": "limitation",
+    "node_text": "Much of the analysis and reasoning is condensed or omitted",
+    "quote": "Much of my analysis and reasoning is condensed or omitted"
+  },
+  {
+    "section_number": "1.1",
+    "node_type": "limitation",
+    "node_text": "The earlier one tries to trace the origins of covid-19, the narrower the trail, until it is reduced to the mundane daily activities of a handful of individuals whose identities may be lost to time.",
+    "quote": "Inevitably the earlier one tries to trace the origins of covid-19, the narrower the trail, until it is reduced to the mundane daily activities of a handful of individuals whose identities may be lost to time."
+  },
+  {
+    "section_number": "1.1",
+    "node_type": "limitation",
+    "node_text": "The time scale over which the weather is chaotic is approximately two weeks, limiting the predictability of a hurricane's path.",
+    "quote": "which is approximately the time scale over which the weather is chaotic."
+  },
+  {
+    "section_number": "1.1",
+    "node_type": "limitation",
+    "node_text": "There were on the order of one million people in Wuhan with the flu at the time of the beginnings of covid, making it difficult to identify the source.",
+    "quote": "so one figures that concurrent with the beginnings of covid there were on the order of one million people in Wuhan with the flu, of which ten thousand hospitalized."
+  },
+  {
+    "section_number": "1.1",
+    "node_type": "limitation",
+    "node_text": "Government officials interfered with the actions of healthcare professionals, potentially affecting the response to the outbreak.",
+    "quote": "Around this time government officials began to become involved, in many ways interfering with the actions of healthcare professionals."
+  },
+  {
+    "section_number": "1.1",
+    "node_type": "limitation",
+    "node_text": "The Huanan Seafood Wholesale Market was sanitized and closed, potentially destroying evidence and limiting the ability to trace the origins of covid-19.",
+    "quote": "HSM was sanitized and closed the morning of January 1, and samples were collected on and after January 1"
+  },
+  {
+    "section_number": "1.1",
+    "node_type": "limitation",
+    "node_text": "Significant evidence of human-to-human transmission existed before the official announcement on January 20, 2020, potentially delaying the response to the outbreak.",
+    "quote": "significant evi- dence of human-to-human transmission existed before this time."
+  },
+  {
+    "section_number": "1.1.1",
+    "node_type": "limitation",
+    "node_text": "it is not known that any bats were sold in the Huanan Seafood Market",
+    "quote": "it is not known that any bats were sold in the market"
+  },
+  {
+    "section_number": "1.1.1",
+    "node_type": "limitation",
+    "node_text": "any intermediate species between bats and humans are unknown",
+    "quote": "any intermediate species between bats and humans are unknown"
+  },
+  {
+    "section_number": "1.1.1",
+    "node_type": "limitation",
+    "node_text": "the number of people who had covid in 2019 December is unknown",
+    "quote": "You'd think that although we don't know how many people had covid in 2019 December, surely we'd know how many we know of."
+  },
+  {
+    "section_number": "1.1.1",
+    "node_type": "limitation",
+    "node_text": "there is a lack of adequate capacity for testing for covid in early January",
+    "quote": "before there existed adequate capacity for testing for covid"
+  },
+  {
+    "section_number": "1.1.1",
+    "node_type": "limitation",
+    "node_text": "the exact number of people who had onset of covid is uncertain",
+    "quote": "approximately 200 people are known"
+  },
+  {
+    "section_number": "1.2",
+    "node_type": "limitation",
+    "node_text": "the coronavirus genome's complexity and the presence of synonymous mutations may limit the accuracy of phylogenetic analysis",
+    "quote": "mutations tend to be synonymous, and nonsynonymous mutations tend to yield amino acids with similar chemical properties"
+  },
+  {
+    "section_number": "1.2",
+    "node_type": "limitation",
+    "node_text": "the lack of understanding of the cleaving process of the spike protein may limit the understanding of the infection process",
+    "quote": "for reasons inscrutable to me facilitates merging the virus envelope with the cellular membrane"
+  },
+  {
+    "section_number": "1.2",
+    "node_type": "limitation",
+    "node_text": "the author's limited knowledge of the genetic code's design may limit the interpretation of the genetic code's properties",
+    "quote": "or at least more often than one would expect from a randomly designed genetic code"
+  },
+  {
+    "section_number": "1.2",
+    "node_type": "limitation",
+    "node_text": "the absence of cellular machinery to replicate RNA in host cells may limit the replication and assembly process of the viral genome",
+    "quote": "As host cells do not contain the cellular machinery to replicate RNA"
+  },
+  {
+    "section_number": "1.2.1",
+    "node_type": "limitation",
+    "node_text": "The phylogenetic tree of coronaviruses can be complicated by recombination, which plays a role in the genetic history of sarbecoviruses.",
+    "quote": "However, different parts of the sars-cov-2 genome are closest to different wild viruses, and recombination appears to play a role in the genetic history of sarbecoviruses, complicating efforts to reconstruct a phylogeny [30]."
+  },
+  {
+    "section_number": "1.2.1",
+    "node_type": "limitation",
+    "node_text": "The results of assembling a phylogenetic tree of the very earliest covid cases are not without dispute.",
+    "quote": "Samples of sars-cov-2 collected in 2019 December and 2020 January have been sequenced and some are available in GISAID, facilitating assembling them into a phylogenetic tree of the very earliest covid cases, though the results are not without dispute."
+  },
+  {
+    "section_number": "1.2.1",
+    "node_type": "limitation",
+    "node_text": "The phylogenetic relationship between the roots of the A and B lineages is not immediately clear without further analysis.",
+    "quote": "The phylogenetic relationship between the roots of the A and B lineages is not immediately clear without further analysis."
+  },
+  {
+    "section_number": "1.2.1",
+    "node_type": "limitation",
+    "node_text": "The high mutation rate of viruses can limit the reliability of phylogenetic trees.",
+    "quote": "Due to the high mutation rate of viruses, a phylogenetic tree can be created with some reliability down to the level of individual illnesses."
+  },
+  {
+    "section_number": "1.2.2",
+    "node_type": "limitation",
+    "node_text": "The phylogenetic tree shown in Figure 5 is technically a haplotype network, not a phylogenetic tree, as it shows only the genetic similarity of different cases without any attempt to identify which are ancestral/related to each other.",
+    "quote": "It is possible for distantly related samples to have similar genomes by chance, as the same mutations can arise more than once independently."
+  },
+  {
+    "section_number": "1.2.2",
+    "node_type": "limitation",
+    "node_text": "The presence of an FCS may be evolutionarily harmful for bat coronaviruses, which are spread through droppings and must survive the gastrointestinal tract.",
+    "quote": "This creates a different life cycle for virus replication, and consequentially an FCS may be evolutionarily harmful."
+  },
+  {
+    "section_number": "1.2.2",
+    "node_type": "limitation",
+    "node_text": "The comparison between sars-cov-2 and banal-20-52 is limited to a specific location, and there are about 1000 point mutations in the 30000 nucleotides.",
+    "quote": "I have marked the three point mutations in this section with lower-case letters; each is synonymous. (There are about 1000 point mutations in the 30000 nucleotides.)"
+  },
+  {
+    "section_number": "1.2.2",
+    "node_type": "limitation",
+    "node_text": "The first known case of sars-cov-2, a Mr Chen, may have become ill on December 12, although the onset date is listed as December 8.",
+    "quote": "The middle arrow identifies the first known case, a Mr Chen with onset 2019 December 8, although he may have become ill on December 12."
+  },
+  {
+    "section_number": "1.3",
+    "node_type": "limitation",
+    "node_text": "time is limited and only so many rounds of argument and counterargument can be sustained",
+    "quote": "time is limited and only so many rounds of argument and counterargument can be sustained"
+  },
+  {
+    "section_number": "1.3",
+    "node_type": "limitation",
+    "node_text": "no prior beliefs or private research of my own can be used",
+    "quote": "no prior beliefs or private research of my own can be used"
+  },
+  {
+    "section_number": "1.3",
+    "node_type": "limitation",
+    "node_text": "I did not attempt to keep score of which side made more factual errors or changed their argument more often",
+    "quote": "I did not attempt to keep score of which side made more factual errors or changed their argument more often"
+  },
+  {
+    "section_number": "1.3",
+    "node_type": "limitation",
+    "node_text": "I have laid out here in some detail how I reached the decision I did, though in view of the considerable volume already written on this subject I do not imagine this will be sufficient to compel anyone to change their mind",
+    "quote": "I have laid out here in some detail how I reached the decision I did, though in view of the considerable volume already written on this subject I do not imagine this will be sufficient to compel anyone to change their mind"
+  },
+  {
+    "section_number": "1.3",
+    "node_type": "limitation",
+    "node_text": "Doubtlessly the participants of the debate will have rebuttals to what I write that disagrees with them",
+    "quote": "Doubtlessly the participants of the debate will have rebuttals to what I write that disagrees with them"
+  },
+  {
+    "section_number": "1.3",
+    "node_type": "limitation",
+    "node_text": "perhaps I may wish to revise this in the future",
+    "quote": "perhaps I may wish to revise this in the future"
+  },
+  {
+    "section_number": "1.3.1",
+    "node_type": "limitation",
+    "node_text": "The judge's analysis may have inadvertently used indirect citations.",
+    "quote": "though I may have inadvertently used a few indirect citations"
+  },
+  {
+    "section_number": "1.3.1",
+    "node_type": "limitation",
+    "node_text": "The judge's quantitative analysis in section 7 may be unsatisfying.",
+    "quote": "However it felt unsatisfying to say why I believed the arguments for one theory"
+  },
+  {
+    "section_number": "1.3.1",
+    "node_type": "limitation",
+    "node_text": "The judge's affirmative analysis may have paid a price in accuracy for simplicity.",
+    "quote": "best to keep it simple and pay a small price in accuracy rather than risk large model error"
+  },
+  {
+    "section_number": "1.3.1",
+    "node_type": "limitation",
+    "node_text": "The judge's use of complicated models or analysis in refutational passages may be limited.",
+    "quote": "For the affirmative analysis I have eschewed such complexities"
+  },
+  {
+    "section_number": "2",
+    "node_type": "limitation",
+    "node_text": "The choice of what information to call 'prior' versus 'observation' is just a matter of convention",
+    "quote": "Note that mathematically there is nothing distinguishing the prior probability from any of our observations; the choice of what information to call 'prior' versus 'observation' is just a matter of convention"
+  },
+  {
+    "section_number": "2",
+    "node_type": "limitation",
+    "node_text": "The probability of the event O1 might be wrapped up with many uncertain factors that have nothing to do with either A or B",
+    "quote": "in messy, real-world scenarios the probability of the event O1 might be wrapped up with many uncertain factors that have nothing to do with either A or B"
+  },
+  {
+    "section_number": "2",
+    "node_type": "limitation",
+    "node_text": "Estimating P(O1|A) requires assessing these irrelevant factors",
+    "quote": "Estimating P(O1|A) requires assessing these irrelevant factors"
+  },
+  {
+    "section_number": "2",
+    "node_type": "limitation",
+    "node_text": "The technique may not be appropriate for the application",
+    "quote": "I certainly hope no one involved in hiring candidates is using a calculation of this nature to help make that decision, or at least not with the same lack of care as I did above"
+  },
+  {
+    "section_number": "2",
+    "node_type": "limitation",
+    "node_text": "One must pay close attention to potential problems, such as accounting for all available evidence, accuracy of probabilities, and robustness of the result to changes in the data",
+    "quote": "One must pay close attention to potential problems: did you account for all the available evidence? how accurate are your probabilities? how robust is your result to changes in the data?"
+  },
+  {
+    "section_number": "2",
+    "node_type": "limitation",
+    "node_text": "The messier and more 'real-world' the situation, the easier it is to run afoul",
+    "quote": "The messier and more 'real-world' your situation, the easier it is to run afoul"
+  },
+  {
+    "section_number": "2.1",
+    "node_type": "limitation",
+    "node_text": "The process of assigning p-values in hypothesis testing is subjective.",
+    "quote": "How to do this is the main source of confusion in hypothesis testing, as the process is subjective."
+  },
+  {
+    "section_number": "2.1",
+    "node_type": "limitation",
+    "node_text": "The choice of mapping for assigning p-values can affect the results.",
+    "quote": "So how do we choose the map?"
+  },
+  {
+    "section_number": "2.1",
+    "node_type": "limitation",
+    "node_text": "Hypothesis testing does not account for prior probabilities of the hypotheses.",
+    "quote": "with hypothesis testing, we do not assume any prior probabilities for the two hypotheses"
+  },
+  {
+    "section_number": "2.1",
+    "node_type": "limitation",
+    "node_text": "Hypothesis testing does not calculate a distribution for the observable conditioned on the alternative hypothesis.",
+    "quote": "and we do not calculate a distribution for the observable O conditioned on the alternative hypothesis B"
+  },
+  {
+    "section_number": "2.1",
+    "node_type": "limitation",
+    "node_text": "The p-value obtained from hypothesis testing cannot be turned into a probability for a hypothesis without additional information.",
+    "quote": "The p-value obtained from hypothesis testing cannot be turned into a probability for a hypothesis without adding this information"
+  },
+  {
+    "section_number": "2.1",
+    "node_type": "limitation",
+    "node_text": "Combining observations from multiple primary analyses can be complicated due to conflicting priors and other choices.",
+    "quote": "when combining observations from multiple primary analyses it would be necessary to undo all their calculations to sort out conflicting priors and other choices"
+  },
+  {
+    "section_number": "2.1",
+    "node_type": "limitation",
+    "node_text": "Primary research usually stops at computing a p-value, leaving further analysis to secondary analysis.",
+    "quote": "For this reason primary research usually stops at computing a p-value"
+  },
+  {
+    "section_number": "3",
+    "node_type": "limitation",
+    "node_text": "p-hacking can lead to incorrect conclusions in hypothesis testing",
+    "quote": "This is a common trap (usually inadvertent) called p-hacking."
+  },
+  {
+    "section_number": "3",
+    "node_type": "limitation",
+    "node_text": "Bayesian reasoning can also be prone to errors, such as overwhelming prior probabilities with weak evidence",
+    "quote": "Bayesian reasoning is capable of exactly the same error."
+  },
+  {
+    "section_number": "3",
+    "node_type": "limitation",
+    "node_text": "failure to account for less anomalous observations can lead to biased conclusions",
+    "quote": "However let us be a little less reckless; after all, all of those less anomalous observations should have had a Bayes factor smaller than 1 because they are evidence for humanity."
+  },
+  {
+    "section_number": "3",
+    "node_type": "limitation",
+    "node_text": "random walks can add noise that scales with the square root of the number of steps, leading to potential biases",
+    "quote": "random walks add noise that scales with the square root of the number of steps, but a biased random walk drifts at a rate that is linear with the number of steps."
+  },
+  {
+    "section_number": "3",
+    "node_type": "limitation",
+    "node_text": "biased data collection can lead to massive differences in conclusions, even if individual data points are fair",
+    "quote": "Suppose we conveniently overlook half the data in favor of humanity; so we have two thirds for lizards, and one thirds for humans."
+  },
+  {
+    "section_number": "3",
+    "node_type": "limitation",
+    "node_text": "analysis of individual data points or all data points may be insufficient to distinguish between fair and biased Bayesian analysis",
+    "quote": "the analysis of any one data point, or potentially all 100 data points, is insufficient to distinguish between a completely fair Bayesian analysis revealing an anomaly or a slightly biased Bayesian analysis with no true signal."
+  },
+  {
+    "section_number": "3",
+    "node_type": "limitation",
+    "node_text": "using fewer data points can still lead to similar results, but with more randomness",
+    "quote": "What's more, we can get qualitatively the same result using far fewer than 100 data points; all we need is 100 potential data points."
+  },
+  {
+    "section_number": "3",
+    "node_type": "limitation",
+    "node_text": "introducing bias can be harder when using canonical collections of evidence",
+    "quote": "If instead of a haphazard collection of observations one makes a collection of evidence that is in some way canonical it is much harder to introduce bias; say, one considers all fingers, but only fingers."
+  },
+  {
+    "section_number": "3",
+    "node_type": "limitation",
+    "node_text": "breaking down hypotheses into subparts can reduce potential bias, but may still lead to disagreements about numbers or breakdowns",
+    "quote": "Similarly, if a hypothesis can be broken down into subparts, each necessary for the hypothesis as a whole to hold, then there is less potential for bias in the selection of evidence, though there may remain disagreement about the numbers assigned to the evidence or what breakdown into subparts is cleanest."
+  },
+  {
+    "section_number": "3.1",
+    "node_type": "limitation",
+    "node_text": "The argument is not cleanly presented, with inconsistent events and numbers being used as Bayes factors but written with percentages and verbally described as probabilities instead",
+    "quote": "The argument is not cleanly presented; all of the numbers shown are being used as Bayes factors, but most are written with percentages, and verbally described as probabilities instead"
+  },
+  {
+    "section_number": "3.1",
+    "node_type": "limitation",
+    "node_text": "The events as described are inconsistent",
+    "quote": "The events as described are inconsistent: I will try to find the best interpretation of the information given"
+  },
+  {
+    "section_number": "3.1",
+    "node_type": "limitation",
+    "node_text": "The calculation does not account for observational bias",
+    "quote": "During the presentation, they framed this discussion to consider the probability that the SSE at HSM is the first observed SSE, not necessarily the first and only that existed at that time, so in part of this calculation they are taking into account observational bias"
+  },
+  {
+    "section_number": "3.1",
+    "node_type": "limitation",
+    "node_text": "No testing of animal vendors was conducted, and only confirmed illnesses among people who were hospitalized are known",
+    "quote": "None of the known infections at HSM are among animal vendors. To my knowledge, no testing of animal vendors was conducted; we only have confirmed illnesses among people who were hospitalized"
+  },
+  {
+    "section_number": "3.1",
+    "node_type": "limitation",
+    "node_text": "The comparison of testing processes during SARS1 and at HSM is unknown",
+    "quote": "I have no information about how the testing of people at HSM compares with the testing processes during SARS1"
+  },
+  {
+    "section_number": "3.1",
+    "node_type": "limitation",
+    "node_text": "The probability of rare events is consistently overestimated by Rootclaim",
+    "quote": "Indeed I think most of the probabilities in this table are too high, and not by the same amount when conditioning on An versus Ot; I feel that in this analysis Rootclaim is consistently overestimating the probability of rare events"
+  },
+  {
+    "section_number": "3.1",
+    "node_type": "limitation",
+    "node_text": "The numbers given by Rootclaim are not consistent with their estimate that 10% of coronavirus pandemics that start in Wuhan would have their first SSE in HSM",
+    "quote": "Furthermore I do not see how to make the numbers Rootclaim gives here consistent with their estimate that 10% of coronavirus pandemics that start in Wuhan would have their first SSE in HSM (conditioned on the location of the SSE being unrelated to the location of the primary case) [7]; this scenario corresponds to the Ot hypothesis, which here appears to be at most 0.1%· 10 = 1%, a factor of 10 lower"
+  },
+  {
+    "section_number": "3.1",
+    "node_type": "limitation",
+    "node_text": "The listed observations do not represent a canonical series of necessary events that must occur under the hypothesis An to get an SSE at HSM",
+    "quote": "The listed observations do not represent a canonical series of necessary events that must occur under the hypothesis An to get an SSE at HSM. If they did, one could argue that the choice of observations was natural or unmotivated"
+  },
+  {
+    "section_number": "3.1",
+    "node_type": "limitation",
+    "node_text": "The calculation may be influenced by human biases, with the answer being decided and evidence being sought until it aligns with that conclusion",
+    "quote": "This calculation feels like motivated reasoning: the answer was decided, and evidence was sought until it aligned with that conclusion. Of course I do not think Rootclaim deliberately did such a backwards method - I believe their process was completely honest and designed to be fair to both hypotheses - but (as they are well aware) human biases are hard to stamp out, and Bayesian calculations are not immune to being influenced by human biases"
+  },
+  {
+    "section_number": "3.2",
+    "node_type": "limitation",
+    "node_text": "The estimates and calculations performed by Rootclaim may not have been done carefully",
+    "quote": "in doubt of how carefully these estimates and calculations were performed"
+  },
+  {
+    "section_number": "3.2",
+    "node_type": "limitation",
+    "node_text": "The interpretation of the presented numbers by Rootclaim may not be accurate",
+    "quote": "I tried to take the most reasonable interpretation of what the intended meaning of the presented numbers are"
+  },
+  {
+    "section_number": "3.2",
+    "node_type": "limitation",
+    "node_text": "The evidence used by Rootclaim may be incomplete or ad hoc",
+    "quote": "Many of these individual terms will be discussed in detail later"
+  },
+  {
+    "section_number": "3.2",
+    "node_type": "limitation",
+    "node_text": "The selection of observations by Rootclaim may be biased towards those that stand out",
+    "quote": "observations seem to be selected primarily on the basis of how much they stand out rather than any canonical or complete collection of evidence"
+  },
+  {
+    "section_number": "3.2",
+    "node_type": "limitation",
+    "node_text": "The inclusion of factors of 2 or less by Rootclaim may not be significant",
+    "quote": "Rootclaim includes five factors of 2 or less in their favor, and these should be plentiful to find for any hypothesis, true or false"
+  },
+  {
+    "section_number": "3.2",
+    "node_type": "limitation",
+    "node_text": "The weights assigned to certain pieces of evidence by Rootclaim may not be justified",
+    "quote": "The lack of known intermediate host is given more weight than the prior; does Rootclaim believe more than half of pandemics where we have failed to identify an intermediate host are lab leaks"
+  },
+  {
+    "section_number": "3.2",
+    "node_type": "limitation",
+    "node_text": "The 'adjust for BSL-2' factor used by Rootclaim may not be well-defined",
+    "quote": "it is a little difficult to understand what the 'adjust for BSL-2' factor means in isolation"
+  },
+  {
+    "section_number": "3.2",
+    "node_type": "limitation",
+    "node_text": "The results of Rootclaim's Bayesian calculation may not be conclusive",
+    "quote": "I found Rootclaim's Bayesian calculation sufficient to be intriguing but not sufficient to compel a conclusion"
+  },
+  {
+    "section_number": "3.3",
+    "node_type": "limitation",
+    "node_text": "Bayesian reasoning is limited by the introduction of error with each additional multiplicand, both from the uncertainty of its value and from potential sources of bias",
+    "quote": "Each additional multiplicand introduces a great deal of error in the final result, both from the uncertainty of its value, but also from the potential sources of bias"
+  },
+  {
+    "section_number": "3.3",
+    "node_type": "limitation",
+    "node_text": "Including another factor of 2 has the potential to do more harm than good if you cannot be highly confident of controlling the error",
+    "quote": "Including another factor of 2 has the potential to do more harm than good if you cannot be highly confident of controlling the error"
+  },
+  {
+    "section_number": "3.3",
+    "node_type": "limitation",
+    "node_text": "Naively-computed Bayes factors may need to be renormalized towards 1 to account for the steel-manning of both hypotheses",
+    "quote": "Most likely, any naively-computed Bayes factors would have to be renormalized towards 1 to account for the steel-manning of both hypotheses"
+  },
+  {
+    "section_number": "3.3",
+    "node_type": "limitation",
+    "node_text": "Bayesian calculations are brittle against the possibility of small, consistent bias",
+    "quote": "However their conclusions remain brittle against the possibility of small, consistent bias; a factor of 2 too generous applied to 20 observations yields million to one odds"
+  },
+  {
+    "section_number": "3.3",
+    "node_type": "limitation",
+    "node_text": "The human component of the reasoning method has not been removed in Rootclaim's approach",
+    "quote": "I take issue with their labeling more traditional methods - what I would call deductive reasoning - as 'human inference', as the human component of the reasoning method has not been removed in their approach"
+  },
+  {
+    "section_number": "3.3",
+    "node_type": "limitation",
+    "node_text": "Bayesian reasoning may not give the right answer due to potential flaws in the method",
+    "quote": "During the debates I asked Saar ([2] at 1:17:55) if he could give some justification for why one expects Bayesian reasoning to give the right answer, either in general or for this specific application"
+  },
+  {
+    "section_number": "3.3",
+    "node_type": "limitation",
+    "node_text": "The possibility of measurement error or failure to understand the situation correctly can lead to flawed Bayesian calculations",
+    "quote": "Say you make some real-world observation that appears to be a 1-in-1000 coincidence; what is the best explanation for that observation? The odds of a measurement error, or that you failed to understand the situation correctly, could easily be greater than 1-in-1000"
+  },
+  {
+    "section_number": "3.3",
+    "node_type": "limitation",
+    "node_text": "The greatest Bayes factor that can be obtained from a single piece of evidence is limited by the probability of fully understanding the evidence and making no error",
+    "quote": "If any particular observation carries a 95% chance that you fully understand it and have made no error, then the greatest Bayes factor you can get out of any single piece of evidence is 20"
+  },
+  {
+    "section_number": "4",
+    "node_type": "limitation",
+    "node_text": "The model assumes that each individual has 100 potential contacts that do not vary with time and are equally likely to become ill, which may not accurately reflect real-world scenarios.",
+    "quote": "To simplify matters, let us say you, and everyone else, have 100 potential contacts that do not vary with time and are equally likely to become ill."
+  },
+  {
+    "section_number": "4",
+    "node_type": "limitation",
+    "node_text": "The probability of contacts becoming ill is not accounted for in the basic model, but can be incorporated by replacing the assumption with a probability distribution of which contact(s) will become ill.",
+    "quote": "If you wish to account for the fact that contacts are not equally likely to become ill, everywhere below replace each mention of \"an individual has 100 potential contacts\" with \"the probability distribution of which contact(s) will become ill has entropy log(100)\"."
+  },
+  {
+    "section_number": "4",
+    "node_type": "limitation",
+    "node_text": "The model does not account for multiple transmission chains occurring simultaneously, which is a necessary condition for a disease to grow into a pandemic.",
+    "quote": "though of course for the disease to grow to become a pandemic there will be more than one transmission chain going on at the same time."
+  },
+  {
+    "section_number": "4",
+    "node_type": "limitation",
+    "node_text": "The chain of transmission usually stops relatively soon, which may limit the accuracy of the model in predicting the spread of the disease.",
+    "quote": "or, at least the chain of transmission usually stops relatively soon"
+  },
+  {
+    "section_number": "4.1",
+    "node_type": "limitation",
+    "node_text": "The model is insensitive to the quantitative details of the close-contact graph, but the real-world graph has loops and other complexities that may affect the model's accuracy.",
+    "quote": "while we do not know the quantitative details of the close-contact graph, fortunately our model is greatly insensitive to these details."
+  },
+  {
+    "section_number": "4.1",
+    "node_type": "limitation",
+    "node_text": "The Bethe lattice approximation breaks down on a larger scale, around the size of a city, because disease transmission is a physical process that requires proximity.",
+    "quote": "On a larger scale, around the size of a city, this Bethe lattice approximation breaks down, because disease transmission is a physical process that requires proximity."
+  },
+  {
+    "section_number": "4.1",
+    "node_type": "limitation",
+    "node_text": "The model does not account for long-distance plane travel, which interferes with representing the close-contact graph as a Euclidean lattice.",
+    "quote": "Of course long-distance plane travel interferes with representing the close-contact graph as a Euclidean lattice."
+  },
+  {
+    "section_number": "4.1",
+    "node_type": "limitation",
+    "node_text": "There is a lack of good information about what to expect for the number of steps n of cryptic transmission.",
+    "quote": "unfortunately, we do not have good information about what to expect for n,"
+  },
+  {
+    "section_number": "4.1",
+    "node_type": "limitation",
+    "node_text": "There is a lack of exact information about the contact graph.",
+    "quote": "and we do not have exact information about the contact graph."
+  },
+  {
+    "section_number": "4.1",
+    "node_type": "limitation",
+    "node_text": "The model's accuracy is affected by the choice of prior distribution for n, and a flat prior distribution is used due to a lack of knowledge about what to expect.",
+    "quote": "Suppose we take a flat prior distribution for n, as we don't know what to expect."
+  },
+  {
+    "section_number": "4.2",
+    "node_type": "limitation",
+    "node_text": "The model assumes a homogeneous contact graph, which may not accurately represent real-world asymmetries in the graph",
+    "quote": "We have supposed that the contact graph is homogeneous, so that everyone has the same number of contacts; but asymmetries in the graph could potentially cause a random walk to be more likely to end up in some places than another"
+  },
+  {
+    "section_number": "4.2",
+    "node_type": "limitation",
+    "node_text": "The choice of Z to represent zoonotic spillover at an east Asian wildlife market is arbitrary and may not capture the full range of possible zoonotic spillover locations",
+    "quote": "We have chosen Z to represent zoonotic spillover at an east Asian wildlife market; if this feels arbitrary, that's because it is"
+  },
+  {
+    "section_number": "4.2",
+    "node_type": "limitation",
+    "node_text": "The analysis may be sensitive to the choice of index case, and a slight change in events could have resulted in a different index case",
+    "quote": "We should also ask whether our analysis should be so sensitive to who the index case is: the earliest cases were all close in time, and under a slight change in events the earliest among them could easily have been someone else, plausibly even someone not at HSM"
+  },
+  {
+    "section_number": "4.2",
+    "node_type": "limitation",
+    "node_text": "The estimates of P(H|Z) and P(H|LL) vary by orders of magnitude depending on the perspective taken on the evidence",
+    "quote": "It is problematic for our estimates of P(H|Z) and P(H|LL) to vary by orders of magnitude simply by taking a different perspective on the evidence"
+  },
+  {
+    "section_number": "4.2",
+    "node_type": "limitation",
+    "node_text": "The model does not account for potential biases in the data, such as the concentration of early COVID cases on the west half of HSM",
+    "quote": "early covid cases were concentrated on the west half of HSM, so perhaps we should draw a smaller circle that includes only half the market"
+  },
+  {
+    "section_number": "4.2",
+    "node_type": "limitation",
+    "node_text": "The choice of LL to represent a lab-leak from a lab conducting gain-of-function research may not be appropriate if COVID appeared in a different city with different research laboratories",
+    "quote": "Similarly, one could ask if LL was chosen appropriately; would we be having the same debate if covid appeared in a different city that lacked WIV but had other research laboratories engaged in potentially dangerous coronavirus research"
+  },
+  {
+    "section_number": "4.2",
+    "node_type": "limitation",
+    "node_text": "The analysis relies on simplifying assumptions, such as rounding the number of vendors at HSM to 1200, which may introduce inaccuracies",
+    "quote": "At HSM, there were 1162 vendors ([32] annex page 182), which we round to 1200 as that makes the numbers easier"
+  },
+  {
+    "section_number": "4.2",
+    "node_type": "limitation",
+    "node_text": "The model does not account for the potential impact of household members of market vendors on the spread of COVID",
+    "quote": "Conversely, perhaps we should be including household members of market vendors in our circle"
+  },
+  {
+    "section_number": "4.3",
+    "node_type": "limitation",
+    "node_text": "Using the wrong subpopulation introduces an error of 40 times due to the difference in population size between residents and visitors at HSM",
+    "quote": "so using the wrong subpopulation introduces an error of 40 times"
+  },
+  {
+    "section_number": "4.3",
+    "node_type": "limitation",
+    "node_text": "Transmission from location to location is much harder to analyze than person to person due to varying location prominence",
+    "quote": "Looking at transmission from location to location is much harder than person to person because locations vary wildly in how prominent they are"
+  },
+  {
+    "section_number": "4.3",
+    "node_type": "limitation",
+    "node_text": "The analysis may require introducing a factor of roughly 2 to account for the fact that most people are strongly associated with 2 locations",
+    "quote": "Doing so may require introducing a factor of roughly 2 to account for the fact that most people are strongly associated with 2 locations"
+  },
+  {
+    "section_number": "4.3",
+    "node_type": "limitation",
+    "node_text": "The adjustment factor for including weekly visitors at HSM as part of its population is uncertain and may be much larger than expected",
+    "quote": "then we must use a much larger adjustment factor, as the typical person is a visitor of many more than 2 locations"
+  },
+  {
+    "section_number": "4.3",
+    "node_type": "limitation",
+    "node_text": "The epidemiological analysis focuses on the resident population, which may not fully capture the dynamics of the outbreak",
+    "quote": "for most purposes what is relevant is the resident population, because the epidemiological 'center' of the outbreak is amongst the residents"
+  },
+  {
+    "section_number": "4.3",
+    "node_type": "limitation",
+    "node_text": "The scaling of location relevance by resident population size does a poor job of representing super-spreading events among non-resident populations",
+    "quote": "This expectation does a poor job of representing a super-spreading event that could happen among train passengers without involving the staff"
+  },
+  {
+    "section_number": "4.4",
+    "node_type": "limitation",
+    "node_text": "The ascertainment rate of covid is uncertain and may be biased due to differences in sampling and diagnosis methods",
+    "quote": "There is some nuance here, in that people who visit local hospital clinics are less likely to have samples amenable to retrospective analysis than those who went to a major tertiary hospital;"
+  },
+  {
+    "section_number": "4.4",
+    "node_type": "limitation",
+    "node_text": "The early ascertainment rate of covid is roughly estimated and may not be accurate",
+    "quote": "We can roughly estimate the early ascertainment rate as somewhere around 5% to 10% based on the hospitalization rate of covid"
+  },
+  {
+    "section_number": "4.4",
+    "node_type": "limitation",
+    "node_text": "Ascertainment rate bias may exist due to differences in likelihood of case ascertainment",
+    "quote": "Ascertainment rate bias refers to any biases in how likely some cases are to be ascertained than others;"
+  },
+  {
+    "section_number": "4.4",
+    "node_type": "limitation",
+    "node_text": "The ascertainment rate for non-hospitalized cases is effectively zero",
+    "quote": "and effectively zero for non-hospitalized cases;"
+  },
+  {
+    "section_number": "4.4",
+    "node_type": "limitation",
+    "node_text": "Biases may influence whether patients become hospitalized at all",
+    "quote": "other than any biases that influence whether patients become hospitalized at all"
+  },
+  {
+    "section_number": "4.4",
+    "node_type": "limitation",
+    "node_text": "The ascertainment rate bias may be irrelevant to the discussion of where the first SSE took place",
+    "quote": "which makes any ascertainment bias irrelevant to the discussion of where the first SSE took place"
+  },
+  {
+    "section_number": "4.5",
+    "node_type": "limitation",
+    "node_text": "The estimate of HSM being 1000 times more likely to be the index case than the average Wuhan resident may not be accurate",
+    "quote": "I do not think there is a 1000 times tendency towards HSM, but a smaller number might be justifiable"
+  },
+  {
+    "section_number": "4.5",
+    "node_type": "limitation",
+    "node_text": "The factors identified by Rootclaim may not be unique to HSM",
+    "quote": "At an intuitive level these factors do not seem to especially highlight HSM: restaurants, schools and universities, dorms and apartment complexes, and community centers all seem comparable to HSM in these factors"
+  },
+  {
+    "section_number": "4.5",
+    "node_type": "limitation",
+    "node_text": "The relevance of some factors, such as UV radiation, may be uncertain or irrelevant",
+    "quote": "I am very skeptical that there is any causative relationship; in any case, it is equally relevant for any indoors location"
+  },
+  {
+    "section_number": "4.5",
+    "node_type": "limitation",
+    "node_text": "The role of temperature in covid transmission remains uncertain",
+    "quote": "The causative role of temperature in flu transmission remains uncertain, and covid likewise"
+  },
+  {
+    "section_number": "4.5",
+    "node_type": "limitation",
+    "node_text": "The presence of organic materials may be mostly irrelevant to human-to-human transmission",
+    "quote": "The presence of organic materials is mostly irrelevant to human-to-human transmission which is dominated by respiratory transmission, not fomite transmission"
+  },
+  {
+    "section_number": "4.5",
+    "node_type": "limitation",
+    "node_text": "The ventilation of HSM may be difficult to assess accurately",
+    "quote": "Based on photographs it appears to be not great but not uniquely bad; the end of each alley is open to the air, and ceilings are generally spacious. Being a semi-open-air structure I would think it is better ventilated than an enclosed building. However multiple independent first-hand accounts describe it as poorly-ventilated"
+  },
+  {
+    "section_number": "4.5",
+    "node_type": "limitation",
+    "node_text": "The author lacks time to further consider the relevance of having 'permanent residents' at HSM",
+    "quote": "(In section 4.3 I briefly discussed the relevance of having 'permanent residents'; this warrants further consideration, but I lack the time)"
+  },
+  {
+    "section_number": "4.5.1",
+    "node_type": "limitation",
+    "node_text": "The Rootclaim model requires COVID-19 to be strangely passive before reaching HSM, with a low probability of none of the 128 pre-HSM cases being found at 5% ascertainment",
+    "quote": "At 5% ascertainment, there is only a 0.14% chance none of the 128 pre-HSM cases are found; at 10% ascertainment, this falls to 0.00014% chance"
+  },
+  {
+    "section_number": "4.5.1",
+    "node_type": "limitation",
+    "node_text": "The Rootclaim model omits the low probability event of a person infecting a resident at HSM, which is a crucial step in the transmission process",
+    "quote": "Second, Saar entirely omitted step 3, which is a low probability event"
+  },
+  {
+    "section_number": "4.5.1",
+    "node_type": "limitation",
+    "node_text": "The Rootclaim model ignores the key factor that HSM-linked cases become non-HSM-linked cases if they lose their epidemiological connection to HSM, leading to an implausible disparity in growth rates",
+    "quote": "Third, the great disparity in growth rates between HSM-linked cases and non-HSM-linked cases after covid reaches the market is implausible, as Rootclaim ignores the key factor that HSM-linked cases become non-HSM-linked cases if they lose their epidemiological connection to HSM"
+  },
+  {
+    "section_number": "4.5.1",
+    "node_type": "limitation",
+    "node_text": "The Rootclaim model's assumption of HSM being twice as infective as other locations is unreasonable",
+    "quote": "which I think is too high"
+  },
+  {
+    "section_number": "4.5.1",
+    "node_type": "limitation",
+    "node_text": "The Rootclaim model's requirement for each resident to infect almost 4 other residents to get 2/10 HSM cases within 5 doublings is unrealistic",
+    "quote": "To get 2 10 HSM cases within 5 doublings we need each resident to infect (almost) 4 other residents"
+  },
+  {
+    "section_number": "4.5.1",
+    "node_type": "limitation",
+    "node_text": "The Rootclaim model's requirement for each resident to infect 4 visitors to maintain the observed half-half split of HSM cases between residents and visitors is unrealistic",
+    "quote": "Also to maintain the observed half-half split of HSM cases between residents and visitors,47 we need each resident to infect 4 visitors"
+  },
+  {
+    "section_number": "4.5.1",
+    "node_type": "limitation",
+    "node_text": "The Rootclaim model's assumption of a total infectivity rate at HSM that is 4 times that elsewhere in Wuhan is unrealistic",
+    "quote": "so the total infectivity rate at HSM is 4 times that elsewhere in Wuhan, when I already find the 2 times rate Rootclaim proposed unreasonable"
+  },
+  {
+    "section_number": "4.5.2",
+    "node_type": "limitation",
+    "node_text": "The exact timing of the index cases is highly uncertain",
+    "quote": "of course the exact timing will be highly uncertain"
+  },
+  {
+    "section_number": "4.5.2",
+    "node_type": "limitation",
+    "node_text": "Rootclaim's model was calibrated for producing the right number of cases on December 31 and may not be accurate for other time periods",
+    "quote": "their model was calibrated for producing the right number of cases on December 31"
+  },
+  {
+    "section_number": "4.5.2",
+    "node_type": "limitation",
+    "node_text": "The model is simplistic and was not intended to be extrapolated to January",
+    "quote": "a simplistic model that wasn't intended to be extrapolated to January"
+  },
+  {
+    "section_number": "4.5.2",
+    "node_type": "limitation",
+    "node_text": "The model overestimates cases outside HSM and underestimates cases within HSM early in the market outbreak",
+    "quote": "Rootclaim's model looks good after the HSM closure but does not line up with observations early in the market outbreak; it overestimates cases outside HSM and underestimates cases within"
+  },
+  {
+    "section_number": "4.5.2",
+    "node_type": "limitation",
+    "node_text": "The model's accuracy decreases the earlier in the outbreak one looks",
+    "quote": "it clearly gets worse and worse the earlier in the outbreak one looks"
+  },
+  {
+    "section_number": "4.5.3",
+    "node_type": "limitation",
+    "node_text": "The ascertainment rate of COVID-19 cases has risen by late January compared to December, which may affect the accuracy of Rootclaim's list of outbreaks.",
+    "quote": "We are not using Rootclaim's ascertainment rate of 1/32 because the ascertainment rate has certainly risen by late January compared to December."
+  },
+  {
+    "section_number": "4.5.3",
+    "node_type": "limitation",
+    "node_text": "Using the geometric formula to extrapolate from daily cases to cumulative cases may not be accurate due to sensitivity to the doubling time.",
+    "quote": "If you feel queasy about using the geometric formula to extrapolate from daily cases to cumulative cases, that is a sensible reaction, but we can get the same results by instead converting the model's cumulative cases into daily cases before comparing with observations; since the model is exactly exponential, this conversion is exactly correct."
+  },
+  {
+    "section_number": "4.5.3",
+    "node_type": "limitation",
+    "node_text": "The conversion of cumulative cases to daily cases is sensitive to the doubling time, which may vary with time.",
+    "quote": "I did not do the conversion that way because the conversion is sensitive to the doubling time, and I wanted to delay discussion of the doubling time until after the table of numbers has been made. We would also have to deal with problems like what if the doubling time varies with time."
+  },
+  {
+    "section_number": "4.5.3",
+    "node_type": "limitation",
+    "node_text": "Rootclaim's list of outbreaks only includes the 5 biggest outbreaks and does not investigate the possibility that markets could be involved in the others.",
+    "quote": "(Rootclaim considered only the 5 biggest outbreaks, and did not investigate the possibility that markets could be involved in the others."
+  },
+  {
+    "section_number": "4.5.3",
+    "node_type": "limitation",
+    "node_text": "The list of outbreaks may not be representative of all COVID-19 outbreaks, as it only includes those that are centered at or involving markets.",
+    "quote": "Consider the three market-linked outbreaks listed above."
+  },
+  {
+    "section_number": "4.5.3",
+    "node_type": "limitation",
+    "node_text": "The outbreak in the Xinfadi market in Beijing started from frozen salmon brought to the market, which does not support Rootclaim's case for human-to-human transmission in markets.",
+    "quote": "While the outbreak in the Xinfadi market in Beijing did appear to start from frozen salmon brought to the market, the Dalian and Kashgar outbreaks only secondarily involved a market, so the market index case was human to human transmission."
+  },
+  {
+    "section_number": "4.5.3",
+    "node_type": "limitation",
+    "node_text": "The Kashgar outbreak may not be a relevant analog to the HSM outbreak, as it involved a large farm market event with approximately 20 thousand participants, which is different from the HSM scenario.",
+    "quote": "This would be a relevant analog to the HSM outbreak if half a million people came to HSM in one day, and more people brought the illness to it than from it."
+  },
+  {
+    "section_number": "4.5.3",
+    "node_type": "limitation",
+    "node_text": "The article about the Dalian outbreak is too vague to draw any conclusions, and the outbreak it refers to may not be related to the 2020 July outbreak.",
+    "quote": "However it is impossible to draw any conclusions from the text above, as it is far too vague. Moreover, omicron did not exist in 2020 July; the article appears to refer to an unrelated outbreak 2 years later."
+  },
+  {
+    "section_number": "4.5.3",
+    "node_type": "limitation",
+    "node_text": "The empirical evidence of market outbreaks is limited, with only one outbreak in 2022 August and the 2020 June outbreak in Xinfadi, neither of which is a good analogy for Rootclaim's claimed account of events in HSM.",
+    "quote": "In sum, the empirical evidence of market outbreaks show one outbreak in 2022 August with a vague description of being amplified by 'buses' and 'places like farm produce markets', and the 2020 June outbreak in Xinfadi which started due to frozen food in a market. Neither is a good analogy for Rootclaim's claimed account of events in HSM."
+  },
+  {
+    "section_number": "4.5.4",
+    "node_type": "limitation",
+    "node_text": "The location of early clusters is driven largely by the happenstance of where super-spreading events take place, making the location of the first cluster have a flatter distribution than expected by average growth rates",
+    "quote": "As the location of early clusters will be driven largely by the happenstance of where such events happen to take place, the location of the first cluster will have a flatter distribution than would be expected by an analysis that considers only average growth rates at each location"
+  },
+  {
+    "section_number": "4.5.4",
+    "node_type": "limitation",
+    "node_text": "A single super-spreading event can completely overwhelm the difference in infectivity between two locations and drive the less infectious location to have more cases sooner",
+    "quote": "but when there are only thousands of cases or fewer, a single super-spreading event can completely overwhelm such a difference and drive the less infectious location to have more cases sooner"
+  },
+  {
+    "section_number": "4.5.4",
+    "node_type": "limitation",
+    "node_text": "The average growth rate curve is more accurate the more people are involved to average over, but may not capture the uncertainty of super-spreading events",
+    "quote": "Rootclaim's smooth exponential model gives an average growth rate curve, which is more accurate the more people are involved to average over"
+  },
+  {
+    "section_number": "4.5.4",
+    "node_type": "limitation",
+    "node_text": "There is enormous variation in viral load from person to person, which can affect the number of secondary infections",
+    "quote": "Also, there is enormous variation in viral load from person to person"
+  },
+  {
+    "section_number": "4.5.4",
+    "node_type": "limitation",
+    "node_text": "The probability of a cluster outside of HSM outcompeting a cluster within HSM of the same size is uncertain and depends on the number of cases and the distribution of infectivity",
+    "quote": "The ratio μ/σ could be any positive number (as μ >0 because the number of people with secondary infections cannot be negative), but if we impose the constraint that at least half of people with covid pass on no secondary infections, then it follows that μ≤σ and so μ/σ has to lie in the interval from 0 to 1"
+  },
+  {
+    "section_number": "4.5.4",
+    "node_type": "limitation",
+    "node_text": "The model assumes a normal distribution, which may not hold for small numbers of cases",
+    "quote": "For a normal distribution (which this follows if n is large enough, by the Law of Large Numbers)"
+  },
+  {
+    "section_number": "4.5.4",
+    "node_type": "limitation",
+    "node_text": "The probability that HSM becomes the biggest of the 128 clusters is more than 1/128, but not much more, due to the uncertainty of super-spreading events",
+    "quote": "The probability that HSM becomes the biggest of the 128 clusters is more than 1 / 128, but not much more"
+  },
+  {
+    "section_number": "4.5.5",
+    "node_type": "limitation",
+    "node_text": "There is no direct evidence for or against the expectation that HSM has one of the first 10 flu outbreaks in Wuhan in a typical winter.",
+    "quote": "I have no direct evidence either for or against this,"
+  },
+  {
+    "section_number": "4.5.5",
+    "node_type": "limitation",
+    "node_text": "The factors favoring HSM as a disease nexus may be unique to when there are very few cases present in a city.",
+    "quote": "Saar contests that the factors favoring HSM are unique to when there are very few cases present in a city,"
+  },
+  {
+    "section_number": "4.5.5",
+    "node_type": "limitation",
+    "node_text": "Nonlinearities in disease transmission may begin when some subpopulation has so many cases as to create significant immunity, affecting the analysis of disease spread.",
+    "quote": "nonlinearities only begin when some subpopulation has so many cases as to create significant immunity"
+  },
+  {
+    "section_number": "4.5.5",
+    "node_type": "limitation",
+    "node_text": "Cross-year immunity to the flu and other endemic diseases may slightly dampen inter-location variation in infectivity, potentially affecting the comparison of disease outbreaks across locations.",
+    "quote": "people have cross-year immunity to the flu and other endemic diseases, which will slightly dampen inter-location variation in infectivity"
+  },
+  {
+    "section_number": "4.5.6",
+    "node_type": "limitation",
+    "node_text": "Rootclaim's model requires at least one unlikely event to explain the outbreak in HSM",
+    "quote": "but there is no avoiding that at least one of them will be improbable"
+  },
+  {
+    "section_number": "4.5.6",
+    "node_type": "limitation",
+    "node_text": "The model's assumption of a high infection growth rate in HSM may not be realistic",
+    "quote": "For this to be correct requires three unlikely things to happen"
+  },
+  {
+    "section_number": "4.5.6",
+    "node_type": "limitation",
+    "node_text": "The model's prediction of HSM cases being heavily backloaded to the end of December is inconsistent with observations",
+    "quote": "it predicts HSM cases will be heavily backloaded to the end of December"
+  },
+  {
+    "section_number": "4.5.6",
+    "node_type": "limitation",
+    "node_text": "The model struggles to explain the absence of ascertained pre-HSM cases",
+    "quote": "this does not imply that the other people with covid now disappeared because they no longer relevant to the story"
+  },
+  {
+    "section_number": "4.5.6",
+    "node_type": "limitation",
+    "node_text": "The model's explanation of the outbreak in HSM relies on multiple unlikely events",
+    "quote": "this requires two quite unlikely events and one somewhat unlikely event"
+  },
+  {
+    "section_number": "4.5.6",
+    "node_type": "limitation",
+    "node_text": "The model's assumption that one of the first covid patients went to HSM and infected a vendor there is uncertain",
+    "quote": "I think the maximal likelihood way to make this model consistent with observations is to suppose that one of the first 5 or 10 covid patients went to HSM and infected a vendor there"
+  },
+  {
+    "section_number": "4.5.6",
+    "node_type": "limitation",
+    "node_text": "The model's inability to explain the delay in covid cases emerging outside of China or Wuhan is a significant limitation",
+    "quote": "Why was it another month before the first trickle of covid cases outside of China (or Wuhan) emerged"
+  },
+  {
+    "section_number": "4.5.6",
+    "node_type": "limitation",
+    "node_text": "The model's reliance on unverified claims, such as Connor Reed having covid before the HSM outbreak, is a limitation",
+    "quote": "This can be substantially ameliorated if you believe Connor Reed, or other people, had covid before the HSM outbreak, but I found no evidence in support of that"
+  },
+  {
+    "section_number": "4.5.6",
+    "node_type": "limitation",
+    "node_text": "Small changes to the model's assumptions, such as Chen being sick on Dec 8 instead of Dec 16, can significantly impact the model's likelihood",
+    "quote": "Even a small change like Chen being sick on Dec 8 instead of Dec 16 makes Rootclaim's model something like 4 times more likely"
+  },
+  {
+    "section_number": "4.6.1",
+    "node_type": "limitation",
+    "node_text": "Most samples were collected 2 months after HSM was closed, giving ample time for decay of virus genome.",
+    "quote": "Most samples were collected 2 months after HSM was closed, giving ample time for decay of virus genome."
+  },
+  {
+    "section_number": "4.6.1",
+    "node_type": "limitation",
+    "node_text": "Only 16 of the 457 animal samples came from animals that were plausible carriers of sars-cov-2.",
+    "quote": "Of the 457 samples, only 16 came from animals (six different bamboo rats 57) that were plausible carriers of sars-cov-2; the other 441 samples are irrelevant to identifying the origin of sars-cov-2."
+  },
+  {
+    "section_number": "4.6.1",
+    "node_type": "limitation",
+    "node_text": "The environmental testing is not definitive.",
+    "quote": "The environmental testing is much more informative, though not definitive."
+  },
+  {
+    "section_number": "4.6.1",
+    "node_type": "limitation",
+    "node_text": "The positive environmental samples were not distributed uniformly around the market.",
+    "quote": "The positive environmental samples were not distributed uniformly around the market, and their distribution narrowly identifies a very specific location for a zoonotic spillover to have taken place."
+  },
+  {
+    "section_number": "4.6.1",
+    "node_type": "limitation",
+    "node_text": "Any statistical analysis of positive samples must account for the non-uniform prior.",
+    "quote": "Sampling was targetted at shops that had live animals or had employees known to have had covid, so any statistical analysis of positive samples (such as figure 4B of [34]) must account for the non-uniform prior."
+  },
+  {
+    "section_number": "4.6.1",
+    "node_type": "limitation",
+    "node_text": "The ratio of positive samples to total samples at a store has very low precision for many stores.",
+    "quote": "Of course, different stores had a different number of tests (many were not sampled at all), so we should consider the fraction of samples at a store that was positive. This becomes slightly difficult as many stores had 2 or fewer samples, so that the ratio has very low precision."
+  },
+  {
+    "section_number": "4.6.1",
+    "node_type": "limitation",
+    "node_text": "There may be an important distinction between the hoary bamboo rat and the Chinese bamboo rat that is missing.",
+    "quote": "Though Christoph et al. variously say bamboo rats are or are not susceptible to covid [12]; perhaps there is an important distinction between the hoary bamboo rat and the Chinese bamboo rat that I am missing."
+  },
+  {
+    "section_number": "4.6.2",
+    "node_type": "limitation",
+    "node_text": "The expected correlation between samples containing raccoon dog DNA and samples testing positive for sars-cov-2 would be weak or zero due to the low number of animals carrying the infection.",
+    "quote": "Any positive correlation between samples that contain raccoon dog DNA and samples that test for sars-cov-2 would only occur if the samples happened to contain material from the specific raccoon dogs that were carrying sars-cov-2."
+  },
+  {
+    "section_number": "4.6.2",
+    "node_type": "limitation",
+    "node_text": "The correlation analysis may be affected by confounding factors.",
+    "quote": "Even if there were a positive correlation, it could be overwhelmed by confounding factors."
+  },
+  {
+    "section_number": "4.6.2",
+    "node_type": "limitation",
+    "node_text": "The sampling method may induce a negative correlation between samples with wildlife and samples with sars-cov-2 due to the decay of sars-cov-2 RNA over time.",
+    "quote": "Consequentially this would induce a negative correlation between samples with wildlife and samples with sars-cov-2."
+  },
+  {
+    "section_number": "4.6.2",
+    "node_type": "limitation",
+    "node_text": "Only one of the suspected intermediate species may have a positive correlation with sars-cov-2, while the others may have zero correlation.",
+    "quote": "presumably only one of them could have any positive correlation, with the others being zero as they are irrelevant."
+  },
+  {
+    "section_number": "4.6.2",
+    "node_type": "limitation",
+    "node_text": "The comparison between animal DNA and sars-cov-2 positivity may not be useful or relevant.",
+    "quote": "It would not have occurred to me to perform this comparison, and I do not think it is useful or relevant."
+  },
+  {
+    "section_number": "4.6.3",
+    "node_type": "limitation",
+    "node_text": "The primary case of COVID-19 may not have been ascertained directly due to a low ascertainment rate, specifically a hospitalization rate of roughly 5%.",
+    "quote": "In the 95% chance that the primary case was not hospitalized, we have no strong reason to be looking specifically to animal vendors to find early infections."
+  },
+  {
+    "section_number": "4.6.3",
+    "node_type": "limitation",
+    "node_text": "The claim that no animal vendors at HSM tested positive for COVID-19 may not be true due to lack of a clear source for the assertion.",
+    "quote": "Rootclaim gives no source for the assertion."
+  },
+  {
+    "section_number": "4.6.3",
+    "node_type": "limitation",
+    "node_text": "The WHO report does not provide explicit information on whether animal vendors were tested positive for COVID-19, despite discussing testing of animals themselves.",
+    "quote": "I could not find any explicit mention in the text that no animal vendors were positive,58 despite very lengthy discussion of testing of the animals themselves, and the WHO report only specifies the types of goods vendors sell in a very few cases."
+  },
+  {
+    "section_number": "4.6.3",
+    "node_type": "limitation",
+    "node_text": "The data on exposure to live animals is incomplete, as it does not specify how many of the 20 cases self-reporting exposure to live animals were at HSM, nor the nature of that exposure.",
+    "quote": "It does say that 20 of 168 December cases self-report exposure to live animals ([32] page 45), but does not clarify how many of those were at HSM, nor the nature of that exposure"
+  },
+  {
+    "section_number": "4.6.3",
+    "node_type": "limitation",
+    "node_text": "The breakdown of vendors at HSM by type of goods sold does not mention live animals, which may be included in other categories such as 'others' or 'meat sellers'.",
+    "quote": "The breakdown of all vendors at HSM by type of goods sold ([32] annex page 182) does not mention live animals at all; perhaps this is included in 'others', or perhaps they are included in meat sellers if the animals are being butchered on site, or perhaps the live animal sellers also sold other products."
+  },
+  {
+    "section_number": "5.1",
+    "node_type": "limitation",
+    "node_text": "The simulations by Pekar et al model disease transmission as following a Poisson distribution, which may not accurately represent real-world transmission of COVID-19 that involves sporadic super-spreading events.",
+    "quote": "whereas real-world transmission of covid may substantially involve sporadic super-spreading events, leading to a much more clumpy structure in the resulting phylogenetic tree."
+  },
+  {
+    "section_number": "5.1",
+    "node_type": "limitation",
+    "node_text": "The two-introductions hypothesis does not explain the strange shape of the phylogenetic tree.",
+    "quote": "A much more serious objection is that the two-introductions hypothesis does nothing by itself to explain the strange shape of the phylogenetic tree."
+  },
+  {
+    "section_number": "5.1",
+    "node_type": "limitation",
+    "node_text": "The number of introductions is only relevant if disease transmission has different dynamics in animals and humans, which Pekar et al does not explore.",
+    "quote": "Regardless of the number of introductions, both taxa definitely belong to a single tree; labeling certain nodes in the tree as 'animal host' or 'human host' does not change the shape of the tree."
+  },
+  {
+    "section_number": "5.1",
+    "node_type": "limitation",
+    "node_text": "Significant work remains to quantify how well the two-introductions hypothesis explains the data relative to other hypotheses.",
+    "quote": "this is plausible, but significant work remains to quantify how well this hypothesis explains the data relative to other hypotheses."
+  },
+  {
+    "section_number": "5.1",
+    "node_type": "limitation",
+    "node_text": "The lab leak hypothesis does not explain why early lineage A cases were initially found near HSM.",
+    "quote": "the lab leak hypothesis does not explain why early lineage A cases were initially found near HSM, so again neither hypothesis does particularly well here."
+  },
+  {
+    "section_number": "5.1",
+    "node_type": "limitation",
+    "node_text": "The zoonotic hypothesis does not explain why lineage A was mostly absent from HSM.",
+    "quote": "While the zoonotic hypothesis does not explain why lineage A was mostly absent from HSM, the lab leak hypothesis does not explain why early lineage A cases were initially found near HSM, so again neither hypothesis does particularly well here."
+  },
+  {
+    "section_number": "5.1",
+    "node_type": "limitation",
+    "node_text": "The author's understanding of Pekar et al's simulations may be incorrect due to the complexity of the 300-page document.",
+    "quote": "58Despite reading it multiple times I could easily have missed it - it's 300 pages long!"
+  },
+  {
+    "section_number": "5.2",
+    "node_type": "limitation",
+    "node_text": "The sample size involved is so small that the absence of lineage A in HSM could easily be simple coincidence.",
+    "quote": "The sample size involved is so small that this could easily be simple coincidence."
+  },
+  {
+    "section_number": "5.2",
+    "node_type": "limitation",
+    "node_text": "The zoonotic theory does not have a clean explanation for the observation of no lineage A in HSM.",
+    "quote": "The zoonotic theory does not have a clean explanation for this observation."
+  },
+  {
+    "section_number": "5.2",
+    "node_type": "limitation",
+    "node_text": "The lab leak explanation for the observation is not consistent with further observations, such as the presence of lineage A in an environmental sample in HSM.",
+    "quote": "However the lab leak explanation for this observation is not consistent with further observations."
+  },
+  {
+    "section_number": "5.2",
+    "node_type": "limitation",
+    "node_text": "It is hard to explain the first observed presence of lineage A in close proximity to HSM with the lab leak explanation.",
+    "quote": "It is hard to explain the first observed presence of lineage A in close proximity to HSM with the lab leak explanation above."
+  },
+  {
+    "section_number": "5.2",
+    "node_type": "limitation",
+    "node_text": "The genetic diversity of sars-cov-2 within HSM should be equal to the genetic diversity within all of Wuhan if the primary covid case were in HSM, but this is not observed.",
+    "quote": "An alternative way of regarding the situation is that if the primary covid case were in HSM, then the genetic diversity of sars-cov-2 within HSM should be equal to the genetic diversity within all of Wuhan."
+  },
+  {
+    "section_number": "5.2",
+    "node_type": "limitation",
+    "node_text": "The observation that the one lineage A case was not in HSM is weak, but nonzero, evidence that the genetic diversity within HSM is lower than that of Wuhan as a whole.",
+    "quote": "Observing that the one lineage A case was not in HSM is weak, but nonzero, evidence that the genetic diversity within HSM is lower than that of Wuhan as a whole, and therefore that HSM is not the origin of the pandemic."
+  },
+  {
+    "section_number": "5.3",
+    "node_type": "limitation",
+    "node_text": "The codon frequency in an insert may not match that of the surrounding genome, but rather reflect the frequency of the source of the fragment.",
+    "quote": "I would not expect a priori the codon frequency in an insert to match that of the surrounding genome, but rather to reflect the frequency of the source of the fragment;"
+  },
+  {
+    "section_number": "5.3",
+    "node_type": "limitation",
+    "node_text": "The mutational bias against C and G nucleotides in sars-like viruses may not immediately impact a newly inserted fragment.",
+    "quote": "After a fragment from an outside source has been inserted, it takes time for this mutational bias to impact the novel fragment."
+  },
+  {
+    "section_number": "5.3",
+    "node_type": "limitation",
+    "node_text": "The source of a naturally inserted fragment may not have the same alignment or be a coding region at all, making it difficult to assess the likelihood of the CGGCGG sequence.",
+    "quote": "Furthermore, if the fragment was inserted naturally, we do not know if the source had the same alignment, or even was a coding region at all."
+  },
+  {
+    "section_number": "5.3",
+    "node_type": "limitation",
+    "node_text": "Analyzing the frequency of non-aligned codons is necessary to properly assess the likelihood of the CGGCGG sequence from a natural source.",
+    "quote": "We would have to analyze the frequency of the non-aligned codons to properly assess the likelihood of the CGGCGG sequence from a natural source."
+  },
+  {
+    "section_number": "5.3",
+    "node_type": "limitation",
+    "node_text": "The significance of the CGGCGG sequence may be due to random chance, and many slightly odd things are expected to be observed through random chance.",
+    "quote": "I do not see any particular significance to the CGGCGG sequence. It is slightly odd, but one expects to observe many slightly odd things through random chance."
+  },
+  {
+    "section_number": "5.4",
+    "node_type": "limitation",
+    "node_text": "The project 'Project DEFUSE' was not funded, which may limit its implementation and the collection of data on bat coronaviruses.",
+    "quote": "To my knowledge, the project was not funded."
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "limitation",
+    "node_text": "The proposal omits details about irrelevant activities",
+    "quote": "I will be omitting quite a few details about irrelevant activities in the proposal"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "limitation",
+    "node_text": "It is unclear whether furin is human-specific",
+    "quote": "It is unclear to me whether furin is human-specific"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "limitation",
+    "node_text": "The experiments will be conducted in a limited setting, using specific cell cultures such as Vero cells and HAE cells",
+    "quote": "evaluate growth potential in Vero cells and HAE cells cultures"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "limitation",
+    "node_text": "The experiments will be limited to analyzing SARSr-CoV S gene sequences for conserved proteolytic cleavage sites",
+    "quote": "We will analyze all SARSr-CoV S gene sequences for appropriately conserved proteolytic cleavage sites in S2"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "limitation",
+    "node_text": "The introduction of human-specific cleavage sites into SARSr-CoV may not accurately reflect real-world virus behavior",
+    "quote": "Where clear mismatches occur, we will introduce appropriate human-specific cleavage sites and evaluate growth potential"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "limitation",
+    "node_text": "The experiments will rely on deep sequence data, which may not capture low-abundant high-risk SARSr-CoV",
+    "quote": "We will also review deep sequence data for low abundant high risk SARSr-CoV that encode functional proteolytic cleavage sites"
+  },
+  {
+    "section_number": "5.4.2",
+    "node_type": "limitation",
+    "node_text": "The proposal does not provide information on whether genetic engineering or chimeric viruses would be performed outside of WIV",
+    "quote": "As far as I can see, no genetic engineering would be performed at WIV, nor would any chimeric viruses be brought there, except prototype vaccines which use a raccoonpox chimera"
+  },
+  {
+    "section_number": "5.4.2",
+    "node_type": "limitation",
+    "node_text": "The assessment of WIV's involvement is based on the author's limited view of the proposal",
+    "quote": "As far as I can see"
+  },
+  {
+    "section_number": "5.4.3",
+    "node_type": "limitation",
+    "node_text": "The research at WIV involved editing a backbone of WIV1, a sars-like coronavirus genome chosen for its lack of pandemic potential, which may not be representative of more pathogenic viruses.",
+    "quote": "a specific sars-like coronavirus genome chosen for its lack of 'pandemic potential', and thus presumably safer to work with than a pathogenic virus."
+  },
+  {
+    "section_number": "5.4.3",
+    "node_type": "limitation",
+    "node_text": "The experiments only tested the infectivity of the recombinant viruses in human and monkey cells, which may not be representative of other cell types or species.",
+    "quote": "Human and monkey cells were then exposed to the recombinant viruses to determine its infectivity."
+  },
+  {
+    "section_number": "5.4.3",
+    "node_type": "limitation",
+    "node_text": "The research only removed a specific gene in WIV1 that is absent in sars-cov-1, which may not be representative of other genetic modifications or their effects.",
+    "quote": "they removed a gene in WIV1 that is absent in sars-cov-1 to see if the virus would still work in human and monkey cells"
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "limitation",
+    "node_text": "The proposal does not explicitly state it would add furin cleavage sites to viruses",
+    "quote": "The proposal does not explicitly state it would add furin cleavage sites to viruses, but it"
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "limitation",
+    "node_text": "Not all of the genetic modification involved using backbones from known, pre-existing viruses",
+    "quote": "Most, but not all, of the genetic modification involved using backbones from known, pre-existing viruses"
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "limitation",
+    "node_text": "The proposal does not discuss any in vivo genetic modification",
+    "quote": "The proposal does not, as far as I understand, discuss any in vivo genetic modification; all"
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "limitation",
+    "node_text": "The proposal is hardly a blueprint for building sars-cov-2, containing many irrelevancies and missing key components",
+    "quote": "However these features were previously known or suspected to be important to human coronaviruses, and the proposal is hardly a blueprint for building sars-cov-2, containing many irrelevancies and missing key components"
+  },
+  {
+    "section_number": "5.4.4",
+    "node_type": "limitation",
+    "node_text": "Project DEFUSE is not evidence that WIV planned to do a particular research path that would lead to creating sars-cov-2",
+    "quote": "Project DEFUSE is most relevant in that it shows that the community of virologists was broadly interested in making chimeric viruses with certain features which have the potential for lab leak risk if handled improperly, and not that WIV in specific planned to do a particular research path that would lead to creating sars-cov-2"
+  },
+  {
+    "section_number": "5.5",
+    "node_type": "limitation",
+    "node_text": "Conflicting results were found by other studies regarding sars-cov-2 binding affinity to human ACE2 receptors",
+    "quote": "note that other studies found conflicting results"
+  },
+  {
+    "section_number": "5.5",
+    "node_type": "limitation",
+    "node_text": "The zoonotic theory struggles to explain the high binding affinity of sars-cov-2 to human ACE2 receptors given the early sample used",
+    "quote": "This is hard to explain under zoonotic theory, as the sars-cov-2 sample used was from 2019, before significant evolution in human hosts should have happened"
+  },
+  {
+    "section_number": "5.5",
+    "node_type": "limitation",
+    "node_text": "The lab leak theory's explanation for the high binding affinity of sars-cov-2 to human ACE2 receptors requires screening a large pool of wild viruses",
+    "quote": "This process requires screening a large pool of wild viruses to find one that happens to be well-adapted to humans already"
+  },
+  {
+    "section_number": "5.5",
+    "node_type": "limitation",
+    "node_text": "The lab leak theory's explanation for the high binding affinity of sars-cov-2 to human ACE2 receptors may use different simulations than Piplani et al used",
+    "quote": "Also, this screening process may use different simulations than Piplani et al used"
+  },
+  {
+    "section_number": "5.5",
+    "node_type": "limitation",
+    "node_text": "A control is required to determine if human ACE2 is particularly good at binding to spike proteins",
+    "quote": "A control is also required; maybe human ACE2, either in reality or in the simulation of Piplani et al, is just particularly good at binding to spike proteins"
+  },
+  {
+    "section_number": "5.5",
+    "node_type": "limitation",
+    "node_text": "The high binding affinity found by Piplani et al is weak circumstantial evidence in favor of the lab leak hypothesis",
+    "quote": "The high binding affinity found by Piplani et al appears to be weak circumstantial evidence in favor of the lab leak hypothesis"
+  },
+  {
+    "section_number": "5.6",
+    "node_type": "limitation",
+    "node_text": "The decision to include a proline at the specific location in the sars-cov-2 FCS may not have an obvious post hoc explanation",
+    "quote": "I see no satisfying explanation for what might motivate the decision to include a proline at this location"
+  },
+  {
+    "section_number": "5.6",
+    "node_type": "limitation",
+    "node_text": "It is uncertain whether the natural precursor virus happened to have an inserted proline at the exact location that researchers add an additional insert",
+    "quote": "it seems quite unlikely that the natural precursor virus happened to have such an inserted proline at the exact location that researchers add an additional insert"
+  },
+  {
+    "section_number": "5.6",
+    "node_type": "limitation",
+    "node_text": "There are many arbitrary choices during the course of a genetic engineering experiment that may not be the most canonical or optimal",
+    "quote": "There are many arbitrary choices during the course of a genetic engineering experiment, and it is hardly strange if a few of them are not the most canonical or optimal"
+  },
+  {
+    "section_number": "5.6",
+    "node_type": "limitation",
+    "node_text": "Not every decision made during a genetic engineering experiment should be expected to have an obvious post hoc explanation",
+    "quote": "However we should not expect every decision someone makes to have an obvious post hoc explanation"
+  },
+  {
+    "section_number": "5.7",
+    "node_type": "limitation",
+    "node_text": "lack of definite information about the 12 nucleotide insert at the FCS in sars-cov-2",
+    "quote": "there is a lack of definite information to say anything more than that"
+  },
+  {
+    "section_number": "5.7",
+    "node_type": "limitation",
+    "node_text": "uncertainty about whether the 12 nucleotide insert at the FCS in sars-cov-2 could have evolved by chance",
+    "quote": "there is no particular reason that this mutation could not have evolved by chance"
+  },
+  {
+    "section_number": "5.7",
+    "node_type": "limitation",
+    "node_text": "banal-20-52 is not close enough to sars-cov-2 to make a meaningful comparison",
+    "quote": "banal-20-52 is the closest known virus, it is not close enough to make the kind of comparison that Rootclaim seeks to do with sars-cov-2"
+  },
+  {
+    "section_number": "5.7",
+    "node_type": "limitation",
+    "node_text": "separation of sars-cov-2 and banal-20-52 by decades of evolutionary time and multiple recombination events",
+    "quote": "The two viruses are separated by decades of evolutionary time and likely multiple recombination events with other viruses"
+  },
+  {
+    "section_number": "6",
+    "node_type": "limitation",
+    "node_text": "The author's uncertainty about the practices of the lab and the people involved in it",
+    "quote": "I am concerned with the practices of a lab about which I know nothing, all primary sources about which are in a language I cannot read, and in a culture I have no experience with"
+  },
+  {
+    "section_number": "6",
+    "node_type": "limitation",
+    "node_text": "The author's restricted access to information due to the rules of the debate",
+    "quote": "I am restricted by the rules of the debate to the information brought by each side, which includes almost nothing that bears on this question"
+  },
+  {
+    "section_number": "6",
+    "node_type": "limitation",
+    "node_text": "The possibility that the author's imagination is limited in thinking of a plausible story for the secret to stay inside",
+    "quote": "Or perhaps the true explanation of how the secret kept is too strange for me to ever think of it"
+  },
+  {
+    "section_number": "6",
+    "node_type": "limitation",
+    "node_text": "The uncertainty in estimating the probability of the secret staying secret due to the lack of information",
+    "quote": "So I must keep in mind my great uncertainty"
+  },
+  {
+    "section_number": "6",
+    "node_type": "limitation",
+    "node_text": "The potential for the author's estimate of the probability of the secret staying secret to be inaccurate",
+    "quote": "2% sounds about right, but considering my great uncertainty I could not give this lack of evidence a Bayes factor greater than 10"
+  },
+  {
+    "section_number": "6",
+    "node_type": "limitation",
+    "node_text": "The reliance on a broken link as a source for a claim, which may not be reliable",
+    "quote": "The source I saw for this claim was a broken link, but the exact day isn't important here"
+  },
+  {
+    "section_number": "7",
+    "node_type": "limitation",
+    "node_text": "The choice of numbers in the Bayesian inference computation is subjective and uncertain.",
+    "quote": "with my choice of numbers being subjective and uncertain"
+  },
+  {
+    "section_number": "7",
+    "node_type": "limitation",
+    "node_text": "The definition of the zoonotic spillover hypothesis (Z) is a narrowing from the actual hypotheses at stake.",
+    "quote": "these are very slightly narrowings from the actual hypotheses at stake"
+  },
+  {
+    "section_number": "7",
+    "node_type": "limitation",
+    "node_text": "The definition of the zoonotic spillover hypothesis (Z) may be a significant narrowing if Rootclaim's argument in section 3.1 is accepted.",
+    "quote": "then the definition I gave for Z is quite a significant narrowing, as they believe the observational evidence is equally consistent with zoonotic spillover anywhere in Wuhan as in HSM"
+  },
+  {
+    "section_number": "7",
+    "node_type": "limitation",
+    "node_text": "Estimating the priors P(Z) and P(LL) is the most challenging step in the Bayesian inference computation.",
+    "quote": "The first step is the most challenging, to estimate the priors P (Z) and P (LL)"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "limitation",
+    "node_text": "The primary limitation on pandemics is not whether the animal-to-human transmission occurs but rather whether a virus with the necessary properties evolves in an animal population humans are exposed to.",
+    "quote": "the primary limitation on pandemics is not whether the animal-to-human transmission occurs but rather whether a virus with the necessary properties evolves in an animal population humans are exposed to"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "limitation",
+    "node_text": "The multiple spillovers of SARS-1 and MERS are not independent events",
+    "quote": "The multiple spillovers of SARS-1 and MERS are not independent events"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "limitation",
+    "node_text": "Most of the known human coronaviruses only cause mild disease, and may have been circulating long before their discovery",
+    "quote": "Most of these only cause mild disease, and may have been circulating long before their discovery"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "limitation",
+    "node_text": "The risk of pandemics has grown greatly on the timescale of decades, due to changes of land use, agricultural intensity, and population",
+    "quote": "I believe the risk of pandemics has grown greatly on the timescale of decades, due to changes of land use, agricultural intensity, and population"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "limitation",
+    "node_text": "Not all sars-like viruses can cause a pandemic",
+    "quote": "Not all sars-like viruses can cause a pandemic"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "limitation",
+    "node_text": "The estimate of the probability of a pandemic emerging from a new sars-like virus is uncertain and may be influenced by various factors",
+    "quote": "Perhaps a less terrible virus would not have lead to a pandemic"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "limitation",
+    "node_text": "The calculation of the probability of HSM being the location of a pandemic spillover is naive and may yield an underestimate",
+    "quote": "but Saar observed that HSM is the largest market of its kind in central China, so using raw population figures probably yields an underestimate"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "limitation",
+    "node_text": "The assessment of the probability of HSM being the location of a pandemic spillover is vague and based on impression",
+    "quote": "My vague impression is that HSM is atypical in the extent of its live wildlife presence"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "limitation",
+    "node_text": "The dynamics of flu evolution is fundamentally different than that of coronaviruses, making flu pandemics/epidemics/outbreaks not useful for assessing the prior P(Z)",
+    "quote": "Because the dynamics of flu evolution is fundamentally different than that of coronaviruses, I do not find flu pandemics/epidemics/outbreaks useful for assessing the prior P (Z)"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "limitation",
+    "node_text": "The approach of estimating P(LL) from first principles is error-prone due to lack of knowledge about the lab's activities and safety",
+    "quote": "This is an error-prone approach, not just because it requires speculating about the activities and safety of a lab I have no first- or second-hand knowledge of"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "limitation",
+    "node_text": "Errors introduced in estimating P(LL) are unlikely to cancel out with errors in P(Z)",
+    "quote": "but also because any errors introduced are unlikely to cancel out with errors in P (Z)"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "limitation",
+    "node_text": "The numbers used in the estimation are conjectural and lack a solid basis",
+    "quote": "As my numbers are more-or-less conjecture from thin air"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "limitation",
+    "node_text": "The Project DEFUSE research plan is not directly applicable to the lab leak hypothesis",
+    "quote": "However following Project DEFUSE exactly is not consistent with LL"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "limitation",
+    "node_text": "The estimation of the chance of spillover at HSM is incomplete and requires additional considerations",
+    "quote": "The proper way to include this is to first estimate the chance of spillover at HSM excluding Holmes's prognostication, second estimate the chance the spillover site would have been successfully forecast"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "limitation",
+    "node_text": "The use of a Poisson distribution to model lab leaks assumes an unknown parameter",
+    "quote": "Assuming a Poisson distribution of lab leaks with unknown parameter"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "limitation",
+    "node_text": "The annualized probability of a lab leak is uncertain and may be lower than estimated",
+    "quote": "after 1.7 years the annualized probability of the first lab leak occurring is at most 1 per 1.7 years"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "limitation",
+    "node_text": "The assumption that WIV can find a sufficiently dangerous virus to start with is uncertain",
+    "quote": "This assumes that WIV is able to find the virus, though in reality only a small fraction of wild viruses are ever sampled"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "limitation",
+    "node_text": "The risk of a lab leak leading to an outbreak is difficult to quantify and may be lower than estimated",
+    "quote": "Rootclaim describes this as almost certainty once sars-cov-2 is manufactured, but I cannot take this seriously when Rootclaim does not quantify the risk of a outbreak of covid at the lab origin"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "limitation",
+    "node_text": "Lab leaks of infectious agents are rare, especially those with secondary infections",
+    "quote": "Also, while lab leaks of infectious agents do happen, they still are very rare, especially if you restrict to lab leaks that had secondary infections"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "limitation",
+    "node_text": "The estimated probability of a lab leak may be too high due to the uncommon contagiousness of sars-cov-2",
+    "quote": "I think it is lower, and only put it so high as sars-cov-2 is uncommonly contagious"
+  },
+  {
+    "section_number": "7.2",
+    "node_type": "limitation",
+    "node_text": "The intuition that the Bayes factor P(LL)/P(Z) = 2 is grossly too high is uncertain and requires further evaluation",
+    "quote": "My intuition is that the Bayes factor P (LL)/P (Z) = 2 I calculated is grossly too high"
+  },
+  {
+    "section_number": "7.3",
+    "node_type": "limitation",
+    "node_text": "The assumption of a flat prior for the number of transmission between the primary case and index case may be somewhat favorable to the lab-leak hypothesis (LL)",
+    "quote": "I think the assumption of a flat prior here is somewhat favorable to LL"
+  },
+  {
+    "section_number": "7.3",
+    "node_type": "limitation",
+    "node_text": "The model does not account for the possibility that a market vendor is more likely to catch an illness than the average resident of Wuhan, which may affect the probability of observing H",
+    "quote": "As I do think a market vendor is more likely to catch an illness than the average resident of Wuhan, I will give LL an extra factor of 2"
+  },
+  {
+    "section_number": "7.3",
+    "node_type": "limitation",
+    "node_text": "The probabilities P(H|Z) and P(H|LL) should be smaller by the same factor due to the use of a flat prior, which may affect the accuracy of the Bayes factor",
+    "quote": "so both P (H|Z) and P (H|LL) should be smaller by the same factor, which has no influence on the Bayes factor"
+  },
+  {
+    "section_number": "7.4",
+    "node_type": "limitation",
+    "node_text": "The observation of sars-cov-2 samples in HSM is very post hoc",
+    "quote": "this observation is certainly very post hoc"
+  },
+  {
+    "section_number": "7.4",
+    "node_type": "limitation",
+    "node_text": "The HSM environmental samples will not contribute to the Bayesian calculation",
+    "quote": "the HSM environmental samples will not contribute to my Bayesian calculation, as will be explained"
+  },
+  {
+    "section_number": "7.5",
+    "node_type": "limitation",
+    "node_text": "genetic evidence is too weak to compel anything regarding the origin of a virus",
+    "quote": "it's hard to find definitive proof of a virus's origin by examining its genetic sequence"
+  },
+  {
+    "section_number": "7.5",
+    "node_type": "limitation",
+    "node_text": "genetic evidence may not be definitive due to the lack of incorporation into the prior",
+    "quote": "Most of the genetic evidence is either already incorporated into the prior or too weak to compel anything"
+  },
+  {
+    "section_number": "7.5",
+    "node_type": "limitation",
+    "node_text": "the Bayes factor for the strong affinity of sars-cov-2 to bind to human ACE2 is limited by the number of species in the study",
+    "quote": "the latter cannot go above 14 as that was the number of species in the study"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "limitation",
+    "node_text": "The analysis has significant uncertainties, which may affect the estimated probability of a lab leak.",
+    "quote": "due to the significant uncertainties in my analysis I would give it some higher probability."
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "limitation",
+    "node_text": "Many components in the calculation should be dampened towards neutrality to account for uncertainty.",
+    "quote": "Many of the components in my calculation should be dampened towards neutrality to account for the uncertainty in them."
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "limitation",
+    "node_text": "The Bayesian calculation may not be an appropriate way to estimate the relative posterior probability of Z and LL.",
+    "quote": "Moreover I am not convinced that this Bayesian calculation is even an appropriate way to estimate the relative posterior probability of Z and LL;"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "limitation",
+    "node_text": "The numerical calculation gives an undeserved illusion of certainty.",
+    "quote": "I think the numerical calculation gives an undeserved illusion of certainty,"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "limitation",
+    "node_text": "The 1/10000 factor needs significant dampening.",
+    "quote": "Most obviously the 1/10000 factor sticks out as needing significant dampening;"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "limitation",
+    "node_text": "The selection of evidence may be motivated or not sensible.",
+    "quote": "It is worthwhile to at least briefly consider whether my selection of evidence is sensible or motivated."
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "limitation",
+    "node_text": "The excluded evidence may impact the result, although the author evaluates it as indistinguishable from neutral.",
+    "quote": "I have excluded quite a few items mentioned by Rootclaim; not that this would impact the result, as I evaluate each of the excluded items as indistinguishable from neutral."
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "limitation",
+    "node_text": "The evidence from the distribution of positive environmental samples within HSM was excluded, which may be relevant to the zoonotic hypothesis.",
+    "quote": "One piece of evidence I excluded was the distribution of positive environmental samples within HSM."
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "limitation",
+    "node_text": "The Project DEFUSE proposal and Eddie Holmes's photos are not definitive or strong evidence for the origin of sars-cov-2.",
+    "quote": "Neither the existence of the Project DEFUSE proposal nor the Eddie Holmes photos are definitive, or even strong, evidence as to the origin of sars-cov-2;"
+  },
+  {
+    "section_number": "7.6",
+    "node_type": "limitation",
+    "node_text": "The lab leak hypothesis has only loose circumstantial evidence in its favor.",
+    "quote": "While the lab leak hypothesis has only loose circumstantial evidence in its favor,"
+  },
+  {
+    "section_number": "A",
+    "node_type": "limitation",
+    "node_text": "The judge's discussion only covers a small minority of the many points brought up by Rootclaim.",
+    "quote": "So far I have only directly discussed a small minority of the many points brought up by Rootclaim"
+  },
+  {
+    "section_number": "A",
+    "node_type": "limitation",
+    "node_text": "The judge's address of additional points is limited to those they think others are most likely to have found convincing.",
+    "quote": "focusing largely on the arguments I think others are most likely to have found convincing"
+  },
+  {
+    "section_number": "A.1",
+    "node_type": "limitation",
+    "node_text": "The relevance of one of the two nucleotide differences between lineage A and lineage B is unclear",
+    "quote": "one of which was a synonymous mutation, and the other having unclear relevance"
+  },
+  {
+    "section_number": "A.1",
+    "node_type": "limitation",
+    "node_text": "The D614G mutation was not significantly present in Wuhan in 2019 December, which affects the interpretation of lineage B's ability to outcompete lineage A",
+    "quote": "but it was only due to a mutation that was not significantly present in Wuhan in 2019 December"
+  },
+  {
+    "section_number": "A.2",
+    "node_type": "limitation",
+    "node_text": "It is unlikely for a 25-year-old with covid to be hospitalized, which raises questions about Connor Reed's story",
+    "quote": "It is unlikely for a 25-year-old with covid to be hospitalized"
+  },
+  {
+    "section_number": "A.2",
+    "node_type": "limitation",
+    "node_text": "Connor Reed's illness description of multiple recoveries and relapses introduces uncertainty about the timing of his covid infection",
+    "quote": "Reed described his illness as undergoing multiple recoveries and relapses, so even if his story is accurate we only know that he had covid as early as December 6, which could have been the last of a succession of two or more unrelated illnesses"
+  },
+  {
+    "section_number": "A.2",
+    "node_type": "limitation",
+    "node_text": "Selection bias may affect the ascertainment of covid cases by Western newspapers, particularly for English-speaking residents in Wuhan like Connor Reed",
+    "quote": "English-speaking residents in Wuhan are much more likely to be interviewed by Western journalists; this introduces a strong selection bias as to which cases are ascertained by Western newspapers"
+  },
+  {
+    "section_number": "A.2",
+    "node_type": "limitation",
+    "node_text": "The absence of Connor Reed's case in retrospective searches raises questions about the existence of unpublished retrospective searches",
+    "quote": "If Reed is telling the truth that his samples tested positive in a retrospective search conducted by the hospital he went to, then why does no retrospective search contain his case? This necessitates the existence of unpublished retrospective searches"
+  },
+  {
+    "section_number": "A.2",
+    "node_type": "limitation",
+    "node_text": "There may be a high number of false beliefs about acquiring covid in 2019, which could affect the credibility of anecdotal stories like Connor Reed's",
+    "quote": "There are far more people who believe they acquired covid in 2019 than ever did have covid in 2019"
+  },
+  {
+    "section_number": "A.2",
+    "node_type": "limitation",
+    "node_text": "The credibility of Connor Reed's story may be limited by the fact that it is unlikely for the index case of covid to be a British man",
+    "quote": "It is also unlikely for the index case of covid to be a British man"
+  },
+  {
+    "section_number": "A.3",
+    "node_type": "limitation",
+    "node_text": "The number of early covid cases linked to the mahjong room is based on indirect anecdotes with no identifying details and few specifics, which may not be reliable.",
+    "quote": "None of the sources are reliable, being indirect anecdotes with no identifying details and few specifics."
+  },
+  {
+    "section_number": "A.3",
+    "node_type": "limitation",
+    "node_text": "There is no attempt to de-duplicate individuals that might have appeared in multiple anecdotes, which could lead to an overcount of cases.",
+    "quote": "I do not see any attempt to de-duplicate individuals that might have appeared in multiple anecdotes,"
+  },
+  {
+    "section_number": "A.3",
+    "node_type": "limitation",
+    "node_text": "The comparison of the mahjong room's disease transmission rate to the background rate of mahjong players is missing.",
+    "quote": "nor compare against the background rate of mahjong players."
+  },
+  {
+    "section_number": "A.3",
+    "node_type": "limitation",
+    "node_text": "The effect of the mahjong room is limited to people physically in the room, which appears not to have been many.",
+    "quote": "its effect is limited to people physically in the room, which appears not to have been many:"
+  },
+  {
+    "section_number": "A.3",
+    "node_type": "limitation",
+    "node_text": "The only source that refers to illnesses compatible with the HSM mahjong room is a fourth-hand anecdotal account published almost a year after the events.",
+    "quote": "The only evidence is a single sentence published almost a year after the events in question with a fourth-hand anecdotal account of non-specific people."
+  },
+  {
+    "section_number": "A.3",
+    "node_type": "limitation",
+    "node_text": "There are no first-hand accounts of mahjong players with covid, and no non-anecdotal accounts.",
+    "quote": "While it is certainly possible that the HSM mahjong room played a role in the HSM outbreak, there are no first-hand accounts of mahjong players with covid, no non-anecdotal accounts,"
+  },
+  {
+    "section_number": "A.3",
+    "node_type": "limitation",
+    "node_text": "There are no known specific individuals who played mahjong and acquired covid.",
+    "quote": "and no known specific individuals who played mahjong and acquired covid."
+  },
+  {
+    "section_number": "A.3",
+    "node_type": "limitation",
+    "node_text": "The Chinese-language video source cannot be evaluated or verified by the author.",
+    "quote": "a Chinese-language video that I cannot evaluate, or even verify the quote is in the video."
+  },
+  {
+    "section_number": "A.3",
+    "node_type": "limitation",
+    "node_text": "Machine translation failed on two Chinese-language news reports, which may contain relevant information.",
+    "quote": "two Chinese-language news reports which machine translation failed on"
+  },
+  {
+    "section_number": "A.3",
+    "node_type": "limitation",
+    "node_text": "The contemporaneous Chinese-language news report does not specifically mention mahjong, and it is not fair to translate the characters as 'play mahjong' without context.",
+    "quote": "I do not think it is fair to translate the characters"
+  },
+  {
+    "section_number": "A.4",
+    "node_type": "limitation",
+    "node_text": "The author lacked sufficient context to evaluate the significance of missing N-glycans",
+    "quote": "I lacked sufficient context to evaluate whether the missing N-glycans were strange, and if so, how unlikely they were to arise from random chance"
+  },
+  {
+    "section_number": "A.5",
+    "node_type": "limitation",
+    "node_text": "The early mutation rate may not be useful in distinguishing between zoonotic origin and lab-leak hypotheses without significant and very technical investigation.",
+    "quote": "Therefore I do not expect the early mutation rate to be useful in distinguishing the hypotheses without significant and very technical investigation."
+  },
+  {
+    "section_number": "A.5",
+    "node_type": "limitation",
+    "node_text": "The effect of evaluating viruses in humanized mice would be confined to the receptor binding domain of sars-cov-2, and not the rest of the virus.",
+    "quote": "the effect would presumably be confined to the receptor binding domain of sars-cov-2; the rest of the virus would not be selected for being specialized for human hosts."
+  },
+  {
+    "section_number": "B",
+    "node_type": "limitation",
+    "node_text": "There is no publicly available list of the earliest known COVID-19 cases.",
+    "quote": "there does not exist any publicly available list of the earliest known covid cases"
+  },
+  {
+    "section_number": "B",
+    "node_type": "limitation",
+    "node_text": "The 2021 WHO report does not have a complete list of early COVID-19 cases.",
+    "quote": "This report does not have a complete list of early cases"
+  },
+  {
+    "section_number": "B",
+    "node_type": "limitation",
+    "node_text": "The aggregate data in the WHO report cannot be independently verified or duplicated.",
+    "quote": "which cannot be independently verified or duplicated"
+  },
+  {
+    "section_number": "B",
+    "node_type": "limitation",
+    "node_text": "The data in the WHO report is not error-free.",
+    "quote": "it is not error free"
+  },
+  {
+    "section_number": "B",
+    "node_type": "limitation",
+    "node_text": "The data in the WHO report is not complete.",
+    "quote": "nor is it complete"
+  },
+  {
+    "section_number": "B",
+    "node_type": "limitation",
+    "node_text": "The WHO report omits some early COVID-19 cases, such as Wei Guixian.",
+    "quote": "the report omits Wei Guixian with an onset of December 10, making her the primary covid case"
+  },
+  {
+    "section_number": "B",
+    "node_type": "limitation",
+    "node_text": "Mixing sources with the WHO report may introduce quality issues.",
+    "quote": "mixing other sources may introduce quality issues"
+  },
+  {
+    "section_number": "B",
+    "node_type": "limitation",
+    "node_text": "It is harder to control ascertainment bias when mixing multiple sources.",
+    "quote": "it is much harder to control ascertainment bias, as even the selection of sources 75 can be a cause of bias"
+  },
+  {
+    "section_number": "B.1",
+    "node_type": "limitation",
+    "node_text": "publication bias is largely invisible in the WHO report",
+    "quote": "75including publication bias, which is largely invisible"
+  },
+  {
+    "section_number": "B.1",
+    "node_type": "limitation",
+    "node_text": "some patients were unavailable for interview, leading to 'unknown' connections to HSM",
+    "quote": "\"Unknown\" presumably means that the patient was unavailable for interview"
+  },
+  {
+    "section_number": "B.2",
+    "node_type": "limitation",
+    "node_text": "The map of HSM may not be to scale",
+    "quote": "I think this map is not to scale"
+  },
+  {
+    "section_number": "B.2",
+    "node_type": "limitation",
+    "node_text": "The map of HSM may have erroneous stall number labels in alley 13",
+    "quote": "I think this map is erroneous in prefixing an 'X' on stall numbers in alley 13"
+  },
+  {
+    "section_number": "B.2",
+    "node_type": "limitation",
+    "node_text": "Some shops in the HSM market span multiple grid cells and have multiple numbers",
+    "quote": "some shops span multiple grid cells, and thus presumably have multiple numbers"
+  },
+  {
+    "section_number": "B.2",
+    "node_type": "limitation",
+    "node_text": "There are unshaded locations on the map with no environmental samples",
+    "quote": "Unshaded locations had no environmental samples"
+  },
+  {
+    "section_number": "B.3",
+    "node_type": "limitation",
+    "node_text": "The case data from Dr. Marion Koopmans has no implied warranty of validity and could be draft or working data that was accidentally uploaded.",
+    "quote": "Thus the data has no implied warranty of validity - it could easily be some draft or working data that was accidentally uploaded."
+  },
+  {
+    "section_number": "B.3",
+    "node_type": "limitation",
+    "node_text": "The data from Dr. Marion Koopmans is an unannotated csv file with no context or discussion.",
+    "quote": "Note that the case data from Dr Koopmans is simply an unannotated csv file with no context or discussion that I found in a github repository linked to from a paper she co-authored."
+  },
+  {
+    "section_number": "B.3",
+    "node_type": "limitation",
+    "node_text": "The WHO report and Dr. Marion Koopmans' data may have discrepancies in case locations and dates.",
+    "quote": "WHO has this more specifically at 12:21"
+  },
+  {
+    "section_number": "B.3",
+    "node_type": "limitation",
+    "node_text": "The WHO report and Dr. Marion Koopmans' data may have discrepancies in case locations and dates.",
+    "quote": "MK has this more specifically at 15:15"
+  },
+  {
+    "section_number": "B.3",
+    "node_type": "limitation",
+    "node_text": "The WHO report and Dr. Marion Koopmans' data may have discrepancies in case locations and dates.",
+    "quote": "WHO has only one case, in Dec 21 to 27"
+  },
+  {
+    "section_number": "B.3",
+    "node_type": "limitation",
+    "node_text": "The WHO report and Dr. Marion Koopmans' data may have discrepancies in case locations and dates.",
+    "quote": "MK has this more specifically at 9:21"
+  },
+  {
+    "section_number": "B.3",
+    "node_type": "limitation",
+    "node_text": "The WHO report and Dr. Marion Koopmans' data may have discrepancies in case locations and dates.",
+    "quote": "MK has this more specifically at E3:7"
+  },
+  {
+    "section_number": "B.3",
+    "node_type": "limitation",
+    "node_text": "The case data may be incomplete or inaccurate due to the lack of information about the 13:X32 and 13:26 cases.",
+    "quote": "according to [12], the WHO has this in 13:26 instead"
+  },
+  {
+    "section_number": "B.3",
+    "node_type": "limitation",
+    "node_text": "The case data may be incomplete or inaccurate due to the assumption that the 13:X32 and 13:26 cases are the same.",
+    "quote": "In total this constitutes 62 cases, assuming the 13:X32 and 13:26 cases are the same."
+  },
+  {
+    "section_number": "B.3",
+    "node_type": "limitation",
+    "node_text": "The data from the WHO report and Dr. Marion Koopmans may have inconsistencies in the date ranges.",
+    "quote": "16 to 31"
+  },
+  {
+    "section_number": "B.3",
+    "node_type": "limitation",
+    "node_text": "The data from the WHO report may have inconsistencies in the date ranges, with some cases listed as 'Dec 28 to 31' and others as 'Dec 21 to 27'.",
+    "quote": "WHO has only one case, in Dec 28 to 31"
+  },
+  {
+    "section_number": "B.3",
+    "node_type": "limitation",
+    "node_text": "The case data may be incomplete or inaccurate due to the possibility that the 13:26 case is the same as the WHO case in 13:X32.",
+    "quote": "13:26 MK possibly same as WHO case in 13:X32"
+  },
+  {
+    "section_number": "C",
+    "node_type": "limitation",
+    "node_text": "The judge's decision was not based on independent research beyond what the participants of the debate did, to give them opportunity to identify flaws or rebut any information presented against their side.",
+    "quote": "I was not permitted to base my decision on independent research beyond what the participants of the debate did."
+  },
+  {
+    "section_number": "C",
+    "node_type": "limitation",
+    "node_text": "The judge's exposition in the report was not limited to the information presented by the debate participants, which may introduce information that does not influence the debate outcome.",
+    "quote": "However for the purposes of the exposition within this report I have not so limited myself, mostly for the purposes of filling in minor details that do not influence the debate outcome."
+  },
+  {
+    "section_number": "C",
+    "node_type": "limitation",
+    "node_text": "Some information in the report has been subjected to a lower level of critical scrutiny and may exhibit selection bias.",
+    "quote": "some of the information I encountered does appear to directly bear on the central topic of the debate; I did not want to exclude it from the report, but the reader should realize it has been subjected to a lower level of critical scrutiny than the rest of the report, and may exhibit selection bias."
+  },
+  {
+    "section_number": "C",
+    "node_type": "limitation",
+    "node_text": "It is possible that one or both parties may have overlooked relevant information in the reference materials, particularly in supplementary materials sections.",
+    "quote": "it seems likely that one or both parties could have overlooked something 100 pages deep into a supplementary materials section."
+  },
+  {
+    "section_number": "C",
+    "node_type": "limitation",
+    "node_text": "Highly contentious claims that faced no scrutiny in the debate will be treated with extreme skepticism.",
+    "quote": "highly contentious claims that faced no scrutiny will be treated with extreme skepticism."
+  },
+  {
+    "section_number": "C.1",
+    "node_type": "limitation",
+    "node_text": "The information about the conditions at WIV is second-hand, reported from members of the WIV",
+    "quote": "Annex D7 of the WHO 2021 report presents second-hand information reported from members of the WIV"
+  },
+  {
+    "section_number": "C.1",
+    "node_type": "limitation",
+    "node_text": "It is difficult to isolate bat CoVs and envelope protein is the most important part to understand function",
+    "quote": "it is difficult to isolate these viruses and envelope protein is most important part to understand function"
+  },
+  {
+    "section_number": "C.1",
+    "node_type": "limitation",
+    "node_text": "The WIV did not finish the recombinant experiments with WIV +SHC014 due to the COVID outbreak",
+    "quote": "WIV began recombinant work in 2015 with WIV-1. It received ACE2 mice in 2016 and started recombinant experiments with WIV +SHC014 in 2018 but did not finish them owing to the COVID outbreak"
+  },
+  {
+    "section_number": "C.1",
+    "node_type": "limitation",
+    "node_text": "The possibility of sars-cov-2 escaping from WIV is unclear due to lack of information",
+    "quote": "It is unclear to me if 'Yuang Zhiming' is a typo, a different spelling of the same name, or a different person"
+  },
+  {
+    "section_number": "C.1",
+    "node_type": "limitation",
+    "node_text": "The absence of reports of unusual diseases or SARS-CoV-2 antibodies in WIV staff does not necessarily rule out a lab leak",
+    "quote": "If it is true that all staff at WIV were tested and none had sars-cov-2 antibodies, that would make a lab leak unlikely"
+  },
+  {
+    "section_number": "C.1",
+    "node_type": "limitation",
+    "node_text": "The use of vague qualifiers like 'good' or 'strict' may not provide an accurate representation of the laboratory safety",
+    "quote": "A rule of thumb I personally suggest when critically interpretting a passage such as the above is to simply ignore so-called 'weasel'-words like 'good' or 'strict'"
+  },
+  {
+    "section_number": "C.1",
+    "node_type": "limitation",
+    "node_text": "The laboratory safety claims may be based on vague platitudes rather than specific, tangible evidence",
+    "quote": "Everyone believes they have high safety standards; what is important in the above are any specific, tangible claims which are more likely than vague platitudes to have a basis in truth"
+  },
+  {
+    "section_number": "C.1",
+    "node_type": "limitation",
+    "node_text": "The seronegative results for SARS-CoV-2 antibodies in WIV staff may be due to false negatives or omitted lab workers",
+    "quote": "other possibilities are a false negative for antibodies, the screening omitted some lab workers, the primary case was not in Shi's group, or perhaps some explanation I cannot think of"
+  },
+  {
+    "section_number": "C.1",
+    "node_type": "limitation",
+    "node_text": "The information provided by Peter Daszak may not be comprehensive or entirely accurate",
+    "quote": "Prior to the release of the WHO report, Peter Daszak gave a presentation on the WHO mission which included a few more tiny details not in the above"
+  },
+  {
+    "section_number": "C.2",
+    "node_type": "limitation",
+    "node_text": "The translation of the Chinese phrase requires context to distinguish between playing cards or mahjong tiles.",
+    "quote": "One said that it could refer to playing any of a variety of game pieces including cards or mahjong tiles, and context would be required to distinguish them."
+  },
+  {
+    "section_number": "C.2",
+    "node_type": "limitation",
+    "node_text": "The native Chinese speakers' understanding of the phrase may be limited to their individual experiences.",
+    "quote": "The others (separately) said that they have exclusively heard it in reference to playing cards,"
+  },
+  {
+    "section_number": "C.2",
+    "node_type": "limitation",
+    "node_text": "The dictionary definition of the phrase may not reflect its common usage.",
+    "quote": "but several found that according to a dictionary it could also mean to play mahjong."
+  },
+  {
+    "section_number": "C.2",
+    "node_type": "limitation",
+    "node_text": "The relevant Chinese news articles may not contain the specific Chinese word for mahjong.",
+    "quote": "which as far as I could tell was not in the relevant Chinese news articles."
+  },
+  {
+    "section_number": "D",
+    "node_type": "limitation",
+    "node_text": "The recordings of the debate are not publicly available, which may limit the accessibility of the information.",
+    "quote": "At the time of this writing, the recordings of the debate are not publicly available."
+  },
+  {
+    "section_number": "D",
+    "node_type": "limitation",
+    "node_text": "The definition of 'resident' at HSM may not be comprehensive, as it only includes vendors, staff, and some shoppers who visit the market on a daily basis.",
+    "quote": "Throughout the discussion, we use 'resident' at HSM to mean not only vendors who work at a fixed shop in HSM but also any person who goes to HSM on a daily basis; this would include other staff and some shoppers."
+  }
+]

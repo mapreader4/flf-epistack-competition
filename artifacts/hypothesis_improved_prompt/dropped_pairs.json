@@ -1,0 +1,68 @@
+[
+  {
+    "section_number": "1.1",
+    "node_type": "hypothesis",
+    "node_text": "The COVID-19 pandemic originated from the Huanan Seafood Wholesale Market (HSM) in downtown Wuhan.",
+    "quote": "at least some of whom were associ-ated with the Huanan 7 Seafood Wholesale Market (hereafter \"HSM\") in downtown Wuhan."
+  },
+  {
+    "section_number": "1.2.1",
+    "node_type": "hypothesis",
+    "node_text": "The SARS-CoV-2 virus originated from a natural source, specifically bats, with a wild virus most closely related to SARS-CoV-2 being banal-20-52, a sample collected from a bat in Laos.",
+    "quote": "The wild virus most closely related to sars-cov-2 is banal-20-52 [30], a sample collected from a bat (dropping) in Laos with 96.8% nucleotide identity, or a disagreement of about 1000 nucleotides."
+  },
+  {
+    "section_number": "3.3",
+    "node_type": "hypothesis",
+    "node_text": "The COVID-19 pandemic originated from a zoonosis",
+    "quote": "none"
+  },
+  {
+    "section_number": "3.3",
+    "node_type": "hypothesis",
+    "node_text": "The COVID-19 pandemic originated from a lab-leak",
+    "quote": "none"
+  },
+  {
+    "section_number": "4.1",
+    "node_type": "hypothesis",
+    "node_text": "The real-world close-contact graph can be approximated by a 2D integer lattice on a larger scale, around the size of a city.",
+    "quote": "On a larger scale, around the size of a city, this Bethe lattice approximation breaks down, because disease transmission is a physical process that requires proximity. As most individuals generally stay in roughly one area on the surface of the Earth during their illness, the contact graph becomes approximately two-dimensional."
+  },
+  {
+    "section_number": "4.5.6",
+    "node_type": "hypothesis",
+    "node_text": "Other large SSEs should have started popping up in other locations if there were many sick people going around Wuhan at the time of the HSM primary case.",
+    "quote": "If there are 128 or 245 or 500 sick people going around Wuhan at the time of the HSM primary case, shouldn't we expect other large SSEs to start popping up in other locations"
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "hypothesis",
+    "node_text": "Introduction of human-specific cleavage sites into SARSr-CoV S gene will affect virus replication and pathogenesis",
+    "quote": "We will introduce appropriate human-specific cleavage sites and evaluate growth potential in Vero cells and HAE cultures"
+  },
+  {
+    "section_number": "6",
+    "node_type": "hypothesis",
+    "node_text": "At least six people knew about the research work that created SARS-CoV-2 and each has at least 50% chance to reveal some information about the existence of their research",
+    "quote": "If we imagine that at least six people knew about the research work that created sars-cov-2 and each has at least 50% chance to reveal some information about the existence of their research"
+  },
+  {
+    "section_number": "7.1",
+    "node_type": "hypothesis",
+    "node_text": "The Huanan Seafood Market (HSM) is atypical in the extent of its live wildlife presence, making it a possible location for a future pandemic spillover.",
+    "quote": "My vague impression is that HSM is atypical in the extent of its live wildlife presence. Furthermore, biologist Eddie Holmes and the Wuhan CDC specifically called out HSM as a possible location for a future pandemic spillover [26, 39]."
+  },
+  {
+    "section_number": "7.5",
+    "node_type": "hypothesis",
+    "node_text": "The strange 12 nucleotide insert creating a furin cleavage site is evidence of the origin of SARS-CoV-2",
+    "quote": "the strange 12 nucleotide insert creating a furin cleavage site"
+  },
+  {
+    "section_number": "C.1",
+    "node_type": "hypothesis",
+    "node_text": "A lab leak from the WIV is unlikely because no staff members showed symptoms of COVID-19 and all tested negative for SARS-CoV-2 antibodies.",
+    "quote": "Staff had to report any symptoms every day after the outbreak of COVID began. Serum samples were preserved annually for laboratory staff. ... There had been no reports of unusual diseases, none diagnosed, and all staff tested negative for SARS-CoV-2 antibodies."
+  }
+]

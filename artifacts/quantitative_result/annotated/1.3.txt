@@ -1,0 +1,52 @@
+1.3  Format of the debate
+
+Rootclaim was created to demonstrate the usefulness of a particular methodology for ana-
+lyzing complicated questions, where there exists abundant lines of circumstantial evidence
+both for and against any particular hypothesis. After systematically evaluating each piece
+of evidence, they can be integrated into a gestalt that gives a final level of confidence we can
+have in each hypothesis.
+I refer to this technique as Bayesian reasoning or Bayesian computation , which will be
+discussed in the next section; however Rootclaim are far from the only ones to use Bayesian
+reasoning, and I believe they claim to distinguish themselves from others in the details of
+how the evaluate the evidence. In any case I agree with their critiques of other methodologies
+(or, frequently, lack thereof) and that most people who get the right answer do so more by
+chance than not.
+This debate is the first organized by Rootclaim, of hopefully multiple (on different topics,
+to be clear!), as a series of 3 spoken debate sessions totalling 20 hours [1, 2, 3, 4, 5, 6] and
+various written supplements [7, 8]. I am one of two judges, deciding independently, with the
+outcome of the debate determined by the average of our decisions.
+I assess the debate structure designed by Rootclaim to be very fair and not create any
+advantage for them, and it was clear that Saar consciously acted in good faith throughout.
+To me, the debate felt more like a collaboration of four people working together to seek the
+truth than an adversarial contest; it is rare to see contentious issues worked out in such a
+productive manner between people acting in good faith.
+As I find that both parties argued in good faith and there were no significant violations of (the
+spirit of) the debate rules, my evaluation is based solely on the arguments as presented at an
+object level, or my best interpretation thereof. Peter identified and criticized a diversity of
+lab leak theories put forth by other parties, but these had no bearing on Rootclaim's theory.
+Statements were evaluated independently of the credibility of other parties who assert them.
+I did not attempt to "keep score" of which side made more factual errors or changed their
+argument more often; each claim was given independent credulity. Neither side was laden
+with the burden of proof. While in other contexts it might be appropriate and fair to dismiss
+arguments a priori for rhetorical reasons (eg, as a defense against techniques like sea lioning
+or gish gollop), here my sole concern is whose theory is best supported by the evidence.
+Per the rules of the debate, I am to evaluate the relative likelihood of the two hypotheses
+advanced: Rootclaim's claim that the sars-cov-2 outbreak was due to gain-of-function labo-
+ratory research, and Peter's challenge that it was the result of natural spillover from wildlife
+without laboratory involvement. Only the information provided through the debate, debate
+14Note that alternatively Rootclaim suggests that the insert is CCT CGG CGG GCA , and there was a fourth
+point mutation from TCT to TCA immediately before it.
+material, and references therein may be considered; no prior beliefs or private research of
+my own can be used, as this would deny the participants opportunity to identify flaws and
+rebut such arguments. In so far as was reasonable within the constraints of time I attempted
+to challenge each participant on any claims they made that appeared suspect, so that they
+had opportunity to bolster their argument or substitute it with another. Unfortunately time
+is limited and only so many rounds of argument and counterargument can be sustained;
+eventually one must reach a decision.
+I have laid out here in some detail how I reached the decision I did, though in view of the
+considerable volume already written on this subject I do not imagine this will be sufficient
+to compel anyone to change their mind. Doubtlessly the participants of the debate will have
+rebuttals to what I write that disagrees with them, and perhaps I may wish to revise this in
+the future, but at least for the purposes of the debate it is finished.
+
+(no claims extracted for this section)

@@ -1,0 +1,33 @@
+4.6.3  Covid testing of animal vendors
+
+Rootclaim claims that no animal vendors at HSM tested positive for covid, in contrast to a
+significant association between people who worked with wild animals and seropositivity for
+SARS-1 ([1] at 3:07:50, [5] at 1:46:00, [13]).
+There are two reasons I do not find significance in this. First, as with the animals themselves,
+I would not particularly expect to find a trend connecting animal vendors with testing
+positive for covid even if sars-cov-2 did spill over at HSM. Only one animal vendor would
+have been directly infected by an animal (or two if there were two spillovers, as discussed
+in section 5.1), with further infections being evenly distributed between all sorts of vendors,
+with a slight bias towards animal vendors as they are loosely clustered in the west half of
+HSM.
+As early cases have a lower ascertainment rate, we expect a low chance that the primary case
+would be ascertained directly: roughly 5%, the hospitalization rate. In the 95% chance that
+the primary case was not hospitalized, we have no strong reason to be looking specifically to
+animal vendors to find early infections.
+Second, it is not clear to me that the claim is true. Rootclaim gives no source for the assertion.
+Presumably if this information is available at all, the source would have to be the WHO
+report, which has a near monopoly on data on early cases, along with other publications
+co-authored by members of the WHO investigative team. The HSM map published by the
+WHO labels 10 stalls known to sell live animals, and does not show any cases at those stalls;
+this makes me think it is probably true ([32] page 46; or see section B.2). However I could
+not find any explicit mention in the text that no animal vendors were positive,58 despite very
+lengthy discussion of testing of the animals themselves, and the WHO report only specifies
+the types of goods vendors sell in a very few cases. It does say that 20 of 168 December cases
+self-report exposure to live animals ([32] page 45), but does not clarify how many of those
+were at HSM, nor the nature of that exposure (could it include pets? but would only 11.8%
+of people have pets?). The breakdown of all vendors at HSM by type of goods sold ([32]
+annex page 182) does not mention live animals at all; perhaps this is included in "others",
+or perhaps they are included in meat sellers if the animals are being butchered on site, or
+perhaps the live animal sellers also sold other products.
+
+(no claims extracted for this section)

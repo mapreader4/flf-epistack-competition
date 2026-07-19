@@ -1,0 +1,32 @@
+7.5  Genetic evidence
+
+⟦1⟧ ⟦2⟧ Most of the genetic evidence is either already incorporated into the prior or too weak to
+compel anything; ⟦3⟧ ⟦4⟧ it's hard to find definitive proof of a virus's origin by examining its genetic
+sequence. What we are left with is two observations: ⟦5⟧ the strange 12 nucleotide insert ⟦6⟧ creating
+70The two halves have similar areas, so ⟦7⟧ I assume workers are roughly evenly split between them.
+a furin cleavage site, and ⟦8⟧ ⟦9⟧ ⟦10⟧ the strong affinity of sars-cov-2 to bind to human ACE2 over other
+species.
+⟦11⟧ ⟦12⟧ ⟦13⟧ ⟦14⟧ I give these Bayes factors of 20 and 2 respectively; ⟦15⟧ ⟦16⟧ ⟦17⟧ ⟦18⟧ ⟦19⟧ ⟦20⟧ the latter cannot go above 14 as that was
+the number of species in the study.
+
+Claims:
+⟦1⟧ [ASSUMPTION] The genetic evidence is either already incorporated into the prior or too weak to compel anything.
+⟦2⟧ [LIMITATION] genetic evidence may not be definitive due to the lack of incorporation into the prior
+⟦3⟧ [LIMITATION] genetic evidence is too weak to compel anything regarding the origin of a virus
+⟦4⟧ [RESEARCH_QUESTION] What is the origin of a virus based on its genetic sequence?
+⟦5⟧ [QUANTITATIVE_RESULT] 12 nucleotide insert
+⟦6⟧ [QUANTITATIVE_RESULT] 70 (no clear meaning without context, but mentioned as a quantitative value)
+⟦7⟧ [ASSUMPTION] The workers are roughly evenly split between the two halves.
+⟦8⟧ [EVIDENCE] SARS-CoV-2 has a strong affinity to bind to human ACE2 over other species
+⟦9⟧ [HYPOTHESIS] The strong affinity of SARS-CoV-2 to bind to human ACE2 over other species is evidence of the origin of SARS-CoV-2
+⟦10⟧ [RESEARCH_QUESTION] Why does SARS-CoV-2 have a strong affinity to bind to human ACE2 over other species?
+⟦11⟧ [ANALYSIS] The genetic evidence of the 12 nucleotide insert creating a furin cleavage site in SARS-CoV-2 has a Bayes factor of 20.
+⟦12⟧ [ANALYSIS] The genetic evidence of SARS-CoV-2's strong affinity to bind to human ACE2 over other species has a Bayes factor of 2.
+⟦13⟧ [QUANTITATIVE_RESULT] Bayes factor of 20 for the furin cleavage site
+⟦14⟧ [QUANTITATIVE_RESULT] Bayes factor of 2 for the affinity of sars-cov-2 to bind to human ACE2
+⟦15⟧ [ANALYSIS] The maximum Bayes factor for the affinity of SARS-CoV-2 to bind to human ACE2 over other species is limited to 14 due to the number of species in the study.
+⟦16⟧ [ASSUMPTION] The number of species in the study is 14.
+⟦17⟧ [EVIDENCE] A study of SARS-CoV-2 binding affinity included 14 species
+⟦18⟧ [LIMITATION] the Bayes factor for the strong affinity of sars-cov-2 to bind to human ACE2 is limited by the number of species in the study
+⟦19⟧ [QUANTITATIVE_RESULT] maximum Bayes factor of 14 due to the number of species in the study
+⟦20⟧ [QUANTITATIVE_RESULT] 14 species in the study

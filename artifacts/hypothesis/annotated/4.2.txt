@@ -1,0 +1,89 @@
+4.2  Applying model to zoonotic and lab-leak hypotheses
+
+LetZ be the event that zoonotic spillover of covid took place at an east Asian wildlife market,
+andLL be the event that covid resulted as a lab-leak from a lab conducting gain-of-function
+research. The observed index case is a shrimp vendor in HSM; call this observation H. We
+want to estimate P (H|Z) and P (H|LL) using the model from the previous subsection. So,
+for each hypothesis, how large of a circle do we have to draw around the primary case to
+include the index case?
+ForZ, the primary case would be any wildlife vendor at an east Asian market. We do not
+have to draw a large circle to get from such a vendor to the index case; the smallest circle
+we could draw would include all residents at a market which has wildlife. 35 At HSM, there
+were 1162 vendors ([32] annex page 182), which we round to 1200 as that makes the numbers
+easier. (When including all employees and daily visitors I imagine it would go somewhat
+higher than that.)
+But HSM is not the only market, and there are potential primary cases at other markets,
+so our circle must include all residents at those markets as well. In their written responses,
+33I found that in a d-dimensional Euclidean space, the Kullback-Leibler divergence of the true probability
+distribution relative to our simple model is a rather small 1
+2 log(π(d+ 2))- 1 +o(1/d). This fact is not useful
+here, but after going to the trouble of calculating it I felt compelled to mention it somewhere!
+34This is a circle in epidemiology space, not physically on a map.
+35By "resident" I mean not just vendors but any employee or daily visitor to the market; to a first
+approximation this is synonymous with "vendor". There is of course much room for variation in the choices
+I am making. For example, early covid cases were concentrated on the west half of HSM, so perhaps we
+should draw a smaller circle that includes only half the market. Conversely, perhaps we should be including
+household members of market vendors in our circle.
+Saar gives the probability of the market in question being HSM as 0.2% [7], and Peter gives
+2% [8], so by those numbers our circle should include 60 to 600 thousand people. 36
+ForLL, the primary case would be any laboratory worker at a lab doing gain-of-function
+research on coronaviruses. In Wuhan, to draw a circle large enough to include the index case
+requires including the whole city, as there is no known potential chain of transmission from a
+lab worker to a resident at HSM that is significantly shorter than what you might expect to
+any other person in the city. Saar guesses that 20% of such GoF research is at WIV ([1] at
+2:29:30), so multiplying the population of Wuhan by 5 suggests a circle containing 60 million
+people.
+Our naive analysis then yields
+P (H|Z) = 1/(6· 104) to 1/(6· 105)
+P (H|LL) = 1/(6· 107)
+for a Bayes factor of 100 to 1000 in favor of zoonotic spillover.
+Many of the inaccuracies in our model will apply equally to both Z andLL, and thus cancel
+out for the purposes of calculating a Bayes factor, but not all. We have supposed that
+the contact graph is homogeneous, so that everyone has the same number of contacts; but
+asymmetries in the graph could potentially cause a random walk to be more likely to end
+up in some places than another. 37 Saar claims that this effect causes outbreaks to be more
+likely to show up at HSM than one might expect otherwise; if so, this raises the probability
+of P (H|LL), but does not change P (H|Z) because under the zoonotic hypothesis our circle
+is already been restricted to HSM.
+We should also ask whether our analysis should be so sensitive to who the index case is:
+the earliest cases were all close in time, and under a slight change in events the earliest
+among them could easily have been someone else, plausibly even someone not at HSM.
+We can address this by not considering a single index case but a sort of "average" of the
+earliest cases; enough of them are HSM residents, or closely linked to HSM, that the result is
+essentially the same as having a singular unambiguous index case who is a resident at HSM.
+Had the earliest case data a more ambiguous nexus, this would have required more careful
+analysis.
+There are much more serious concerns with this analysis. We have chosen Z to represent
+zoonotic spillover at an east Asian wildlife market; if this feels arbitrary, that's because it
+is. Properly the debate concerns the possibility of zoonotic spillover at any location, not
+necessarily a wildlife market and not necessarily in east Asia. Notably, Saar observes [7] the
+possibility of zoonotic spillover at a restaurant that processes live animals. If we were to
+expand Z to include restaurants and locations outside of east Asia, our circle would grow
+enormously, and P (H|Z) be reduced in proportion. Conversely, since we are interested in
+an outbreak that we know took place in Wuhan, we could reduce Z to zoonotic spillover at
+36If this feels a little high, keep in mind most wildlife markets are smaller than HSM, so this should
+probably be lowered a bit.
+37This is related to the well-known "friendship paradox" that most people's friends have more friends on
+average than they do. [15]
+HSM, or perhaps even down to a specific shop. Each of these choices for Z is fully consistent
+with the parameters of the debate; which choice of Z is "correct"?
+Similarly, one could ask ifLL was chosen appropriately; would we be having the same debate
+if covid appeared in a different city that lacked WIV but had other research laboratories
+engaged in potentially dangerous coronavirus research?
+For example, restricting Z to HSM and LL to WIV we get
+P (H|Z) = 1/1200
+P (H|LL) = 1/(1.2· 107)
+for a Bayes factor of 10000.
+It is problematic for our estimates of P (H|Z) and P (H|LL) to vary by orders of magnitude
+simply by taking a different perspective on the evidence: the truth of the origin of covid
+should not depend on the exact wording used by each side of the debate. The resolution to
+this problem is that as P (H|Z) varies wildly as we adjust our interpretation of the event
+Z, the prior probability P (Z) varies wildly in the opposite direction. If we broaden Z to
+include all sorts of potential sources around the world, P (Z) increases; if we narrow Z to a
+single specific resident at HSM, P (Z) decreases in accord. The joint probability P (H∩Z)
+is in each case unchanged. 38
+Therefore any discussion ofP (H|Z) andP (H|LL) is intrinsically linked to the more difficult
+discussion of the prior probabilities P (Z) and P (LL). We will delay further analysis on this
+to that time, in section 7.
+
+(no claims extracted for this section)

@@ -1,0 +1,151 @@
+4.6.1  Covid testing of environment and animals
+
+⟦1⟧ Extensive environmental testing of HSM began on 2020 January 1, after the market was
+closed and disinfected that morning. 56 ⟦2⟧ ⟦3⟧ ⟦4⟧ A total of 515 environmental samples were collected
+in HSM that day, ⟦5⟧ and an additional 364 environmental samples were collected in HSM from
+January 12 to March 2. ⟦6⟧ ⟦7⟧ Additionally, 457 samples from animals were collected from January
+18 to March 30. [22, 12]
+⟦8⟧ ⟦9⟧ ⟦10⟧ None of the 457 animal samples tested positive for sars-cov-2. ⟦11⟧ This is to be expected, due
+to the nature of the sample selection. ⟦12⟧ ⟦13⟧ ⟦14⟧ Most samples were taken from dead animals in cold
+storage, but about 100 of them were from stray live animals or their feces around the market.
+⟦15⟧ The most commonly sampled animals were rabbit, stray cat, snake, and hedgehog. ⟦16*⟧ ⟦17⟧ ⟦18*⟧ ⟦19⟧ Of the
+457 samples, only 16 came from animals (six different bamboo rats 57) that were plausible
+carriers of sars-cov-2; ⟦20*⟧ ⟦21*⟧ the other 441 samples are irrelevant to identifying the origin of sars-
+cov-2. Furthermore, ⟦22⟧ ⟦23⟧ most samples were collected 2 months after HSM was closed, giving
+ample time for decay of virus genome. [22]
+⟦24⟧ ⟦25⟧ ⟦26⟧ The environmental testing is much more informative, though not definitive. First, DNA
+testing of the samples gives insight into the types of animals being sold or processed at the
+market, including their origin, confirming that animals were imported from south China
+where wild coronaviruses are prevalent. ⟦27⟧ ⟦28⟧ ⟦29⟧ Testing for other viruses also directly supports the
+possibility of sars-cov-2 being imported to the market in an animal: in particular, a bamboo
+rat betacoronavirus was found that likely originated in a bamboo rat farm in Gaungxi, which
+borders Vietnam and Yunnan. [12]
+⟦30⟧ ⟦31⟧ ⟦32⟧ Second, ⟦33⟧ ⟦34⟧ 72 of the environmental samples tested positive for the presence of sars-cov-2 RNA
+by PCR, ⟦35⟧ and from 3 of them live virus was able to be extracted and cultured, which were the
+same 3 that tested most strongly for sars-cov-2; ⟦36⟧ 2 of the 3 came from stores with known covid
+cases. ⟦37⟧ ⟦38⟧ ⟦39⟧ Of the 72 samples, only 27 were attempted to be cultured, all collected on January 1.
+⟦40⟧ ⟦41⟧ In addition to the 3 samples from which live virus was extracted, one other sample was able
+to be sequenced; ⟦42⟧ between them 3 of the samples were lineage B and one was lineage A. [22]
+⟦43⟧ ⟦44⟧ ⟦45⟧ ⟦46⟧ ⟦47⟧ The positive environmental samples were not distributed uniformly around the market, and
+their distribution narrowly identifies a very specific location for a zoonotic spillover to have
+taken place. ⟦48⟧ ⟦49⟧ Sampling was targetted at shops that had live animals or had employees known
+to have had covid, so any statistical analysis of positive samples (such as figure 4B of [34])
+must account for the non-uniform prior. ⟦50⟧ However, the signal is strong enough that no
+statistical analysis is necessary.
+56It would be disinfected regularly thereafter. Personally I do not find it encouraging that researchers
+none-the-less continued to recover positive sars-cov-2 samples for some time.
+57⟦51⟧ Though Christoph et al. variously say bamboo rats are or are not susceptible to covid [12]; perhaps there
+is an important distinction between the hoary bamboo rat and the Chinese bamboo rat that I am missing.
+⟦52⟧ ⟦53⟧ ⟦54⟧ ⟦55⟧ ⟦56⟧ ⟦57⟧ 22 stores in HSM had positive environmental samples; ⟦58⟧ 18 had only one positive, ⟦59⟧ 1 had two
+positives, ⟦60⟧ 1 had three positives, ⟦61⟧ and 2 had five positives (see [22] figure S1A for details). ⟦62⟧ Of
+course, different stores had a different number of tests (many were not sampled at all), so we
+should consider the fraction of samples at a store that was positive. This becomes slightly
+difficult as many stores had 2 or fewer samples, so that the ratio has very low precision. Of
+the 18 stores with a single sample, one (east 9:22, and thus far from the origin of the HSM
+outbreak) was positive; of the several dozen with two samples, five had one positive and the
+rest none.
+⟦63⟧ ⟦64⟧ ⟦65⟧ We are left with two stores that stand out: ⟦66⟧ 4:26,28 which had 5 positives of 9 samples (and
+a known positive covid case), ⟦67⟧ and the nearby 6:29 which had 5 positives of 10 samples. ⟦68⟧ ⟦69⟧ Both
+stores are located in the southwest region of the west half of HSM, generally the region of
+stores with wild animals and where most early covid cases were infected. (Of course, keep
+in mind most stores with 3 or more samples were in or near that region of HSM.) ⟦70⟧ ⟦71⟧ ⟦72⟧ The latter
+store in particular had live raccoon dogs (one of the species suspected to be intermediary for
+sars-cov-2) and was specifically identified in 2014 as a potential location of a novel disease
+spillover [26, 39].
+Besides the 33 positive samples in stores, other locations in and around HSM also tested
+positive for sars-cov-2. ⟦73⟧ ⟦74⟧ Visible under grates running along storefronts in HSM (though
+obscured in the photographs of HSM I included above) is a shallow drainage system which
+would have received biological waste from shops, including waste from any live animals. ⟦75⟧ ⟦76⟧ Of
+60 drains sampled January 27 through 29, there were four positives, including the drain
+in front of shop 6:29. ⟦77⟧ The drains were tested again two weeks later: ⟦78⟧ of 17 drains sampled
+February 9 through 15, only three were positive - again the one in front of shop 6:29, and
+two downstream of it (which would have been exposed to waste from most of the west half
+of HSM). The drainage path of shop 6:29 is illustrated in figure 8.
+Figure 8: The topology of the ground-level drainage system for west HSM and the location
+of the three positive samples collected in February, with the drainage path from shop 6:29
+shown. The locations marked in the legend as having negative tests include all samples
+collected in January or February and should be ignored; only 17 samples were taken in
+February. Figure is Extended Data Figure 1 of [22], with alterations and annotations by
+Peter Miller ([1] at 1:29:45).
+
+Claims:
+⟦1⟧ [EVIDENCE] Extensive environmental testing of Huanan Seafood Market (HSM) began on 2020 January 1
+⟦2⟧ [EVIDENCE] A total of 515 environmental samples were collected in HSM on 2020 January 1
+⟦3⟧ [EVIDENCE] An additional 364 environmental samples were collected in HSM from January 12 to March 2
+⟦4⟧ [QUANTITATIVE_RESULT] 515 environmental samples were collected in HSM on 2020 January 1
+⟦5⟧ [QUANTITATIVE_RESULT] 364 environmental samples were collected in HSM from January 12 to March 2
+⟦6⟧ [EVIDENCE] 457 samples from animals were collected from January 18 to March 30
+⟦7⟧ [QUANTITATIVE_RESULT] 457 samples from animals were collected from January 18 to March 30
+⟦8⟧ [EVIDENCE] None of the 457 animal samples tested positive for SARS-CoV-2
+⟦9⟧ [QUANTITATIVE_RESULT] 0 out of 457 animal samples tested positive for sars-cov-2
+⟦10⟧ [RESEARCH_QUESTION] What is the origin of SARS-CoV-2 in the Huanan Seafood Market (HSM)?
+⟦11⟧ [ASSUMPTION] The sample selection is representative of the animals present at the Huanan Seafood Market (HSM)
+⟦12⟧ [ASSUMPTION] Most samples were taken from dead animals in cold storage, which may not be relevant to identifying the origin of SARS-CoV-2
+⟦13⟧ [EVIDENCE] Most animal samples were taken from dead animals in cold storage
+⟦14⟧ [EVIDENCE] About 100 animal samples were from stray live animals or their feces around the market
+⟦15⟧ [EVIDENCE] The most commonly sampled animals were rabbit, stray cat, snake, and hedgehog
+⟦16*⟧ [EVIDENCE] Only 16 animal samples came from animals that were plausible carriers of SARS-CoV-2
+⟦17⟧ [HYPOTHESIS] Bamboo rats are plausible carriers of sars-cov-2
+⟦18*⟧ [LIMITATION] Only 16 of the 457 animal samples came from animals that were plausible carriers of sars-cov-2.
+⟦19⟧ [QUANTITATIVE_RESULT] 16 out of 457 animal samples came from plausible carriers of sars-cov-2
+⟦20*⟧ [ASSUMPTION] The 441 samples from animals other than the 16 plausible carriers of SARS-CoV-2 are irrelevant to identifying the origin of SARS-CoV-2
+⟦21*⟧ [QUANTITATIVE_RESULT] 441 out of 457 animal samples are irrelevant to identifying the origin of sars-cov-2
+⟦22⟧ [ASSUMPTION] The virus genome would decay over time, making it less likely to detect SARS-CoV-2 in samples collected 2 months after HSM was closed
+⟦23⟧ [LIMITATION] Most samples were collected 2 months after HSM was closed, giving ample time for decay of virus genome.
+⟦24⟧ [ANALYSIS] The environmental testing of HSM is more informative than animal sampling for identifying the origin of SARS-CoV-2, as it provides insight into the types of animals being sold or processed at the market.
+⟦25⟧ [ASSUMPTION] The environmental testing is informative for identifying the origin of SARS-CoV-2
+⟦26⟧ [LIMITATION] The environmental testing is not definitive.
+⟦27⟧ [ANALYSIS] The presence of a bamboo rat betacoronavirus in environmental samples supports the possibility of SARS-CoV-2 being imported to the market in an animal.
+⟦28⟧ [ASSUMPTION] The presence of a bamboo rat betacoronavirus in the environmental samples suggests that SARS-CoV-2 could have been imported to the market in an animal
+⟦29⟧ [HYPOTHESIS] Sars-cov-2 was imported to the market in an animal
+⟦30⟧ [EVIDENCE] 72 environmental samples tested positive for SARS-CoV-2 RNA by PCR
+⟦31⟧ [EVIDENCE] Live virus was extracted and cultured from 3 environmental samples
+⟦32⟧ [EVIDENCE] 2 of the 3 environmental samples with live virus came from stores with known COVID-19 cases
+⟦33⟧ [QUANTITATIVE_RESULT] 72 out of an unspecified number of environmental samples tested positive for sars-cov-2 RNA by PCR
+⟦34⟧ [RESEARCH_QUESTION] Can SARS-CoV-2 be detected in environmental samples from HSM?
+⟦35⟧ [QUANTITATIVE_RESULT] 3 out of 72 environmental samples had live virus extracted and cultured
+⟦36⟧ [QUANTITATIVE_RESULT] 2 out of 3 environmental samples with live virus extracted came from stores with known covid cases
+⟦37⟧ [ANALYSIS] The presence of live virus in environmental samples from stores with known COVID-19 cases supports the possibility of a zoonotic spillover at those locations.
+⟦38⟧ [EVIDENCE] Only 27 environmental samples were attempted to be cultured, all collected on January 1
+⟦39⟧ [QUANTITATIVE_RESULT] 27 out of an unspecified number of environmental samples were attempted to be cultured
+⟦40⟧ [EVIDENCE] One environmental sample was able to be sequenced, in addition to the 3 with live virus
+⟦41⟧ [EVIDENCE] 3 environmental samples were lineage B and 1 was lineage A
+⟦42⟧ [QUANTITATIVE_RESULT] 3 out of 4 sequenced environmental samples were lineage B and 1 was lineage A
+⟦43⟧ [ANALYSIS] The distribution of positive environmental samples in HSM suggests a specific location for a zoonotic spillover to have taken place, despite the non-uniform sampling.
+⟦44⟧ [EVIDENCE] The positive environmental samples were not distributed uniformly around the market
+⟦45⟧ [HYPOTHESIS] A zoonotic spillover of sars-cov-2 took place at a specific location in the market
+⟦46⟧ [LIMITATION] The positive environmental samples were not distributed uniformly around the market.
+⟦47⟧ [RESEARCH_QUESTION] What is the significance of the distribution of positive environmental samples in HSM?
+⟦48⟧ [ASSUMPTION] The non-uniform distribution of positive environmental samples around the market is due to the targeted sampling of shops with live animals or known COVID-19 cases
+⟦49⟧ [LIMITATION] Any statistical analysis of positive samples must account for the non-uniform prior.
+⟦50⟧ [ASSUMPTION] The signal from the positive environmental samples is strong enough to identify a specific location for a zoonotic spillover to have taken place without requiring statistical analysis
+⟦51⟧ [LIMITATION] There may be an important distinction between the hoary bamboo rat and the Chinese bamboo rat that is missing.
+⟦52⟧ [EVIDENCE] 22 stores in HSM had positive environmental samples
+⟦53⟧ [EVIDENCE] 18 stores had only one positive environmental sample
+⟦54⟧ [EVIDENCE] 1 store had two positive environmental samples
+⟦55⟧ [EVIDENCE] 1 store had three positive environmental samples
+⟦56⟧ [EVIDENCE] 2 stores had five positive environmental samples
+⟦57⟧ [QUANTITATIVE_RESULT] 22 stores in HSM had positive environmental samples
+⟦58⟧ [QUANTITATIVE_RESULT] 18 stores had only 1 positive environmental sample
+⟦59⟧ [QUANTITATIVE_RESULT] 1 store had 2 positive environmental samples
+⟦60⟧ [QUANTITATIVE_RESULT] 1 store had 3 positive environmental samples
+⟦61⟧ [QUANTITATIVE_RESULT] 2 stores had 5 positive environmental samples
+⟦62⟧ [LIMITATION] The ratio of positive samples to total samples at a store has very low precision for many stores.
+⟦63⟧ [ANALYSIS] The high fraction of positive samples in stores 4:26,28 and 6:29, which had live animals and were located in the southwest region of the west half of HSM, suggests a potential location for the origin of SARS-CoV-2.
+⟦64⟧ [EVIDENCE] Store 4:26,28 had 5 positives of 9 samples and a known positive COVID-19 case
+⟦65⟧ [EVIDENCE] Store 6:29 had 5 positives of 10 samples
+⟦66⟧ [QUANTITATIVE_RESULT] Store 4:26,28 had 5 positives out of 9 environmental samples
+⟦67⟧ [QUANTITATIVE_RESULT] Store 6:29 had 5 positives out of 10 environmental samples
+⟦68⟧ [HYPOTHESIS] The origin of sars-cov-2 is linked to the southwest region of the west half of HSM, where stores with wild animals are located
+⟦69⟧ [RESEARCH_QUESTION] What is the role of live animals in the potential zoonotic spillover of SARS-CoV-2 in HSM?
+⟦70⟧ [ASSUMPTION] The presence of live raccoon dogs in store 6:29, which was specifically identified as a potential location of a novel disease spillover in 2014, increases the likelihood of a zoonotic spillover occurring at that location
+⟦71⟧ [EVIDENCE] Store 6:29 had live raccoon dogs and was identified as a potential location of a novel disease spillover in 2014
+⟦72⟧ [HYPOTHESIS] Raccoon dogs are a potential intermediary species for sars-cov-2
+⟦73⟧ [ANALYSIS] The drainage system in HSM, which received biological waste from shops with live animals, is a potential route for the spread of SARS-CoV-2.
+⟦74⟧ [RESEARCH_QUESTION] Can the drainage system in HSM be a potential source of SARS-CoV-2 transmission?
+⟦75⟧ [EVIDENCE] 60 drains in HSM were sampled from January 27 to 29, with 4 positives
+⟦76⟧ [QUANTITATIVE_RESULT] 4 out of 60 drains sampled from January 27 to 29 were positive for sars-cov-2
+⟦77⟧ [EVIDENCE] 17 drains in HSM were sampled from February 9 to 15, with 3 positives
+⟦78⟧ [QUANTITATIVE_RESULT] 3 out of 17 drains sampled from February 9 to 15 were positive for sars-cov-2
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

@@ -1,0 +1,86 @@
+[
+  {
+    "section_number": "1.1",
+    "node_type": "analysis",
+    "node_text": "The emergency notice circulated amongst Wuhan hospitals on December 30 indicated that at least some of the 27 hospitalized patients with pneumonia of unknown cause were associated with the Huanan Seafood Wholesale Market.",
+    "quote": "On December 30, an emergency notice circulated amongst Wuhan hospitals regarding 27 hospitalized patients with pneumonia of unknown cause, at least some of whom were associated with the Huanan 7 Seafood Wholesale Market (hereafter \"HSM\") in downtown Wuhan."
+  },
+  {
+    "section_number": "1.2.1",
+    "node_type": "analysis",
+    "node_text": "The wild virus most closely related to sars-cov-2 is banal-20-52, with 96.8% nucleotide identity, suggesting a recent common ancestor.",
+    "quote": "The wild virus most closely related to sars-cov-2 is banal-20-52 [30], a sample collected from a bat (dropping) in Laos with 96.8% nucleotide identity,"
+  },
+  {
+    "section_number": "1.3",
+    "node_type": "analysis",
+    "node_text": "Only the information provided through the debate, debate material, and references therein may be considered.",
+    "quote": "Only the information provided through the debate, debate material, and references therein may be considered;"
+  },
+  {
+    "section_number": "2",
+    "node_type": "analysis",
+    "node_text": "The conditional probability of an event A given observations O1, O2, ..., On can be calculated as the ratio of the joint probability of A and the observations to the sum of the joint probabilities of A and the observations and B and the observations.",
+    "quote": "P (A|O) = P (A∩O) / P (O) = P (A∩O) / (P (A∩O) + P (B∩O))."
+  },
+  {
+    "section_number": "2",
+    "node_type": "analysis",
+    "node_text": "The ratio of the columns of the second table, which represents the conditional probability of A given the observations, can be calculated as the product of the ratios of the columns of the first table.",
+    "quote": "P (A∩O1∩O2∩O3) / P (B∩O1∩O2∩O3) = P (A) / P (B) · P (O1|A) / P (O1|B) · P (O2|A∩O1) / P (O2|B∩O1) · P (O3|A∩O1∩O2) / P (O3|B∩O1∩O2)."
+  },
+  {
+    "section_number": "3",
+    "node_type": "analysis",
+    "node_text": "Bayesian reasoning can also lead to the same error, with a total Bayes factor of 2^50, overwhelming any prior against the lizard hypothesis, if 50 weakly anomalous observations are considered.",
+    "quote": "However let us be a little less reckless; after all, all of those less anomalous observations should have had a Bayes factor smaller than 1 because they are evidence for humanity. ... They are only weakly anomalous - a 1 in 2 coincidence each, so Bayes factor 2 - but with 50 such pieces of weak evidence your total Bayes factor is 2 50, totally overwhelming any prior you had against secret space lizards."
+  },
+  {
+    "section_number": "3",
+    "node_type": "analysis",
+    "node_text": "A slight bias in the data collection, such as overlooking half the data in favor of humanity, can lead to a massive difference in the conclusion, with a total bias of 100/3 log 4 = 46.21, overwhelming any random noise.",
+    "quote": "Suppose we conveniently overlook half the data in favor of humanity; so we have two thirds for lizards, and one thirds for humans. ... The total bias is 100 / 3 log 4 = 46.21, completely overwhelming any random noise (which will also be slightly less than before, I didn't calculate how much) and leading us consistently to the conclusion in favor of lizardness with a confidence of about e46 to 1."
+  },
+  {
+    "section_number": "3.3",
+    "node_type": "analysis",
+    "node_text": "Understanding the potential ways that the Bayesian calculation can reach a flawed answer from valid data can help reject Bayesian arguments that are vulnerable to these flaws and gain confidence in Bayesian arguments that do not.",
+    "quote": "By understanding the potential ways that the Bayesian calculation can reach a flawed answer from valid data, we can accomplish two goals: we can reject Bayesian arguments that are vulnerable to these flaws, and gain confidence in Bayesian arguments that do not."
+  },
+  {
+    "section_number": "3.3",
+    "node_type": "analysis",
+    "node_text": "To reduce errors in Bayesian reasoning, one should reduce bias, focus on extreme observations, use canonical or clearly unmotivated selection of evidence, and conservatively add a bias towards the zero point.",
+    "quote": "To reduce errors in Bayesian reasoning, I suggest three (four) things: 1. Reduce one's bias. 2. Focus on only the most extreme observations: 3. Alternatively, use some canonical or clearly unmotivated selection of evidence. 4. Conservatively add a bias towards the zero point."
+  },
+  {
+    "section_number": "4.5.3",
+    "node_type": "analysis",
+    "node_text": "The Dalian outbreak, where farm produce markets and buses became 'amplifiers' in the spread of COVID-19, is more favorable to Rootclaim's argument, but the article's description is too vague to draw any conclusions.",
+    "quote": "Farm produce markets and buses have become 'amplifiers' in the spread of COVID-19 during the latest outbreak in Dalian, Liaoning province, a local disease control expert said."
+  },
+  {
+    "section_number": "4.5.6",
+    "node_type": "analysis",
+    "node_text": "Rootclaim's model has difficulty explaining why other large SSEs did not start popping up in other locations if there were many sick people going around Wuhan at the time of the HSM primary case",
+    "quote": "We know that covid is contagious outside of HSM because it continued to grow even after HSM was closed. If there are 128 or 245 or 500 sick people going around Wuhan at the time of the HSM primary case, shouldn't we expect other large SSEs to start popping up in other locations?"
+  },
+  {
+    "section_number": "5.1",
+    "node_type": "analysis",
+    "node_text": "Pekar et al's simulations suggest that it is unlikely for a single introduction of sars-cov-2 to yield a phylogenetic tree with two clearly distinct and prominent taxa whose roots are exactly two mutations apart.",
+    "quote": "They find in simulations that it is unlikely for a single introduction to yield a phylogenetic tree with two clearly distinct and prominent taxa whose roots are exactly two mutations apart; when this does happen, it is usually because an early infection underwent two successive mutations rapidly."
+  },
+  {
+    "section_number": "6",
+    "node_type": "analysis",
+    "node_text": "The probability of the secret of creating sars-cov-2 staying secret is low, with a 2% chance if at least six people knew about the research and each had a 50% chance of revealing information.",
+    "quote": "If we imagine that at least six people knew about the research work that created sars-cov-2 and each has at least 50% chance to reveal some information about the existence of their research, then there is only 2% odds of the secret staying secret."
+  },
+  {
+    "section_number": "7.3",
+    "node_type": "analysis",
+    "node_text": "The probability of observing the index case in the west half of HSM given the lab-leak hypothesis (LL) is 1 divided by the population of all of Wuhan.",
+    "quote": "P (H|LL) = 1 / 1.2· 10^7"
+  }
+]

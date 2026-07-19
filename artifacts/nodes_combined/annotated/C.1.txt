@@ -1,0 +1,188 @@
+C.1  Anecdotal reports of the conditions at WIV
+
+⟦1⟧ ⟦2⟧ Annex D7 of the WHO 2021 report presents second-hand information reported from members
+of the WIV ([32], page 130 to 133 of annex). I will quote the relevant passages at length.
+Professor Shi Zhengli (director of WIV Center for Emerging Infectious Diseases) was asked
+about the laboratory work performed at WIV:
+⟦3⟧ -⟦4⟧ her laboratory used recombinant viruses to test whether bat CoVs
+could use ACE2 to bind but ⟦5⟧ used bat spike protein on a bat-CoV
+backbone, not human SARS. ⟦6⟧ ⟦7⟧ ⟦8⟧ It is important to use this approach
+because ⟦9⟧ it is difficult to isolate these viruses and envelope protein is
+most important part to understand function. For example, other re-
+searchers engineered SHC014 spike so did not need isolates for mouse
+experiments. ⟦10⟧ ⟦11⟧ ⟦12⟧ ⟦13⟧ WIV began recombinant work in 2015 with WIV-1. ⟦14⟧ ⟦15⟧ It
+received ACE2 mice in 2016 ⟦16⟧ and ⟦17⟧ started recombinant experiments
+with WIV +SHC014 in 2018 ⟦18⟧ but did not finish them owing to the
+COVID outbreak.
+⟦19*⟧ Note how this compares to the work listed in the Project DEFUSE proposal, in which
+chimeric viruses would install experimental spike proteins into non-pandemic virus back-
+bones, and test them with mice bearing human ACE2 receptors.
+⟦20⟧ The WIV director (Professor Yuan Zhiming?) discussed the possibility of sars-cov-2 escaping
+from WIV:
+⟦21⟧ ⟦22⟧ Staff had to report any symptoms every day after the outbreak of
+COVID began. ⟦23⟧ ⟦24⟧ Serum samples were preserved annually for laboratory
+staff. ⟦25⟧ There was extra testing during COVID outbreak according
+to the Yuang Zhiming (laboratory director). ⟦26⟧ ⟦27⟧ The Institute did not
+respond to conspiracy theories but understood why the WHO team
+needed to ask. ⟦28⟧ ⟦29⟧ There had been no reports of unusual diseases, ⟦30⟧ none
+diagnosed, and ⟦31⟧ all staff tested negative for SARS-CoV-2 antibodies.
+⟦32*⟧ It is unclear to me if "Yuang Zhiming" is a typo, a different spelling of the same name, or
+a different person. ⟦33⟧ ⟦34⟧ ⟦35⟧ ⟦36⟧ If it is true that all staff at WIV were tested and none had sars-cov-2
+antibodies, that would make a lab leak unlikely.
+Members of the WIV insist on proper adherence to laboratory safety:
+⟦37⟧ ⟦38⟧ With regards to questions about laboratory workers, ⟦39⟧ ⟦40⟧ all underwent
+a strict training regime that includes three levels with strict rules
+on number of hours training and in-laboratory experience prior to
+being allowed on own in lab, or to supervise others. ⟦41⟧ ⟦42⟧ P4 staff also
+undergo psychological evaluation before being allowed to work in the
+laboratory. ⟦43⟧ ⟦44⟧ ⟦45⟧ Physical and mental health was monitored; ⟦46⟧ no unusual
+respiratory infections had been noted in the previous year. ⟦47*⟧ ⟦48*⟧ Good com-
+pliance with mask use and hand hygiene was observed. ⟦49⟧ ⟦50⟧ ⟦51⟧ Surveillance
+during the outbreak had been stringent; ⟦52⟧ no suspected or confirmed
+case of COVID-19 was seen by PCR and antibody testing of all staff
+was negative. ⟦53⟧ (If any worker had been infected, it would have been
+likely that close contacts would have shown signs of infection.) ⟦54⟧ ⟦55⟧ Sera
+were tested twice a year, and all had been negative. ⟦56⟧ ⟦57⟧ There had been
+no turnover of staff in the coronavirus team.⟦58*⟧ 
+⟦59*⟧ A rule of thumb I personally suggest when critically interpretting a passage such as the above
+is to simply ignore so-called 'weasel'-words like "good" or "strict"; eg this yields "Compliance
+with mask use and hand hygiene was observed. Surveillance during the outbreak existed...".
+⟦60⟧ People, even when trying to twist things to their advantage, generally don't deliberately lie
+about unambiguous things like whether an antibody test was positive or negative, but even
+well-intentioned people will frequently imagine any training regime to be a strict training
+regime if that is favorable to them. ⟦61⟧ It is also easy for vague qualifiers to be added as
+information is passed along like a game of telephone; a first-hand account of a "training
+regime" becomes a second-hand "strict training regime", etc.
+⟦62⟧ ⟦63⟧ ⟦64⟧ Everyone believes they have high safety standards; what is important in the above are any
+specific, tangible claims which are more likely than vague platitudes to have a basis in truth.
+Yuan Zhiming denied the possibility of a lab leak from Wuhan:
+⟦65⟧ ⟦66⟧ ⟦67⟧ ⟦68⟧ The rumours of a leak from the laboratory were refuted categorically
+by the laboratory director for the following reasons:
+• ⟦69⟧ among the three SARS-like viruses cultured in the laboratory,
+⟦70⟧ none are closely related to SARS-CoV-2. ⟦71*⟧ ⟦72*⟧ The only SARS-CoV-
+2-like virus found by this group is RaTG13, which is neither a
+live (cultured) virus nor the progenitor of SARS-CoV-2
+• [...] ⟦73⟧ ⟦74⟧ ⟦75⟧ ⟦76⟧ ⟦77⟧ ⟦78⟧ The reserved sera in April 2019 and March 2020 from all
+the workers and students in research group led by Professor Shi
+Zhengli were seronegative for SARS-CoV-2 antibodies.
+• ⟦79⟧ ⟦80⟧ The laboratory director, responding to laboratory-leak theories,
+commented that ⟦81⟧ from 2010, including the P3 laboratory, ⟦82⟧ WIV
+has conducted experiments with more than 10,000 entries, ⟦83⟧ and
+⟦84⟧ the P4 laboratory has conducted experiments with more than
+3,000 entries in the last 3 years. ⟦85⟧ No infection was ever reported.
+⟦86⟧ ⟦87⟧ ⟦88⟧ Close contacts would have been infected if there had been a
+laboratory leak. But serum samples from Professor Shi's team
+were all negative.
+⟦89⟧ The second bullet point above is quite specific, and thus unlikely to be simple fabrication.
+⟦90⟧ ⟦91⟧ However fabrication seems like the best explanation for how the text of the WHO report
+could be compatible with a lab leak from the WIV; ⟦92⟧ other possibilities are a false negative
+for antibodies, the screening omitted some lab workers, the primary case was not in Shi's
+group, or perhaps some explanation I cannot think of.
+⟦93⟧ Prior to the release of the WHO report, Peter Daszak gave a presentation on the WHO
+mission which included a few more tiny details not in the above. On slide 16 of https:
+//downloads.vanityfair.com/ecohealth-alliance/peter-daszak-powerpoint.pdf he
+writes, regarding the WIV, "⟦94⟧ ⟦95⟧ Illnesses (4/700 during COVID; no cases in Zhengli's group)".
+As for relevant work conducted at the WIV, he has "⟦96⟧ ⟦97⟧ ⟦98⟧ Recombinant work (ACE2 mice began
+2016; WIV/SHC014 began in 2018)", compatible with the text of the WHO report.
+
+Claims:
+⟦1⟧ [LIMITATION] The information about the conditions at WIV is second-hand, reported from members of the WIV
+⟦2⟧ [RESEARCH_QUESTION] What were the conditions at the Wuhan Institute of Virology (WIV) regarding laboratory work and safety protocols?
+⟦3⟧ [RESEARCH_QUESTION] Did the WIV use recombinant viruses to test whether bat CoVs could use ACE2 to bind?
+⟦4⟧ [EVIDENCE] WIV used recombinant viruses to test whether bat CoVs could use ACE2 to bind
+⟦5⟧ [EVIDENCE] WIV used bat spike protein on a bat-CoV backbone, not human SARS
+⟦6⟧ [ANALYSIS] The use of recombinant viruses to test whether bat CoVs could use ACE2 to bind is important because it is difficult to isolate these viruses and envelope protein is the most important part to understand function.
+⟦7⟧ [ASSUMPTION] The use of recombinant viruses to test whether bat CoVs could use ACE2 to bind is a necessary approach because it is difficult to isolate these viruses and envelope protein is the most important part to understand function.
+⟦8⟧ [RESEARCH_QUESTION] What was the purpose of using bat spike protein on a bat-CoV backbone in WIV's laboratory work?
+⟦9⟧ [LIMITATION] It is difficult to isolate bat CoVs and envelope protein is the most important part to understand function
+⟦10⟧ [EVIDENCE] WIV began recombinant work in 2015 with WIV-1
+⟦11⟧ [LIMITATION] The WIV did not finish the recombinant experiments with WIV +SHC014 due to the COVID outbreak
+⟦12⟧ [QUANTITATIVE_RESULT] 2015: WIV began recombinant work with WIV-1
+⟦13⟧ [RESEARCH_QUESTION] Did the WIV begin recombinant work in 2015 with WIV-1 and start recombinant experiments with WIV +SHC014 in 2018?
+⟦14⟧ [EVIDENCE] WIV received ACE2 mice in 2016
+⟦15⟧ [QUANTITATIVE_RESULT] 2016: WIV received ACE2 mice
+⟦16⟧ [QUANTITATIVE_RESULT] 2018: WIV started recombinant experiments with WIV +SHC014
+⟦17⟧ [EVIDENCE] WIV started recombinant experiments with WIV +SHC014 in 2018
+⟦18⟧ [EVIDENCE] WIV did not finish recombinant experiments with WIV +SHC014 due to the COVID outbreak
+⟦19*⟧ [ANALYSIS] The work listed in the Project DEFUSE proposal compares to the work performed at WIV, where chimeric viruses would install experimental spike proteins into non-pandemic virus backbones and test them with mice bearing human ACE2 receptors.
+⟦20⟧ [RESEARCH_QUESTION] Is it possible that SARS-CoV-2 escaped from the WIV?
+⟦21⟧ [ASSUMPTION] The WIV staff had to report any symptoms every day after the outbreak of COVID began.
+⟦22⟧ [EVIDENCE] WIV staff had to report any symptoms every day after the COVID outbreak began
+⟦23⟧ [ASSUMPTION] Serum samples were preserved annually for laboratory staff at WIV.
+⟦24⟧ [EVIDENCE] Serum samples were preserved annually for WIV laboratory staff
+⟦25⟧ [EVIDENCE] There was extra testing during the COVID outbreak at WIV
+⟦26⟧ [ASSUMPTION] The Institute did not respond to conspiracy theories but understood why the WHO team needed to ask about the possibility of SARS-CoV-2 escaping from WIV.
+⟦27⟧ [RESEARCH_QUESTION] How did the WIV respond to conspiracy theories about a lab leak?
+⟦28⟧ [EVIDENCE] No reports of unusual diseases were made at WIV
+⟦29⟧ [RESEARCH_QUESTION] Were staff at the WIV tested for SARS-CoV-2 antibodies and what were the results?
+⟦30⟧ [EVIDENCE] No WIV staff were diagnosed with any disease
+⟦31⟧ [EVIDENCE] All WIV staff tested negative for SARS-CoV-2 antibodies
+⟦32*⟧ [LIMITATION] The possibility of sars-cov-2 escaping from WIV is unclear due to lack of information
+⟦33⟧ [ANALYSIS] If it is true that all staff at WIV were tested and none had SARS-CoV-2 antibodies, that would make a lab leak unlikely.
+⟦34⟧ [ASSUMPTION] All staff at WIV were tested for SARS-CoV-2 antibodies and none had them, making a lab leak unlikely.
+⟦35⟧ [HYPOTHESIS] The SARS-CoV-2 virus originated from a natural zoonosis process, not from a lab leak at the Wuhan Institute of Virology (WIV).
+⟦36⟧ [LIMITATION] The absence of reports of unusual diseases or SARS-CoV-2 antibodies in WIV staff does not necessarily rule out a lab leak
+⟦37⟧ [HYPOTHESIS] The WIV laboratory had high safety standards and proper protocols in place to prevent a lab leak.
+⟦38⟧ [RESEARCH_QUESTION] What safety protocols were in place at the WIV for laboratory workers?
+⟦39⟧ [ASSUMPTION] Laboratory workers at WIV underwent a strict training regime that includes three levels with strict rules on number of hours training and in-laboratory experience prior to being allowed on own in lab, or to supervise others.
+⟦40⟧ [EVIDENCE] WIV laboratory workers underwent a strict training regime
+⟦41⟧ [ASSUMPTION] P4 staff at WIV undergo psychological evaluation before being allowed to work in the laboratory.
+⟦42⟧ [EVIDENCE] P4 staff at WIV underwent psychological evaluation before being allowed to work in the laboratory
+⟦43⟧ [ASSUMPTION] Physical and mental health was monitored at WIV, and no unusual respiratory infections had been noted in the previous year.
+⟦44⟧ [EVIDENCE] Physical and mental health was monitored at WIV
+⟦45⟧ [RESEARCH_QUESTION] Were there any instances of unusual respiratory infections or COVID-19 cases among WIV staff?
+⟦46⟧ [EVIDENCE] No unusual respiratory infections were noted at WIV in the previous year
+⟦47*⟧ [ASSUMPTION] Good compliance with mask use and hand hygiene was observed at WIV.
+⟦48*⟧ [EVIDENCE] Good compliance with mask use and hand hygiene was observed at WIV
+⟦49⟧ [ASSUMPTION] Surveillance during the outbreak at WIV had been stringent, and no suspected or confirmed case of COVID-19 was seen by PCR and antibody testing of all staff was negative.
+⟦50⟧ [EVIDENCE] Surveillance during the outbreak was stringent at WIV
+⟦51⟧ [HYPOTHESIS] A lab leak from the WIV could have been detected through surveillance and testing of staff members.
+⟦52⟧ [EVIDENCE] No suspected or confirmed case of COVID-19 was seen at WIV by PCR and antibody testing
+⟦53⟧ [ASSUMPTION] If any worker at WIV had been infected with SARS-CoV-2, it would have been likely that close contacts would have shown signs of infection.
+⟦54⟧ [ASSUMPTION] Sera were tested twice a year at WIV, and all had been negative for SARS-CoV-2 antibodies.
+⟦55⟧ [EVIDENCE] Sera were tested twice a year at WIV, and all were negative
+⟦56⟧ [ASSUMPTION] There had been no turnover of staff in the coronavirus team at WIV.
+⟦57⟧ [EVIDENCE] There was no turnover of staff in the coronavirus team at WIV
+⟦58*⟧ [LIMITATION] The use of vague qualifiers like 'good' or 'strict' may not provide an accurate representation of the laboratory safety
+⟦59*⟧ [ANALYSIS] Ignoring so-called 'weasel'-words like 'good' or 'strict' yields more reliable information when critically interpreting a passage.
+⟦60⟧ [ASSUMPTION] People generally don't deliberately lie about unambiguous things like whether an antibody test was positive or negative.
+⟦61⟧ [ASSUMPTION] Vague qualifiers can be added as information is passed along, making it easy for first-hand accounts to become second-hand accounts with added qualifiers.
+⟦62⟧ [ANALYSIS] Specific, tangible claims are more likely to have a basis in truth than vague platitudes when evaluating safety standards.
+⟦63⟧ [ASSUMPTION] Specific, tangible claims are more likely to have a basis in truth than vague platitudes.
+⟦64⟧ [LIMITATION] The laboratory safety claims may be based on vague platitudes rather than specific, tangible evidence
+⟦65⟧ [ANALYSIS] The laboratory director's denial of the possibility of a lab leak from Wuhan is based on several reasons, including the lack of closely related SARS-like viruses cultured in the laboratory.
+⟦66⟧ [ASSUMPTION] The laboratory director at WIV, Yuan Zhiming, denied the possibility of a lab leak from WIV for several reasons, including that none of the SARS-like viruses cultured in the laboratory are closely related to SARS-CoV-2.
+⟦67⟧ [EVIDENCE] Yuan Zhiming denied the possibility of a lab leak from WIV
+⟦68⟧ [HYPOTHESIS] The WIV laboratory director, Yuan Zhiming, denies the possibility of a lab leak from the WIV.
+⟦69⟧ [EVIDENCE] None of the three SARS-like viruses cultured in the WIV laboratory are closely related to SARS-CoV-2
+⟦70⟧ [HYPOTHESIS] The WIV laboratory work, including recombinant virus experiments, did not involve the creation of SARS-CoV-2 or a closely related virus.
+⟦71*⟧ [EVIDENCE] The only SARS-CoV-2-like virus found by the WIV group is RaTG13, which is neither a live virus nor the progenitor of SARS-CoV-2
+⟦72*⟧ [HYPOTHESIS] The RaTG13 virus is not the progenitor of SARS-CoV-2.
+⟦73⟧ [ANALYSIS] The reserved sera from all workers and students in Professor Shi Zhengli's research group were seronegative for SARS-CoV-2 antibodies, which supports the laboratory director's denial of a lab leak.
+⟦74⟧ [ASSUMPTION] The reserved sera from all workers and students in the research group led by Professor Shi Zhengli were seronegative for SARS-CoV-2 antibodies.
+⟦75⟧ [EVIDENCE] Reserved sera from all workers and students in the research group led by Professor Shi Zhengli were seronegative for SARS-CoV-2 antibodies in April 2019 and March 2020
+⟦76⟧ [QUANTITATIVE_RESULT] 2019: reserved sera in April were seronegative for SARS-CoV-2 antibodies
+⟦77⟧ [QUANTITATIVE_RESULT] 2020: reserved sera in March were seronegative for SARS-CoV-2 antibodies
+⟦78⟧ [RESEARCH_QUESTION] What is the significance of the reserved sera from WIV workers being seronegative for SARS-CoV-2 antibodies?
+⟦79⟧ [ANALYSIS] The laboratory director's comment that no infection was ever reported in over 10,000 experiments conducted at WIV, including the P3 laboratory, and over 3,000 experiments conducted at the P4 laboratory, supports the denial of a lab leak.
+⟦80⟧ [ASSUMPTION] The WIV has conducted experiments with more than 10,000 entries, and the P4 laboratory has conducted experiments with more than 3,000 entries in the last 3 years, with no infection ever reported.
+⟦81⟧ [EVIDENCE] WIV has conducted experiments with more than 10,000 entries, including the P3 laboratory, since 2010
+⟦82⟧ [QUANTITATIVE_RESULT] 2010-: WIV conducted experiments with more than 10,000 entries
+⟦83⟧ [EVIDENCE] The P4 laboratory at WIV has conducted experiments with more than 3,000 entries in the last 3 years
+⟦84⟧ [QUANTITATIVE_RESULT] Last 3 years: P4 laboratory conducted experiments with more than 3,000 entries
+⟦85⟧ [EVIDENCE] No infection was ever reported at WIV
+⟦86⟧ [ASSUMPTION] Close contacts would have been infected if there had been a laboratory leak at WIV.
+⟦87⟧ [HYPOTHESIS] The lack of reported infections among WIV staff members and their close contacts suggests that a lab leak is unlikely.
+⟦88⟧ [RESEARCH_QUESTION] Can the lack of reported infections and negative serum samples from WIV staff rule out the possibility of a lab leak?
+⟦89⟧ [ANALYSIS] The second bullet point regarding the reserved sera being seronegative for SARS-CoV-2 antibodies is specific and unlikely to be simple fabrication.
+⟦90⟧ [ANALYSIS] Fabrication seems like the best explanation for how the text of the WHO report could be compatible with a lab leak from the WIV, given the lack of evidence supporting a lab leak.
+⟦91⟧ [ASSUMPTION] The text of the WHO report could be compatible with a lab leak from the WIV only if there was fabrication, a false negative for antibodies, the screening omitted some lab workers, the primary case was not in Shi's group, or some other explanation.
+⟦92⟧ [LIMITATION] The seronegative results for SARS-CoV-2 antibodies in WIV staff may be due to false negatives or omitted lab workers
+⟦93⟧ [LIMITATION] The information provided by Peter Daszak may not be comprehensive or entirely accurate
+⟦94⟧ [EVIDENCE] Peter Daszak reported that there were no cases of COVID-19 in Zhengli's group at WIV
+⟦95⟧ [QUANTITATIVE_RESULT] 4/700: illnesses during COVID
+⟦96⟧ [EVIDENCE] Peter Daszak reported that WIV began recombinant work with ACE2 mice in 2016 and with WIV/SHC014 in 2018
+⟦97⟧ [QUANTITATIVE_RESULT] 2016: ACE2 mice began
+⟦98⟧ [QUANTITATIVE_RESULT] 2018: WIV/SHC014 began
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

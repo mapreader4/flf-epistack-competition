@@ -1,0 +1,86 @@
+1.1  Background: what happened in Wuhan?
+
+A butterfly with the flap of its wings is said to change the path of a hurricane on the other
+side of the Earth. 3 There is no better exemplar of the butterfly effect than the beginnings
+of a pandemic: a single cough, or sneeze, a decision to go to work or see a friend, and ⟦1⟧ the
+lives of 10 million people swing in the balance.
+⟦2⟧ ⟦3⟧ ⟦4⟧ ⟦5⟧ Inevitably the earlier one tries to trace the origins of covid-19, the narrower the trail, until
+it is reduced to the mundane daily activities of a handful of individuals whose identities may
+be lost to time.
+⟦6⟧ ⟦7⟧ The farthest back we have been able to follow the trail is to the city of Wuhan, ⟦8⟧ a massive
+metropolis of 12 million people 4 in the Chinese province Hubei. ⟦9⟧ ⟦10⟧ On 2019 December 26 or 27,
+⟦11⟧ at the height of flu season,5 Dr Zhang Jixian6 examined two patients whose unusual CT scan
+reminded her of ⟦12⟧ her experience with the SARS-1 outbreak of 2002-2003; she is generally
+recognized as the discoverer of covid-19, thanks to her prompt and appropriate response.
+⟦13⟧ Near this time, other healthcare workers began to notice a pattern of pneumonia cases and
+likewise leapt to action.
+⟦14⟧ On December 30, an emergency notice circulated amongst Wuhan hospitals ⟦15⟧ regarding 27
+hospitalized patients with pneumonia of unknown cause, at least some of whom were associ-
+3This is true, if you mean a hurricane at least two weeks in the future, ⟦16⟧ ⟦17⟧ which is approximately the time
+scale over which the weather is chaotic.
+4bigger than any city in the US or west Europe, by some definitions
+5⟦18⟧ ⟦19⟧ The average US adult has a 10% chance of catching the flu each winter, ⟦20⟧ ⟦21⟧ and catches 0.5 to 2 colds a year,
+⟦22⟧ ⟦23⟧ so one figures that concurrent with the beginnings of covid there were ⟦24⟧ on the order of one million people in
+Wuhan with the flu, ⟦25⟧ ⟦26⟧ of which ten thousand hospitalized.
+6at the Hubei Provincial Hospital of Integrated Chinese and Western Medicine, a grade 3A tertiary
+hospital
+ated with the Huanan 7 Seafood Wholesale Market (hereafter "HSM") in downtown Wuhan.
+⟦27⟧ ⟦28⟧ ⟦29⟧ Around this time government officials began to become involved, ⟦30⟧ in many ways interfering
+with the actions of healthcare professionals. ⟦31⟧ ⟦32⟧ ⟦33⟧ ⟦34⟧ HSM was sanitized and closed the morning of
+January 1, and samples were collected on and after January 1 [22, 12].
+⟦35*⟧ ⟦36⟧ ⟦37⟧ ⟦38*⟧ On 2020 January 20, the Chinese National Health Commission announced confirmation of
+human-to-human transmission of covid-19 to multiple healthcare workers; ⟦39*⟧ ⟦40⟧ significant evi-
+dence of human-to-human transmission existed before this time. ⟦41⟧ ⟦42⟧ ⟦43⟧ ⟦44⟧ On January 23 Wuhan
+entered lockdown and China invested heavily in tracking and curtailing covid, ⟦45⟧ successfully
+containing it by April. Covid would remain under control with increasing difficulty ⟦46⟧ until
+omicron made China's "zero covid" policy impossible to maintain. 8
+
+Claims:
+⟦1⟧ [QUANTITATIVE_RESULT] 10 million people
+⟦2⟧ [ANALYSIS] The earlier one tries to trace the origins of COVID-19, the narrower the trail becomes, until it is reduced to the mundane daily activities of a handful of individuals.
+⟦3⟧ [HYPOTHESIS] The COVID-19 pandemic originated from a natural source, such as an animal, in Wuhan, China.
+⟦4⟧ [LIMITATION] The earlier one tries to trace the origins of covid-19, the narrower the trail, until it is reduced to the mundane daily activities of a handful of individuals whose identities may be lost to time.
+⟦5⟧ [RESEARCH_QUESTION] What are the origins of COVID-19?
+⟦6⟧ [EVIDENCE] Wuhan has a population of 12 million people
+⟦7⟧ [RESEARCH_QUESTION] How did the COVID-19 pandemic start in Wuhan?
+⟦8⟧ [QUANTITATIVE_RESULT] 12 million people
+⟦9⟧ [EVIDENCE] Dr. Zhang Jixian examined two patients with unusual CT scans on December 26 or 27, 2019
+⟦10⟧ [QUANTITATIVE_RESULT] 2019 December 26 or 27
+⟦11⟧ [ANALYSIS] Dr. Zhang Jixian's experience with the SARS-1 outbreak of 2002-2003 influenced her recognition of COVID-19.
+⟦12⟧ [QUANTITATIVE_RESULT] 2002-2003
+⟦13⟧ [ANALYSIS] The pattern of pneumonia cases noticed by healthcare workers led them to take action.
+⟦14⟧ [EVIDENCE] An emergency notice was circulated amongst Wuhan hospitals on December 30, 2019, regarding 27 hospitalized patients with pneumonia of unknown cause
+⟦15⟧ [QUANTITATIVE_RESULT] 27 hospitalized patients
+⟦16⟧ [ASSUMPTION] The weather is chaotic on a time scale of approximately two weeks.
+⟦17⟧ [LIMITATION] The time scale over which the weather is chaotic is approximately two weeks, limiting the predictability of a hurricane's path.
+⟦18⟧ [ASSUMPTION] The average US adult has a 10% chance of catching the flu each winter.
+⟦19⟧ [QUANTITATIVE_RESULT] 10% chance
+⟦20⟧ [ASSUMPTION] The average US adult catches 0.5 to 2 colds a year.
+⟦21⟧ [QUANTITATIVE_RESULT] 0.5 to 2 colds a year
+⟦22⟧ [ASSUMPTION] There were on the order of one million people in Wuhan with the flu concurrent with the beginnings of covid.
+⟦23⟧ [LIMITATION] There were on the order of one million people in Wuhan with the flu at the time of the beginnings of covid, making it difficult to identify the source.
+⟦24⟧ [QUANTITATIVE_RESULT] one million people
+⟦25⟧ [ASSUMPTION] There were approximately ten thousand people hospitalized with the flu in Wuhan at the time of the covid outbreak.
+⟦26⟧ [QUANTITATIVE_RESULT] ten thousand hospitalized
+⟦27⟧ [ANALYSIS] Government officials' involvement interfered with the actions of healthcare professionals.
+⟦28⟧ [LIMITATION] Government officials interfered with the actions of healthcare professionals, potentially affecting the response to the outbreak.
+⟦29⟧ [RESEARCH_QUESTION] How did government officials respond to the COVID-19 outbreak in Wuhan?
+⟦30⟧ [ASSUMPTION] Government officials interfered with the actions of healthcare professionals in many ways.
+⟦31⟧ [EVIDENCE] HSM was sanitized and closed on the morning of January 1, 2020
+⟦32⟧ [EVIDENCE] Samples were collected from HSM on and after January 1, 2020
+⟦33⟧ [LIMITATION] The Huanan Seafood Wholesale Market was sanitized and closed, potentially destroying evidence and limiting the ability to trace the origins of covid-19.
+⟦34⟧ [QUANTITATIVE_RESULT] January 1
+⟦35*⟧ [ANALYSIS] The Chinese National Health Commission's announcement of human-to-human transmission of COVID-19 on January 20 was preceded by significant evidence of human-to-human transmission.
+⟦36⟧ [EVIDENCE] The Chinese National Health Commission announced confirmation of human-to-human transmission of covid-19 on January 20, 2020
+⟦37⟧ [QUANTITATIVE_RESULT] 2020 January 20
+⟦38*⟧ [RESEARCH_QUESTION] What was the timeline of human-to-human transmission of COVID-19?
+⟦39*⟧ [EVIDENCE] Significant evidence of human-to-human transmission existed before January 20, 2020
+⟦40⟧ [LIMITATION] Significant evidence of human-to-human transmission existed before the official announcement on January 20, 2020, potentially delaying the response to the outbreak.
+⟦41⟧ [ANALYSIS] China's investment in tracking and curtailing COVID-19 led to its successful containment by April.
+⟦42⟧ [EVIDENCE] Wuhan entered lockdown on January 23, 2020
+⟦43⟧ [EVIDENCE] China successfully contained covid-19 by April 2020
+⟦44⟧ [QUANTITATIVE_RESULT] January 23
+⟦45⟧ [QUANTITATIVE_RESULT] April
+⟦46⟧ [ASSUMPTION] China's "zero covid" policy was impossible to maintain due to the omicron variant.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

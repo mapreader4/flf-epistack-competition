@@ -1,0 +1,96 @@
+5.4.1  Excerpts from proposal
+
+⟦1⟧ I will be omitting quite a few details about irrelevant activities in the proposal. There are
+two relevant passages:
+⟦2⟧ ⟦3⟧ We will screen samples for SARSr-CoV [sars-cov-1-related coronavirus]
+nucleic acid [...] ⟦4*⟧ Full-length genomes or S [spike] genes of all SARSr-
+CoVs will be high-throughput sequenced followed by genome walking.
+⟦5⟧ ⟦6⟧ ⟦7⟧ ⟦8⟧ We will analyze the S gene for its ability to bind human ACE2 by
+Biocore or virus entry assay. Synthesis of Chimeric Novel SARSr-
+CoV QS : ⟦9*⟧ ⟦10*⟧ We will commercially synthesize SARSr-CoV S glycopro-
+tein genes, ⟦11*⟧ designed for insertion into SHCO14 or WIV16 molecu-
+lar clone backbones (⟦12⟧ ⟦13⟧ 88% and 97% S-protein identity to epidemic
+⟦14*⟧ SARS-Urbani61). ⟦15⟧ ⟦16⟧ These are BSL-3, not select agents or subject to
+P3CO (they use bat SARSr-CoV backbones which are exempt) ⟦17⟧ and
+are pathogenic to hACE2 [human ACE2] transgenic mice.
+[...] ⟦18⟧ We will conduct in vitro [in test tube] pseudovirus binding assays,
+using established techniques, ⟦19⟧ and live virus binding assays (at WIV
+to prevent delays and unnecessary dissemination of viral cultures) for
+isolated strains.
+So, they will look for sars-like viruses, sequence their spike proteins, simulate how well those
+spike proteins bind to human ACE2 receptors, and put the genes for those spike proteins
+into known viruses which have been selected for their low pandemic potential. Those viruses
+will be given to mice with human ACE2 receptors. The proposal goes on to explain that
+after evaluating the chimeric viruses, some of them will be verified by testing the original
+wild viruses the spikes came from; the latter would be done at WIV where the wild viruses
+were originally sampled.
+S2 Proteolytic Cleavage and Glycosylation Sites : [...] ⟦20*⟧ ⟦21⟧ ⟦22*⟧ We will analyze
+all SARSr-CoV S [spike] gene sequences for appropriately conserved
+proteolytic cleavage sites in S2 [spike subregion 2] and for the pres-
+ence of potential furin cleavage sites. ⟦23⟧ ⟦24⟧ ⟦25⟧ ⟦26⟧ SARSr-CoV S with mismatches
+in proteolytic cleavage sites can be activated by exogenous trypsin or
+cathepsin L. ⟦27*⟧ ⟦28*⟧ ⟦29*⟧ ⟦30*⟧ Where clear mismatches occur, ⟦31*⟧ we will introduce appro-
+priate human-specific cleavage sites ⟦32⟧ and evaluate growth potential in
+Vero [monkey kidney] cells and HAE [human airway epithelial cells]
+cultures. ⟦33⟧ ⟦34⟧ In SARS-CoV [ie, sars-cov-1], we will ablate several of these
+sites based on pseudotyped particle studies ⟦35⟧ and evaluate the impact
+of select SARSr-CoV S changes on virus replication and ⟦36*⟧ pathogenesis.
+⟦37⟧ ⟦38⟧ ⟦39⟧ We ⟦40*⟧ will also review deep sequence data for low abundant high risk
+SARSr-CoV that encode functional proteolytic cleavage sites, and if
+so, introduce these changes into the appropriate high abundant, low
+61SARS-Urbani refers to a a reference genome of sars-cov-1, collected from Carlo Urbani. Urbani was a
+doctor and biologist who first realized SARS-1 was a new disease, and whose warning to the WHO likely
+saved many lives. ⟦41⟧ He died of SARS-1 at age 46.
+risk parental strain.
+This passage is part of a long list of planned genetic experiments. They will look for cleavage
+sites, including furin cleavage sites, in existing cells, and genetically modify some of them to
+introduce "human-specific" cleavage sites. ⟦42⟧ It is unclear to me whether furin is human-specific.
+I understand this passage to be referring to the chimeric viruses with known backbone
+(SHCO14 or WIV16). They also discuss adding cleavage sites to common, low risk sars-like
+viruses. After this passage, it goes on to discuss N-linked glycosation.
+
+Claims:
+⟦1⟧ [LIMITATION] The proposal omits details about irrelevant activities
+⟦2⟧ [EVIDENCE] SARSr-CoV nucleic acid will be screened in samples
+⟦3⟧ [RESEARCH_QUESTION] What SARSr-CoV nucleic acid sequences will be found in the samples?
+⟦4*⟧ [EVIDENCE] Full-length genomes or S genes of all SARSr-CoVs will be high-throughput sequenced
+⟦5⟧ [ANALYSIS] The proposal analyzes the S gene for its ability to bind human ACE2 by Biocore or virus entry assay, which explains why evidence of SARSr-CoV binding to human ACE2 affects the plausibility of a claim about its potential for human infection.
+⟦6⟧ [EVIDENCE] S gene will be analyzed for its ability to bind human ACE2
+⟦7⟧ [HYPOTHESIS] The SARSr-CoV S gene has the ability to bind human ACE2
+⟦8⟧ [RESEARCH_QUESTION] How well do the SARSr-CoV S genes bind to human ACE2 receptors?
+⟦9*⟧ [ASSUMPTION] The SARSr-CoV S glycoprotein genes can be commercially synthesized and designed for insertion into SHCO14 or WIV16 molecular clone backbones.
+⟦10*⟧ [EVIDENCE] Chimeric Novel SARSr-CoV QS will be commercially synthesized
+⟦11*⟧ [EVIDENCE] SHCO14 and WIV16 molecular clone backbones have 88% and 97% S-protein identity to epidemic SARS-Urbani61
+⟦12⟧ [QUANTITATIVE_RESULT] 88% S-protein identity to epidemic SARS-Urbani61
+⟦13⟧ [QUANTITATIVE_RESULT] 97% S-protein identity to epidemic SARS-Urbani61
+⟦14*⟧ [HYPOTHESIS] Chimeric viruses with SARSr-CoV S gene and known backbone (SHCO14 or WIV16) will be pathogenic to hACE2 transgenic mice
+⟦15⟧ [ASSUMPTION] The SHCO14 and WIV16 molecular clone backbones are BSL-3, not select agents or subject to P3CO, and are pathogenic to hACE2 transgenic mice.
+⟦16⟧ [EVIDENCE] SHCO14 and WIV16 are BSL-3, not select agents or subject to P3CO
+⟦17⟧ [EVIDENCE] SHCO14 and WIV16 are pathogenic to hACE2 transgenic mice
+⟦18⟧ [EVIDENCE] In vitro pseudovirus binding assays will be conducted
+⟦19⟧ [EVIDENCE] Live virus binding assays will be conducted at WIV
+⟦20*⟧ [ANALYSIS] The researchers compare the likelihood of SARSr-CoV binding to human ACE2 receptors based on the presence of proteolytic cleavage sites in S2, including furin cleavage sites, which affects the plausibility of a claim about its potential for human infection.
+⟦21⟧ [EVIDENCE] SARSr-CoV S gene sequences will be analyzed for proteolytic cleavage sites
+⟦22*⟧ [LIMITATION] The experiments will be limited to analyzing SARSr-CoV S gene sequences for conserved proteolytic cleavage sites
+⟦23⟧ [ANALYSIS] The proposal explains that SARSr-CoV S with mismatches in proteolytic cleavage sites can be activated by exogenous trypsin or cathepsin L, which is a reasoning step explaining why evidence of these mismatches affects the plausibility of a claim about its potential for human infection.
+⟦24⟧ [EVIDENCE] SARSr-CoV S with mismatches in proteolytic cleavage sites can be activated by exogenous trypsin or cathepsin L
+⟦25⟧ [HYPOTHESIS] SARSr-CoV with mismatches in proteolytic cleavage sites can be activated by exogenous trypsin or cathepsin L
+⟦26⟧ [RESEARCH_QUESTION] Do SARSr-CoV S genes with mismatches in proteolytic cleavage sites have the potential to be activated by exogenous trypsin or cathepsin L?
+⟦27*⟧ [ANALYSIS] The researchers will introduce appropriate human-specific cleavage sites and evaluate growth potential in Vero cells and HAE cultures, which is a comparison of the expected growth potential of SARSr-CoV with and without these cleavage sites.
+⟦28*⟧ [ASSUMPTION] The introduction of human-specific cleavage sites into SARSr-CoV S genes will affect the growth potential of the viruses in Vero cells and HAE cultures.
+⟦29*⟧ [EVIDENCE] Human-specific cleavage sites will be introduced into SARSr-CoV S
+⟦30*⟧ [LIMITATION] The introduction of human-specific cleavage sites into SARSr-CoV may not accurately reflect real-world virus behavior
+⟦31*⟧ [RESEARCH_QUESTION] What is the effect of introducing human-specific cleavage sites into SARSr-CoV S genes on virus replication and pathogenesis?
+⟦32⟧ [EVIDENCE] Growth potential of SARSr-CoV S will be evaluated in Vero cells and HAE cultures
+⟦33⟧ [ANALYSIS] The proposal explains that the introduction of human-specific cleavage sites into SARSr-CoV affects its replication and pathogenesis, which is a reasoning step explaining why evidence of these sites affects the plausibility of a claim about its potential for human infection.
+⟦34⟧ [ASSUMPTION] The chimeric viruses with known backbone (SHCO14 or WIV16) can be used to evaluate the impact of select SARSr-CoV S changes on virus replication and pathogenesis.
+⟦35⟧ [RESEARCH_QUESTION] What is the impact of select SARSr-CoV S changes on virus replication and pathogenesis?
+⟦36*⟧ [ASSUMPTION] The presence of functional proteolytic cleavage sites in SARSr-CoV S genes is a risk factor for high abundant, low risk parental strains.
+⟦37⟧ [EVIDENCE] Deep sequence data will be reviewed for low abundant high risk SARSr-CoV
+⟦38⟧ [LIMITATION] The experiments will rely on deep sequence data, which may not capture low-abundant high-risk SARSr-CoV
+⟦39⟧ [RESEARCH_QUESTION] Are there low abundant high risk SARSr-CoV that encode functional proteolytic cleavage sites?
+⟦40*⟧ [HYPOTHESIS] The presence of furin cleavage sites in SARSr-CoV S gene is associated with high risk
+⟦41⟧ [QUANTITATIVE_RESULT] 46 years old
+⟦42⟧ [LIMITATION] It is unclear whether furin is human-specific
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

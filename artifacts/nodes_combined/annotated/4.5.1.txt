@@ -1,0 +1,172 @@
+4.5.1  Rootclaim's market model
+
+⟦1⟧ ⟦2*⟧ Rootclaim created a quantitative model ([5] at 2:29:40) to illustrate how an initial patient
+unassociated with HSM could yield the observed outbreak; the goal is to show in principle
+how one might achieve ⟦3*⟧ the WHO numbers, ⟦4*⟧ ⟦5*⟧ which were 55 HSM-linked cases and 119 non-
+HSM-linked cases in 2019. It is not meant as a definitive explanation, just an example. ⟦6⟧ Let
+us walk through it:
+⟦7⟧ ⟦8⟧ 1. ⟦9⟧ The primary case occurs at WIV.
+2. ⟦10⟧ ⟦11⟧ ⟦12⟧ ⟦13⟧ After 7 doublings, there are 128 cases in Wuhan out of a population of 12 million.
+⟦14⟧ ⟦15⟧ ⟦16⟧ ⟦17⟧ With 10000 daily visitors at HSM, it takes on average 10 days for a sick person to visit
+HSM.
+⟦18⟧ ⟦19⟧ 3. ⟦20⟧ The visitor infects a resident at HSM.
+⟦21⟧ ⟦22⟧ 4. ⟦23⟧ The doubling-time of HSM-linked cases is half that of other cases. ⟦24⟧ ⟦25⟧ ⟦26⟧ ⟦27⟧ After 5 more
+doublings, there are 4096 cases outside HSM and 1024 cases associated with HSM.
+⟦28⟧ ⟦29⟧ 5. ⟦30⟧ ⟦31⟧ ⟦32⟧ 1/32 non-HSM cases are hospitalized, and 1/16 HSM cases are hospitalized, ⟦33⟧ ⟦34⟧ yielding
+128 known non-HSM cases and 64 known HSM cases.
+I find this model unrealistic in three places.
+⟦35⟧ First, it requires covid to be strangely passive before reaching HSM. ⟦36⟧ ⟦37⟧ ⟦38⟧ ⟦39⟧ ⟦40⟧ At 5% ascertainment,
+there is only a 0.14% chance none of the 128 pre-HSM cases are found; ⟦41⟧ ⟦42⟧ ⟦43⟧ at 10% ascertainment,
+this falls to 0.00014% chance. 44 45 (Indeed non-HSM cases should be observed exceeding
+HSM cases until the final doubling period.) Also, none of these 128 cases directly lead to
+super-spreading events unconnected to HSM.
+⟦44⟧ ⟦45⟧ Second, Saar entirely omitted step 3, which is a low probability event. ⟦46⟧ ⟦47⟧ A person going
+shopping might have face-to-face contact with a vendor for several minutes, facilitating
+transmission; but I expect in a typical shopping trip they will have broadly comparable
+levels of contact with dozens or hundreds of other people, such as other shoppers and on
+public transit. ⟦48*⟧ (For comparison, ⟦49⟧ ⟦50⟧ the US CDC used a minimum of 15 minutes of exposure
+to even be considered a "close contact"; though of course it would be foolish to trust your
+health to such a rule.) Either it was unlikely for the vendor to be one of the few people
+infected by the visitor, or the visitor was infecting dozens of people.
+⟦51⟧ ⟦52⟧ Third, ⟦53⟧ the great disparity in growth rates between HSM-linked cases and non-HSM-linked
+cases after covid reaches the market is implausible, as Rootclaim ignores the key factor that
+HSM-linked cases become non-HSM-linked cases if they lose their epidemiological connection
+to HSM. There are several ways one could model this process, and which is most appropriate
+depends on what is known about the early case data. ⟦54⟧ As just one example, let us suppose that
+in the ordinary doubling time of covid, a resident with covid on average infects two vendors
+and two visitors (this retains Rootclaim's assumption of HSM being twice as infective, ⟦55⟧ which
+I think is too high), ⟦56⟧ ⟦57⟧ and that "HSM-linked" includes all infected resident and visitors but
+not any indirect infections. 46 Then the number of cases after each doubling period tracks as
+follows:
+doublings resident cases visitor cases connection lost non-HSM cases
+0 1 0 0 2 7
+1 2 2 0 2 8
+2 2 2 22 22 29
+3 2 3 23 24 210
+4 2 4 24 25 + 24 210
+5 2 5 25 27 211
+6 2 6 26 28 + 26 212
+7 2 7 27 29 + 28 213
+8 2 8 28 211- 28 213
+9 2 9 29 212 214
+⟦58⟧ 44Using the 1/32 ascertainment rate Rootclaim had, it is a 1.7% chance.
+45⟦59⟧ ⟦60⟧ For any reasonable ascertainment rate, Rootclaim's model can be improved by greatly reducing the
+number of people to get ill before one goes to HSM: ⟦61⟧ at 32 people, for example, the chance that one of them
+goes to HSM is reduced by a factor of 4, but this is more than made up for by lowering the chance of one of
+the pre-HSM cases being ascertained.
+⟦62*⟧ 46Rootclaim is aiming to replicate the WHO numbers, which have only 2 indirect cases of the 55 HSM-
+linked cases; ⟦63⟧ the other 53 were infected at HSM. See appendix B.1.
+"Connection lost" refers to cases descended from the initial resident case, but whose epi-
+demiological connection to HSM is forgotten. We are being a bit loose about distinguishing
+cumulative and current infections, as I am trying to imitate Rootclaim's numbers and they
+were also loose; for exponential growth the distinction is not important.
+⟦64⟧ ⟦65⟧ ⟦66⟧ ⟦67⟧ ⟦68⟧ Note that under these assumptions (or any reasonable assumptions), the growth rate of HSM
+cases after the first doubling is entirely driven by the resident-to-resident infection rate, so
+no matter how long we continue the above table, HSM cases will never catch up to non-HSM
+cases. ⟦69⟧ ⟦70*⟧ ⟦71⟧ ⟦72⟧ ⟦73⟧ ⟦74⟧ ⟦75⟧ To get 2 10 HSM cases within 5 doublings we need each resident to infect (almost) 4
+other residents. ⟦76*⟧ ⟦77⟧ ⟦78⟧ ⟦79⟧ Also to maintain the observed half-half split of HSM cases between residents
+and visitors,47 we need each resident to infect 4 visitors - ⟦80⟧ so the total infectivity rate at HSM
+is 4 times that elsewhere in Wuhan, when I already find the 2 times rate Rootclaim proposed
+unreasonable.
+⟦81⟧ Using 4 and 4 we get:
+doublings resident cases visitor cases connection lost non-HSM cases
+0 1 0 0 2 7
+1 2 2 22 0 2 8
+2 2 4 24 23 29
+3 2 6 26 26- 24 210
+4 2 8 28 28- 25 211
+5 2 10 210 210- 26 212
+⟦82⟧ ⟦83*⟧ (Observe that even with HSM having 4 times the infectivity of non-HSM, HSM-linked cases
+still can never exceed 2/3 of all cases.)
+⟦84⟧ There are other ways to represent the loss of epidemiological link to HSM (my first version
+was to assume that each transmission has a fixed probability of lost connection, but I think
+that is less realistic), but regardless of choices I don't think there is any believable way to
+get the observed case distribution from Rootclaim's model.
+
+Claims:
+⟦1⟧ [HYPOTHESIS] The COVID-19 outbreak originated from an initial patient unassociated with the Huanan Seafood Market (HSM) and spread to HSM through an infected visitor.
+⟦2*⟧ [RESEARCH_QUESTION] How could an initial patient unassociated with Huanan Seafood Market (HSM) yield the observed outbreak of COVID-19 cases?
+⟦3*⟧ [EVIDENCE] Rootclaim's model predicts 55 HSM-linked cases and 119 non-HSM-linked cases in 2019.
+⟦4*⟧ [QUANTITATIVE_RESULT] 55 HSM-linked cases
+⟦5*⟧ [QUANTITATIVE_RESULT] 119 non-HSM-linked cases
+⟦6⟧ [HYPOTHESIS] The COVID-19 outbreak originated from a lab leak at the Wuhan Institute of Virology (WIV).
+⟦7⟧ [ASSUMPTION] The primary case occurs at WIV
+⟦8⟧ [HYPOTHESIS] The primary case of COVID-19 occurred at the Wuhan Institute of Virology (WIV).
+⟦9⟧ [EVIDENCE] The primary case occurs at WIV.
+⟦10⟧ [EVIDENCE] After 7 doublings, there are 128 cases in Wuhan out of a population of 12 million.
+⟦11⟧ [QUANTITATIVE_RESULT] 7 doublings
+⟦12⟧ [QUANTITATIVE_RESULT] 128 cases in Wuhan
+⟦13⟧ [QUANTITATIVE_RESULT] 12 million population of Wuhan
+⟦14⟧ [ASSUMPTION] It takes on average 10 days for a sick person to visit HSM
+⟦15⟧ [EVIDENCE] With 10000 daily visitors at HSM, it takes on average 10 days for a sick person to visit HSM.
+⟦16⟧ [QUANTITATIVE_RESULT] 10000 daily visitors at HSM
+⟦17⟧ [QUANTITATIVE_RESULT] 10 days for a sick person to visit HSM
+⟦18⟧ [ASSUMPTION] The visitor infects a resident at HSM
+⟦19⟧ [HYPOTHESIS] The COVID-19 virus was transmitted from a visitor to a resident at HSM, who then infected others.
+⟦20⟧ [EVIDENCE] The visitor infects a resident at HSM.
+⟦21⟧ [ASSUMPTION] The doubling-time of HSM-linked cases is half that of other cases
+⟦22⟧ [HYPOTHESIS] The doubling-time of HSM-linked cases is half that of other cases.
+⟦23⟧ [EVIDENCE] The doubling-time of HSM-linked cases is half that of other cases.
+⟦24⟧ [EVIDENCE] After 5 more doublings, there are 4096 cases outside HSM and 1024 cases associated with HSM.
+⟦25⟧ [QUANTITATIVE_RESULT] 5 more doublings
+⟦26⟧ [QUANTITATIVE_RESULT] 4096 cases outside HSM
+⟦27⟧ [QUANTITATIVE_RESULT] 1024 cases associated with HSM
+⟦28⟧ [ASSUMPTION] 1/32 non-HSM cases are hospitalized
+⟦29⟧ [ASSUMPTION] 1/16 HSM cases are hospitalized
+⟦30⟧ [EVIDENCE] 1/32 non-HSM cases are hospitalized, and 1/16 HSM cases are hospitalized.
+⟦31⟧ [QUANTITATIVE_RESULT] 1/32 non-HSM cases are hospitalized
+⟦32⟧ [QUANTITATIVE_RESULT] 1/16 HSM cases are hospitalized
+⟦33⟧ [QUANTITATIVE_RESULT] 128 known non-HSM cases
+⟦34⟧ [QUANTITATIVE_RESULT] 64 known HSM cases
+⟦35⟧ [ANALYSIS] The Rootclaim model requires COVID-19 to be strangely passive before reaching HSM, with a low probability of cases being found before HSM.
+⟦36⟧ [EVIDENCE] At 5% ascertainment, there is only a 0.14% chance none of the 128 pre-HSM cases are found.
+⟦37⟧ [LIMITATION] The Rootclaim model requires COVID-19 to be strangely passive before reaching HSM, with a low probability of none of the 128 pre-HSM cases being found at 5% ascertainment
+⟦38⟧ [QUANTITATIVE_RESULT] 5% ascertainment rate
+⟦39⟧ [QUANTITATIVE_RESULT] 0.14% chance
+⟦40⟧ [RESEARCH_QUESTION] What is the probability that none of the pre-HSM cases are found at a given ascertainment rate?
+⟦41⟧ [EVIDENCE] At 10% ascertainment, the chance that none of the 128 pre-HSM cases are found falls to 0.00014%.
+⟦42⟧ [QUANTITATIVE_RESULT] 10% ascertainment rate
+⟦43⟧ [QUANTITATIVE_RESULT] 0.00014% chance
+⟦44⟧ [ANALYSIS] The Rootclaim model omits the low-probability event of a person infecting a resident at HSM, which is unlikely due to the number of people a shopper comes into contact with.
+⟦45⟧ [LIMITATION] The Rootclaim model omits the low probability event of a person infecting a resident at HSM, which is a crucial step in the transmission process
+⟦46⟧ [ASSUMPTION] A person going shopping might have face-to-face contact with a vendor for several minutes, facilitating transmission
+⟦47⟧ [RESEARCH_QUESTION] How likely is it for a person infected with COVID-19 to infect others while shopping at HSM?
+⟦48*⟧ [ASSUMPTION] The US CDC uses a minimum of 15 minutes of exposure to even be considered a 'close contact'
+⟦49⟧ [EVIDENCE] The US CDC uses a minimum of 15 minutes of exposure to be considered a 'close contact'.
+⟦50⟧ [QUANTITATIVE_RESULT] 15 minutes of exposure
+⟦51⟧ [ANALYSIS] The great disparity in growth rates between HSM-linked cases and non-HSM-linked cases after COVID-19 reaches the market is implausible, as Rootclaim ignores the key factor that HSM-linked cases become non-HSM-linked cases if they lose their epidemiological connection to HSM.
+⟦52⟧ [LIMITATION] The Rootclaim model ignores the key factor that HSM-linked cases become non-HSM-linked cases if they lose their epidemiological connection to HSM, leading to an implausible disparity in growth rates
+⟦53⟧ [ASSUMPTION] HSM-linked cases become non-HSM-linked cases if they lose their epidemiological connection to HSM
+⟦54⟧ [ASSUMPTION] In the ordinary doubling time of covid, a resident with covid on average infects two vendors and two visitors
+⟦55⟧ [LIMITATION] The Rootclaim model's assumption of HSM being twice as infective as other locations is unreasonable
+⟦56⟧ [QUANTITATIVE_RESULT] 2 residents infected by a resident
+⟦57⟧ [QUANTITATIVE_RESULT] 2 visitors infected by a resident
+⟦58⟧ [QUANTITATIVE_RESULT] 1.7% chance
+⟦59⟧ [EVIDENCE] Rootclaim's model can be improved by greatly reducing the number of people to get ill before one goes to HSM.
+⟦60⟧ [QUANTITATIVE_RESULT] 32 people
+⟦61⟧ [EVIDENCE] At 32 people, the chance that one of them goes to HSM is reduced by a factor of 4.
+⟦62*⟧ [EVIDENCE] The WHO numbers have only 2 indirect cases of the 55 HSM-linked cases.
+⟦63⟧ [EVIDENCE] 53 of the 55 HSM-linked cases were infected at HSM.
+⟦64⟧ [ANALYSIS] The growth rate of HSM cases after the first doubling is entirely driven by the resident-to-resident infection rate, and HSM cases will never catch up to non-HSM cases under reasonable assumptions.
+⟦65⟧ [ASSUMPTION] The growth rate of HSM cases after the first doubling is entirely driven by the resident-to-resident infection rate
+⟦66⟧ [EVIDENCE] Under certain assumptions, the growth rate of HSM cases after the first doubling is entirely driven by the resident-to-resident infection rate.
+⟦67⟧ [HYPOTHESIS] The growth rate of HSM cases after the first doubling is entirely driven by the resident-to-resident infection rate.
+⟦68⟧ [RESEARCH_QUESTION] What is the growth rate of HSM-linked cases after the first doubling period, and how does it compare to non-HSM-linked cases?
+⟦69⟧ [ANALYSIS] To get 2/10 HSM cases within 5 doublings, each resident would need to infect almost 4 other residents, and to maintain the observed half-half split of HSM cases between residents and visitors, each resident would need to infect 4 visitors.
+⟦70*⟧ [ASSUMPTION] Each resident must infect (almost) 4 other residents to get 2^10 HSM cases within 5 doublings
+⟦71⟧ [EVIDENCE] To get 2^10 HSM cases within 5 doublings, each resident needs to infect almost 4 other residents.
+⟦72⟧ [HYPOTHESIS] The infectivity rate at HSM is 4 times that elsewhere in Wuhan.
+⟦73⟧ [LIMITATION] The Rootclaim model's requirement for each resident to infect almost 4 other residents to get 2/10 HSM cases within 5 doublings is unrealistic
+⟦74⟧ [QUANTITATIVE_RESULT] 4 times the infectivity rate at HSM
+⟦75⟧ [QUANTITATIVE_RESULT] 4 residents infected by a resident
+⟦76*⟧ [ASSUMPTION] Each resident must infect 4 visitors to maintain the observed half-half split of HSM cases between residents and visitors
+⟦77⟧ [EVIDENCE] To maintain the observed half-half split of HSM cases between residents and visitors, each resident needs to infect 4 visitors.
+⟦78⟧ [LIMITATION] The Rootclaim model's requirement for each resident to infect 4 visitors to maintain the observed half-half split of HSM cases between residents and visitors is unrealistic
+⟦79⟧ [QUANTITATIVE_RESULT] 4 visitors infected by a resident
+⟦80⟧ [LIMITATION] The Rootclaim model's assumption of a total infectivity rate at HSM that is 4 times that elsewhere in Wuhan is unrealistic
+⟦81⟧ [HYPOTHESIS] The observed case distribution can be explained by a model where each resident infects 4 visitors and 4 other residents at HSM.
+⟦82⟧ [ANALYSIS] Even with HSM having 4 times the infectivity of non-HSM, HSM-linked cases still cannot exceed 2/3 of all cases.
+⟦83*⟧ [QUANTITATIVE_RESULT] 2/3 of all cases
+⟦84⟧ [RESEARCH_QUESTION] How can the observed case distribution of COVID-19 be achieved from Rootclaim's model, considering the loss of epidemiological link to HSM?
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary
