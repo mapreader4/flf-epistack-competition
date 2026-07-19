@@ -20,17 +20,27 @@ enter through the NLI-gated contradiction channel. No leakage guard here anymore
 conclusory/evidentiary holdout is retired; every node (including the judge's own
 conclusions) is in the pool and gets attributed to its speaker instead (attribute_sources.py).
 
-Output: artifacts/epistemic/candidate_pairs.json = {meta, pairs:[{src,dst,channel,
-cosine,nli_entail,nli_contra,relation_signal,confidence,rank}]}.
+This is the WHOLE middle of the pipeline in one command (embed -> pairing_funnel -> score):
+  A. RETYPE SWEEP  — retype interpretive conclusions data->argument so the bottom-up
+                     channel can attach raw counts beneath them (idempotent).
+  B. CANDIDATES    — the four channels above, deduped.
+  C. CAP + RANK    — sort by cosine/NLI confidence, take top MAX_LLM_PAIRS.
+  D. LABEL         — send to gpt-oss (label_pairs.label_pairs), cached.
+  E. MERGE         — append the new cards to cards.jsonl, renumbered + deduped.
 
-    python scripts/pairing_funnel.py                       # cosine-only (local)
-    python scripts/pairing_funnel.py --nli --device cuda   # + contradiction channel (GPU)
+Output: candidate_pairs.json {meta, pairs:[...]} and cards.jsonl. --no-label stops after C.
+
+    python scripts/pairing_funnel.py --max-llm-pairs 3000      # full build (retype+pair+label+merge)
+    python scripts/pairing_funnel.py --no-label                # candidates only, no LLM
+    python scripts/pairing_funnel.py --new-nodes ids.txt       # incremental: pair only new nodes, append
+    python scripts/pairing_funnel.py --nli --device cuda       # + contradiction channel (GPU)
 """
 
 from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from collections import Counter
 from itertools import combinations, product
@@ -41,13 +51,74 @@ import numpy as np
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from epistemic_store import read_nodes, layer_of  # noqa: E402
+from epistemic_store import (  # noqa: E402
+    read_nodes, layer_of, write_jsonl, read_cards, write_cards, validate_store, card_id,
+)
+from label_pairs import label_pairs  # noqa: E402
 
 # budget fractions of MAX_LLM_PAIRS
 BUDGET = {"top_down": 0.50, "data->argument": 0.30, "argument->question": 0.15,
           "contradiction": 0.05}
 TOPK_PER_HYP = 50           # nearest data nodes retrieved per question node (top-down)
 NLI_MODEL = "cross-encoder/nli-deberta-v3-base"
+
+# --- FIX 1 retype sweep -------------------------------------------------------------
+# Data-layer nodes whose text carries inference markers are interpretive conclusions,
+# not raw data; they belong in the argument layer so the bottom-up data->argument
+# channel can attach the raw counts beneath them (see design.md "THE TWO DIRECTIONS").
+_JUDGMENT = [re.compile(p, re.I) for p in [
+    r"\bpoints?\s+to\b", r"\bsuggests?\b", r"\bfavou?rs?\b",
+    r"\bleans?\s+(towards?|toward)\b", r"\bindicat(e|es|ed|ing)\b",
+    r"supports?\s+(the\s+)?(hypothesis|zoonotic|lab.?leak|claim|conclusion|idea|view|notion)",
+    r"\bconsistent\s+with\b",
+    r"the\s+author\s+(assess|assesses|believes|concludes|estimates|judges|argues|thinks|considers)",
+    r"\bimplicat(e|es|ed|ing)\b", r"\bimplies\b", r"\b(more|less)\s+likely\b",
+    r"\bis\s+evidence\s+(for|that|against|of)\b",
+    r"bayes\s+factor\s+(of\s+|in\s+favou?r|is\s+|for\s+the|favou?rs)",
+    r"\bweighs?\s+(in|against|towards?|for)\b",
+    r"\b(strengthens?|weakens?|undermines?|bolsters?)\b",
+    r"\bprobability\s+of\b.*\bbeing\b",
+]]
+_EXCLUDE = re.compile(
+    r"is\s+called|is\s+defined|refers?\s+to|we\s+define|let\s+\w+\s+be|"
+    r"shading\s+(on\s+the\s+map\s+)?indicates|a\s+bayes\s+factor\s+is\s+how|"
+    r"is\s+the\s+(ratio|event|probability|virus|disease|number|name)|"
+    r"in\s+probability\s+theory|\bcoin\b|\bheads\b|can\s+help\s+us|"
+    r"help\s+us\s+(gain|understand)|we\s+(could|can)\s+say|"
+    r"using\s+hypothesis\s+testing|amenable\s+to",
+    re.I,
+)
+
+
+def retype_bridges(nodes) -> int:
+    """Retype interpretive-conclusion nodes from data -> argument (in place). Idempotent:
+    already-argument nodes are skipped. Returns the count moved. Original type kept in
+    meta.retyped_from."""
+    moved = 0
+    for n in nodes:
+        if layer_of(n.type) != "data":
+            continue
+        t = n.canonical_text
+        if _EXCLUDE.search(t) or not any(p.search(t) for p in _JUDGMENT):
+            continue
+        n.meta["retyped_from"] = n.type
+        n.meta["retype_reason"] = "interpretive-conclusion (pairing_funnel retype sweep)"
+        n.type = "claim"
+        n.meta["layer"] = "argument"
+        moved += 1
+    return moved
+
+
+def write_nodes(path, nodes) -> int:
+    return write_jsonl(path, nodes)
+
+
+def _load_new_ids(spec: str) -> set[str]:
+    p = Path(spec)
+    if p.exists():
+        txt = p.read_text()
+        return {x.strip() for x in re.split(r"[\s,]+", txt) if x.strip().startswith("n-")}
+    return {x.strip() for x in spec.split(",") if x.strip()}
 
 
 def make_nli(model_name, device=None):
@@ -85,8 +156,16 @@ def main() -> None:
     ap.add_argument("--emb", default=str(ROOT / "artifacts" / "epistemic" / "embeddings.npy"))
     ap.add_argument("--emb-index", default=str(ROOT / "artifacts" / "epistemic" / "embeddings_index.json"))
     ap.add_argument("--out", default=str(ROOT / "artifacts" / "epistemic" / "candidate_pairs.json"))
+    ap.add_argument("--cards", default=str(ROOT / "artifacts" / "epistemic" / "cards.jsonl"),
+                    help="cards output (labeling + merge run inline unless --no-label)")
     ap.add_argument("--max-llm-pairs", type=int, default=1000)
     ap.add_argument("--topk-per-hyp", type=int, default=TOPK_PER_HYP)
+    ap.add_argument("--new-nodes", default=None,
+                    help="incremental ingest: comma-list or a file of node_ids; pair only "
+                         "these against the existing graph and APPEND (dedup) to --out/--cards")
+    ap.add_argument("--no-retype", action="store_true", help="skip the FIX-1 retype sweep")
+    ap.add_argument("--no-label", action="store_true", help="stop after writing candidate_pairs (no LLM)")
+    ap.add_argument("--model", default="openai/gpt-oss-120b")
     ap.add_argument("--nli", action="store_true", help="enable NLI rerank + contradiction channel (needs GPU to be fast)")
     ap.add_argument("--nli-model", default=NLI_MODEL)
     ap.add_argument("--device", default=None, help="cuda | mps | cpu (default auto)")
@@ -94,6 +173,19 @@ def main() -> None:
     args = ap.parse_args()
 
     nodes = read_nodes(args.nodes)
+
+    # --- STEP A: retype sweep (FIX 1) ----------------------------------------------
+    # Interpretive conclusions mis-typed as data can't receive support (data->data is
+    # blocked), so the support chain stays one hop deep. Retype them to the argument
+    # layer before pairing. Idempotent: retyped nodes leave the data layer.
+    if not args.no_retype:
+        n_ret = retype_bridges(nodes)
+        if n_ret:
+            write_nodes(args.nodes, nodes)
+            print(f"retype sweep: moved {n_ret} interpretive-conclusion nodes data->argument")
+        else:
+            print("retype sweep: nothing to retype (already applied)")
+
     text = {n.node_id: n.canonical_text for n in nodes}
     mat = np.load(args.emb)
     idx = json.loads(Path(args.emb_index).read_text())
@@ -103,10 +195,17 @@ def main() -> None:
     # pool = ALL nodes (leakage guard retired). group by 3-layer.
     by_layer = {"data": [], "argument": [], "question": []}
     for n in nodes:
-        by_layer[layer_of(n.type)].append(n.node_id)
+        if n.node_id in row:
+            by_layer[layer_of(n.type)].append(n.node_id)
     data_ids, arg_ids, q_ids = by_layer["data"], by_layer["argument"], by_layer["question"]
     print(f"Pool: {len(nodes)} nodes (no holdout)  data={len(data_ids)} "
           f"arg={len(arg_ids)} q={len(q_ids)}")
+
+    # incremental ingest: restrict every channel so one side is a new node
+    new_ids = _load_new_ids(args.new_nodes) if args.new_nodes else None
+    if new_ids:
+        new_ids &= set(data_ids) | set(arg_ids) | set(q_ids)
+        print(f"incremental: {len(new_ids)} new nodes -> pairing them against the existing graph")
 
     def emb(ids):
         return norm[[row[i] for i in ids]]
@@ -126,17 +225,17 @@ def main() -> None:
         flat.sort(key=lambda t: -t[2])
         return [_pair(s, d, channel, c) for s, d, c in flat[:budget]]
 
-    def top_down(budget):
-        """For each question node, its k nearest data nodes → (data → question)."""
-        if not q_ids or not data_ids or budget <= 0:
+    def top_down(q_pool, d_pool, budget):
+        """For each question node in q_pool, its k nearest data nodes → (data → question)."""
+        if not q_pool or not d_pool or budget <= 0:
             return []
-        sim = emb(q_ids) @ emb(data_ids).T                       # [Q x D]
-        k = min(args.topk_per_hyp, len(data_ids))
+        sim = emb(q_pool) @ emb(d_pool).T                        # [Q x D]
+        k = min(args.topk_per_hyp, len(d_pool))
         cand = []
-        for qi in range(len(q_ids)):
+        for qi in range(len(q_pool)):
             top = np.argpartition(-sim[qi], k - 1)[:k]
             for j in top:
-                cand.append((data_ids[j], q_ids[qi], sim[qi, j]))  # evidence → hypothesis
+                cand.append((d_pool[j], q_pool[qi], sim[qi, j]))  # evidence → hypothesis
         cand.sort(key=lambda t: -t[2])
         return [_pair(s, d, "top_down", c) for s, d, c in cand[:budget]]
 
@@ -150,9 +249,21 @@ def main() -> None:
         b_ct = 0
 
     pairs = []
-    pairs += top_down(b_td)
-    pairs += rank_pairs(data_ids, arg_ids, "data->argument", b_da)
-    pairs += rank_pairs(arg_ids, q_ids, "argument->question", b_aq)
+    if new_ids:
+        # same channels, but every pair must touch a new node (new×existing ∪ new×new)
+        nd = [d for d in data_ids if d in new_ids]
+        na = [a for a in arg_ids if a in new_ids]
+        nq = [q for q in q_ids if q in new_ids]
+        pairs += top_down(nq, data_ids, b_td)        # new hypotheses ← all data
+        pairs += top_down(q_ids, nd, b_td)           # all hypotheses ← new data
+        pairs += rank_pairs(nd, arg_ids, "data->argument", b_da)
+        pairs += rank_pairs(data_ids, na, "data->argument", b_da)
+        pairs += rank_pairs(na, q_ids, "argument->question", b_aq)
+        pairs += rank_pairs(arg_ids, nq, "argument->question", b_aq)
+    else:
+        pairs += top_down(q_ids, data_ids, b_td)
+        pairs += rank_pairs(data_ids, arg_ids, "data->argument", b_da)
+        pairs += rank_pairs(arg_ids, q_ids, "argument->question", b_aq)
 
     # contradiction channel: cosine-nearest data↔data / arg↔arg, kept only if NLI says
     # contradiction. Needs NLI; skipped otherwise.
@@ -180,26 +291,64 @@ def main() -> None:
                      relation_signal=float(max(e, c)),
                      confidence=0.7 * float(max(e, c)) + 0.3 * np.clip((p["cosine"] - .70) / .30, 0, 1))
 
+    # incremental: every pair must touch a new node (safety net for the contradiction channel)
+    if new_ids:
+        pairs = [p for p in pairs if p["src"] in new_ids or p["dst"] in new_ids]
+
+    # dedup against pairs that already exist (incremental appends; full build starts clean)
+    prior_pairs = []
+    prior_keys = set()
+    if new_ids and Path(args.out).exists():
+        prior_pairs = json.loads(Path(args.out).read_text()).get("pairs", [])
+        prior_keys = {(p["src"], p["dst"]) for p in prior_pairs}
+
     # dedup (safety) + global rank + cap
     seen, uniq = set(), []
     for p in sorted(pairs, key=lambda p: -p["confidence"]):
         key = (p["src"], p["dst"])
-        if key in seen:
+        if key in seen or key in prior_keys:
             continue
         seen.add(key)
         uniq.append(p)
     uniq = uniq[:M]
-    for r, p in enumerate(uniq):
+
+    all_pairs = prior_pairs + uniq
+    for r, p in enumerate(all_pairs):
         p["rank"] = r
 
-    meta = {"max_llm_pairs": M, "n_pairs": len(uniq),
+    meta = {"max_llm_pairs": M, "n_pairs": len(all_pairs), "new_this_run": len(uniq),
             "nli_model": args.nli_model if args.nli else None,
             "topk_per_hyp": args.topk_per_hyp, "budget": BUDGET,
             "pool_nodes": len(nodes), "leakage_guard": "retired",
-            "by_channel": dict(Counter(p["channel"] for p in uniq))}
-    Path(args.out).write_text(json.dumps({"meta": meta, "pairs": uniq}, indent=2))
-    print(f"\nwrote {len(uniq)} candidate pairs -> {args.out}")
+            "by_channel": dict(Counter(p["channel"] for p in all_pairs))}
+    Path(args.out).write_text(json.dumps({"meta": meta, "pairs": all_pairs}, indent=2))
+    print(f"\nwrote {len(all_pairs)} candidate pairs ({len(uniq)} new) -> {args.out}")
     print("  by channel:", meta["by_channel"])
+
+    if args.no_label:
+        print("--no-label: stopping before the LLM labeling step")
+        return
+
+    # --- STEP D + E: label the new pairs and merge into cards.jsonl -----------------
+    base_cards = read_cards(args.cards) if (new_ids and Path(args.cards).exists()) else []
+    new_cards, _events, stats = label_pairs(uniq, text, model=args.model,
+                                            start_index=len(base_cards))
+    have = {(frozenset(c.premises), c.target, c.kind) for c in base_cards}
+    merged = list(base_cards)
+    for c in new_cards:
+        k = (frozenset(c.premises), c.target, c.kind)
+        if k in have:
+            continue
+        have.add(k)
+        c.card_id = card_id(len(merged))
+        merged.append(c)
+    errs = validate_store(nodes, [], merged)
+    if errs:
+        print("  VALIDATION ERRORS:", errs[:10])
+    n_written = write_cards(args.cards, merged)
+    print(f"\nlabeled {stats['pairs_in']} pairs -> {stats['cards_out']} cards; "
+          f"merged store: {n_written} cards -> {args.cards}"
+          f"  (${stats['tokens']['total'] / 1e6 * 0.30:.3f})")
 
 
 if __name__ == "__main__":
