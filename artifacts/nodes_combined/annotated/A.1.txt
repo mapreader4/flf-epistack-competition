@@ -1,0 +1,38 @@
+A.1  Lineage B outcompeted lineage A
+
+⟦1*⟧ ⟦2*⟧ ⟦3*⟧ Rootclaim argued that some of the observed distribution of lineages A and B in 2019 Decem-
+ber were due to lineage B having greater evolutionary fitness than lineage A. ⟦4⟧ However, ⟦5⟧ at
+this time ⟦6⟧ the two lineages disagreed in only two nucleotides, ⟦7⟧ ⟦8⟧ ⟦9⟧ one of which was a synonymous
+mutation, ⟦10⟧ ⟦11⟧ and the other having unclear relevance.
+⟦12⟧ ⟦13⟧ ⟦14⟧ ⟦15⟧ ⟦16⟧ The D614G mutation greatly increased the evolutionary fitness of sars-cov-2; ⟦17⟧ a strain within
+lineage B that had this mutation grew around 2020 February or March and outcompeted
+all other sars-cov-2 strains of either lineage at that time. ⟦18⟧ ⟦19⟧ This created the appearance that
+lineage B could outcompete lineage A, ⟦20⟧ ⟦21⟧ ⟦22⟧ ⟦23⟧ but it was only due to a mutation that was not
+significantly present in Wuhan in 2019 December.
+
+Claims:
+⟦1*⟧ [ANALYSIS] Rootclaim's argument that lineage B had greater evolutionary fitness than lineage A is questionable because the two lineages only differed in two nucleotides at the time.
+⟦2*⟧ [HYPOTHESIS] Lineage B has greater evolutionary fitness than lineage A due to the D614G mutation
+⟦3*⟧ [RESEARCH_QUESTION] Did lineage B outcompete lineage A due to greater evolutionary fitness?
+⟦4⟧ [ASSUMPTION] The difference in evolutionary fitness between lineage A and lineage B in 2019 December was due to factors other than the D614G mutation
+⟦5⟧ [EVIDENCE] Lineage A and B differed by only two nucleotides in 2019 December
+⟦6⟧ [QUANTITATIVE_RESULT] 2 nucleotides difference between lineage A and lineage B
+⟦7⟧ [EVIDENCE] One of the nucleotide differences between lineage A and B was a synonymous mutation
+⟦8⟧ [LIMITATION] The relevance of one of the two nucleotide differences between lineage A and lineage B is unclear
+⟦9⟧ [QUANTITATIVE_RESULT] 1 synonymous mutation between lineage A and lineage B
+⟦10⟧ [EVIDENCE] The other nucleotide difference between lineage A and B had unclear relevance
+⟦11⟧ [RESEARCH_QUESTION] What was the relevance of the non-synonymous mutation between lineages A and B?
+⟦12⟧ [ANALYSIS] The D614G mutation increased the evolutionary fitness of sars-cov-2, allowing a strain within lineage B to outcompete other strains.
+⟦13⟧ [ASSUMPTION] The D614G mutation greatly increased the evolutionary fitness of sars-cov-2
+⟦14⟧ [EVIDENCE] Lineage B had greater evolutionary fitness than lineage A due to the D614G mutation
+⟦15⟧ [HYPOTHESIS] The D614G mutation increases the evolutionary fitness of sars-cov-2
+⟦16⟧ [RESEARCH_QUESTION] Did the D614G mutation increase the evolutionary fitness of sars-cov-2?
+⟦17⟧ [EVIDENCE] A strain within lineage B with the D614G mutation outcompeted other sars-cov-2 strains
+⟦18⟧ [ANALYSIS] The outcompetition of lineage A by lineage B was due to the D614G mutation, not inherent differences between the lineages.
+⟦19⟧ [HYPOTHESIS] The outcompetition of lineage A by lineage B is due to the D614G mutation, not inherent differences between the lineages
+⟦20⟧ [ASSUMPTION] The strain within lineage B that had the D614G mutation was not significantly present in Wuhan in 2019 December
+⟦21⟧ [EVIDENCE] The D614G mutation was not significantly present in Wuhan in 2019 December
+⟦22⟧ [LIMITATION] The D614G mutation was not significantly present in Wuhan in 2019 December, which affects the interpretation of lineage B's ability to outcompete lineage A
+⟦23⟧ [RESEARCH_QUESTION] Was the D614G mutation significantly present in Wuhan in 2019 December?
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

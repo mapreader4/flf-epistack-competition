@@ -1,0 +1,20 @@
+A  Assorted arguments presented by Rootclaim
+
+⟦1⟧ ⟦2⟧ ⟦3⟧ So far I have only directly discussed a small minority of ⟦4⟧ the many points brought up by
+Rootclaim in ⟦5⟧ the ⟦6⟧ 20 hours of debate. ⟦7⟧ ⟦8⟧ It is fair for the reader to wonder ⟦9⟧ why I was not
+persuaded by those other points, so I address a few of them here, ⟦10⟧ ⟦11⟧ ⟦12⟧ focusing largely on the
+arguments I think others are most likely to have found convincing.
+
+Claims:
+⟦1⟧ [ANALYSIS] The judge has only directly discussed a small minority of the many points brought up by Rootclaim in the 20 hours of debate.
+⟦2⟧ [ASSUMPTION] There are many points brought up by Rootclaim in the 20 hours of debate that the author has not directly discussed.
+⟦3⟧ [LIMITATION] The judge's discussion only covers a small minority of the many points brought up by Rootclaim.
+⟦4⟧ [EVIDENCE] Rootclaim brought up many points in the 20 hours of debate
+⟦5⟧ [EVIDENCE] The debate lasted 20 hours
+⟦6⟧ [QUANTITATIVE_RESULT] 20 hours
+⟦7⟧ [ANALYSIS] The judge thinks it is fair for the reader to wonder why they were not persuaded by the other points brought up by Rootclaim.
+⟦8⟧ [ASSUMPTION] The reader may wonder why the author was not persuaded by other points brought up by Rootclaim.
+⟦9⟧ [RESEARCH_QUESTION] Why was the judge not persuaded by the other points brought up by Rootclaim?
+⟦10⟧ [ANALYSIS] The judge thinks others are most likely to have found certain arguments convincing.
+⟦11⟧ [ASSUMPTION] The author thinks that others may have found certain arguments convincing.
+⟦12⟧ [LIMITATION] The judge's address of additional points is limited to those they think others are most likely to have found convincing.

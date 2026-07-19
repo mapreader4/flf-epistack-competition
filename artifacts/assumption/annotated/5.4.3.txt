@@ -1,0 +1,19 @@
+5.4.3  Previously documented research activities at WIV
+
+In response to written questions, Rootclaim [7] identified two papers that described relevant
+laboratory work conducted at WIV. In both cases the work involved editing a backbone of
+WIV1,⟦1*⟧  a specific sars-like coronavirus genome chosen for its lack of "pandemic potential",
+⟦2⟧ and thus presumably safer to work with than a pathogenic virus. In one project, ⟦3⟧ they edited
+WIV1 by replacing its spike protein with spike proteins found in viruses collected from bats
+in Yunnan [19]. Human and monkey cells were then exposed to the recombinant viruses to
+determine its infectivity. In another project, ⟦4⟧ they removed a gene in WIV1 that is absent in
+sars-cov-1 to see if the virus would still work in human and monkey cells [37].
+62raccoonpox, not sars
+
+Claims:
+⟦1*⟧ [ASSUMPTION] WIV1, a specific sars-like coronavirus genome, lacks pandemic potential
+⟦2⟧ [ASSUMPTION] WIV1 is safer to work with than a pathogenic virus
+⟦3⟧ [ASSUMPTION] Replacing the spike protein of WIV1 with spike proteins from viruses collected from bats in Yunnan will determine its infectivity
+⟦4⟧ [ASSUMPTION] The removal of a gene in WIV1 that is absent in sars-cov-1 will determine if the virus still works in human and monkey cells
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

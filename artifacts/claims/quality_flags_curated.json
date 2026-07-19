@@ -1,0 +1,187 @@
+{
+  "claims_path": "artifacts/claims/claims.json",
+  "n_claims": 124,
+  "n_flagged": 18,
+  "flagged": [
+    {
+      "claim_id": "claim-423d8e755c6037003427513e25a42d95",
+      "section_number": "5.4",
+      "position_in_section": 2,
+      "claim_text": "The project involved collecting bat coronaviruses and performing computer and lab testing on them.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-73619e8b267c7ed5af22895846c63c7d",
+      "section_number": "5.4.1",
+      "position_in_section": 4,
+      "claim_text": "The proposal will conduct in vitro pseudovirus binding assays and live virus binding assays for isolated strains.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-79fef7195e36b11c5bf185d523d3e591",
+      "section_number": "5.4.1",
+      "position_in_section": 5,
+      "claim_text": "The proposal will put the genes for the spike proteins into known viruses which have been selected for their low pandemic potential.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-ef6e595ebaff309ab58cf97d9290dac7",
+      "section_number": "5.4.2",
+      "position_in_section": 0,
+      "claim_text": "The Wuhan Institute of Virology (WIV) would have been involved in screening bat samples for sars-like viruses and sequencing spike proteins in Phase 1, tasks 3.1 and 3.2.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-db6f537d09ea2cb600fad56f396bcafb",
+      "section_number": "5.4.2",
+      "position_in_section": 2,
+      "claim_text": "The Wuhan Institute of Virology (WIV) would have been involved in verifying assays on rabbits and blood samples from people who had SARS-1 in Tasks 6.2 and 6.3.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-d444dca0fe9c5826c32b8b9f458d6357",
+      "section_number": "5.4.4",
+      "position_in_section": 1,
+      "claim_text": "The proposal discusses adding cleavage sites in general shortly after referring to furin cleavage sites by name",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-9cd790dd7c54aa497116bf3799e619e8",
+      "section_number": "5.4.4",
+      "position_in_section": 3,
+      "claim_text": "The proposal does not discuss any in vivo genetic modification",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-2cf6a14b14f0bf490859ed9ada71af97",
+      "section_number": "7.1",
+      "position_in_section": 0,
+      "claim_text": "The judge had a fundamental misunderstanding of what drives new pandemics before the debate.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-fa8fd80cccf68cd8d4f61110ea235517",
+      "section_number": "7.2",
+      "position_in_section": 8,
+      "claim_text": "The judge estimates the probability of all the necessary conditions for the lab-leak hypothesis to be at most 1/50",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-e50bef56ade5292552e0bc6399219fe5",
+      "section_number": "7.2",
+      "position_in_section": 10,
+      "claim_text": "The judge estimates the annualized probability of the first lab leak occurring to be at most 1 per 1.7 years",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-44e39d22de8ae18e0a184eac91ad8922",
+      "section_number": "7.2",
+      "position_in_section": 13,
+      "claim_text": "The judge argues that the chance of a lab leak is lower than the chance that a leak is followed by an outbreak in the lab",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-a6292e9b57d0029ea2b8461d70a15f51",
+      "section_number": "7.2",
+      "position_in_section": 15,
+      "claim_text": "The judge estimates the probability of a lab leak to be no higher than 1/50",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-a8f724822b9f4c97c5ca011767d8f902",
+      "section_number": "7.4",
+      "position_in_section": 2,
+      "claim_text": "This observation arguably has a Bayes factor of 15 in favor of Z, as LL has no viable explanation for this coincidence.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-91e293d13b780179e6b9503b206f7676",
+      "section_number": "7.5",
+      "position_in_section": 1,
+      "claim_text": "It is hard to find definitive proof of a virus's origin by examining its genetic sequence",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-0122b72d796ca05168111d360340ba9a",
+      "section_number": "7.6",
+      "position_in_section": 1,
+      "claim_text": "The judge does not believe the probability of a lab leak is only 1 in 1300 due to significant uncertainties in the analysis",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-2aad1ea505e28a96ed372cb366fc1352",
+      "section_number": "7.6",
+      "position_in_section": 2,
+      "claim_text": "The judge thinks the numerical calculation gives an undeserved illusion of certainty",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-9d1297c77ab3096d22fc0690994b184d",
+      "section_number": "7.6",
+      "position_in_section": 3,
+      "claim_text": "The judge prefers a more qualitative summary of the evidence",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-0c3a4708280a64470bcf90514944712d",
+      "section_number": "7.6",
+      "position_in_section": 11,
+      "claim_text": "The coincidence of location between Eddie Holmes's 2014 photos and the Wuhan CDC's visit to HSM is odd and has no explanation under the lab leak hypothesis",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    }
+  ]
+}

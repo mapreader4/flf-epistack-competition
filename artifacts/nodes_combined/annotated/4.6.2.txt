@@ -1,0 +1,81 @@
+4.6.2  Correlations between animal DNA and sars-cov-2 positivity
+
+⟦1⟧ ⟦2⟧ Rootclaim observed ([1] at 2:56:30) that ⟦3⟧ statistical analysis of environmental samples show
+⟦4⟧ no or negative correlation between samples that contain DNA from species such as raccoon
+dog and samples that test positive. ⟦5⟧ It would not have occurred to me to perform this
+comparison, and I do not think it is useful or relevant.
+⟦6⟧ ⟦7⟧ The animals at HSM were caged and did not have freedom to move about the market.
+⟦8⟧ ⟦9⟧ While there would have been some disease communication between them, particularly within
+a single shop, ⟦10⟧ disease communication between animals would presumably have been lower
+than between humans at HSM who could and did move between multiple shops and interact
+with other humans. ⟦11⟧ ⟦12⟧ ⟦13⟧ I expect that at the time of spillover, ⟦14⟧ very few animals at HSM would
+have been carrying sars-cov-2 infections, compared to the number who might be susceptible
+to it. ⟦15⟧ ⟦16⟧ (It is quite possible that some would later be infected by humans.)
+⟦17⟧ ⟦18⟧ ⟦19⟧ ⟦20⟧ ⟦21⟧ ⟦22⟧ Any positive correlation between samples that contain raccoon dog DNA and samples that
+test for sars-cov-2 would only occur if the samples happened to contain material from the
+specific raccoon dogs that were carrying sars-cov-2. ⟦23⟧ ⟦24⟧ ⟦25⟧ ⟦26⟧ There are probably few or no such
+samples, so ⟦27⟧ the expected correlation under the zoonotic hypothesis would be weak or zero.
+⟦28*⟧ Moreover, ⟦29⟧ there are several species in HSM suspected as being potential sars-cov-2 interme-
+diaries (such as raccoon dog, civet, and bamboo rat); ⟦30⟧ ⟦31⟧ ⟦32⟧ ⟦33⟧ presumably only one of them could
+have any positive correlation, with the others being zero as they are irrelevant.
+⟦34⟧ ⟦35⟧ ⟦36⟧ ⟦37⟧ ⟦38⟧ ⟦39⟧ Even if there were a positive correlation, it could be overwhelmed by confounding factors.
+⟦40⟧ After the first round of testing appeared to identify the region with live animals as a potential
+source of the pandemic, ⟦41⟧ a second round of testing included 10 samples at each of 7 different
+shops that sold wildlife [22]. ⟦42⟧ ⟦43⟧ ⟦44⟧ ⟦45⟧ This sampling, two weeks later on January 12, ⟦46⟧ would have
+had a lower positivity rate due to the additional time for the sars-cov-2 RNA to decay.
+⟦47⟧ ⟦48⟧ ⟦49⟧ ⟦50⟧ Consequentially this would induce a negative correlation between samples with wildlife and
+samples with sars-cov-2.
+
+Claims:
+⟦1⟧ [ANALYSIS] The presence of DNA from species such as raccoon dog in environmental samples does not correlate with sars-cov-2 positivity, as observed by Rootclaim through statistical analysis.
+⟦2⟧ [EVIDENCE] Rootclaim observed that statistical analysis of environmental samples show no or negative correlation between samples that contain DNA from species such as raccoon dog and samples that test positive for sars-cov-2.
+⟦3⟧ [RESEARCH_QUESTION] What is the correlation between animal DNA and SARS-CoV-2 positivity in environmental samples?
+⟦4⟧ [QUANTITATIVE_RESULT] no or negative correlation between samples that contain DNA from species such as raccoon dog and samples that test positive for sars-cov-2
+⟦5⟧ [LIMITATION] The comparison between animal DNA and sars-cov-2 positivity may not be useful or relevant.
+⟦6⟧ [ASSUMPTION] The animals at Huanan Seafood Market (HSM) were caged and did not have freedom to move about the market.
+⟦7⟧ [EVIDENCE] The animals at Huanan Seafood Market (HSM) were caged and did not have freedom to move about the market.
+⟦8⟧ [ANALYSIS] Disease communication between animals at HSM would have been lower than between humans due to the animals being caged and having limited movement.
+⟦9⟧ [EVIDENCE] Disease communication between animals at HSM would presumably have been lower than between humans at HSM who could and did move between multiple shops and interact with other humans.
+⟦10⟧ [ASSUMPTION] Disease communication between animals at HSM would have been lower than between humans at HSM.
+⟦11⟧ [ANALYSIS] Few animals at HSM would have been carrying sars-cov-2 infections at the time of spillover, compared to the number susceptible to it.
+⟦12⟧ [ASSUMPTION] At the time of spillover, very few animals at HSM would have been carrying sars-cov-2 infections.
+⟦13⟧ [EVIDENCE] At the time of spillover, very few animals at HSM would have been carrying sars-cov-2 infections, compared to the number who might be susceptible to it.
+⟦14⟧ [QUANTITATIVE_RESULT] very few animals at HSM would have been carrying sars-cov-2 infections
+⟦15⟧ [ASSUMPTION] Some animals at HSM might later be infected by humans.
+⟦16⟧ [EVIDENCE] Some animals at HSM might later be infected by humans with sars-cov-2.
+⟦17⟧ [ANALYSIS] Any positive correlation between raccoon dog DNA and sars-cov-2 positivity would require the samples to contain material from the specific raccoon dogs carrying sars-cov-2, which is unlikely.
+⟦18⟧ [ASSUMPTION] A positive correlation between samples that contain raccoon dog DNA and samples that test for sars-cov-2 would only occur if the samples happened to contain material from the specific raccoon dogs that were carrying sars-cov-2.
+⟦19⟧ [EVIDENCE] Any positive correlation between samples that contain raccoon dog DNA and samples that test for sars-cov-2 would only occur if the samples happened to contain material from the specific raccoon dogs that were carrying sars-cov-2.
+⟦20⟧ [HYPOTHESIS] The zoonotic hypothesis predicts a weak or zero correlation between samples that contain raccoon dog DNA and samples that test positive for sars-cov-2.
+⟦21⟧ [LIMITATION] The expected correlation between samples containing raccoon dog DNA and samples testing positive for sars-cov-2 would be weak or zero due to the low number of animals carrying the infection.
+⟦22⟧ [RESEARCH_QUESTION] Would a positive correlation between raccoon dog DNA and SARS-CoV-2 positivity occur if the samples contained material from raccoon dogs carrying SARS-CoV-2?
+⟦23⟧ [ANALYSIS] The expected correlation under the zoonotic hypothesis would be weak or zero due to the low number of samples containing material from infected raccoon dogs.
+⟦24⟧ [ASSUMPTION] There are probably few or no samples that contain material from the specific raccoon dogs that were carrying sars-cov-2.
+⟦25⟧ [EVIDENCE] There are probably few or no samples that contain material from the specific raccoon dogs that were carrying sars-cov-2.
+⟦26⟧ [QUANTITATIVE_RESULT] few or no samples contain material from the specific raccoon dogs that were carrying sars-cov-2
+⟦27⟧ [EVIDENCE] The expected correlation under the zoonotic hypothesis between samples that contain raccoon dog DNA and samples that test for sars-cov-2 would be weak or zero.
+⟦28*⟧ [ANALYSIS] Only one species suspected as a potential sars-cov-2 intermediary could have a positive correlation, while the others would have zero correlation.
+⟦29⟧ [EVIDENCE] Several species in HSM, such as raccoon dog, civet, and bamboo rat, are suspected as being potential sars-cov-2 intermediaries.
+⟦30⟧ [ASSUMPTION] Only one species in HSM could have a positive correlation with sars-cov-2, with the others being zero as they are irrelevant.
+⟦31⟧ [EVIDENCE] Only one of the suspected species could have any positive correlation with sars-cov-2, with the others being zero as they are irrelevant.
+⟦32⟧ [HYPOTHESIS] The zoonotic hypothesis predicts that only one species suspected as being a potential sars-cov-2 intermediary, such as raccoon dog, civet, or bamboo rat, could have a positive correlation with sars-cov-2, while the others would have zero correlation.
+⟦33⟧ [LIMITATION] Only one of the suspected intermediate species may have a positive correlation with sars-cov-2, while the others may have zero correlation.
+⟦34⟧ [ANALYSIS] Any positive correlation could be overwhelmed by confounding factors.
+⟦35⟧ [ASSUMPTION] Confounding factors could overwhelm any positive correlation between samples that contain DNA from species such as raccoon dog and samples that test positive for sars-cov-2.
+⟦36⟧ [EVIDENCE] A positive correlation between samples that contain DNA from a suspected species and samples that test for sars-cov-2 could be overwhelmed by confounding factors.
+⟦37⟧ [HYPOTHESIS] Confounding factors could overwhelm any positive correlation between samples with wildlife and samples with sars-cov-2.
+⟦38⟧ [LIMITATION] The correlation analysis may be affected by confounding factors.
+⟦39⟧ [RESEARCH_QUESTION] Can confounding factors overwhelm a potential positive correlation between animal DNA and SARS-CoV-2 positivity?
+⟦40⟧ [EVIDENCE] A second round of testing included 10 samples at each of 7 different shops that sold wildlife on January 12.
+⟦41⟧ [QUANTITATIVE_RESULT] 10 samples at each of 7 different shops that sold wildlife
+⟦42⟧ [ANALYSIS] The second round of testing, conducted two weeks after the first round, would have had a lower positivity rate due to the additional time for sars-cov-2 RNA to decay, inducing a negative correlation between samples with wildlife and samples with sars-cov-2.
+⟦43⟧ [ASSUMPTION] The sars-cov-2 RNA would decay over time, resulting in a lower positivity rate in later samples.
+⟦44⟧ [EVIDENCE] The second round of testing on January 12 would have had a lower positivity rate due to the additional time for the sars-cov-2 RNA to decay.
+⟦45⟧ [RESEARCH_QUESTION] How would the additional time for SARS-CoV-2 RNA to decay affect the positivity rate in samples taken two weeks after the initial testing?
+⟦46⟧ [QUANTITATIVE_RESULT] lower positivity rate due to the additional time for the sars-cov-2 RNA to decay after two weeks
+⟦47⟧ [ASSUMPTION] The second round of testing would induce a negative correlation between samples with wildlife and samples with sars-cov-2 due to the decay of sars-cov-2 RNA.
+⟦48⟧ [EVIDENCE] The sampling on January 12 would induce a negative correlation between samples with wildlife and samples with sars-cov-2.
+⟦49⟧ [HYPOTHESIS] The sampling of wildlife shops two weeks after the initial testing would induce a negative correlation between samples with wildlife and samples with sars-cov-2 due to the decay of sars-cov-2 RNA.
+⟦50⟧ [LIMITATION] The sampling method may induce a negative correlation between samples with wildlife and samples with sars-cov-2 due to the decay of sars-cov-2 RNA over time.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

@@ -1,0 +1,57 @@
+4.4  Early ascertainment bias
+
+⟦1⟧ The ascertainment rate of covid refers to the fraction of covid cases that become known;
+before covid became known, the main way for people to be diagnosed is retrospectively in
+samples that were collected while they were in a hospital. ⟦2⟧ ⟦3⟧ People who became sick with covid
+before 2020 and recovered without going to a hospital will mostly be unknown. ⟦4⟧ There is some
+nuance here, in that people who visit local hospital clinics are less likely to have samples
+amenable to retrospective analysis than those who went to a major tertiary hospital; and
+the possible distinction between "going to a hospital" versus "being hospitalized". ⟦5⟧ ⟦6⟧ ⟦7⟧ ⟦8⟧ ⟦9⟧ We can
+roughly estimate the early ascertainment rate as somewhere around 5% to 10% based on the
+hospitalization rate of covid.
+⟦10⟧ ⟦11⟧ ⟦12⟧ Ascertainment rate bias refers to any biases in how likely some cases are to be ascertained
+than others; ⟦13⟧ ⟦14⟧ most notably that in the first half of 2020 January having an epidemiological
+link to HSM was required for diagnosis. ⟦15⟧ Other, smaller biases likely also existed. However
+⟦16⟧ ⟦17⟧ ⟦18⟧ I think the ascertainment rate for hospitalized cases to be quite good, ⟦19⟧ ⟦20⟧ and effectively zero
+for non-hospitalized cases; if so, that places a sharp upper bound on how much bias could
+exist.41
+⟦21⟧ ⟦22⟧ 41⟦23⟧ ⟦24⟧ other than any biases that influence whether patients become hospitalized at all⟦25*⟧ 
+⟦26*⟧ ⟦27*⟧ ⟦28⟧ Rootclaim initially argued that ascertainment rate bias made covid more likely to be de-
+tected early at HSM even when there could be clusters in multiple locations. However they
+eventually mooted this point (correctly, in my opinion), ⟦29⟧ ⟦30⟧ ⟦31⟧ which makes any ascertainment bias
+irrelevant to the discussion of where the first SSE took place.
+
+Claims:
+⟦1⟧ [RESEARCH_QUESTION] What is the ascertainment rate of COVID-19 cases?
+⟦2⟧ [ASSUMPTION] People who became sick with covid before 2020 and recovered without going to a hospital will mostly be unknown
+⟦3⟧ [EVIDENCE] People who became sick with covid before 2020 and recovered without going to a hospital will mostly be unknown.
+⟦4⟧ [LIMITATION] The ascertainment rate of covid is uncertain and may be biased due to differences in sampling and diagnosis methods
+⟦5⟧ [ANALYSIS] The early ascertainment rate of covid can be roughly estimated as somewhere around 5% to 10% based on the hospitalization rate of covid.
+⟦6⟧ [ASSUMPTION] The ascertainment rate of covid can be roughly estimated based on the hospitalization rate of covid
+⟦7⟧ [EVIDENCE] The ascertainment rate of covid is roughly estimated to be around 5% to 10% based on the hospitalization rate of covid.
+⟦8⟧ [LIMITATION] The early ascertainment rate of covid is roughly estimated and may not be accurate
+⟦9⟧ [QUANTITATIVE_RESULT] 5% to 10% early ascertainment rate of covid cases
+⟦10⟧ [ANALYSIS] Ascertainment rate bias refers to any biases in how likely some cases are to be ascertained than others, notably that in the first half of 2020 January having an epidemiological link to HSM was required for diagnosis.
+⟦11⟧ [LIMITATION] Ascertainment rate bias may exist due to differences in likelihood of case ascertainment
+⟦12⟧ [RESEARCH_QUESTION] How does the likelihood of ascertainment vary among COVID-19 cases?
+⟦13⟧ [ASSUMPTION] Having an epidemiological link to HSM was required for diagnosis in the first half of 2020 January
+⟦14⟧ [EVIDENCE] Having an epidemiological link to HSM was required for diagnosis in the first half of 2020 January.
+⟦15⟧ [ASSUMPTION] Other, smaller biases in ascertainment rate likely existed
+⟦16⟧ [ANALYSIS] The ascertainment rate for hospitalized cases is likely to be quite good, and effectively zero for non-hospitalized cases, which places a sharp upper bound on how much bias could exist.
+⟦17⟧ [ASSUMPTION] The ascertainment rate for hospitalized cases is quite good
+⟦18⟧ [EVIDENCE] The ascertainment rate for hospitalized cases is quite good, and effectively zero for non-hospitalized cases.
+⟦19⟧ [ASSUMPTION] The ascertainment rate for non-hospitalized cases is effectively zero
+⟦20⟧ [LIMITATION] The ascertainment rate for non-hospitalized cases is effectively zero
+⟦21⟧ [ANALYSIS] Any biases that influence whether patients become hospitalized at all could affect the ascertainment rate bias.
+⟦22⟧ [RESEARCH_QUESTION] Can ascertainment rate bias influence the likelihood of hospitalization among COVID-19 patients?
+⟦23⟧ [ASSUMPTION] Biases that influence whether patients become hospitalized at all could affect the ascertainment rate
+⟦24⟧ [LIMITATION] Biases may influence whether patients become hospitalized at all
+⟦25*⟧ [RESEARCH_QUESTION] What is the impact of ascertainment rate bias on the detection of COVID-19 cases at different locations?
+⟦26*⟧ [ANALYSIS] Rootclaim initially argued that ascertainment rate bias made covid more likely to be detected early at HSM even when there could be clusters in multiple locations, but they eventually mooted this point.
+⟦27*⟧ [EVIDENCE] Rootclaim initially argued that ascertainment rate bias made covid more likely to be detected early at HSM.
+⟦28⟧ [HYPOTHESIS] The COVID-19 ascertainment rate bias makes COVID-19 more likely to be detected early at HSM even when there could be clusters in multiple locations, according to Rootclaim
+⟦29⟧ [ANALYSIS] The mooted point about ascertainment rate bias makes it irrelevant to the discussion of where the first SSE took place.
+⟦30⟧ [HYPOTHESIS] The ascertainment rate bias is irrelevant to the discussion of where the first SSE took place
+⟦31⟧ [LIMITATION] The ascertainment rate bias may be irrelevant to the discussion of where the first SSE took place
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

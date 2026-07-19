@@ -1,0 +1,30 @@
+5.4.4  Summary of significance of proposal
+
+⟦1⟧ The proposal does not explicitly state it would add furin cleavage sites to viruses, but it
+does discuss adding cleavage sites in general shortly after referring to furin cleavage sites by
+name.
+⟦2*⟧ Most, but not all, of the genetic modification involved using backbones from known, pre-
+existing viruses.
+⟦3⟧ The proposal does not, as far as I understand, discuss any in vivo genetic modification; all
+editing was to be done by directly altering sequences, not by passaging through humanized
+mice or other organisms. Viruses would be used in vivo only for testing pathogenecity.
+⟦4⟧ The proposal does specifically say it would screen for wild viruses with high affinity towards
+human ACE2.
+⟦5⟧ Overall, the Project DEFUSE proposal is a bit eerie in how it calls out multiple features that
+are quite distinct in sars-cov-2. However these features were previously known or suspected
+to be important to human coronaviruses, and the proposal is hardly a blueprint for building
+sars-cov-2, containing many irrelevancies and missing key components.
+⟦6⟧ Project DEFUSE is most relevant in that it shows that the community of virologists was
+broadly interested in making chimeric viruses with certain features which have the potential
+for lab leak risk if handled improperly, and not that WIV in specific planned to do a particular
+research path that would lead to creating sars-cov-2.
+
+Claims:
+⟦1⟧ [ANALYSIS] The proposal's discussion of adding cleavage sites, including furin cleavage sites, implies a potential for creating viruses with increased transmissibility.
+⟦2*⟧ [ANALYSIS] The use of backbones from known, pre-existing viruses in genetic modification reduces the likelihood of creating a completely novel virus.
+⟦3⟧ [ANALYSIS] The proposal's focus on in vitro genetic editing, rather than in vivo modification, reduces the risk of accidental creation of a highly transmissible virus.
+⟦4⟧ [ANALYSIS] Screening for wild viruses with high affinity towards human ACE2 increases the likelihood of identifying viruses with potential for human transmission.
+⟦5⟧ [ANALYSIS] The presence of features distinct in SARS-CoV-2 in the Project DEFUSE proposal does not necessarily imply a direct link to the creation of SARS-CoV-2, as these features were previously known to be important for human coronaviruses.
+⟦6⟧ [ANALYSIS] The Project DEFUSE proposal indicates a broader interest in the virology community in creating chimeric viruses with certain features, which poses a lab leak risk if handled improperly.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

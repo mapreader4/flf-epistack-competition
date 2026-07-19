@@ -1,0 +1,63 @@
+5.4.4  Summary of significance of proposal
+
+⟦1⟧ ⟦2⟧ ⟦3⟧ ⟦4⟧ The proposal does not explicitly state it would add furin cleavage sites to viruses, ⟦5⟧ but it
+does discuss adding cleavage sites in general shortly after referring to furin cleavage sites by
+name.
+⟦6*⟧ ⟦7*⟧ ⟦8*⟧ ⟦9*⟧ ⟦10*⟧ ⟦11*⟧ Most, but not all, of the genetic modification involved using backbones from known, pre-
+existing viruses.
+⟦12⟧ ⟦13⟧ ⟦14⟧ ⟦15⟧ ⟦16⟧ The proposal does not, as far as I understand, discuss any in vivo genetic modification; ⟦17⟧ all
+editing was to be done by directly altering sequences, not by passaging through humanized
+mice or other organisms. ⟦18⟧ ⟦19⟧ ⟦20⟧ Viruses would be used in vivo only for testing pathogenecity.
+⟦21⟧ ⟦22⟧ ⟦23⟧ The proposal does specifically say it would screen for wild viruses with high affinity towards
+human ACE2.
+⟦24⟧ ⟦25⟧ Overall, the Project DEFUSE proposal is a bit eerie in how it calls out multiple features that
+are quite distinct in sars-cov-2. ⟦26⟧ ⟦27⟧ ⟦28⟧ However these features were previously known or suspected
+to be important to human coronaviruses, ⟦29⟧ and ⟦30⟧ ⟦31⟧ the proposal is hardly a blueprint for building
+sars-cov-2, containing many irrelevancies and missing key components.
+⟦32⟧ ⟦33⟧ ⟦34⟧ ⟦35⟧ ⟦36⟧ ⟦37⟧ Project DEFUSE is most relevant in that it shows that the community of virologists was
+broadly interested in making chimeric viruses with certain features ⟦38⟧ which have the potential
+for lab leak risk if handled improperly, ⟦39⟧ and not that WIV in specific planned to do a particular
+research path that would lead to creating sars-cov-2.
+
+Claims:
+⟦1⟧ [ANALYSIS] The proposal's discussion of adding cleavage sites, including furin cleavage sites, implies a potential for creating viruses with increased transmissibility.
+⟦2⟧ [ASSUMPTION] The proposal's discussion of adding cleavage sites in general implies it would add furin cleavage sites to viruses.
+⟦3⟧ [LIMITATION] The proposal does not explicitly state it would add furin cleavage sites to viruses
+⟦4⟧ [RESEARCH_QUESTION] Would the proposal add furin cleavage sites to viruses?
+⟦5⟧ [EVIDENCE] The proposal discusses adding cleavage sites in general, including furin cleavage sites by name.
+⟦6*⟧ [ANALYSIS] Most genetic modifications in the proposal involved using backbones from known, pre-existing viruses, which may indicate a lower risk of creating a novel virus.
+⟦7*⟧ [ASSUMPTION] All genetic modification involved using backbones from known, pre-existing viruses.
+⟦8*⟧ [EVIDENCE] Most genetic modification involved using backbones from known, pre-existing viruses.
+⟦9*⟧ [LIMITATION] Not all of the genetic modification involved using backbones from known, pre-existing viruses
+⟦10*⟧ [QUANTITATIVE_RESULT] most, but not all, of the genetic modification involved using backbones from known, pre-existing viruses
+⟦11*⟧ [RESEARCH_QUESTION] What genetic modification was involved in the proposal?
+⟦12⟧ [ANALYSIS] The proposal's focus on in vitro genetic editing, rather than in vivo modification, reduces the likelihood of accidental release of a modified virus.
+⟦13⟧ [ASSUMPTION] The proposal does not discuss any in vivo genetic modification.
+⟦14⟧ [EVIDENCE] The proposal does not discuss any in vivo genetic modification.
+⟦15⟧ [LIMITATION] The proposal does not discuss any in vivo genetic modification
+⟦16⟧ [RESEARCH_QUESTION] Did the proposal discuss in vivo genetic modification?
+⟦17⟧ [EVIDENCE] All editing was to be done by directly altering sequences, not by passaging through humanized mice or other organisms.
+⟦18⟧ [ASSUMPTION] Viruses would be used in vivo only for testing pathogenicity.
+⟦19⟧ [EVIDENCE] Viruses would be used in vivo only for testing pathogenecity.
+⟦20⟧ [RESEARCH_QUESTION] How would viruses be used in the proposal?
+⟦21⟧ [ANALYSIS] The proposal's plan to screen for wild viruses with high affinity towards human ACE2 suggests an interest in identifying viruses with potential for human transmission.
+⟦22⟧ [EVIDENCE] The proposal would screen for wild viruses with high affinity towards human ACE2.
+⟦23⟧ [RESEARCH_QUESTION] What was the purpose of screening for wild viruses in the proposal?
+⟦24⟧ [ANALYSIS] The features outlined in the Project DEFUSE proposal, while similar to those of SARS-CoV-2, were previously known or suspected to be important for human coronaviruses, and do not necessarily imply a direct connection to the creation of SARS-CoV-2.
+⟦25⟧ [EVIDENCE] Project DEFUSE proposal calls out multiple features distinct in sars-cov-2.
+⟦26⟧ [ASSUMPTION] The features mentioned in the Project DEFUSE proposal were previously known or suspected to be important to human coronaviruses.
+⟦27⟧ [EVIDENCE] These features were previously known or suspected to be important to human coronaviruses.
+⟦28⟧ [LIMITATION] The proposal is hardly a blueprint for building sars-cov-2, containing many irrelevancies and missing key components
+⟦29⟧ [EVIDENCE] The proposal is not a blueprint for building sars-cov-2, containing many irrelevancies and missing key components.
+⟦30⟧ [HYPOTHESIS] The Project DEFUSE proposal is a blueprint for building sars-cov-2
+⟦31⟧ [RESEARCH_QUESTION] Is the Project DEFUSE proposal a blueprint for building sars-cov-2?
+⟦32⟧ [ANALYSIS] The Project DEFUSE proposal demonstrates the broader interest of the virology community in creating chimeric viruses with certain features, which poses a potential lab leak risk if handled improperly.
+⟦33⟧ [ASSUMPTION] The community of virologists was broadly interested in making chimeric viruses with certain features that have the potential for lab leak risk if handled improperly.
+⟦34⟧ [EVIDENCE] Project DEFUSE shows the community of virologists was broadly interested in making chimeric viruses with certain features.
+⟦35⟧ [HYPOTHESIS] The community of virologists was broadly interested in making chimeric viruses with certain features which have the potential for lab leak risk if handled improperly
+⟦36⟧ [LIMITATION] Project DEFUSE is not evidence that WIV planned to do a particular research path that would lead to creating sars-cov-2
+⟦37⟧ [RESEARCH_QUESTION] What does Project DEFUSE show about the community of virologists?
+⟦38⟧ [EVIDENCE] These features have the potential for lab leak risk if handled improperly.
+⟦39⟧ [HYPOTHESIS] WIV planned to do a particular research path that would lead to creating sars-cov-2
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

@@ -1,0 +1,21 @@
+4.5.5  Are other diseases drawn to HSM?
+
+Rootclaim estimates that there was a 10% chance of the first covid outbreak appearing in
+HSM; their reasoning applies equally well to other respiratory diseases. We should expect,
+then, that in a typical winter HSM has one of the first 10 flu outbreaks in Wuhan. Com-
+parable markets elsewhere in Wuhan or in other cities should similarly be early nexuses of
+flus, colds, and other diseases.
+Is this true? I have no direct evidence either for or against this, but I strongly suspect
+that if it were true someone would have noticed by now. China, like the US, invests in flu
+surveillance and has a significant motive to identify potential infection sources or focuses.
+Saar contests that the factors favoring HSM are unique to when there are very few cases
+present in a city, as the high rate of visitor traffic becomes less relevant when the disease is
+abundant everywhere ([4] at 20:40). However disease transmission should remain linear at
+low case counts, and nonlinearities only begin when some subpopulation has so many cases
+as to create significant immunity. If the number of infected people in a city is doubled, the
+rate of outbreaks at every location is doubled, and the chance that a certain location is first
+remains unchanged.
+(However people have cross-year immunity to the flu and other endemic diseases, which will
+slightly dampen inter-location variation in infectivity.)
+
+(no claims extracted for this section)

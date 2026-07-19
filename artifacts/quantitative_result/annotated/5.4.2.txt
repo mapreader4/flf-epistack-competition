@@ -1,0 +1,25 @@
+5.4.2  Proposed activities that would have involved WIV
+
+The proposal also contains ⟦1⟧ a detailed breakdown of the planned activities into 61 tasks, and
+which groups will be doing each. Here I have summarized each step that WIV would have
+been involved in:
+1. ⟦2⟧ Phase 1, tasks 3.1 and 3.2: Screen bat samples for sars-like viruses and sequence spike
+proteins
+2. Task 6.1: make assays for identifying antibodies to known sars-like viruses
+3. ⟦3⟧ Tasks 6.2 and 6.3: verify assays on rabbits and blood samples from people who had
+SARS-1
+4. Task 6.4: test assays on people in Yunnan to look for sars-like spillover events
+5. ⟦4⟧ Tasks 7.5 and 8.5: test viral 62 vector vaccine on captive bats
+6. ⟦5⟧ Phase 2, tasks 5.1 through 5.4: Identify cave features; surveil bats; deploy vaccines or
+immune boosters to caves; surveil bats
+As far as I can see, no genetic engineering would be performed at WIV, nor would any
+chimeric viruses be brought there, except prototype vaccines which use a raccoonpox chimera.
+WIV was to be involved with samples collected from bats, tests on bats, tests on people who
+live near bats, and experiments in bat caves.
+
+Claims:
+⟦1⟧ [QUANTITATIVE_RESULT] 61 tasks
+⟦2⟧ [QUANTITATIVE_RESULT] 2 tasks (3.1 and 3.2)
+⟦3⟧ [QUANTITATIVE_RESULT] 2 tasks (6.2 and 6.3)
+⟦4⟧ [QUANTITATIVE_RESULT] 2 tasks (7.5 and 8.5)
+⟦5⟧ [QUANTITATIVE_RESULT] 4 tasks (5.1 through 5.4)

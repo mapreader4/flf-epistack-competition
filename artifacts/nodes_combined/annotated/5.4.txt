@@ -1,0 +1,39 @@
+5.4  Project DEFUSE
+
+⟦1⟧ In 2018, the EcoHealth Alliance submitted a grant request to DARPA for ⟦2⟧ $14 million for
+"Project DEFUSE", ⟦3⟧ ⟦4⟧ a 3.5 year project on bat coronaviruses ⟦5⟧ in collaboration with 5 other
+groups ⟦6⟧ (located at UNC, Duke-National University Singapore, WIV, USGS National Wildlife
+Health Center, and Palo Alto Research Center) [14, 20]. ⟦7⟧ ⟦8⟧ ⟦9⟧ ⟦10⟧ To my knowledge, the project was
+not funded. ⟦11⟧ The project involved quite a large number of goals and steps and can be
+organized as follows:
+⟦12⟧ ⟦13⟧ ⟦14⟧ ⟦15⟧ 1. Collect bat coronaviruses and perform computer and lab testing on them
+⟦16⟧ ⟦17⟧ ⟦18⟧ ⟦19⟧ 2. Deploy vaccines and immune boosting agents to wild bats
+⟦20⟧ ⟦21⟧ ⟦22⟧ ⟦23⟧ 3. ⟦24⟧ Write an app for soldiers to figure out how likely bats are to have dangerous diseases
+⟦25⟧ (gotta appeal to DARPA somehow?)
+
+Claims:
+⟦1⟧ [EVIDENCE] The EcoHealth Alliance submitted a grant request to DARPA for $14 million for Project DEFUSE in 2018
+⟦2⟧ [QUANTITATIVE_RESULT] 14 million dollars
+⟦3⟧ [EVIDENCE] Project DEFUSE was a 3.5 year project on bat coronaviruses in collaboration with 5 other groups
+⟦4⟧ [QUANTITATIVE_RESULT] 3.5 years
+⟦5⟧ [QUANTITATIVE_RESULT] 5 other groups
+⟦6⟧ [EVIDENCE] Project DEFUSE collaborators included UNC, Duke-National University Singapore, WIV, USGS National Wildlife Health Center, and Palo Alto Research Center
+⟦7⟧ [ANALYSIS] The EcoHealth Alliance's Project DEFUSE was not funded by DARPA.
+⟦8⟧ [ASSUMPTION] The EcoHealth Alliance's grant request for Project DEFUSE was not funded.
+⟦9⟧ [EVIDENCE] The project was not funded, to the author's knowledge
+⟦10⟧ [LIMITATION] The project 'Project DEFUSE' was not funded, which may limit its implementation and the collection of data on bat coronaviruses.
+⟦11⟧ [RESEARCH_QUESTION] What are the goals and steps of Project DEFUSE?
+⟦12⟧ [ANALYSIS] Project DEFUSE involved collecting bat coronaviruses and performing computer and lab testing on them.
+⟦13⟧ [ASSUMPTION] Project DEFUSE involved collecting bat coronaviruses and performing computer and lab testing on them.
+⟦14⟧ [EVIDENCE] Project DEFUSE involved collecting bat coronaviruses and performing computer and lab testing on them
+⟦15⟧ [HYPOTHESIS] The EcoHealth Alliance's Project DEFUSE would collect bat coronaviruses and perform computer and lab testing on them
+⟦16⟧ [ANALYSIS] Project DEFUSE involved deploying vaccines and immune boosting agents to wild bats.
+⟦17⟧ [ASSUMPTION] Project DEFUSE involved deploying vaccines and immune boosting agents to wild bats.
+⟦18⟧ [EVIDENCE] Project DEFUSE involved deploying vaccines and immune boosting agents to wild bats
+⟦19⟧ [HYPOTHESIS] The EcoHealth Alliance's Project DEFUSE would deploy vaccines and immune boosting agents to wild bats
+⟦20⟧ [ANALYSIS] Project DEFUSE involved writing an app for soldiers to determine the likelihood of bats having dangerous diseases.
+⟦21⟧ [ASSUMPTION] Project DEFUSE involved writing an app for soldiers to figure out how likely bats are to have dangerous diseases.
+⟦22⟧ [EVIDENCE] Project DEFUSE involved writing an app for soldiers to determine the likelihood of bats having dangerous diseases
+⟦23⟧ [HYPOTHESIS] The EcoHealth Alliance's Project DEFUSE would write an app for soldiers to figure out how likely bats are to have dangerous diseases
+⟦24⟧ [RESEARCH_QUESTION] How likely are bats to have dangerous diseases?
+⟦25⟧ [ASSUMPTION] DARPA would be interested in a project that involves writing an app for soldiers to figure out how likely bats are to have dangerous diseases.

@@ -1,0 +1,47 @@
+5.6  Leading proline
+
+⟦1⟧ The amino acids near the sars-cov-2 FCS are
+QTQTNSPRRARSVAS
+⟦2⟧ whereas the most closely related known virus banal-20-52 has
+QTQTNSRSVAS
+at this location. ⟦3⟧ ⟦4⟧ The difference between these is PRRA.
+⟦5⟧ ⟦6⟧ ⟦7⟧ The RRAR subsequence constitutes an FCS, ⟦8⟧ which explains why a laboratory worker might
+insert a sequence like RRA, but ⟦9⟧ wherefore the proline P?
+⟦10⟧ ⟦11⟧ I see no satisfying explanation for what might motivate the decision to include a proline
+at this location, ⟦12⟧ and ⟦13⟧ ⟦14⟧ ⟦15⟧ ⟦16⟧ ⟦17⟧ it seems quite unlikely that the natural precursor virus happened to
+have such an inserted proline at the exact location that researchers add an additional insert.
+⟦18⟧ ⟦19⟧ However we should not expect every decision someone makes to have an obvious post hoc
+explanation. ⟦20⟧ ⟦21⟧ ⟦22⟧ ⟦23⟧ There are many arbitrary choices during the course of a genetic engineering
+experiment, and it is hardly strange if a few of them are not the most canonical or optimal.
+⟦24⟧ ⟦25⟧ ⟦26*⟧ I do not think the proline requires a specific explanation under the lab leak theory (and
+likewise the "out-of-frame" nature of the insert).
+
+Claims:
+⟦1⟧ [EVIDENCE] The amino acid sequence near the sars-cov-2 FCS is QTQTNSPRRARSVAS
+⟦2⟧ [EVIDENCE] The most closely related known virus banal-20-52 has the amino acid sequence QTQTNSRSVAS at the same location
+⟦3⟧ [ANALYSIS] The difference in the FCS sequence between sars-cov-2 and the most closely related known virus banal-20-52 is PRRA, which includes the RRAR subsequence that constitutes an FCS.
+⟦4⟧ [EVIDENCE] The difference between the sars-cov-2 FCS and the banal-20-52 sequence is PRRA
+⟦5⟧ [ANALYSIS] The RRAR subsequence in the sars-cov-2 FCS sequence explains why a laboratory worker might insert a sequence like RRA.
+⟦6⟧ [EVIDENCE] The RRAR subsequence constitutes an FCS
+⟦7⟧ [HYPOTHESIS] A laboratory worker might insert a sequence like RRA.
+⟦8⟧ [EVIDENCE] A laboratory worker might insert a sequence like RRA
+⟦9⟧ [RESEARCH_QUESTION] What might motivate the decision to include a proline at the specific location near the sars-cov-2 FCS?
+⟦10⟧ [EVIDENCE] There is no satisfying explanation for the inclusion of a proline at the specific location in the sars-cov-2 FCS
+⟦11⟧ [LIMITATION] The decision to include a proline at the specific location in the sars-cov-2 FCS may not have an obvious post hoc explanation
+⟦12⟧ [EVIDENCE] It is unlikely that the natural precursor virus happened to have an inserted proline at the exact location that researchers add an additional insert
+⟦13⟧ [ANALYSIS] The presence of the proline P in the sars-cov-2 FCS sequence is unlikely to have occurred naturally at the exact location where researchers add an additional insert.
+⟦14⟧ [ASSUMPTION] The natural precursor virus is unlikely to have had an inserted proline at the exact location where researchers would add an additional insert.
+⟦15⟧ [HYPOTHESIS] The natural precursor virus happened to have an inserted proline at the exact location that researchers add an additional insert.
+⟦16⟧ [LIMITATION] It is uncertain whether the natural precursor virus happened to have an inserted proline at the exact location that researchers add an additional insert
+⟦17⟧ [RESEARCH_QUESTION] Is the presence of the proline at the exact location that researchers add an additional insert in the natural precursor virus likely?
+⟦18⟧ [ASSUMPTION] Not every decision made during a genetic engineering experiment has an obvious post hoc explanation.
+⟦19⟧ [LIMITATION] Not every decision made during a genetic engineering experiment should be expected to have an obvious post hoc explanation
+⟦20⟧ [ANALYSIS] There are many arbitrary choices during the course of a genetic engineering experiment, and some of them may not be the most canonical or optimal.
+⟦21⟧ [ASSUMPTION] There are many arbitrary choices made during the course of a genetic engineering experiment.
+⟦22⟧ [HYPOTHESIS] The decision to include a proline at this location in a genetic engineering experiment was an arbitrary choice.
+⟦23⟧ [LIMITATION] There are many arbitrary choices during the course of a genetic engineering experiment that may not be the most canonical or optimal
+⟦24⟧ [ANALYSIS] The inclusion of a proline at this location in the sars-cov-2 FCS sequence does not require a specific explanation under the lab leak theory.
+⟦25⟧ [ASSUMPTION] The presence of a proline at a specific location in the sars-cov-2 FCS does not require a specific explanation under the lab leak theory.
+⟦26*⟧ [HYPOTHESIS] The proline does not require a specific explanation under the lab leak theory.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

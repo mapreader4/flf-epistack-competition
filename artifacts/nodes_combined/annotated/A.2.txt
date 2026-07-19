@@ -1,0 +1,74 @@
+A.2  Connor Reed
+
+⟦1⟧ ⟦2⟧ ⟦3⟧ ⟦4⟧ Connor Reed was a 25 year old British man living in Wuhan who claims he became ill with
+covid on 2019 November 25. In interviews, ⟦5⟧ ⟦6⟧ ⟦7⟧ he says he went to the hospital and was tested
+on December 6, ⟦8⟧ and he was told that the test came back positive for covid on 2020 January
+16.
+⟦9⟧ If I believed every anecdotal story I saw related on the internet of people contracting covid,
+I could point to a swathe of covid cases worldwide that preceded the lockdown of Wuhan.
+⟦10⟧ There are far more people who believe they acquired covid in 2019 than ever did have covid
+in 2019. ⟦11⟧ Nevertheless, ⟦12⟧ ⟦13⟧ ⟦14⟧ Reed's story is more credible 74 than others', as he was willing to put
+his name to it, gave substantive details in interviews with the press, and claimed to have
+received a positive test result.
+⟦15⟧ ⟦16⟧ ⟦17⟧ ⟦18⟧ ⟦19⟧ ⟦20⟧ It is unlikely for a 25-year-old with covid to be hospitalized. Furthermore, ⟦21⟧ ⟦22⟧ ⟦23⟧ Reed described
+his illness as undergoing multiple recoveries and relapses, ⟦24⟧ ⟦25⟧ ⟦26⟧ so even if his story is accurate we
+only know that he had covid as early as December 6, which could have been the last of a
+succession of two or more unrelated illnesses.
+⟦27⟧ ⟦28⟧ ⟦29⟧ ⟦30⟧ ⟦31⟧ It is also unlikely for the index case of covid to be a British man. ⟦32⟧ ⟦33⟧ ⟦34⟧ English-speaking residents
+in Wuhan are much more likely to be interviewed by Western journalists; this introduces a
+strong selection bias as to which cases are ascertained by Western newspapers. While this
+selection bias is equally strong for true and falsely believed cases of covid, ⟦35⟧ ⟦36⟧ ⟦37⟧ the fact that
+British newspapers were able to locate a British index case should raise our prior belief that
+a significant fraction of people are willing to falsely believe that they had covid.
+74or less non-credible
+⟦38⟧ ⟦39⟧ ⟦40⟧ ⟦41⟧ ⟦42⟧ ⟦43⟧ If Reed is telling the truth that his samples tested positive in a retrospective search conducted
+by the hospital he went to, then why does no retrospective search contain his case? ⟦44⟧ This
+necessitates the existence of unpublished retrospective searches.
+⟦45⟧ I do not believe Connor Reed acquired covid on November 25.
+
+Claims:
+⟦1⟧ [EVIDENCE] Connor Reed, a 25-year-old British man living in Wuhan, claims he became ill with COVID-19 on November 25, 2019
+⟦2⟧ [HYPOTHESIS] Connor Reed acquired covid on November 25, 2019
+⟦3⟧ [QUANTITATIVE_RESULT] 25 years old
+⟦4⟧ [QUANTITATIVE_RESULT] 2019 November 25
+⟦5⟧ [EVIDENCE] Connor Reed went to the hospital and was tested on December 6, 2019
+⟦6⟧ [QUANTITATIVE_RESULT] December 6
+⟦7⟧ [QUANTITATIVE_RESULT] 2020 January 16
+⟦8⟧ [EVIDENCE] Connor Reed was told that the test came back positive for COVID-19 on January 16, 2020
+⟦9⟧ [RESEARCH_QUESTION] Did Connor Reed acquire COVID-19 on November 25, 2019?
+⟦10⟧ [LIMITATION] There may be a high number of false beliefs about acquiring covid in 2019, which could affect the credibility of anecdotal stories like Connor Reed's
+⟦11⟧ [QUANTITATIVE_RESULT] 74
+⟦12⟧ [ANALYSIS] Connor Reed's story is more credible than others' because he was willing to put his name to it, gave substantive details in interviews with the press, and claimed to have received a positive test result.
+⟦13⟧ [ASSUMPTION] Connor Reed's story is more credible than others' because he was willing to put his name to it, gave substantive details in interviews with the press, and claimed to have received a positive test result.
+⟦14⟧ [EVIDENCE] Connor Reed's story is more credible than others' because he was willing to put his name to it and gave substantive details in interviews
+⟦15⟧ [ANALYSIS] It is unlikely for a 25-year-old with covid to be hospitalized.
+⟦16⟧ [ASSUMPTION] It is unlikely for a 25-year-old with covid to be hospitalized.
+⟦17⟧ [EVIDENCE] It is unlikely for a 25-year-old with COVID-19 to be hospitalized
+⟦18⟧ [LIMITATION] It is unlikely for a 25-year-old with covid to be hospitalized, which raises questions about Connor Reed's story
+⟦19⟧ [QUANTITATIVE_RESULT] 25-year-old
+⟦20⟧ [RESEARCH_QUESTION] What is the likelihood of a 25-year-old with COVID-19 being hospitalized?
+⟦21⟧ [EVIDENCE] Connor Reed described his illness as undergoing multiple recoveries and relapses
+⟦22⟧ [HYPOTHESIS] Connor Reed's illness was not covid, but rather a succession of two or more unrelated illnesses
+⟦23⟧ [LIMITATION] Connor Reed's illness description of multiple recoveries and relapses introduces uncertainty about the timing of his covid infection
+⟦24⟧ [ANALYSIS] Even if Connor Reed's story is accurate, we only know that he had covid as early as December 6, which could have been the last of a succession of two or more unrelated illnesses.
+⟦25⟧ [QUANTITATIVE_RESULT] two or more
+⟦26⟧ [RESEARCH_QUESTION] Could Connor Reed's illness have been a succession of two or more unrelated illnesses?
+⟦27⟧ [ANALYSIS] It is unlikely for the index case of covid to be a British man due to selection bias introduced by English-speaking residents in Wuhan being more likely to be interviewed by Western journalists.
+⟦28⟧ [ASSUMPTION] The index case of covid is unlikely to be a British man.
+⟦29⟧ [HYPOTHESIS] The index case of covid was a British man, specifically Connor Reed
+⟦30⟧ [LIMITATION] The credibility of Connor Reed's story may be limited by the fact that it is unlikely for the index case of covid to be a British man
+⟦31⟧ [RESEARCH_QUESTION] Is it likely that the index case of COVID-19 was a British man?
+⟦32⟧ [ASSUMPTION] English-speaking residents in Wuhan are much more likely to be interviewed by Western journalists, introducing a strong selection bias.
+⟦33⟧ [EVIDENCE] English-speaking residents in Wuhan are more likely to be interviewed by Western journalists, introducing a strong selection bias
+⟦34⟧ [LIMITATION] Selection bias may affect the ascertainment of covid cases by Western newspapers, particularly for English-speaking residents in Wuhan like Connor Reed
+⟦35⟧ [ANALYSIS] The fact that British newspapers were able to locate a British index case should raise our prior belief that a significant fraction of people are willing to falsely believe that they had covid.
+⟦36⟧ [ASSUMPTION] A significant fraction of people are willing to falsely believe that they had covid.
+⟦37⟧ [HYPOTHESIS] A significant fraction of people are willing to falsely believe that they had covid
+⟦38⟧ [ANALYSIS] If Connor Reed is telling the truth that his samples tested positive in a retrospective search conducted by the hospital he went to, then the existence of unpublished retrospective searches is necessitated.
+⟦39⟧ [ASSUMPTION] If Connor Reed's samples tested positive, then there must have been unpublished retrospective searches.
+⟦40⟧ [EVIDENCE] Connor Reed's case is not included in any retrospective search
+⟦41⟧ [HYPOTHESIS] There exist unpublished retrospective searches that contain Connor Reed's case
+⟦42⟧ [LIMITATION] The absence of Connor Reed's case in retrospective searches raises questions about the existence of unpublished retrospective searches
+⟦43⟧ [RESEARCH_QUESTION] Why does no retrospective search contain Connor Reed's case if his samples tested positive?
+⟦44⟧ [RESEARCH_QUESTION] Do unpublished retrospective searches exist?
+⟦45⟧ [HYPOTHESIS] Connor Reed did not acquire covid on November 25, 2019

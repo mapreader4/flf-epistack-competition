@@ -1,0 +1,36 @@
+C.2  To play cards or to play mahjong
+
+After the debate decision was finalized, ⟦1⟧ I asked several native Chinese speakers about the
+translation of "
+ ". ⟦2⟧ ⟦3⟧ ⟦4⟧ ⟦5⟧ ⟦6⟧ ⟦7⟧ One said that it could refer to playing any of a variety of game pieces
+including cards or mahjong tiles, and context would be required to distinguish them. ⟦8⟧ ⟦9⟧ ⟦10⟧ ⟦11⟧ ⟦12⟧ ⟦13⟧ The
+others (separately) said that they have exclusively heard it in reference to playing cards,
+⟦14⟧ ⟦15⟧ ⟦16⟧ ⟦17⟧ ⟦18⟧ but several found that according to a dictionary it could also mean to play mahjong. ⟦19⟧ ⟦20⟧ ⟦21⟧ ⟦22⟧ Note
+that there does exist a Chinese word for mahjong (where the English word comes from, of
+course), ⟦23⟧ ⟦24⟧ which as far as I could tell was not in the relevant Chinese news articles.
+
+Claims:
+⟦1⟧ [RESEARCH_QUESTION] What is the meaning of the Chinese phrase
+⟦2⟧ [ANALYSIS] The translation of "" can refer to playing any of a variety of game pieces, including cards or mahjong tiles, and context is required to distinguish them, according to one native Chinese speaker.
+⟦3⟧ [ASSUMPTION] The translation of the Chinese phrase requires context to distinguish between playing cards or mahjong tiles.
+⟦4⟧ [EVIDENCE] A native Chinese speaker stated that the translation of "" could refer to playing any of a variety of game pieces, including cards or mahjong tiles.
+⟦5⟧ [HYPOTHESIS] The Chinese phrase "" refers to playing any of a variety of game pieces, including cards or mahjong tiles.
+⟦6⟧ [LIMITATION] The translation of the Chinese phrase requires context to distinguish between playing cards or mahjong tiles.
+⟦7⟧ [RESEARCH_QUESTION] How can the meaning of the Chinese phrase be distinguished between playing cards and mahjong tiles?
+⟦8⟧ [ANALYSIS] The phrase "" is exclusively associated with playing cards by some native Chinese speakers, but a dictionary also defines it as playing mahjong.
+⟦9⟧ [ASSUMPTION] Native Chinese speakers have exclusively heard the phrase in reference to playing cards.
+⟦10⟧ [EVIDENCE] Other native Chinese speakers reported that they have exclusively heard "" in reference to playing cards.
+⟦11⟧ [HYPOTHESIS] The Chinese phrase "" exclusively refers to playing cards.
+⟦12⟧ [LIMITATION] The native Chinese speakers' understanding of the phrase may be limited to their individual experiences.
+⟦13⟧ [RESEARCH_QUESTION] Is the Chinese phrase exclusively used to refer to playing cards?
+⟦14⟧ [ASSUMPTION] A dictionary definition of the phrase could also mean to play mahjong.
+⟦15⟧ [EVIDENCE] A dictionary states that "" could also mean to play mahjong.
+⟦16⟧ [HYPOTHESIS] The Chinese phrase "" could also mean to play mahjong according to a dictionary.
+⟦17⟧ [LIMITATION] The dictionary definition of the phrase may not reflect its common usage.
+⟦18⟧ [RESEARCH_QUESTION] Can the Chinese phrase also mean to play mahjong according to a dictionary?
+⟦19⟧ [ANALYSIS] There exists a specific Chinese word for mahjong, which was not found in the relevant Chinese news articles, according to the judge's investigation.
+⟦20⟧ [ASSUMPTION] There exists a specific Chinese word for mahjong.
+⟦21⟧ [EVIDENCE] There exists a Chinese word for mahjong that was not found in the relevant Chinese news articles.
+⟦22⟧ [RESEARCH_QUESTION] Why is the specific Chinese word for mahjong not used in the relevant Chinese news articles?
+⟦23⟧ [ASSUMPTION] The specific Chinese word for mahjong was not in the relevant Chinese news articles.
+⟦24⟧ [LIMITATION] The relevant Chinese news articles may not contain the specific Chinese word for mahjong.

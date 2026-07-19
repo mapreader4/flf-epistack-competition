@@ -1,0 +1,924 @@
+{
+  "claims_path": "artifacts/claims/claims.json",
+  "n_claims": 590,
+  "n_flagged": 91,
+  "flagged": [
+    {
+      "claim_id": "claim-b685abd9e1e024b24d5d1b723922d57f",
+      "section_number": "1",
+      "position_in_section": 7,
+      "claim_text": "The author will present their own best interpretation of the zoonotic and lab leak hypotheses and their relative likelihood in section 7.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-bb648f3d6cc45673ce6513640c79dddb",
+      "section_number": "1",
+      "position_in_section": 9,
+      "claim_text": "The author's analysis was performed under acute time pressure and without independent research due to the rules of the debate.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-40a5817d58ad8e26ab457a108d1531fe",
+      "section_number": "1",
+      "position_in_section": 10,
+      "claim_text": "The author does not expect the reader to take the computed numerical confidence level in the competing hypotheses in earnest.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-841310726572f25cc694f38b5f6bbdbd",
+      "section_number": "1.1",
+      "position_in_section": 12,
+      "claim_text": "China invested heavily in tracking and curtailing covid-19 after January 23, 2020, and successfully contained it by April.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-ecd8c624a3269422b2a502f79e76d94f",
+      "section_number": "1.1.1",
+      "position_in_section": 1,
+      "claim_text": "The market sold a variety of goods, including wild or exotic live animals, some of which were likely traded illegally.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-8b91ac69aa1f23f10d7da7a57de34cca",
+      "section_number": "1.1.1",
+      "position_in_section": 2,
+      "claim_text": "Sars-cov-2 originated in bats, but it is not known that any bats were sold in the market.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-75b0aaf7b516379649001904287980a4",
+      "section_number": "1.1.1",
+      "position_in_section": 6,
+      "claim_text": "Of the approximately 200 people known to have had onset of covid, 62 or 63 were vendors at the market and others had known epidemiological connections to it.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-593413ff535a29f73fd1769caedfd58f",
+      "section_number": "1.2",
+      "position_in_section": 11,
+      "claim_text": "The first two-thirds of the viral genome, called the open reading frame 1ab (ORF1ab), encodes 16 different proteins involved in the viral replication and assembly process.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ]
+    },
+    {
+      "claim_id": "claim-45ec88da0e37868f80df77ceeab81cdf",
+      "section_number": "1.2",
+      "position_in_section": 12,
+      "claim_text": "The rest of the protein encodes the four structural proteins: spike (S), envelope (E), membrane (M), and nucleocapsid (N), as well as accessory proteins.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ]
+    },
+    {
+      "claim_id": "claim-5ccc0d6ecf20cfe3d7f4956c45b5d913",
+      "section_number": "1.2",
+      "position_in_section": 17,
+      "claim_text": "After binding, the spike is then cleaved into two pieces, which facilitates merging the virus envelope with the cellular membrane and so delivering the genome into the cell.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ]
+    },
+    {
+      "claim_id": "claim-2329b8aed59b221f5f75aa1fcea28121",
+      "section_number": "1.3",
+      "position_in_section": 2,
+      "claim_text": "The debate is the first organized by Rootclaim, and it consists of 3 spoken debate sessions and various written supplements.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-c1eae4187e6b03b5774a37b0770b49db",
+      "section_number": "1.3",
+      "position_in_section": 4,
+      "claim_text": "The judge finds that both parties argued in good faith and there were no significant violations of the debate rules.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-cb5a6d010862415613f9bd18822382d6",
+      "section_number": "1.3",
+      "position_in_section": 5,
+      "claim_text": "Peter identified and criticized a diversity of lab leak theories put forth by other parties, but these had no bearing on Rootclaim's theory.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-4d99a185470606647fec267e94b8e071",
+      "section_number": "1.3",
+      "position_in_section": 6,
+      "claim_text": "The judge did not attempt to keep score of which side made more factual errors or changed their argument more often.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-0e44ffeddff0cd221eb3585cffece5f0",
+      "section_number": "1.3",
+      "position_in_section": 7,
+      "claim_text": "Neither side was laden with the burden of proof in the debate.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-a248e756f3446f2991b6e9d42476dd26",
+      "section_number": "1.3",
+      "position_in_section": 8,
+      "claim_text": "The judge's sole concern is whose theory is best supported by the evidence.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-d3e1767944e2cd9bb8c729210658a6b1",
+      "section_number": "1.3",
+      "position_in_section": 10,
+      "claim_text": "The judge attempted to challenge each participant on any claims they made that appeared suspect.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-c92cc59c06ab88406830e13c8bae156e",
+      "section_number": "1.3.1",
+      "position_in_section": 1,
+      "claim_text": "The author has restricted themselves to sources directly cited by the debate parties as much as possible.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-b22fd99ca10d71717dc6d703442e30eb",
+      "section_number": "1.3.1",
+      "position_in_section": 2,
+      "claim_text": "The author may have inadvertently used a few indirect citations.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-e9a40de830783402362df26bdde2e654",
+      "section_number": "1.3.1",
+      "position_in_section": 3,
+      "claim_text": "The author presents a quantitative analysis of the two conflicting theories in section 7.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-291a95a64401fa2eef1546d62078daf9",
+      "section_number": "1.3.1",
+      "position_in_section": 5,
+      "claim_text": "The author has taken greater liberty in the use of complicated models or analysis in refutational passages.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-bace197c83d39877ac78cbccd4eaad44",
+      "section_number": "1.3.1",
+      "position_in_section": 6,
+      "claim_text": "The author's affirmative conclusion is presented in a simple manner, prioritizing simplicity over accuracy.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-127a05a77c0cf547b9fefa1593476552",
+      "section_number": "2.1",
+      "position_in_section": 3,
+      "claim_text": "The mapping used to assign p-values should satisfy two properties: the result p should be a random variable uniformly distributed in the range [0, 1] under the null hypothesis, and p should be as small as possible under the alternate hypothesis.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": [
+        "enumeration_language"
+      ]
+    },
+    {
+      "claim_id": "claim-40ee2583276530248c6d0c805ffbb6ca",
+      "section_number": "3",
+      "position_in_section": 0,
+      "claim_text": "The Lower Mississippi River was upwards of one million three hundred thousand miles long in the Old Oolitic Silurian Period, just a million years ago next November, and stuck out over the Gulf of Mexico like a fishing-rod, according to Mark Twain.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ]
+    },
+    {
+      "claim_id": "claim-950f826515a486cfb784de2a9c4a2276",
+      "section_number": "3",
+      "position_in_section": 3,
+      "claim_text": "If you have a slight bias in your data collection, where you overlook half the data in favor of humanity, the total bias can be massive and lead to a consistent conclusion in favor of lizardness with high confidence.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-d91fa3acfc6f18f3f8080e6745e94579",
+      "section_number": "3",
+      "position_in_section": 5,
+      "claim_text": "If a hypothesis can be broken down into subparts, each necessary for the hypothesis as a whole to hold, then there is less potential for bias in the selection of evidence.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-c8f56da3db993dfbcd0489816654c5a5",
+      "section_number": "3.1",
+      "position_in_section": 9,
+      "claim_text": "The judge believes that the calculation feels like motivated reasoning, where the answer was decided and evidence was sought until it aligned with that conclusion.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-b9f91f2c62d57872a64fde2ff609dac2",
+      "section_number": "3.2",
+      "position_in_section": 2,
+      "claim_text": "Half of the total weight of the positive log-odds terms in Rootclaim's Bayesian calculation comes from three pieces of evidence: the 12nct insert, CGGCGG, and the location of the first SSE.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ]
+    },
+    {
+      "claim_id": "claim-da9f32d037ae517a79ccd054a413c655",
+      "section_number": "3.3",
+      "position_in_section": 10,
+      "claim_text": "It is harder to introduce a bias with 3 factors of 100 each than 20 factors of 2 each.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-63f2f7d97a8b523fa602d7ff4d1a99a5",
+      "section_number": "3.3",
+      "position_in_section": 11,
+      "claim_text": "Rootclaim attempts to use a canonical selection of evidence by using all the evidence.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-3c49d94031edcbaa70e67b8fbca9b842",
+      "section_number": "4.1",
+      "position_in_section": 3,
+      "claim_text": "Random walks on a Bethe lattice very rapidly go away from the starting point, and after n steps, the walk will be a maximum of n steps away from where it started, and on average be slightly more than n(1- 2/d) steps away.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-8fbb5cb178e69e79f687852386153ce7",
+      "section_number": "4.1",
+      "position_in_section": 7,
+      "claim_text": "The contact graph becomes approximately two-dimensional at the scale of a city, and if represented as a 2D integer lattice, diffusion is much slower, with a random walk of n steps ending up a distance of ∼√n from its starting location on average.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ]
+    },
+    {
+      "claim_id": "claim-09879fe0ed4cff398543de6db7236e75",
+      "section_number": "4.2",
+      "position_in_section": 10,
+      "claim_text": "Many of the inaccuracies in the model will apply equally to both the zoonotic and lab-leak hypotheses and thus cancel out for the purposes of calculating a Bayes factor.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-5b5bc8daa71e77a120f73ef1e8074e27",
+      "section_number": "4.2",
+      "position_in_section": 12,
+      "claim_text": "The analysis should not be sensitive to who the index case is.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-d4b61550a259e973605adde3d4ad40fa",
+      "section_number": "4.2",
+      "position_in_section": 17,
+      "claim_text": "If Z is expanded to include restaurants and locations outside of east Asia, the circle would grow enormously and P(H|Z) would be reduced in proportion.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-cabf6f73dbf2f643ef0a1ca4b2487ca9",
+      "section_number": "4.2",
+      "position_in_section": 18,
+      "claim_text": "The truth of the origin of covid should not depend on the exact wording used by each side of the debate.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-d39fb1da4545126946f158d9cd3fd11e",
+      "section_number": "4.3",
+      "position_in_section": 0,
+      "claim_text": "The distinction between residents at HSM and visitors is subtle yet impactful, with estimated 1200 residents and perhaps 50000 weekly unique visitors, introducing an error of 40 times if the wrong subpopulation is used.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-7c2d9d0733e61a69efe59225d0796404",
+      "section_number": "4.3",
+      "position_in_section": 1,
+      "claim_text": "The typical person will be strongly associated with two places, their home and their work, with weaker associations with many other places.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ]
+    },
+    {
+      "claim_id": "claim-0810046960aa80ce9ed5578b8b302087",
+      "section_number": "4.4",
+      "position_in_section": 5,
+      "claim_text": "The judge thinks the ascertainment rate for hospitalized cases to be quite good, and effectively zero for non-hospitalized cases",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-b9b527409e212f114fabb9fea7092223",
+      "section_number": "4.5",
+      "position_in_section": 5,
+      "claim_text": "Restaurants, schools and universities, dorms and apartment complexes, and community centers are comparable to HSM in terms of factors that contribute to the spread of covid",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-3cd50a03beb23b55c47ce25742125c8c",
+      "section_number": "4.5.1",
+      "position_in_section": 9,
+      "claim_text": "1/32 non-HSM cases are hospitalized, and 1/16 HSM cases are hospitalized, yielding 128 known non-HSM cases and 64 known HSM cases in Rootclaim's model.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-52801175e6f46faa4435b62639762bc9",
+      "section_number": "4.5.1",
+      "position_in_section": 18,
+      "claim_text": "The number of cases after each doubling period tracks as follows in the judge's alternative model: doublings resident cases visitor cases connection lost non-HSM cases 0 1 0 0 2 7, and so on.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-04059cb311a63db2959446345108e114",
+      "section_number": "4.5.2",
+      "position_in_section": 4,
+      "claim_text": "Rootclaim's model can be made kind of consistent with observations by assuming some randomness in the timing of the index cases and the ascertainment rates and the doubling time.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-21b767e4da656057b871a624f47d66be",
+      "section_number": "4.5.6",
+      "position_in_section": 1,
+      "claim_text": "For Rootclaim's explanation to be correct, three unlikely things must happen: one of the first covid patients goes to HSM, the first covid patient to visit HSM infects an HSM resident and the infection takes hold as a local cluster, and the HSM cluster grows so rapidly as to outpace non-HSM cases.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy",
+        "enumeration_language"
+      ]
+    },
+    {
+      "claim_id": "claim-2ef851f6565a8a0971a1b32ad35c97f9",
+      "section_number": "4.5.6",
+      "position_in_section": 4,
+      "claim_text": "The model predicts HSM cases will be heavily backloaded to the end of December, with non-HSM cases outnumbering HSM cases by 8 to 1 a week before the end of December, and by 32 to 1 two weeks before.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ]
+    },
+    {
+      "claim_id": "claim-009ccbe64a98f7467b32a0844f64b2b1",
+      "section_number": "4.5.6",
+      "position_in_section": 6,
+      "claim_text": "The maximal likelihood way to make the model consistent with observations is to suppose that one of the first 5 or 10 covid patients went to HSM and infected a vendor there, and the HSM outbreak steadily outpaced non-HSM cases.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-318cf7499743d6a06c1a493c308f4025",
+      "section_number": "4.6.1",
+      "position_in_section": 4,
+      "claim_text": "Most of the animal samples were taken from dead animals in cold storage, but about 100 of them were from stray live animals or their feces around the market.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-a0a0154a76c690328bfdc993bbfa83fb",
+      "section_number": "4.6.1",
+      "position_in_section": 8,
+      "claim_text": "DNA testing of environmental samples gives insight into the types of animals being sold or processed at the market, including their origin.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-a71f311c4d695ec763dad4b4cf2f99c9",
+      "section_number": "4.6.1",
+      "position_in_section": 14,
+      "claim_text": "The positive environmental samples were not distributed uniformly around the market.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-728a3bfb1a8bc4a16948d77fecdc4911",
+      "section_number": "4.6.1",
+      "position_in_section": 17,
+      "claim_text": "Two stores, 4:26,28 and 6:29, stand out with a high number of positive environmental samples.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ]
+    },
+    {
+      "claim_id": "claim-41df0c96da6f0b52a5ec599bd58bbc10",
+      "section_number": "4.6.2",
+      "position_in_section": 5,
+      "claim_text": "The judge notes that there are several species in Huanan Seafood Market suspected as being potential SARS-CoV-2 intermediaries, such as raccoon dog, civet, and bamboo rat, and presumably only one of them could have any positive correlation, with the others being zero as they are irrelevant.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy",
+        "enumeration_language"
+      ]
+    },
+    {
+      "claim_id": "claim-53c8e73fdc3a4652243406fd25f991e3",
+      "section_number": "4.6.2",
+      "position_in_section": 6,
+      "claim_text": "The judge states that even if there were a positive correlation, it could be overwhelmed by confounding factors.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-f646973c33b0295d3aa9407119055586",
+      "section_number": "5.1",
+      "position_in_section": 1,
+      "claim_text": "Each of the two taxa has an unambiguous root, whose genomes differ by exactly two nucleotides: lineage A having T8782, C28144 and lineage B having C8782, T28144.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ]
+    },
+    {
+      "claim_id": "claim-423d8e755c6037003427513e25a42d95",
+      "section_number": "5.4",
+      "position_in_section": 2,
+      "claim_text": "The project involved collecting bat coronaviruses and performing computer and lab testing on them.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-73619e8b267c7ed5af22895846c63c7d",
+      "section_number": "5.4.1",
+      "position_in_section": 4,
+      "claim_text": "The proposal will conduct in vitro pseudovirus binding assays and live virus binding assays for isolated strains.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-79fef7195e36b11c5bf185d523d3e591",
+      "section_number": "5.4.1",
+      "position_in_section": 5,
+      "claim_text": "The proposal will put the genes for the spike proteins into known viruses which have been selected for their low pandemic potential.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-ef6e595ebaff309ab58cf97d9290dac7",
+      "section_number": "5.4.2",
+      "position_in_section": 0,
+      "claim_text": "The Wuhan Institute of Virology (WIV) would have been involved in screening bat samples for sars-like viruses and sequencing spike proteins in Phase 1, tasks 3.1 and 3.2.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-db6f537d09ea2cb600fad56f396bcafb",
+      "section_number": "5.4.2",
+      "position_in_section": 2,
+      "claim_text": "The Wuhan Institute of Virology (WIV) would have been involved in verifying assays on rabbits and blood samples from people who had SARS-1 in Tasks 6.2 and 6.3.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-d444dca0fe9c5826c32b8b9f458d6357",
+      "section_number": "5.4.4",
+      "position_in_section": 1,
+      "claim_text": "The proposal discusses adding cleavage sites in general shortly after referring to furin cleavage sites by name",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-9cd790dd7c54aa497116bf3799e619e8",
+      "section_number": "5.4.4",
+      "position_in_section": 3,
+      "claim_text": "The proposal does not discuss any in vivo genetic modification",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-fae38ab98495e8aff19a4c17718c64f6",
+      "section_number": "5.6",
+      "position_in_section": 5,
+      "claim_text": "It seems quite unlikely that the natural precursor virus happened to have an inserted proline at the exact location that researchers add an additional insert",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-e6c450d95962e31ebc8f3b15c040c17c",
+      "section_number": "5.7",
+      "position_in_section": 4,
+      "claim_text": "SARS-CoV-2 and banal-20-52 are separated by decades of evolutionary time and likely multiple recombination events with other viruses.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-ea45084c1e11a38877ac6d1b4c6ecf0d",
+      "section_number": "6",
+      "position_in_section": 5,
+      "claim_text": "The judge thinks that the most reasonable scenario is that the secret does not leave the lab, where maybe a half dozen or dozen people directly worked on the project to create SARS-CoV-2 and then told no-one, and several took active steps to conceal it.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy",
+        "enumeration_language"
+      ]
+    },
+    {
+      "claim_id": "claim-2cf6a14b14f0bf490859ed9ada71af97",
+      "section_number": "7.1",
+      "position_in_section": 0,
+      "claim_text": "The judge had a fundamental misunderstanding of what drives new pandemics before the debate.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-fa8fd80cccf68cd8d4f61110ea235517",
+      "section_number": "7.2",
+      "position_in_section": 8,
+      "claim_text": "The judge estimates the probability of all the necessary conditions for the lab-leak hypothesis to be at most 1/50",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-e50bef56ade5292552e0bc6399219fe5",
+      "section_number": "7.2",
+      "position_in_section": 10,
+      "claim_text": "The judge estimates the annualized probability of the first lab leak occurring to be at most 1 per 1.7 years",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-44e39d22de8ae18e0a184eac91ad8922",
+      "section_number": "7.2",
+      "position_in_section": 13,
+      "claim_text": "The judge argues that the chance of a lab leak is lower than the chance that a leak is followed by an outbreak in the lab",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-a6292e9b57d0029ea2b8461d70a15f51",
+      "section_number": "7.2",
+      "position_in_section": 15,
+      "claim_text": "The judge estimates the probability of a lab leak to be no higher than 1/50",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-a8f724822b9f4c97c5ca011767d8f902",
+      "section_number": "7.4",
+      "position_in_section": 2,
+      "claim_text": "This observation arguably has a Bayes factor of 15 in favor of Z, as LL has no viable explanation for this coincidence.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-91e293d13b780179e6b9503b206f7676",
+      "section_number": "7.5",
+      "position_in_section": 1,
+      "claim_text": "It is hard to find definitive proof of a virus's origin by examining its genetic sequence",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-0122b72d796ca05168111d360340ba9a",
+      "section_number": "7.6",
+      "position_in_section": 1,
+      "claim_text": "The judge does not believe the probability of a lab leak is only 1 in 1300 due to significant uncertainties in the analysis",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-2aad1ea505e28a96ed372cb366fc1352",
+      "section_number": "7.6",
+      "position_in_section": 2,
+      "claim_text": "The judge thinks the numerical calculation gives an undeserved illusion of certainty",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-9d1297c77ab3096d22fc0690994b184d",
+      "section_number": "7.6",
+      "position_in_section": 3,
+      "claim_text": "The judge prefers a more qualitative summary of the evidence",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-0c3a4708280a64470bcf90514944712d",
+      "section_number": "7.6",
+      "position_in_section": 11,
+      "claim_text": "The coincidence of location between Eddie Holmes's 2014 photos and the Wuhan CDC's visit to HSM is odd and has no explanation under the lab leak hypothesis",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-212970b795c9bc7efe323729c4d5f982",
+      "section_number": "A.2",
+      "position_in_section": 4,
+      "claim_text": "It is unlikely for a 25-year-old with covid to be hospitalized.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-13d47641f64c9228d91d03c2fdc8092d",
+      "section_number": "A.3",
+      "position_in_section": 7,
+      "claim_text": "There are no first-hand accounts of mahjong players with COVID-19, no non-anecdotal accounts, and no known specific individuals who played mahjong and acquired COVID-19.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-756a38e69b14eba4575b6e92b9d64a34",
+      "section_number": "B",
+      "position_in_section": 1,
+      "claim_text": "The 2021 WHO report and its annex are the best and nearly the only source on early covid cases.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-968ba8b2bbe9d1e337d2271f6c81b7c5",
+      "section_number": "B",
+      "position_in_section": 11,
+      "claim_text": "It is relatively easy to understand the causes of ascertainment bias in the WHO report.",
+      "decontextualization_flags": [
+        "bare_pronoun_start"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-daec3568f91c882d07c99585fcf252b9",
+      "section_number": "B.2",
+      "position_in_section": 0,
+      "claim_text": "The market is organized into streets or alleys which are numbered 1 to 15; each alley has many individual shops.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-ab37117c531d4488b40e462f0903c688",
+      "section_number": "C",
+      "position_in_section": 0,
+      "claim_text": "The judge was not permitted to base their decision on independent research beyond what the participants of the debate did.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-4bd067f244067a1c7e25f3450051567b",
+      "section_number": "C",
+      "position_in_section": 2,
+      "claim_text": "The judge used information from outside the debate for the purposes of filling in minor details that do not influence the debate outcome.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-295f020f9597353f1813892ba043b717",
+      "section_number": "C",
+      "position_in_section": 3,
+      "claim_text": "The judge followed references back to a primary source to validate statements cited by debate participants from secondary sources.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-67a5eccfe760fe370c201ca499f46632",
+      "section_number": "C",
+      "position_in_section": 4,
+      "claim_text": "The judge treats highly contentious claims that faced no scrutiny with extreme skepticism.",
+      "decontextualization_flags": [
+        "bare_definite_no_anchor"
+      ],
+      "atomicity_flags": []
+    },
+    {
+      "claim_id": "claim-c712ddfe601350b486c9d919e0e49886",
+      "section_number": "C.1",
+      "position_in_section": 1,
+      "claim_text": "The WIV began recombinant work in 2015 with WIV-1 and received ACE2 mice in 2016, and started recombinant experiments with WIV +SHC014 in 2018 but did not finish them owing to the COVID outbreak.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-338abedcf4295ae37c9b9d613ad945f7",
+      "section_number": "C.1",
+      "position_in_section": 4,
+      "claim_text": "The Institute did not respond to conspiracy theories but understood why the WHO team needed to ask, and there had been no reports of unusual diseases, none diagnosed, and all staff tested negative for SARS-CoV-2 antibodies.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-4c2e08baf79bdb75cb0d3c9419fd0b96",
+      "section_number": "C.1",
+      "position_in_section": 6,
+      "claim_text": "P4 staff at WIV also undergo psychological evaluation before being allowed to work in the laboratory, and physical and mental health was monitored, with no unusual respiratory infections noted in the previous year.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-54daab6c2f56888ea2eaf7578cbcf331",
+      "section_number": "C.1",
+      "position_in_section": 7,
+      "claim_text": "Good compliance with mask use and hand hygiene was observed at WIV, and surveillance during the outbreak had been stringent, with no suspected or confirmed case of COVID-19 seen by PCR and antibody testing of all staff was negative.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-484d27826c1053170bfff5c81c6d6715",
+      "section_number": "C.1",
+      "position_in_section": 8,
+      "claim_text": "Yuan Zhiming denied the possibility of a lab leak from Wuhan, citing that among the three SARS-like viruses cultured in the laboratory, none are closely related to SARS-CoV-2.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ]
+    },
+    {
+      "claim_id": "claim-a6f5849b26471c5e99f496387acd3fc3",
+      "section_number": "C.1",
+      "position_in_section": 9,
+      "claim_text": "The reserved sera in April 2019 and March 2020 from all the workers and students in the research group led by Professor Shi Zhengli were seronegative for SARS-CoV-2 antibodies.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "conjunction_heavy"
+      ]
+    },
+    {
+      "claim_id": "claim-fe958f6cdbe87edf4347e7030d8ad6ac",
+      "section_number": "C.2",
+      "position_in_section": 2,
+      "claim_text": "According to a dictionary, the Chinese phrase \"\" could also mean to play mahjong, as found by several native Chinese speakers.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ]
+    },
+    {
+      "claim_id": "claim-d1d31994cb596637596fdbbd105b3f2d",
+      "section_number": "D",
+      "position_in_section": 12,
+      "claim_text": "There are five standard nucleotides, denoted by A, C, G, or T/U.",
+      "decontextualization_flags": [],
+      "atomicity_flags": [
+        "enumeration_language"
+      ]
+    }
+  ]
+}

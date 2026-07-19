@@ -1,0 +1,156 @@
+D  Glossary
+
+• ACE2: angiotensin-converting enzyme 2, a receptor found in lungs, intestines, and
+throughout the body in humans and other animals. The spike protein of sars-cov-2
+binds to ACE2 to enter human cells.
+• amino acid: the smallest indivisible component of a protein. There are 20 standard
+amino acids in humans, denoted by different capital letters.
+• Bayes factor: how much more likely to make an observation if one hypothesis is true
+than if another hypothesis is true, ie, P (O|A)/P (O|B)
+• codon: a sequence of three nucleotides. When a protein is built, each codon yields a
+single amino acid according to a fixed rule (eg CGG yields R, arginine)
+• covid, or covid-19: coronavirus disease 2019, the disease caused by the sars-cov-2 virus
+• D614G, etc: this notation describes a mutation; the number 614 is the location of the
+mutation. The letter(s) before the number gives the ancestral amino acid(s) at that
+location, and after the number gives the mutated amino acid(s). Similar notation can
+be used with nucleotides. The D614G mutation in particular occurred in early 2020
+and may have greatly increased the infectivity of sars-cov-2.
+• DEFUSE: a 2018 research proposal that involves modifying viruses related to sars-cov-
+1; one of the involved research groups is at WIV
+• FCS: furin cleavage site, a sequence of four amino acids in a protein typically of the
+form RxxR that is cut by the furin protein
+• GoF: gain-of-function research, for example modifying a virus by artificially adding an
+FCS
+• HSM: Huanan Seafood Market
+• index case: the first detected case of a disease, not to be confused with primary case
+• nucleotide: the smallest indivisible component of DNA and RNA. There are five stan-
+dard nucleotides, denoted by A, C, G, or T/U.
+• primary case: the first case of a disease; often never detected
+• RBD: receptor binding domain, the part of the coronavirus spike protein that binds to
+ACE2 (or other receptors)
+• sars-cov-1: the virus that causes Severe Acute Respiratory Syndrome (SARS), which
+infected 8110 and killed 811 people in 2002 to 2004, mostly in China and Hong Kong.
+While much more lethal than covid-19, it does not have significant pre-symptomatic
+transmission.
+• sars-cov-2: the virus that causes covid-19
+• SSE: superspreader event, here usually referring to the initial cluster of cases associated
+with the HSM in 2019 December
+• resident: Throughout the discussion, we use "resident" at HSM to mean not only
+vendors who work at a fixed shop in HSM but also any person who goes to HSM on
+a daily basis; this would include other staff and some shoppers. Such people return to
+HSM often enough that they might acquire an illness there and then later transmit it
+to others at HSM.
+• WIV: Wuhan Institute of Virology
+• zoonosis: a human disease transmitted by or from animals
+References
+[1] Covid origins debate 2023 session 1, video part A. At the time of this writing, the
+recordings of the debate are not publicly available.
+[2] Covid origins debate 2023 session 1, video part B.
+[3] Covid origins debate 2023 session 2, video part A.
+[4] Covid origins debate 2023 session 2, video part B.
+[5] Covid origins debate 2023 session 3, video part A.
+[6] Covid origins debate 2023 session 3, video part B.
+[7] Wilf, S. 2023. Written supplements to debate, private communication.
+[8] Miller, P. 2023. Written supplements to debate, private communication.
+[9] Allen, T., Murray, K.A., Zambrana-Torrelio, C. et al. Global hotspots and correlates of
+emerging zoonotic diseases. Nat Commun 8, 1124 (2017). https://doi.org/10.1038/
+s41467-017-00923-8
+[10] Carleton, Tamma, et al. "Global evidence for ultraviolet radiation decreasing COVID-
+19 growth rates." Proceedings of the National Academy of Sciences 118.1 (2021):
+e2012370118. https://www.pnas.org/doi/full/10.1073/pnas.2012370118
+[11] Cauchemez, Simon, et al. "Unraveling the drivers of MERS-CoV transmission." Pro-
+ceedings of the national academy of sciences 113.32 (2016): 9081-9086.
+[12] Crits-Christoph, Alex, Karthik Gangavarapu, Jonathan Pekar, Niema Moshiri, Reema
+Singh, Joshua Levy, Stephen Goldstein et al. "Genetic evidence of susceptible wildlife
+in SARS-CoV-2 positive samples at the Huanan Wholesale Seafood Market, Wuhan:
+Analysis and interpretation of data released by the Chinese Center for Disease Control."
+(2023). https://doi.org/10.5281/zenodo.7754299
+[13] Centers for Disease Control and Prevention (CDC) (2003). Prevalence of IgG anti-
+body to SARS-associated coronavirus in animal traders - Guangdong Province, China,
+2003. MMWR Morb. Mortal. Wkly. Rep. 52, 986-987. https://www.cdc.gov/mmwr/
+preview/mmwrhtml/mm5241a2.htm
+[14] EcoHealth Alliance. Project DEFUSE: Defusing the Threat of Bat-borne Coronaviruses.
+(2018) https://s3.documentcloud.org/documents/21066966/defuse-proposal.
+pdf
+[15] Feld, Scott L. "Why your friends have more friends than you do." American journal of
+sociology 96.6 (1991): 1464-1477.
+[16] Feng, M., Ling, Q., Xiong, J., Manyande, A., Xu, W., Xiang, B. Geographical and
+Epidemiological Characteristics of Sporadic Coronavirus Disease 2019 Outbreaks From
+June to December 2020 in China: An Overview of Environment-To-Human Transmis-
+sion Events. Frontiers in medicine, 8, 654422 (2021).https://doi.org/10.3389/fmed.
+2021.654422
+[17] Geldenhuys M, Mortlock M, Weyer J, Bezuidt O, Seamark ECJ, et al. A metagenomic
+viral discovery approach identifies potential zoonotic and novel mammalian viruses in
+Neoromicia bats within South Africa. PLOS ONE 13(3): e0194527 (2018). https://
+doi.org/10.1371/journal.pone.0194527
+[18] Hessler, Peter. "Nine Days in Wuhan, the Ground Zero of the Coronavirus Pan-
+demic." The New Yorker (2020). https://www.newyorker.com/magazine/2020/10/
+12/nine-days-in-wuhan-the-ground-zero-of-the-coronavirus-pandemic
+[19] Hu B, Zeng LP, Yang XL, Ge XY, Zhang W, et al. Discovery of a rich gene pool of bat
+SARS-related coronaviruses provides new insights into the origin of SARS coronavirus.
+PLOS Pathogens 13(11): e1006698. (2017) https://doi.org/10.1371/journal.ppat.
+1006698
+[20] Lerner, Sharon, and Hibbett, Maia. "Leaked Grant Proposal Details High-Risk Coro-
+navirus Research." The Intercept (2021). https://theintercept.com/2021/09/23/
+coronavirus-research-grant-darpa/
+[21] Li, Qun, Xuhua Guan, Peng Wu, Xiaoye Wang, Lei Zhou, Yeqing Tong, Ruiqi Ren
+et al. "Early transmission dynamics in Wuhan, China, of novel coronavirus-infected
+pneumonia." New England journal of medicine 382, no. 13 (2020): 1199-1207. https:
+//doi.org/10.1056/NEJMoa2001316
+[22] Liu, W.J., Liu, P., Lei, W. et al. Surveillance of SARS-CoV-2 at the Huanan Seafood
+Market. Nature (2023). https://doi.org/10.1038/s41586-023-06043-2
+[23] Liu, W., Wang, D., Hua, S. et al. Spatiotemporal analysis of COVID-19 out-
+breaks in Wuhan, China. Sci Rep 11, 13648 (2021). https://doi.org/10.1038/
+s41598-021-93020-2
+[24] Moshiri, Niema, et al. FAVITES: simultaneous simulation of transmission networks,
+phylogenetic trees and sequences. Bioinformatics 35.11 (2019): 1852-1861.
+[25] NCBI staff. Sars-cov-2 Wuhan-Hu-1 complete genome. 2020. https://www.ncbi.nlm.
+nih.gov/nuccore/1798174254
+[26] Newey, Sarah. "Wuhan officials identified Huanan market as a pandemic
+risk at least five years before Covid emerged." The Telegraph (2021).
+https://www.telegraph.co.uk/global-health/science-and-disease/
+wuhan-officials-identified-huanan-market-pandemic-risk-least/
+[27] Pekar, J.E. et al. The molecular epidemiology of multiple zoonotic origins of SARS-
+CoV-2. Science 377, 960 - 966 (2022). https://doi.org/10.1126/science.abp8337
+[28] Piplani, S., Singh, P.K., Winkler, D.A. et al. In silico comparison of SARS-CoV-2 spike
+protein-ACE2 binding affinities across species and implications for virus origin. Sci Rep
+11, 13063 (2021). https://doi.org/10.1038/s41598-021-92388-5
+[29] Rambaut, A., Holmes, E.C., O'Toole,  ́A. et al. A dynamic nomenclature proposal
+for SARS-CoV-2 lineages to assist genomic epidemiology. Nat Microbiol 5, 1403-1407
+(2020). https://doi.org/10.1038/s41564-020-0770-5
+[30] Temmam, S., Vongphayloth, K., Baquero, E. et al. Bat coronaviruses related to SARS-
+CoV-2 and infectious for human cells. Nature 604, 330-336 (2022). https://doi.org/
+10.1038/s41586-022-04532-4
+[31] Twain, M. Life on the Mississippi. (1883) https://www.gutenberg.org/files/245/
+245-h/245-h.htm
+[32] World Health Organization. "WHO-convened global study of origins of SARS-
+CoV-2: China Part." (2021). https://www.who.int/publications/i/item/
+who-convened-global-study-of-origins-of-sars-cov-2-china-part
+[33] Worobey, Michael. "Dissecting the early COVID-19 cases in Wuhan." Science 374.6572
+(2021): 1202-1204. https://doi.org/10.1126/science.abm4454
+[34] Worobey, M., Levy, J. I., Malpica Serrano, L., Crits-Christoph, A., Pekar, J. E., Gold-
+stein, S. A., Rasmussen, A. L., Kraemer, M. U. G., Newman, C., Koopmans, M. P. G.,
+Suchard, M. A., Wertheim, J. O., Lemey, P., Robertson, D. L., Garry, R. F., Holmes, E.
+C., Rambaut, A., & Andersen, K. G. (2022). The Huanan Seafood Wholesale Market in
+Wuhan was the early epicenter of the COVID-19 pandemic. Science (New York, N.Y.),
+377(6609), 951-959. https://doi.org/10.1126/science.abp8715
+[35] Jiuyang Xu, Wenxu Jia, Pengfei Wang, Senyan Zhang, Xuanling Shi, Xinquan Wang,
+Linqi Zhang. Antibodies and vaccines against Middle East respiratory syndrome coro-
+navirus, Emerging Microbes & Infections, 8:1, 841-856 (2019), https://doi.org/10.
+1080/22221751.2019.1624482
+[36] Yang, C., Zhang, S., Lu, S., Yang, J., Cheng, Y., Liu, Y., Zhao, L., Gong, J., Xu, J. All
+five COVID-19 outbreaks during epidemic period of 2020/2021 in China were instigated
+by asymptomatic or pre-symptomatic individuals. Journal of biosafety and biosecurity,
+3(1), 35-40. (2021). https://doi.org/10.1016/j.jobb.2021.04.001
+[37] Zeng, Lei-Ping, et al. "Bat severe acute respiratory syndrome-like coronavirus WIV1
+encodes an extra accessory protein, ORFX, involved in modulation of the host immune
+response." Journal of virology 90.14 (2016): 6573-6582. https://doi.org/10.1128/
+jvi.03079-15
+[38] Zhang Xiaomin. "Dalian infections linked to produce markets, buses." China
+Daily (2022 November 2). https://www.chinadaily.com.cn/a/202209/02/
+WS6311c66ea310fd2b29e75b12.html
+[39] Zhang, Y.-Z., and Holmes, E.C. (2020). A Genomic Perspective on the Origin and
+Emergence of SARS-CoV-2. Cell 181, 223-227. https://doi.org/10.1016/j.cell.
+2020.03.035
+
+(no claims extracted for this section)

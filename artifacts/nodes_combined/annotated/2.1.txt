@@ -1,0 +1,119 @@
+2.1  Hypothesis testing and p-values
+
+⟦1*⟧ Bayes factors have a simple and direct relationship with p-values; understanding this re-
+lationship may be beneficial, as the reader may already be familiar with the latter due to
+their wide use in hypothesis testing, or conversely the reader may find Bayes factors more
+intuitive and use it to gain comprehension for p-values. 19
+In hypothesis testing, one considers a null hypothesis A (or, more commonly, H0, but we
+will mimic the notation from above) and the alternate hypothesis B =¬A (usually denoted
+Ha). ⟦2⟧ We ask, what is the probability of an observation (or collection of observations) O,
+conditional on A? Except, now O is not a binary event, which happens or not, but some
+kind of numeric data.
+19Someday I will more clearly explain the relationship between Bayesian computation and hypothesis
+testing than I did here, so the reader may want to skip this section for now.
+⟦3⟧ Suppose, ifA is true, thatO is a real number drawn from some known probability distribution
+(ie this is called a random variable ). We will then, for every possible value x of O, assign
+a corresponding value p which lies in the range [0 , 1], called the p-value. ⟦4⟧ ⟦5⟧ How to do this is
+the main source of confusion in hypothesis testing, as the process is subjective. ⟦6⟧ A common
+choice is the map:
+x↦→P (O≤x)
+In words, this says for one possible value of x we assign it the p-value that is the probability
+O would have been smaller than or equal to x. Say, for example, O is the number of heads
+in 100 coin flips, and ⟦7⟧ our null hypothesis is that the coin is fair. ⟦8⟧ ⟦9⟧ If we observe x = 40 coin
+flips, ⟦10⟧ then the probability of observing 40 or fewer heads would have been 0.02844, which
+would be the p-value for the above choice of map.
+⟦11⟧ ⟦12⟧ So how do we choose the map? What we do is rank the possible values of O by how
+anomalous they are under the null hypothesis A; or equivalently, by how well they support
+the alternative hypothesis B over A. For the 100 coin flips, the further the result is from
+50, the more anomalous; this is an example of a two-tailed test, because the two ends of the
+hypothesis are the most notable and have a small p-value, while the middle of the distribution
+is expected and has a large p-value. The mapping given above is a one-tailed test; one end
+of the range of values of O (here, the low end) is interpreted as being the most anomalous,
+and the other end is interpreted as being the most expected.
+⟦13*⟧ For our coin flip test, ⟦14⟧ a two-tailed20 test would have been more appropriate; 60 or more heads
+would have been just as anomalous as 40 or fewer heads, ⟦15⟧ so that x = 40 would have had a
+p-value of P (O≤ 40 or O≥ 60) = 0.05689. A one-tailed test would have been appropriate
+if we had, prior to collecting observations, expected or been interested in a coin that was
+biased for one side in particular. ⟦16⟧ ⟦17⟧ ⟦18⟧ If we were trying to find coins that were biased in favor of
+heads, say, we would use the p-valueP (O≥x) and ⟦19⟧ the observation x = 40 heads would not
+have been anomalous at all (p = 0.97156) in favor of the alternative hypothesis over the null
+hypothesis.
+⟦20⟧ In summary, the two things we need the mapping to satisfy are as follows:
+• ⟦21⟧ Assuming the null hypothesis, the result p should be a random variable uniformly
+distributed in the range [0, 1].
+• ⟦22⟧ Assuming the alternate hypothesis, we want p to be as small as possible.
+⟦23⟧ ⟦24⟧ If we observe p = 0.001 then this is very surprising under the null hypothesis - a 1 in 1000
+coincidence! The second property of the mapping gives us the best chance of observing these
+surprisingly small values of p if, in fact, the null hypothesis isn't true: this increases the
+"statistical power" of the test.
+Our reasoning process therefore looks as follows. ⟦25⟧ ⟦26⟧ ⟦27⟧ If the null hypothesis is true, then a very
+small value ofp is unlikely, so ⟦28*⟧ if we observe a small value ofp we "reject" the null hypothesis.
+If we do not observe a small value ofp, we fail to reject the null hypothesis, and do not reach
+any particular conclusion.
+20pun not intended
+⟦29⟧ ⟦30⟧ There are two key differences between hypothesis testing and Bayesian reasoning: ⟦31⟧ ⟦32⟧ with
+hypothesis testing, we do not assume any prior probabilities for the two hypotheses - they
+are not treated as random events at all, but as simply unknown prepositions; ⟦33⟧ and we do not
+calculate a distribution for the observable O conditioned on the alternative hypothesis B. ⟦34⟧ If
+we have access to those two additional pieces of data, then we should perform a Bayesian
+calculation, and we would get a stronger conclusion of the form of the probability of A orB
+givenO, instead of a weaker conclusion of "reject" or "fail to reject" A with some confidence
+levelp.
+⟦35*⟧ ⟦36*⟧ Hypothesis testing is used when these extra pieces of data are unavailable or highly specu-
+lative. For our coin flips, we don't have any prior expectation of the probability of a coin
+being biased, and ⟦37⟧ we can't calculate the probability of observing a certain number of heads
+conditioned on the coin being unfair (since ⟦38⟧ the alternative hypothesis is for any bias, not a
+particular amount of bias). ⟦39⟧ ⟦40⟧ The p-value obtained from hypothesis testing cannot be turned
+into a probability for a hypothesis without adding this information.
+Frequently, when working with complicated systems, it makes sense to focus on a single
+observation and yield just a p-value P (Oi|A) or Bayes factor P (Oi|A)/P (Oi|¬A) for that
+observation, and leave the calculation ofP (A|O1∩···∩ On) to secondary analysis. Otherwise,
+⟦41⟧ when combining observations from multiple primary analyses it would be necessary to undo
+all their calculations to sort out conflicting priors and other choices. ⟦42⟧ For this reason primary
+research usually stops at computing a p-value.
+
+Claims:
+⟦1*⟧ [RESEARCH_QUESTION] What is the relationship between Bayes factors and p-values?
+⟦2⟧ [RESEARCH_QUESTION] What is the probability of an observation conditional on a null hypothesis?
+⟦3⟧ [ASSUMPTION] The observation O is a real number drawn from a known probability distribution.
+⟦4⟧ [ANALYSIS] The choice of mapping in hypothesis testing is subjective and depends on ranking possible values of O by how anomalous they are under the null hypothesis A.
+⟦5⟧ [LIMITATION] The process of assigning p-values in hypothesis testing is subjective.
+⟦6⟧ [ANALYSIS] A common choice of mapping in hypothesis testing is the map x↦→P (O≤x), which assigns a p-value to each possible value of x based on the probability of O being smaller than or equal to x.
+⟦7⟧ [HYPOTHESIS] The coin is fair
+⟦8⟧ [ANALYSIS] The p-value for a given observation x is the probability of observing a value as extreme or more extreme than x, assuming the null hypothesis A is true.
+⟦9⟧ [EVIDENCE] The probability of observing 40 or fewer heads in 100 coin flips, given a fair coin, is 0.02844.
+⟦10⟧ [QUANTITATIVE_RESULT] p-value of 0.02844 for observing 40 or fewer heads in 100 coin flips
+⟦11⟧ [LIMITATION] The choice of mapping for assigning p-values can affect the results.
+⟦12⟧ [RESEARCH_QUESTION] How do we choose a mapping to assign p-values to observations?
+⟦13*⟧ [ANALYSIS] A two-tailed test is more appropriate when the alternative hypothesis is symmetric, such as testing for bias in a coin flip.
+⟦14⟧ [EVIDENCE] The probability of observing 40 or fewer heads or 60 or more heads in 100 coin flips, given a fair coin, is 0.05689.
+⟦15⟧ [QUANTITATIVE_RESULT] p-value of 0.05689 for observing 40 or fewer heads or 60 or more heads in 100 coin flips
+⟦16⟧ [ANALYSIS] A one-tailed test is more appropriate when the alternative hypothesis is asymmetric, such as testing for bias in favor of one side of a coin.
+⟦17⟧ [EVIDENCE] The probability of observing 40 or more heads in 100 coin flips, given a fair coin, is 0.97156.
+⟦18⟧ [HYPOTHESIS] The coin is biased in favor of heads
+⟦19⟧ [QUANTITATIVE_RESULT] p-value of 0.97156 for observing 40 heads in 100 coin flips, assuming a one-tailed test
+⟦20⟧ [ANALYSIS] The mapping in hypothesis testing should satisfy two properties: (1) assuming the null hypothesis, the result p should be a random variable uniformly distributed in the range [0, 1], and (2) assuming the alternate hypothesis, we want p to be as small as possible.
+⟦21⟧ [ASSUMPTION] The p-value is a random variable uniformly distributed in the range [0, 1] under the null hypothesis.
+⟦22⟧ [ASSUMPTION] The p-value is as small as possible under the alternate hypothesis.
+⟦23⟧ [EVIDENCE] A p-value of 0.001 is very surprising under the null hypothesis, occurring by chance 1 in 1000 times.
+⟦24⟧ [QUANTITATIVE_RESULT] p-value of 0.001, representing a 1 in 1000 coincidence
+⟦25⟧ [ANALYSIS] If the null hypothesis is true, then a very small value of p is unlikely, so if we observe a small value of p, we reject the null hypothesis.
+⟦26⟧ [ASSUMPTION] The null hypothesis A is true.
+⟦27⟧ [HYPOTHESIS] The null hypothesis A is true
+⟦28*⟧ [HYPOTHESIS] The null hypothesis A is not true
+⟦29⟧ [ANALYSIS] Hypothesis testing does not assume prior probabilities for the two hypotheses and does not calculate a distribution for the observable O conditioned on the alternative hypothesis B.
+⟦30⟧ [RESEARCH_QUESTION] What are the key differences between hypothesis testing and Bayesian reasoning?
+⟦31⟧ [ASSUMPTION] The null and alternate hypotheses are not treated as random events.
+⟦32⟧ [LIMITATION] Hypothesis testing does not account for prior probabilities of the hypotheses.
+⟦33⟧ [LIMITATION] Hypothesis testing does not calculate a distribution for the observable conditioned on the alternative hypothesis.
+⟦34⟧ [RESEARCH_QUESTION] When should we perform a Bayesian calculation instead of hypothesis testing?
+⟦35*⟧ [ANALYSIS] Hypothesis testing is used when prior probabilities and distributions for the alternative hypothesis are unavailable or highly speculative.
+⟦36*⟧ [ASSUMPTION] The prior probabilities for the two hypotheses are unavailable or highly speculative.
+⟦37⟧ [ASSUMPTION] The probability distribution of the observable O conditioned on the alternative hypothesis B is unknown or highly speculative.
+⟦38⟧ [HYPOTHESIS] The coin is biased
+⟦39⟧ [ANALYSIS] The p-value obtained from hypothesis testing cannot be turned into a probability for a hypothesis without adding prior probabilities and distributions for the alternative hypothesis.
+⟦40⟧ [LIMITATION] The p-value obtained from hypothesis testing cannot be turned into a probability for a hypothesis without additional information.
+⟦41⟧ [LIMITATION] Combining observations from multiple primary analyses can be complicated due to conflicting priors and other choices.
+⟦42⟧ [LIMITATION] Primary research usually stops at computing a p-value, leaving further analysis to secondary analysis.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

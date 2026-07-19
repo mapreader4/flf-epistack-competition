@@ -1,0 +1,13 @@
+A.1  Lineage B outcompeted lineage A
+
+Rootclaim argued that some of the observed distribution of lineages A and B in 2019 Decem-
+ber were due to lineage B having greater evolutionary fitness than lineage A. However, at
+this time the two lineages disagreed in only two nucleotides, one of which was a synonymous
+mutation, and the other having unclear relevance.
+The D614G mutation greatly increased the evolutionary fitness of sars-cov-2; a strain within
+lineage B that had this mutation grew around 2020 February or March and outcompeted
+all other sars-cov-2 strains of either lineage at that time. This created the appearance that
+lineage B could outcompete lineage A, but it was only due to a mutation that was not
+significantly present in Wuhan in 2019 December.
+
+(no claims extracted for this section)

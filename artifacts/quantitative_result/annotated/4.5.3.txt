@@ -1,0 +1,95 @@
+4.5.3  Empirical evidence of market outbreaks
+
+It is a great challenge to argue from first principles that a certain environment is espe-
+cially conducive to covid transmission. Recall how contentious even (comparatively) easily-
+measured aspects like fomite transmission or size of respiratory particles were in 2020; and
+now we hope to quantify the infectivity rate of being in one particular shopping center?
+Much better would be to observe empirically how covid behaves; and Rootclaim attempted to
+do just that by introducing a list of known covid outbreaks in China centered at or involving
+markets ([5] at 2:21:50). Here is an edited version of their list:
+48We are not using Rootclaim's ascertainment rate of 1/32 because the ascertainment rate has certainly
+risen by late January compared to December.
+49If you feel queasy about using the geometric formula to extrapolate from daily cases to cumulative cases,
+that is a sensible reaction, but we can get the same results by instead converting the model's cumulative cases
+into daily cases before comparing with observations; since the model is exactly exponential, this conversion
+is exactly correct. I did not do the conversion that way because the conversion is sensitive to the doubling
+time, and I wanted to delay discussion of the doubling time until after the table of numbers has been made.
+We would also have to deal with problems like what if the doubling time varies with time.
+50Note, however, from [21]: "In its early stages, the epidemic doubled in size every 7.4 days."
+location date (2020) case count market? source of index case
+Xinfadi (Beijing) June 335 yes frozen food
+Dalian July 144 yes frozen food
+Qingdao October 14 NA frozen food
+Kashgar October 428 to 430 yes "aviation container"
+Tianjin November 10 NA frozen food
+Shanghai November 3 NA "aviation container"
+Manzhouli November 25 NA human to human
+Qingdao December 2 NA cold food
+Chengdu December 14 NA trash
+Beijing December 3 to 41 NA human to human
+Dalian December 69 NA cold items
+Shenyang December 38 NA human to human
+Shijiangzhuang Dec to 2021 Jan 1129 no human to human
+Northeast China Dec to 2022 Jan [sic] 1650 no human to human
+(Rootclaim considered only the 5 biggest outbreaks, and did not investigate the possibility
+that markets could be involved in the others. Discarding the 2 and 3 person outbreaks as
+irrelevant seems reasonable, but the others I am not sure about.)
+Consider the three market-linked outbreaks listed above. There is an immediate problem
+with Rootclaim's argument: none of them started from human to human transmission. Root-
+claim needs to show that there is a high probability of an infected person going to HSM and
+creating an outbreak there. Frozen food causing an outbreak does not support Rootclaim's
+case, except in so far as it demonstrates that markets can sustain an outbreak once one is
+started there. Indeed it is almost inevitable to get a list of non-human-to-human outbreaks
+as Rootclaim's main source for building this list is subtitled "An Overview of Environment-
+To-Human Transmission Events" [16].
+This is not as bad for Rootclaim as it appears. While the outbreak in the Xinfadi market
+in Beijing did appear to start from frozen salmon brought to the market, the Dalian and
+Kashgar outbreaks only secondarily involved a market, so the market index case was human
+to human transmission. Let us first look at Kashgar, in Figure 7.
+In the Kashgar outbreak, 75 different infected individuals attended a large farm market event
+that had approximately 20 thousand participants (out of a population of 700 thousand in
+Kashgar); this lead to 20 others at the market becoming infected. Of those 20, 5 attended
+a wedding, leading to 36 infections at that wedding; this makes weddings appear to be a far
+greater risk of spreading covid than markets. Arguably the R0 at the market is less than 1.
+This would be a relevant analog to the HSM outbreak if half a million people came to HSM
+in one day, and more people brought the illness to it than from it.
+The Dalian outbreak is more favorable to Rootclaim. The only source I have is an article in
+China Daily [38]:
+Farm produce markets and buses have become "amplifiers" in the
+spread of COVID-19 during the latest outbreak in Dalian, Liaoning
+Figure 7: Outbreak in Kashgar. This is Figure 1 of [36].
+province, a local disease control expert said.
+On Thursday, the city reported three confirmed COVID-19 cases,
+including one previously reported as an asymptomatic infection, along
+with 112 asymptomatic carriers, the city's COVID-19 prevention and
+control headquarters said on Friday.
+"It is quite different from previous outbreaks in our city, which re-
+ported sporadic cases. The latest one mainly influenced the downtown
+regions and was amplified through places like farm produce markets,"
+Meng Jun, deputy director of the Dalian center for disease control and
+prevention, told Dalian Daily on Thursday.
+Genetic sequencing found that the cases reported since Aug 26 were
+highly homologous to those found in Dalian since Aug 20. Preliminary
+results showed the source was accidental exposure of non-closed-loop
+management personnel in a centralized isolation hotel for interna-
+tional travelers.
+Infected people, reported since Aug 20, had visited the Taoyuan mar-
+ket, a well-known market with fresh vegetables, meat, seafood and
+groceries.
+"Some cases since Aug 26 are owners or customers of the market.
+Therefore, they belong to the same outbreak, introduced by infected
+people into the Taoyuan market, which then became an amplifier and
+spread out," Meng said.
+[...] Meng said genetic sequencing had identified the virus responsible
+for the outbreak as a mutation of the Omicron subvariant BA.5.2.1,
+which is more contagious and harder to discover.
+However it is impossible to draw any conclusions from the text above, as it is far too vague.
+Moreover, omicron did not exist in 2020 July; the article appears to refer to an unrelated
+outbreak 2 years later. There is no reason to think the 2020 July outbreak involves a market.
+In sum, the empirical evidence of market outbreaks show one outbreak in 2022 August with
+a vague description of being amplified by "buses" and "places like farm produce markets",
+and the 2020 June outbreak in Xinfadi which started due to frozen food in a market. Neither
+is a good analogy for Rootclaim's claimed account of events in HSM. In the meantime, China
+had at least a dozen non-market outbreaks in 2020, and many more since then.
+
+(no claims extracted for this section)

@@ -1,0 +1,58 @@
+C  Excluded information
+
+⟦1⟧ Crucially for fairness of the debate, ⟦2⟧ ⟦3⟧ I was not permitted to base my decision on independent
+research beyond what the participants of the debate did. This gives the participants oppor-
+tunity to identify flaws or rebut any information presented against their side. ⟦4⟧ ⟦5⟧ ⟦6⟧ However for
+the purposes of the exposition within this report I have not so limited myself, mostly for the
+purposes of filling in minor details that do not influence the debate outcome. 76 For example,
+⟦7⟧ ⟦8⟧ ⟦9⟧ while both sides of the debate estimated there were about 1000 vendors at HSM, the WHO
+76For example, ⟦10⟧ ⟦11⟧ at times when the debate participants cited secondary sources for a statement ⟦12⟧ I would
+follow references back to a primary source to validate it before including and citing it in this ⟦13*⟧ ⟦14*⟧ ⟦15*⟧ document.
+report annex page 182 [32] gives a more exact figure of 1162 vendors, which I freely use
+instead of 1000.
+⟦16⟧ ⟦17⟧ However ⟦18⟧ some of the information I encountered does appear to directly bear on the central
+topic of the debate; I did not want to exclude it from the report, but the reader should
+realize it has been subjected to a lower level of critical scrutiny than the rest of the report,
+⟦19⟧ and may exhibit selection bias.
+⟦20⟧ (What does it mean to "exclude" information? I have generally been using any material
+found in any reference from either party, so by that standard something in the annexes of
+the WHO report should be included. However, ⟦21⟧ amongst the thousands of pages of reference
+material, ⟦22⟧ ⟦23⟧ it seems likely that one or both parties could have overlooked something 100 pages
+deep into a supplementary materials section. ⟦24⟧ ⟦25⟧ ⟦26⟧ What is important to me is the balance between
+the level of scrutiny a claim received in the debate and how contentious that claim is; ⟦27⟧ ⟦28⟧ ⟦29⟧ highly
+contentious claims that faced no scrutiny will be treated with extreme skepticism. This is
+not a binary distinction where evidence is treated with full credulity just because it lies
+inside some fixed boundary line.)
+
+Claims:
+⟦1⟧ [ANALYSIS] The judge's decision is based on information presented by the debate participants, without independent research, to ensure fairness and allow participants to identify flaws or rebut information.
+⟦2⟧ [ASSUMPTION] The judge was not permitted to base their decision on independent research beyond what the participants of the debate did.
+⟦3⟧ [LIMITATION] The judge's decision was not based on independent research beyond what the participants of the debate did, to give them opportunity to identify flaws or rebut any information presented against their side.
+⟦4⟧ [ANALYSIS] The judge used external information to fill in minor details, such as the exact number of vendors at HSM, which does not influence the debate outcome.
+⟦5⟧ [ASSUMPTION] The judge has not limited themselves to only using information presented by the debate participants for the purposes of the exposition in the report.
+⟦6⟧ [LIMITATION] The judge's exposition in the report was not limited to the information presented by the debate participants, which may introduce information that does not influence the debate outcome.
+⟦7⟧ [ASSUMPTION] The participants of the debate estimated there were about 1000 vendors at HSM.
+⟦8⟧ [EVIDENCE] There were approximately 1000 vendors at HSM, as estimated by both sides of the debate.
+⟦9⟧ [QUANTITATIVE_RESULT] 1000 vendors at HSM
+⟦10⟧ [ANALYSIS] The judge validated statements cited by debate participants by following references back to primary sources.
+⟦11⟧ [EVIDENCE] The debate participants cited secondary sources for some statements.
+⟦12⟧ [EVIDENCE] The author validated some statements by following references back to primary sources.
+⟦13*⟧ [EVIDENCE] The WHO report annex page 182 states there were 1162 vendors at HSM.
+⟦14*⟧ [QUANTITATIVE_RESULT] 1162 vendors at HSM, according to the WHO report annex page 182
+⟦15*⟧ [RESEARCH_QUESTION] What is the exact number of vendors at HSM?
+⟦16⟧ [ANALYSIS] Information not presented by the debate participants, but relevant to the central topic, is included in the report with a lower level of critical scrutiny and may exhibit selection bias.
+⟦17⟧ [HYPOTHESIS] The COVID-19 pandemic originated from a zoonosis or a lab-leak.
+⟦18⟧ [LIMITATION] Some information in the report has been subjected to a lower level of critical scrutiny and may exhibit selection bias.
+⟦19⟧ [ASSUMPTION] Information not presented by the debate participants but used in the report may exhibit selection bias.
+⟦20⟧ [RESEARCH_QUESTION] What does it mean to exclude information in the context of this debate?
+⟦21⟧ [QUANTITATIVE_RESULT] thousands of pages of reference material
+⟦22⟧ [LIMITATION] It is possible that one or both parties may have overlooked relevant information in the reference materials, particularly in supplementary materials sections.
+⟦23⟧ [QUANTITATIVE_RESULT] 100 pages deep into a supplementary materials section
+⟦24⟧ [ANALYSIS] The judge applies a balance between the level of scrutiny a claim received in the debate and its contentiousness, treating highly contentious claims with extreme skepticism if they faced no scrutiny.
+⟦25⟧ [ASSUMPTION] The level of scrutiny a claim received in the debate and how contentious that claim is are important factors in evaluating the claim.
+⟦26⟧ [RESEARCH_QUESTION] How should the balance between the level of scrutiny a claim received in the debate and how contentious that claim is be determined?
+⟦27⟧ [ASSUMPTION] Highly contentious claims that faced no scrutiny will be treated with extreme skepticism.
+⟦28⟧ [LIMITATION] Highly contentious claims that faced no scrutiny in the debate will be treated with extreme skepticism.
+⟦29⟧ [RESEARCH_QUESTION] How can highly contentious claims that faced no scrutiny be treated?
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

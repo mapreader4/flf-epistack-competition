@@ -1,0 +1,55 @@
+5.4.1  Excerpts from proposal
+
+I will be omitting quite a few details about irrelevant activities in the proposal. There are
+two relevant passages:
+We will screen samples for SARSr-CoV [sars-cov-1-related coronavirus]
+nucleic acid [...] Full-length genomes or S [spike] genes of all SARSr-
+CoVs will be high-throughput sequenced followed by genome walking.
+We will analyze the S gene for its ability to bind human ACE2 by
+Biocore or virus entry assay. Synthesis of Chimeric Novel SARSr-
+CoV QS : We will commercially synthesize SARSr-CoV S glycopro-
+tein genes, designed for insertion into SHCO14 or WIV16 molecu-
+lar clone backbones (⟦1⟧ ⟦2⟧ 88% and 97% S-protein identity to epidemic
+SARS-Urbani61). These are BSL-3, not select agents or subject to
+P3CO (they use bat SARSr-CoV backbones which are exempt) and
+are pathogenic to hACE2 [human ACE2] transgenic mice.
+[...] We will conduct in vitro [in test tube] pseudovirus binding assays,
+using established techniques, and live virus binding assays (at WIV
+to prevent delays and unnecessary dissemination of viral cultures) for
+isolated strains.
+So, they will look for sars-like viruses, sequence their spike proteins, simulate how well those
+spike proteins bind to human ACE2 receptors, and put the genes for those spike proteins
+into known viruses which have been selected for their low pandemic potential. Those viruses
+will be given to mice with human ACE2 receptors. The proposal goes on to explain that
+after evaluating the chimeric viruses, some of them will be verified by testing the original
+wild viruses the spikes came from; the latter would be done at WIV where the wild viruses
+were originally sampled.
+S2 Proteolytic Cleavage and Glycosylation Sites : [...] We will analyze
+all SARSr-CoV S [spike] gene sequences for appropriately conserved
+proteolytic cleavage sites in S2 [spike subregion 2] and for the pres-
+ence of potential furin cleavage sites. SARSr-CoV S with mismatches
+in proteolytic cleavage sites can be activated by exogenous trypsin or
+cathepsin L. Where clear mismatches occur, we will introduce appro-
+priate human-specific cleavage sites and evaluate growth potential in
+Vero [monkey kidney] cells and HAE [human airway epithelial cells]
+cultures. In SARS-CoV [ie, sars-cov-1], we will ablate several of these
+sites based on pseudotyped particle studies and evaluate the impact
+of select SARSr-CoV S changes on virus replication and pathogenesis.
+We will also review deep sequence data for low abundant high risk
+SARSr-CoV that encode functional proteolytic cleavage sites, and if
+so, introduce these changes into the appropriate high abundant, low
+61SARS-Urbani refers to a a reference genome of sars-cov-1, collected from Carlo Urbani. Urbani was a
+doctor and biologist who first realized SARS-1 was a new disease, and whose warning to the WHO likely
+saved many lives. ⟦3⟧ He died of SARS-1 at age 46.
+risk parental strain.
+This passage is part of a long list of planned genetic experiments. They will look for cleavage
+sites, including furin cleavage sites, in existing cells, and genetically modify some of them to
+introduce "human-specific" cleavage sites. It is unclear to me whether furin is human-specific.
+I understand this passage to be referring to the chimeric viruses with known backbone
+(SHCO14 or WIV16). They also discuss adding cleavage sites to common, low risk sars-like
+viruses. After this passage, it goes on to discuss N-linked glycosation.
+
+Claims:
+⟦1⟧ [QUANTITATIVE_RESULT] 88% S-protein identity to epidemic SARS-Urbani61
+⟦2⟧ [QUANTITATIVE_RESULT] 97% S-protein identity to epidemic SARS-Urbani61
+⟦3⟧ [QUANTITATIVE_RESULT] 46 years old

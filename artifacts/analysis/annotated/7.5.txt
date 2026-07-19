@@ -1,0 +1,16 @@
+7.5  Genetic evidence
+
+⟦1⟧ Most of the genetic evidence is either already incorporated into the prior or too weak to
+compel anything; it's hard to find definitive proof of a virus's origin by examining its genetic
+sequence. What we are left with is two observations: the strange 12 nucleotide insert creating
+70The two halves have similar areas, so I assume workers are roughly evenly split between them.
+a furin cleavage site, and the strong affinity of sars-cov-2 to bind to human ACE2 over other
+species.
+⟦2⟧ ⟦3⟧ I give these Bayes factors of 20 and 2 respectively; ⟦4⟧ the latter cannot go above 14 as that was
+the number of species in the study.
+
+Claims:
+⟦1⟧ [ANALYSIS] The genetic evidence is too weak to compel a conclusion about the origin of SARS-CoV-2.
+⟦2⟧ [ANALYSIS] The presence of a furin cleavage site in SARS-CoV-2 is more likely if it originated from a certain source, with a Bayes factor of 20.
+⟦3⟧ [ANALYSIS] The strong affinity of SARS-CoV-2 to bind to human ACE2 over other species provides some evidence for its origin, with a Bayes factor of 2.
+⟦4⟧ [ANALYSIS] The maximum Bayes factor for the affinity of SARS-CoV-2 to bind to human ACE2 is limited by the number of species in the study, which is 14.

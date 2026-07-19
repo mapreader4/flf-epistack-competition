@@ -1,0 +1,118 @@
+1.2.1  Phylogeny of coronaviruses
+
+⟦1⟧ As viruses evolve over time, they can be organized into a phylogenetic tree showing how
+closely related one virus is to another; for example, coronaviruses are just one branch
+Figure 3: The structure of a coronavirus, how it enters target cells, and its genome. Depicted
+is MERS, a close relative to sars-cov-2; note that sars-cov-2 binds to ACE2 instead of DPP4.
+The spike protein consists of two subdomains, S1 and S2, which are separated as part of the
+cell entry process. Diagram is figure 2 from [35].
+of nidoviruses. ⟦2⟧ ⟦3⟧ Coronaviruses are divided into four subgroups, named alphacoronaviruses
+through deltacoronaviruses, not to be confused with the variants of sars-cov-2 also named
+after greek letters. β-covs are divided further into four subgroups labeled lineages A through
+D, not to be confused with lineages A and B of sars-cov-2. Lineage B, the sarbecoviruses
+("sars-like betacoronaviruses") includes both sars-cov-1, the virus which caused the 2002-
+2003 SARS outbreak, and sars-cov-2, which causes covid-19. ⟦4⟧ ⟦5⟧ ⟦6⟧ ⟦7⟧ ⟦8⟧ The genomes of sars-cov-1 and
+sars-cov-2 are 80% identical.
+⟦9⟧ ⟦10⟧ ⟦11⟧ In total there are 7 known coronaviruses that cause disease in humans: two mild α-covs
+HCoV-229E and HCoV-NL63, two mild β-covs of lineage A ("embecoviruses") HCoV-OC43
+and HCoV-HKU1, the two human sarbecoviruses mentioned above, and the deadly MERS
+virus of lineage C ("merbecoviruses"). ⟦12⟧ While MERS is only weakly transmissible between
+humans and most MERS causes are in Saudi Arabia, where it is believed to have transmitted
+many times to humans from camels, extended human-to-human transmission chains have
+been observed extending into other countries.
+The wild virus most closely related to sars-cov-2 is banal-20-52 [30], a sample collected from
+Figure 4: Phylogenetic tree of selected betacoronaviruses. Inserts at right show Lineage B
+(sarbecoviruses) and Lineage C (merbecoviruses); the former includes both sars-cov-1 and
+sars-cov-2, but this diagram was made in 2018. Diagram is figure 9 from [17].
+a bat (dropping) in Laos with 96.8% nucleotide identity, ⟦13⟧ or a disagreement of about 1000
+nucleotides. As many nucleotide substitutions are synonymous, ⟦14⟧ there is about 99% amino
+acid identity, ⟦15⟧ ⟦16⟧ ⟦17⟧ and ⟦18⟧ the time to most recent common ancestor (tMRCA) might be about 20 to
+30 years ago [7]. ⟦19⟧ ⟦20⟧ ⟦21⟧ ⟦22⟧ However, different parts of the sars-cov-2 genome are closest to different wild
+viruses, ⟦23⟧ ⟦24⟧ and ⟦25⟧ recombination appears to play a role in the genetic history of sarbecoviruses,
+complicating efforts to reconstruct a phylogeny [30].
+Sars-cov-2 itself divides into many subgroups; like the flu virus, one often finds that newer
+variants displace older variants, causing notational difficulties as the phylogenetic tree divides
+further and further. It was for this reason that the PANGO notation was developed [29];
+for example, the pango notation "B.1.1.529" refers to the root of the omicron variant. The
+very earliest division of the sars-cov-2 phylogeny is into two parts, called lineages A and B
+in the PANGO notation.12 Lineage B would contain the highly successful D614G mutation,
+meaning that ⟦26⟧ the aspartic acid (D) at location 614 of the spike protein (70 nucleotides from
+the FCS) is replaced by glycine (G). ⟦27⟧ ⟦28⟧ ⟦29⟧ The D614G mutation first became prominent in Italy
+in 2020 March, ⟦30⟧ and ⟦31⟧ I believe is directly related to the worldwide March-May peak many
+countries observed.13 ⟦32⟧ Lineage B has now completely displaced lineage A.
+12In Nextstrain, lineage A is called 19B, as it was the second branch to be identified in 2019, and the
+root of lineage B is called 19A; the root of omicron is called 21M. In GISAID, lineage A is called S clade.
+Nextstrain and GISAID provide freely available tools for viewing phylogenetic trees, tracking variants, and
+downloading genomes.
+13In summer of 2020 I invested some time into tracking the progression of D614G, but never finished my
+work as it was eventually obviated by the second wave that came that fall.
+⟦33⟧ ⟦34⟧ ⟦35⟧ Due to the high mutation rate of viruses, a phylogenetic tree can be created with some
+reliability down to the level of individual illnesses. ⟦36*⟧ Samples of sars-cov-2 collected in 2019
+December and 2020 January have been sequenced and some are available in GISAID, facil-
+litating assembling them into a phylogenetic tree of the very earliest covid cases, though the
+results are not without dispute. Lineages A and B each clearly form a tree with a single un-
+ambiguous root from which there are many branches, called a "polytomy". These two roots
+differ from each other in exactly two nucleotides. ⟦37⟧ ⟦38⟧ ⟦39⟧ The root of lineage A has the sequence
+T8782, C28144 (abbreviated T/C) ⟦40⟧ and the root of lineage B has the sequence C8782, T28144
+(abbreviated C/T); note that the mutation at 8782 is synonymous. Several early samples
+have been collected that may exhibit the C/C or T/T pattern. ⟦41⟧ ⟦42⟧ The phylogenetic relationship
+between the roots of the A and B lineages is not immediately clear without further analysis.
+We can summarize the above with a phylogenetic tree:
+• coronaviruses
+• betacoronaviruses
+• embecoviruses (aka Lineage A)
+• sarbecoviruses (aka Lineage B)
+• sars-cov-1
+• banal-20-52
+• sars-cov-2
+• Lineage A (now extinct)
+• Lineage B
+• alpha, beta, . . . , omicron
+• merbecoviruses (aka Lineage C)
+• MERS
+
+Claims:
+⟦1⟧ [ASSUMPTION] The phylogenetic tree of coronaviruses can be used to show how closely related one virus is to another.
+⟦2⟧ [ASSUMPTION] Coronaviruses are divided into four subgroups, named alphacoronaviruses through deltacoronaviruses.
+⟦3⟧ [EVIDENCE] Coronaviruses are divided into four subgroups, named alphacoronaviruses through deltacoronaviruses.
+⟦4⟧ [ANALYSIS] The genomes of sars-cov-1 and sars-cov-2 are 80% identical, which implies a close phylogenetic relationship between the two viruses.
+⟦5⟧ [ASSUMPTION] The genomes of sars-cov-1 and sars-cov-2 are 80% identical.
+⟦6⟧ [EVIDENCE] The genomes of sars-cov-1 and sars-cov-2 are 80% identical.
+⟦7⟧ [QUANTITATIVE_RESULT] The genomes of sars-cov-1 and sars-cov-2 are 80% identical
+⟦8⟧ [RESEARCH_QUESTION] How do the genomes of sars-cov-1 and sars-cov-2 compare?
+⟦9⟧ [ASSUMPTION] There are 7 known coronaviruses that cause disease in humans.
+⟦10⟧ [EVIDENCE] There are 7 known coronaviruses that cause disease in humans.
+⟦11⟧ [QUANTITATIVE_RESULT] 7 known coronaviruses cause disease in humans
+⟦12⟧ [EVIDENCE] MERS virus is only weakly transmissible between humans.
+⟦13⟧ [QUANTITATIVE_RESULT] About 1000 nucleotides disagreement between sars-cov-2 and banal-20-52
+⟦14⟧ [QUANTITATIVE_RESULT] 99% amino acid identity between sars-cov-2 and banal-20-52
+⟦15⟧ [ASSUMPTION] The time to most recent common ancestor (tMRCA) of sars-cov-2 and banal-20-52 might be about 20 to 30 years ago.
+⟦16⟧ [EVIDENCE] The time to most recent common ancestor (tMRCA) of sars-cov-2 and banal-20-52 might be about 20 to 30 years ago.
+⟦17⟧ [QUANTITATIVE_RESULT] Time to most recent common ancestor (tMRCA) might be about 20 to 30 years ago
+⟦18⟧ [RESEARCH_QUESTION] What is the time to most recent common ancestor (tMRCA) of sars-cov-2 and its closest wild relative?
+⟦19⟧ [ANALYSIS] Recombination appears to play a role in the genetic history of sarbecoviruses, complicating efforts to reconstruct a phylogeny.
+⟦20⟧ [EVIDENCE] Different parts of the sars-cov-2 genome are closest to different wild viruses.
+⟦21⟧ [HYPOTHESIS] The SARS-CoV-2 virus underwent recombination, which complicates efforts to reconstruct a phylogeny.
+⟦22⟧ [LIMITATION] The phylogenetic tree of coronaviruses can be complicated by recombination, which plays a role in the genetic history of sarbecoviruses.
+⟦23⟧ [ASSUMPTION] Recombination appears to play a role in the genetic history of sarbecoviruses.
+⟦24⟧ [EVIDENCE] Recombination appears to play a role in the genetic history of sarbecoviruses.
+⟦25⟧ [RESEARCH_QUESTION] What role does recombination play in the genetic history of sarbecoviruses?
+⟦26⟧ [QUANTITATIVE_RESULT] 70 nucleotides from the FCS to the location of the D614G mutation
+⟦27⟧ [ANALYSIS] The D614G mutation in the spike protein of sars-cov-2 is believed to be directly related to the worldwide March-May peak many countries observed.
+⟦28⟧ [EVIDENCE] The D614G mutation first became prominent in Italy in 2020 March.
+⟦29⟧ [HYPOTHESIS] The D614G mutation in the SARS-CoV-2 virus is directly related to the worldwide March-May peak many countries observed.
+⟦30⟧ [ASSUMPTION] The D614G mutation is directly related to the worldwide March-May peak many countries observed.
+⟦31⟧ [RESEARCH_QUESTION] How does the D614G mutation relate to the worldwide March-May peak of COVID-19 cases in many countries?
+⟦32⟧ [EVIDENCE] Lineage B has completely displaced lineage A.
+⟦33⟧ [ANALYSIS] The high mutation rate of viruses allows for the creation of a phylogenetic tree with some reliability down to the level of individual illnesses.
+⟦34⟧ [ASSUMPTION] The high mutation rate of viruses allows for the creation of a phylogenetic tree with some reliability down to the level of individual illnesses.
+⟦35⟧ [LIMITATION] The high mutation rate of viruses can limit the reliability of phylogenetic trees.
+⟦36*⟧ [LIMITATION] The results of assembling a phylogenetic tree of the very earliest covid cases are not without dispute.
+⟦37⟧ [ANALYSIS] The roots of Lineage A and Lineage B of sars-cov-2 differ from each other in exactly two nucleotides, suggesting a recent divergence.
+⟦38⟧ [EVIDENCE] The root of lineage A has the sequence T8782, C28144.
+⟦39⟧ [QUANTITATIVE_RESULT] 2 nucleotides difference between the roots of Lineage A and Lineage B
+⟦40⟧ [EVIDENCE] The root of lineage B has the sequence C8782, T28144.
+⟦41⟧ [LIMITATION] The phylogenetic relationship between the roots of the A and B lineages is not immediately clear without further analysis.
+⟦42⟧ [RESEARCH_QUESTION] What is the phylogenetic relationship between the roots of the A and B lineages of sars-cov-2?
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

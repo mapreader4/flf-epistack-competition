@@ -1,0 +1,63 @@
+4.5.5  Are other diseases drawn to HSM?
+
+⟦1⟧ ⟦2⟧ Rootclaim estimates that there was a 10% chance of the first covid outbreak appearing in
+HSM; ⟦3⟧ their reasoning applies equally well to other respiratory diseases. ⟦4⟧ ⟦5⟧ We should expect,
+then, that in a typical winter HSM has one of the first 10 flu outbreaks in Wuhan. ⟦6*⟧ ⟦7*⟧ ⟦8*⟧ Com-
+parable markets elsewhere in Wuhan or in other cities should similarly be early nexuses of
+flus, colds, and other diseases.
+⟦9⟧ Is this true? ⟦10⟧ I have no direct evidence either for or against this, but I strongly suspect
+that if it were true someone would have noticed by now. ⟦11⟧ ⟦12⟧ China, like the US, invests in flu
+surveillance and has a significant motive to identify potential infection sources or focuses.
+⟦13⟧ ⟦14⟧ ⟦15⟧ ⟦16⟧ ⟦17⟧ ⟦18⟧ Saar contests that the factors favoring HSM are unique to when there are very few cases
+present in a city, as the high rate of visitor traffic becomes less relevant when the disease is
+abundant everywhere ([4] at 20:40). ⟦19⟧ ⟦20⟧ ⟦21⟧ However ⟦22⟧ ⟦23⟧ disease transmission should remain linear at
+low case counts, ⟦24⟧ and ⟦25⟧ ⟦26⟧ ⟦27⟧ nonlinearities only begin when some subpopulation has so many cases
+as to create significant immunity. ⟦28⟧ ⟦29⟧ ⟦30⟧ ⟦31⟧ ⟦32⟧ ⟦33⟧ If the number of infected people in a city is doubled, the
+rate of outbreaks at every location is doubled, ⟦34⟧ ⟦35⟧ and the chance that a certain location is first
+remains unchanged.
+⟦36⟧ (⟦37⟧ However ⟦38⟧ ⟦39⟧ people have cross-year immunity to the flu and other endemic diseases, ⟦40⟧ which will
+slightly dampen inter-location variation in infectivity.)
+
+Claims:
+⟦1⟧ [EVIDENCE] Rootclaim estimates a 10% chance of the first COVID outbreak appearing in HSM
+⟦2⟧ [QUANTITATIVE_RESULT] 10% chance of the first covid outbreak appearing in HSM
+⟦3⟧ [HYPOTHESIS] Other respiratory diseases are drawn to HSM with a similar probability as COVID-19
+⟦4⟧ [HYPOTHESIS] HSM has one of the first 10 flu outbreaks in Wuhan in a typical winter
+⟦5⟧ [QUANTITATIVE_RESULT] one of the first 10 flu outbreaks in Wuhan in a typical winter
+⟦6*⟧ [ANALYSIS] The likelihood of a disease outbreak appearing in HSM is comparable to other locations with similar characteristics, such as other markets in Wuhan or other cities.
+⟦7*⟧ [HYPOTHESIS] Comparable markets elsewhere in Wuhan or in other cities are early nexuses of flus, colds, and other diseases
+⟦8*⟧ [RESEARCH_QUESTION] Do comparable markets elsewhere in Wuhan or in other cities have early outbreaks of flu, colds, and other diseases?
+⟦9⟧ [RESEARCH_QUESTION] Are other diseases, such as flu and colds, drawn to Huanan Seafood Market (HSM) in Wuhan?
+⟦10⟧ [LIMITATION] There is no direct evidence for or against the expectation that HSM has one of the first 10 flu outbreaks in Wuhan in a typical winter.
+⟦11⟧ [ANALYSIS] The presence of flu surveillance in China and the US should lead to the identification of potential infection sources, including HSM, if it were a common location for early disease outbreaks.
+⟦12⟧ [EVIDENCE] China invests in flu surveillance
+⟦13⟧ [ANALYSIS] The factors favoring HSM as a location for disease outbreaks may be unique to situations with very few cases present in a city, according to Saar.
+⟦14⟧ [ASSUMPTION] The factors favoring HSM as a location for the first covid outbreak are unique to when there are very few cases present in a city.
+⟦15⟧ [EVIDENCE] Saar contests that the factors favoring HSM are unique to when there are very few cases present in a city
+⟦16⟧ [HYPOTHESIS] The factors favoring HSM are unique to when there are very few cases present in a city
+⟦17⟧ [LIMITATION] The factors favoring HSM as a disease nexus may be unique to when there are very few cases present in a city.
+⟦18⟧ [RESEARCH_QUESTION] Are the factors favoring HSM as a location for disease outbreaks unique to situations with very few cases present in a city?
+⟦19⟧ [ANALYSIS] Disease transmission remains linear at low case counts, and the chance that a certain location is the first outbreak location remains unchanged if the number of infected people in a city is doubled.
+⟦20⟧ [ASSUMPTION] Disease transmission remains linear at low case counts.
+⟦21⟧ [RESEARCH_QUESTION] Does disease transmission remain linear at low case counts, and do nonlinearities only begin when some subpopulation has significant immunity?
+⟦22⟧ [EVIDENCE] Disease transmission should remain linear at low case counts
+⟦23⟧ [HYPOTHESIS] Disease transmission remains linear at low case counts
+⟦24⟧ [ASSUMPTION] Nonlinearities in disease transmission only begin when some subpopulation has so many cases as to create significant immunity.
+⟦25⟧ [EVIDENCE] Nonlinearities only begin when some subpopulation has so many cases as to create significant immunity
+⟦26⟧ [HYPOTHESIS] Nonlinearities in disease transmission only begin when some subpopulation has so many cases as to create significant immunity
+⟦27⟧ [LIMITATION] Nonlinearities in disease transmission may begin when some subpopulation has so many cases as to create significant immunity, affecting the analysis of disease spread.
+⟦28⟧ [ANALYSIS] The rate of outbreaks at every location is doubled if the number of infected people in a city is doubled, but the chance that a certain location is first remains unchanged.
+⟦29⟧ [ASSUMPTION] If the number of infected people in a city is doubled, the rate of outbreaks at every location is doubled.
+⟦30⟧ [EVIDENCE] If the number of infected people in a city is doubled, the rate of outbreaks at every location is doubled
+⟦31⟧ [HYPOTHESIS] The rate of outbreaks at every location is doubled if the number of infected people in a city is doubled
+⟦32⟧ [QUANTITATIVE_RESULT] doubled number of infected people in a city, doubled rate of outbreaks at every location
+⟦33⟧ [RESEARCH_QUESTION] Does the rate of outbreaks at every location double when the number of infected people in a city is doubled, and does the chance that a certain location is first remain unchanged?
+⟦34⟧ [ASSUMPTION] The chance that a certain location is first remains unchanged if the number of infected people in a city is doubled.
+⟦35⟧ [HYPOTHESIS] The chance that a certain location is first remains unchanged if the number of infected people in a city is doubled
+⟦36⟧ [ANALYSIS] Cross-year immunity to the flu and other endemic diseases slightly dampens inter-location variation in infectivity.
+⟦37⟧ [ASSUMPTION] People have cross-year immunity to the flu and other endemic diseases.
+⟦38⟧ [EVIDENCE] People have cross-year immunity to the flu and other endemic diseases
+⟦39⟧ [LIMITATION] Cross-year immunity to the flu and other endemic diseases may slightly dampen inter-location variation in infectivity, potentially affecting the comparison of disease outbreaks across locations.
+⟦40⟧ [ASSUMPTION] Cross-year immunity to the flu and other endemic diseases slightly dampens inter-location variation in infectivity.
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary

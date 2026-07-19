@@ -1,0 +1,18 @@
+7.4  Environmental samples in HSM
+
+As discussed in section 4.6.1, the distribution of positive sars-cov-2 samples within HSM
+⟦1⟧ appears to generally point to the region where live animals were kept, or more specifically
+point to shop 6:29 which had been identified as a potential pandemic spillover location.
+Of the 15 shops which were sampled 10 or more times, 12 had no positives, 3 had one positive,
+and shop 6:29 had the other 5 positives. Arguably, ⟦2⟧ this observation has a Bayes factor of 15
+in favor of Z, as ⟦3⟧ LL has no viable explanation for this coincidence. While this observation
+is certainly very post hoc, more careful statistical analysis places 6:29 at the geographical
+center of the sample positivity ratio, and the positive drainage samples likewise implicate
+alley 6.
+However the HSM environmental samples will not contribute to my Bayesian calculation, as
+will be explained.
+
+Claims:
+⟦1⟧ [HYPOTHESIS] The distribution of positive SARS-CoV-2 samples within HSM points to the region where live animals were kept, specifically shop 6:29, as a potential pandemic spillover location.
+⟦2⟧ [HYPOTHESIS] The observation of positive SARS-CoV-2 samples in shop 6:29 has a Bayes factor of 15 in favor of Z.
+⟦3⟧ [HYPOTHESIS] LL has no viable explanation for the coincidence of positive SARS-CoV-2 samples in shop 6:29.

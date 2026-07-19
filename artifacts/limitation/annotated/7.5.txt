@@ -1,0 +1,15 @@
+7.5  Genetic evidence
+
+⟦1⟧ Most of the genetic evidence is either already incorporated into the prior or too weak to
+compel anything; ⟦2⟧ it's hard to find definitive proof of a virus's origin by examining its genetic
+sequence. What we are left with is two observations: the strange 12 nucleotide insert creating
+70The two halves have similar areas, so I assume workers are roughly evenly split between them.
+a furin cleavage site, and the strong affinity of sars-cov-2 to bind to human ACE2 over other
+species.
+I give these Bayes factors of 20 and 2 respectively; ⟦3⟧ the latter cannot go above 14 as that was
+the number of species in the study.
+
+Claims:
+⟦1⟧ [LIMITATION] genetic evidence is too weak to compel anything
+⟦2⟧ [LIMITATION] it's hard to find definitive proof of a virus's origin by examining its genetic sequence
+⟦3⟧ [LIMITATION] the Bayes factor for the strong affinity of sars-cov-2 to bind to human ACE2 cannot go above 14 due to the limited number of species in the study

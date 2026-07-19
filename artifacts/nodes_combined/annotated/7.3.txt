@@ -1,0 +1,56 @@
+7.3  First cluster in HSM
+
+⟦1⟧ ⟦2⟧ LetH be the observation that the index case is a resident in the west half of HSM (⟦3⟧ or, more
+precisely, that the first significant covid cluster is centered among the residents in the west
+half of HSM). 70 Following the simple model of section 4.1, ⟦4⟧ ⟦5⟧ the probability of observing H
+equals 1 divided by the population of the smallest epidemiological circle that contains both
+the primary case and the index case. ⟦6⟧ ⟦7⟧ For Z this is simply the west half of HSM, and ⟦8⟧ ⟦9⟧ for LL
+this is all of Wuhan, so we get
+⟦10⟧ ⟦11⟧ ⟦12⟧ ⟦13⟧ P (H|Z) = 1
+⟦14*⟧ P (H|LL) = 1
+1.2· 107
+⟦15⟧ ⟦16⟧ ⟦17⟧ for a Bayes factor of 1 /20000. ⟦18⟧ ⟦19⟧ ⟦20⟧ ⟦21⟧ As ⟦22⟧ ⟦23⟧ I do think a market vendor is more likely to catch an
+illness than the average resident of Wuhan, ⟦24⟧ ⟦25⟧ ⟦26⟧ I will give LL an extra factor of 2.
+⟦27⟧ ⟦28⟧ As per previous discussion, ⟦29⟧ we are using a flat prior for the number of transmission between
+the primary case and index case, ⟦30⟧ ⟦31⟧ so both P (H|Z) and P (H|LL) should be smaller by the
+same factor, which has no influence on the Bayes factor. ⟦32⟧ ⟦33⟧ ⟦34⟧ ⟦35⟧ I think the assumption of a flat
+prior here is somewhat favorable to LL.
+
+Claims:
+⟦1⟧ [ASSUMPTION] The index case is a resident in the west half of HSM.
+⟦2⟧ [EVIDENCE] The index case is a resident in the west half of HSM
+⟦3⟧ [EVIDENCE] The first significant covid cluster is centered among the residents in the west half of HSM
+⟦4⟧ [ASSUMPTION] The probability of observing H equals 1 divided by the population of the smallest epidemiological circle that contains both the primary case and the index case.
+⟦5⟧ [EVIDENCE] The probability of observing H equals 1 divided by the population of the smallest epidemiological circle that contains both the primary case and the index case
+⟦6⟧ [EVIDENCE] For Z, the smallest epidemiological circle is the west half of HSM
+⟦7⟧ [HYPOTHESIS] The COVID-19 pandemic originated from zoonosis (Z) in the west half of HSM
+⟦8⟧ [EVIDENCE] For LL, the smallest epidemiological circle is all of Wuhan
+⟦9⟧ [HYPOTHESIS] The COVID-19 pandemic originated from a lab-leak (LL) in Wuhan
+⟦10⟧ [ANALYSIS] The probability of observing the index case in the west half of HSM given the zoonosis hypothesis (Z) is 1 divided by the population of the west half of HSM.
+⟦11⟧ [EVIDENCE] P(H|Z) = 1
+⟦12⟧ [QUANTITATIVE_RESULT] P(H|Z) = 1
+⟦13⟧ [RESEARCH_QUESTION] What is the probability of observing the index case in the west half of HSM given the zoonosis hypothesis?
+⟦14*⟧ [RESEARCH_QUESTION] What is the probability of observing the index case in the west half of HSM given the lab-leak hypothesis?
+⟦15⟧ [ANALYSIS] The Bayes factor for the zoonosis hypothesis (Z) versus the lab-leak hypothesis (LL) is 1 / 20000.
+⟦16⟧ [EVIDENCE] The Bayes factor is 1 / 20000
+⟦17⟧ [QUANTITATIVE_RESULT] Bayes factor = 1 / 20000
+⟦18⟧ [ANALYSIS] A market vendor is more likely to catch an illness than the average resident of Wuhan.
+⟦19⟧ [EVIDENCE] A market vendor is more likely to catch an illness than the average resident of Wuhan
+⟦20⟧ [HYPOTHESIS] A market vendor is more likely to catch an illness than the average resident of Wuhan
+⟦21⟧ [LIMITATION] The model does not account for the possibility that a market vendor is more likely to catch an illness than the average resident of Wuhan, which may affect the probability of observing H
+⟦22⟧ [ASSUMPTION] A market vendor is more likely to catch an illness than the average resident of Wuhan.
+⟦23⟧ [RESEARCH_QUESTION] How does the likelihood of a market vendor catching an illness compare to the average resident of Wuhan?
+⟦24⟧ [ANALYSIS] Giving the lab-leak hypothesis (LL) an extra factor of 2 due to the increased likelihood of a market vendor catching an illness.
+⟦25⟧ [EVIDENCE] LL is given an extra factor of 2
+⟦26⟧ [QUANTITATIVE_RESULT] extra factor for LL = 2
+⟦27⟧ [EVIDENCE] A flat prior is used for the number of transmission between the primary case and index case
+⟦28⟧ [HYPOTHESIS] The number of transmissions between the primary case and index case follows a flat prior
+⟦29⟧ [ASSUMPTION] The number of transmission between the primary case and index case has a flat prior.
+⟦30⟧ [LIMITATION] The probabilities P(H|Z) and P(H|LL) should be smaller by the same factor due to the use of a flat prior, which may affect the accuracy of the Bayes factor
+⟦31⟧ [RESEARCH_QUESTION] What is the effect of using a flat prior for the number of transmissions between the primary case and index case on the Bayes factor?
+⟦32⟧ [ANALYSIS] The assumption of a flat prior for the number of transmissions between the primary case and index case is somewhat favorable to the lab-leak hypothesis (LL).
+⟦33⟧ [ASSUMPTION] The assumption of a flat prior is somewhat favorable to LL.
+⟦34⟧ [EVIDENCE] The assumption of a flat prior is somewhat favorable to LL
+⟦35⟧ [LIMITATION] The assumption of a flat prior for the number of transmission between the primary case and index case may be somewhat favorable to the lab-leak hypothesis (LL)
+
+* = fuzzy-matched location (quote not verbatim in the raw text above); position is approximate, snapped to the nearest word boundary
