@@ -1,0 +1,11 @@
+{
+  "nodes": 1370,
+  "cards": 429,
+  "validate_errors": 0,
+  "cards_touching_conclusory": 0,
+  "events_replay_cards": 429,
+  "cards_jsonl": 429,
+  "scorer_crosscheck_max_delta": 4.999999999588667e-07,
+  "scorer_crosscheck_mean_delta": 1.677152761819323e-08,
+  "contested_nodes": 34
+}

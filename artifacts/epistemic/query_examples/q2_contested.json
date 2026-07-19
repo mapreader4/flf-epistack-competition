@@ -1,0 +1,692 @@
+[
+  {
+    "node_id": "n-00168",
+    "text": "Rootclaim's claim is that the SARS-CoV-2 outbreak was due to gain-of-function laboratory research.",
+    "vs": 0.855804,
+    "va": 0.032794,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00275",
+      "card-00348",
+      "card-00419"
+    ],
+    "attackers": [
+      "card-00413"
+    ]
+  },
+  {
+    "node_id": "n-00302",
+    "text": "The goal of Rootclaim is to get a Bayes factor comfortably greater than 1",
+    "vs": 0.809064,
+    "va": 0.175,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00136",
+      "card-00175",
+      "card-00306",
+      "card-00341"
+    ],
+    "attackers": [
+      "card-00060"
+    ]
+  },
+  {
+    "node_id": "n-00425",
+    "text": "The number of vendors at HSM is rounded to 1200 for easier calculations",
+    "vs": 0.71825,
+    "va": 0.175,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00089",
+      "card-00096",
+      "card-00169"
+    ],
+    "attackers": [
+      "card-00297"
+    ]
+  },
+  {
+    "node_id": "n-01153",
+    "text": "The data in the 2021 WHO report is not error-free.",
+    "vs": 0.831301,
+    "va": 0.3,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00043"
+    ],
+    "attackers": [
+      "card-00151"
+    ]
+  },
+  {
+    "node_id": "n-00549",
+    "text": "Even with HSM having 4 times the infectivity of non-HSM, HSM-linked cases still can never exceed 2/3 of all cases.",
+    "vs": 0.938221,
+    "va": 0.457069,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00107",
+      "card-00159",
+      "card-00185",
+      "card-00376",
+      "card-00403"
+    ],
+    "attackers": [
+      "card-00268"
+    ]
+  },
+  {
+    "node_id": "n-00917",
+    "text": "Banal-20-52 is the closest known virus to SARS-CoV-2, but it is not close enough to make a comparison.",
+    "vs": 0.768563,
+    "va": 0.319375,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00051",
+      "card-00273",
+      "card-00285"
+    ],
+    "attackers": [
+      "card-00147",
+      "card-00318"
+    ]
+  },
+  {
+    "node_id": "n-00669",
+    "text": "Rootclaim explains the outbreak in HSM preceding outbreaks elsewhere as a consequence of the infection growth rate in HSM being so much higher as to overcome the head start of cases elsewhere in Wuhan.",
+    "vs": 0.944283,
+    "va": 0.512954,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00194",
+      "card-00274",
+      "card-00339",
+      "card-00415"
+    ],
+    "attackers": [
+      "card-00078",
+      "card-00303",
+      "card-00326"
+    ]
+  },
+  {
+    "node_id": "n-00535",
+    "text": "The visitor was unlikely to infect the vendor, or the visitor was infecting dozens of people.",
+    "vs": 0.59575,
+    "va": 0.21175,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00265",
+      "card-00378",
+      "card-00407"
+    ],
+    "attackers": [
+      "card-00321"
+    ]
+  },
+  {
+    "node_id": "n-00015",
+    "text": "The author will be writing at length about their disagreements with Rootclaim's argument.",
+    "vs": 0.669375,
+    "va": 0.3,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00045",
+      "card-00138"
+    ],
+    "attackers": [
+      "card-00269"
+    ]
+  },
+  {
+    "node_id": "n-00725",
+    "text": "At the time of spillover, very few animals at HSM would have been carrying sars-cov-2 infections, compared to the number who might be susceptible to it.",
+    "vs": 0.669375,
+    "va": 0.3,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00129",
+      "card-00325"
+    ],
+    "attackers": [
+      "card-00114"
+    ]
+  },
+  {
+    "node_id": "n-00918",
+    "text": "SARS-CoV-2 and banal-20-52 are separated by decades of evolutionary time and likely multiple recombination events with other viruses.",
+    "vs": 0.774968,
+    "va": 0.425,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00098",
+      "card-00205",
+      "card-00225",
+      "card-00258"
+    ],
+    "attackers": [
+      "card-00296"
+    ]
+  },
+  {
+    "node_id": "n-00876",
+    "text": "Not all of the genetic modification involved using backbones from known, pre-existing viruses.",
+    "vs": 0.605625,
+    "va": 0.3,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00010"
+    ],
+    "attackers": [
+      "card-00367"
+    ]
+  },
+  {
+    "node_id": "n-00510",
+    "text": "HSM is better ventilated than an enclosed building due to its semi-open-air structure.",
+    "vs": 0.425,
+    "va": 0.71825,
+    "winner": "attack",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00244"
+    ],
+    "attackers": [
+      "card-00074",
+      "card-00183",
+      "card-00299"
+    ]
+  },
+  {
+    "node_id": "n-00037",
+    "text": "China successfully contained COVID-19 by April.",
+    "vs": 0.4275,
+    "va": 0.712141,
+    "winner": "attack",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00070"
+    ],
+    "attackers": [
+      "card-00383",
+      "card-00420"
+    ]
+  },
+  {
+    "node_id": "n-00017",
+    "text": "The author's analysis is grounded in the facts and evidence, but was performed under acute time pressure and without independent research.",
+    "vs": 0.425,
+    "va": 0.175,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00190"
+    ],
+    "attackers": [
+      "card-00202"
+    ]
+  },
+  {
+    "node_id": "n-00091",
+    "text": "MERS is only weakly transmissible between humans.",
+    "vs": 0.175,
+    "va": 0.425,
+    "winner": "attack",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00196"
+    ],
+    "attackers": [
+      "card-00055"
+    ]
+  },
+  {
+    "node_id": "n-00746",
+    "text": "The WHO report does not clarify how many of the cases that self-report exposure to live animals were at HSM, nor the nature of that exposure.",
+    "vs": 0.425,
+    "va": 0.175,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00101"
+    ],
+    "attackers": [
+      "card-00301"
+    ]
+  },
+  {
+    "node_id": "n-00940",
+    "text": "LL is the hypothesis that covid resulted from gain-of-function research in WIV.",
+    "vs": 0.425,
+    "va": 0.175,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00422"
+    ],
+    "attackers": [
+      "card-00308"
+    ]
+  },
+  {
+    "node_id": "n-01084",
+    "text": "The lab leak hypothesis has only loose circumstantial evidence in its favor.",
+    "vs": 0.175,
+    "va": 0.425,
+    "winner": "attack",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00122"
+    ],
+    "attackers": [
+      "card-00174"
+    ]
+  },
+  {
+    "node_id": "n-01129",
+    "text": "It is not fair to translate the characters \"\" as \"play mahjong\" without context to indicate that it is specifically mahjong being referred to.",
+    "vs": 0.425,
+    "va": 0.175,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00137"
+    ],
+    "attackers": [
+      "card-00204"
+    ]
+  },
+  {
+    "node_id": "n-00739",
+    "text": "Only one animal vendor would have been directly infected by an animal if sars-cov-2 did spill over at HSM.",
+    "vs": 0.410813,
+    "va": 0.657,
+    "winner": "attack",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00024"
+    ],
+    "attackers": [
+      "card-00088",
+      "card-00099",
+      "card-00112"
+    ]
+  },
+  {
+    "node_id": "n-00521",
+    "text": "The visitor infects a resident at HSM.",
+    "vs": 0.51,
+    "va": 0.3,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00327",
+      "card-00333"
+    ],
+    "attackers": [
+      "card-00149"
+    ]
+  },
+  {
+    "node_id": "n-00784",
+    "text": "Wuhan as a whole would have a mix of the two lineages according to the lab leak theory",
+    "vs": 0.39,
+    "va": 0.516872,
+    "winner": "attack",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00377"
+    ],
+    "attackers": [
+      "card-00278",
+      "card-00373",
+      "card-00427"
+    ]
+  },
+  {
+    "node_id": "n-00171",
+    "text": "The author attempted to challenge each participant on any claims they made that appeared suspect.",
+    "vs": 0.425,
+    "va": 0.3,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00358"
+    ],
+    "attackers": [
+      "card-00365"
+    ]
+  },
+  {
+    "node_id": "n-00263",
+    "text": "The Lower Mississippi River will be only 1 mile and 3/4 long in 742 years.",
+    "vs": 0.3,
+    "va": 0.425,
+    "winner": "attack",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00021"
+    ],
+    "attackers": [
+      "card-00047"
+    ]
+  },
+  {
+    "node_id": "n-00277",
+    "text": "A Bayes factor of e18.138 gives a probability indistinguishable from certainty.",
+    "vs": 0.425,
+    "va": 0.3,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00304"
+    ],
+    "attackers": [
+      "card-00232"
+    ]
+  },
+  {
+    "node_id": "n-00439",
+    "text": "Saar claims that asymmetries in the contact graph cause outbreaks to be more likely to show up at HSM than expected",
+    "vs": 0.3,
+    "va": 0.175,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00294"
+    ],
+    "attackers": [
+      "card-00323"
+    ]
+  },
+  {
+    "node_id": "n-01109",
+    "text": "If Connor Reed is telling the truth that his samples tested positive in a retrospective search, then there must be unpublished retrospective searches.",
+    "vs": 0.3,
+    "va": 0.425,
+    "winner": "attack",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00157"
+    ],
+    "attackers": [
+      "card-00226"
+    ]
+  },
+  {
+    "node_id": "n-01154",
+    "text": "The data in the 2021 WHO report is not complete.",
+    "vs": 0.831301,
+    "va": 0.71825,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00012"
+    ],
+    "attackers": [
+      "card-00108",
+      "card-00139",
+      "card-00152"
+    ]
+  },
+  {
+    "node_id": "n-00643",
+    "text": "A single super-spreading event can completely overwhelm the difference in infectivity between two locations and drive the less infectious location to have more cases sooner",
+    "vs": 0.3,
+    "va": 0.407006,
+    "winner": "attack",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00401"
+    ],
+    "attackers": [
+      "card-00110",
+      "card-00352"
+    ]
+  },
+  {
+    "node_id": "n-00781",
+    "text": "The lab leak theory suggests that lineage A was leaked from WIV",
+    "vs": 0.2275,
+    "va": 0.31875,
+    "winner": "attack",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00309"
+    ],
+    "attackers": [
+      "card-00412"
+    ]
+  },
+  {
+    "node_id": "n-00286",
+    "text": "If the spillover occurred outside of HSM, then the proximity of the HSM SSE to animal sources of virus in the market is probably a coincidence",
+    "vs": 0.665545,
+    "va": 0.618674,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00086",
+      "card-00105",
+      "card-00387",
+      "card-00399"
+    ],
+    "attackers": [
+      "card-00398",
+      "card-00410",
+      "card-00428"
+    ]
+  },
+  {
+    "node_id": "n-00770",
+    "text": "The most likely explanation for the lab leak hypothesis involves an early case going to HSM and starting a cluster of covid cases.",
+    "vs": 0.525625,
+    "va": 0.51,
+    "winner": "support",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00209",
+      "card-00251"
+    ],
+    "attackers": [
+      "card-00288",
+      "card-00293"
+    ]
+  },
+  {
+    "node_id": "n-00370",
+    "text": "Rootclaim is aware of the potential for errors in Bayesian reasoning.",
+    "vs": 0.3,
+    "va": 0.3,
+    "winner": "tie",
+    "support_documents": [
+      "eric_decision.pdf"
+    ],
+    "attack_documents": [
+      "eric_decision.pdf"
+    ],
+    "supporters": [
+      "card-00095"
+    ],
+    "attackers": [
+      "card-00102"
+    ]
+  }
+]

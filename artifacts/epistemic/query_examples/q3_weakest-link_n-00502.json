@@ -1,0 +1,67 @@
+[
+  {
+    "card_id": "card-00345",
+    "delta": 0.010046783040083995,
+    "kind": "RA",
+    "premises": [
+      {
+        "node_id": "n-00545",
+        "text": "To get 2 10 HSM cases within 5 doublings we need each resident to infect (almost) 4 other residents.",
+        "document": "eric_decision.pdf"
+      }
+    ],
+    "target": "n-00502"
+  },
+  {
+    "card_id": "card-00262",
+    "delta": 0.008398737974693815,
+    "kind": "RA",
+    "premises": [
+      {
+        "node_id": "n-00547",
+        "text": "The total infectivity rate at HSM is 4 times that elsewhere in Wuhan.",
+        "document": "eric_decision.pdf"
+      }
+    ],
+    "target": "n-00502"
+  },
+  {
+    "card_id": "card-00416",
+    "delta": 0.005455491427721837,
+    "kind": "RA",
+    "premises": [
+      {
+        "node_id": "n-00617",
+        "text": "The Kashgar outbreak would be a relevant analog to the HSM outbreak if half a million people came to HSM in one day, and more people brought the illness to it than from it.",
+        "document": "eric_decision.pdf"
+      }
+    ],
+    "target": "n-00502"
+  },
+  {
+    "card_id": "card-00145",
+    "delta": 0.005010655841820255,
+    "kind": "RA",
+    "premises": [
+      {
+        "node_id": "n-00439",
+        "text": "Saar claims that asymmetries in the contact graph cause outbreaks to be more likely to show up at HSM than expected",
+        "document": "eric_decision.pdf"
+      }
+    ],
+    "target": "n-00502"
+  },
+  {
+    "card_id": "card-00224",
+    "delta": 0.004042413167072323,
+    "kind": "RA",
+    "premises": [
+      {
+        "node_id": "n-00726",
+        "text": "Some animals at HSM might later be infected by humans.",
+        "document": "eric_decision.pdf"
+      }
+    ],
+    "target": "n-00502"
+  }
+]

@@ -1,0 +1,371 @@
+{
+  "mode": "chain",
+  "node_id": "n-00502",
+  "text": "The combination of these factors at HSM increases the chance of an outbreak.",
+  "strength": 0.994531,
+  "children": [
+    {
+      "card_id": "card-00345",
+      "node_id": "n-00545",
+      "text": "To get 2 10 HSM cases within 5 doublings we need each resident to infect (almost) 4 other residents.",
+      "strength": 0.761781,
+      "document": "eric_decision.pdf",
+      "provenance": [
+        {
+          "claim_id": "claim-ed6227fd477cf4138202bf07a5340db9",
+          "chunk_id": "chunk-720671a267223e8473780ed6947675bf",
+          "section_number": "4.5.1",
+          "quote": "To get 2 10 HSM cases within 5 doublings we need each resident to infect (almost) 4 other residents.",
+          "span": [
+            1147,
+            1247
+          ],
+          "tier": "T1"
+        }
+      ],
+      "children": [
+        {
+          "card_id": "card-00120",
+          "node_id": "n-00523",
+          "text": "After 5 more doublings, there are 4096 cases outside HSM and 1024 cases associated with HSM.",
+          "strength": 0.5,
+          "document": "eric_decision.pdf",
+          "provenance": [
+            {
+              "claim_id": "claim-be8110c8fe2b578de1e562cb2d7c5249",
+              "chunk_id": "chunk-4fc60178af3cfcdfb8e465a9173a62c9",
+              "section_number": "4.5.1",
+              "quote": "After 5 more doublings, there are 4096 cases outside HSM and 1024 cases associated with HSM.",
+              "span": [
+                705,
+                797
+              ],
+              "tier": "T1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "card_id": "card-00150",
+          "node_id": "n-00522",
+          "text": "The doubling-time of HSM-linked cases is half that of other cases.",
+          "strength": 0.5,
+          "document": "eric_decision.pdf",
+          "provenance": [
+            {
+              "claim_id": "claim-99d06ccbd80efe445ff611478759ab2a",
+              "chunk_id": "chunk-4fc60178af3cfcdfb8e465a9173a62c9",
+              "section_number": "4.5.1",
+              "quote": "4. The doubling-time of HSM-linked cases is half that of other cases.",
+              "span": [
+                635,
+                704
+              ],
+              "tier": "T1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "card_id": "card-00207",
+          "node_id": "n-00548",
+          "text": "Using 4 and 4 we get: doublings resident cases visitor cases connection lost non-HSM cases 0 1 0 0 2 7 1 2 2 22 0 2 8",
+          "strength": 0.5,
+          "document": "eric_decision.pdf",
+          "provenance": [
+            {
+              "claim_id": "claim-6ef58f5fb6eb46ad96b9fdd74592cebb",
+              "chunk_id": "chunk-6b10418abc2ed0387c626f2de6a5a352",
+              "section_number": "4.5.1",
+              "quote": "Using 4 and 4 we get: doublings resident cases visitor cases connection lost non-HSM cases 0 1 0 0 2 7 1 2 2 22 0 2 8",
+              "span": [
+                281,
+                398
+              ],
+              "tier": "T1"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "card_id": "card-00262",
+      "node_id": "n-00547",
+      "text": "The total infectivity rate at HSM is 4 times that elsewhere in Wuhan.",
+      "strength": 0.7125,
+      "document": "eric_decision.pdf",
+      "provenance": [
+        {
+          "claim_id": "claim-116d673d555ddcac1ec2e73f19d74195",
+          "chunk_id": "chunk-6b10418abc2ed0387c626f2de6a5a352",
+          "section_number": "4.5.1",
+          "quote": "so the total infectivity rate at HSM is 4 times that elsewhere in Wuhan, when I already find the 2 times rate Rootclaim proposed unreasonable.",
+          "span": [
+            138,
+            280
+          ],
+          "tier": "T1"
+        }
+      ],
+      "children": [
+        {
+          "card_id": "card-00335",
+          "node_id": "n-00522",
+          "text": "The doubling-time of HSM-linked cases is half that of other cases.",
+          "strength": 0.5,
+          "document": "eric_decision.pdf",
+          "provenance": [
+            {
+              "claim_id": "claim-99d06ccbd80efe445ff611478759ab2a",
+              "chunk_id": "chunk-4fc60178af3cfcdfb8e465a9173a62c9",
+              "section_number": "4.5.1",
+              "quote": "4. The doubling-time of HSM-linked cases is half that of other cases.",
+              "span": [
+                635,
+                704
+              ],
+              "tier": "T1"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "card_id": "card-00179",
+      "node_id": "n-00521",
+      "text": "The visitor infects a resident at HSM.",
+      "strength": 0.605,
+      "document": "eric_decision.pdf",
+      "provenance": [
+        {
+          "claim_id": "claim-852b3b78b12eb3197900b83200e9ed21",
+          "chunk_id": "chunk-4fc60178af3cfcdfb8e465a9173a62c9",
+          "section_number": "4.5.1",
+          "quote": "3. The visitor infects a resident at HSM.",
+          "span": [
+            593,
+            634
+          ],
+          "tier": "T1"
+        }
+      ],
+      "children": [
+        {
+          "card_id": "card-00327",
+          "node_id": "n-01206",
+          "text": "Some of the other 23 HSM-linked cases were also HSM employees or regular visitors.",
+          "strength": 0.5,
+          "document": "eric_decision.pdf",
+          "provenance": [
+            {
+              "claim_id": "claim-6f4310a862b45771ba455cad599a1fdc",
+              "chunk_id": "chunk-00128efc09b9de2bd705b9971fe8e380",
+              "section_number": "B.3",
+              "quote": "Some of the other 23 were also HSM employees or regular visitors",
+              "span": [
+                172,
+                236
+              ],
+              "tier": "T1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "card_id": "card-00333",
+          "node_id": "n-00497",
+          "text": "HSM is enclosed with poor ventilation.",
+          "strength": 0.5,
+          "document": "eric_decision.pdf",
+          "provenance": [
+            {
+              "claim_id": "claim-14d1de6bbb2599ac14c0f3c2f3eae5bf",
+              "chunk_id": "chunk-014b05d09712d5a53cde6aedf686daf0",
+              "section_number": "4.5",
+              "quote": "\"Enclosed, poor ventilation\" ([1] at 3:12:00)",
+              "span": [
+                201,
+                246
+              ],
+              "tier": "T1"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "card_id": "card-00416",
+      "node_id": "n-00617",
+      "text": "The Kashgar outbreak would be a relevant analog to the HSM outbreak if half a million people came to HSM in one day, and more people brought the illness to it than from it.",
+      "strength": 0.5875,
+      "document": "eric_decision.pdf",
+      "provenance": [
+        {
+          "claim_id": "claim-2506319d7f9c73c497185d2e7ad03888",
+          "chunk_id": "chunk-341707a4357706c1610ed0dfc51e10e7",
+          "section_number": "4.5.3",
+          "quote": "This would be a relevant analog to the HSM outbreak if half a million people came to HSM in one day, and more people brought the illness to it than from it.",
+          "span": [
+            1160,
+            1316
+          ],
+          "tier": "T1"
+        }
+      ],
+      "children": [
+        {
+          "card_id": "card-00201",
+          "node_id": "n-00612",
+          "text": "In the Kashgar outbreak, 75 different infected individuals attended a large farm market event with approximately 20 thousand participants.",
+          "strength": 0.5,
+          "document": "eric_decision.pdf",
+          "provenance": [
+            {
+              "claim_id": "claim-e99b5b5c0a6ba2db947370bd6d955bc7",
+              "chunk_id": "chunk-341707a4357706c1610ed0dfc51e10e7",
+              "section_number": "4.5.3",
+              "quote": "In the Kashgar outbreak, 75 different infected individuals attended a large farm market event that had approximately 20 thousand participants (out of a population of 700 thousand in Kashgar);",
+              "span": [
+                704,
+                895
+              ],
+              "tier": "T1"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "card_id": "card-00145",
+      "node_id": "n-00439",
+      "text": "Saar claims that asymmetries in the contact graph cause outbreaks to be more likely to show up at HSM than expected",
+      "strength": 0.5625,
+      "document": "eric_decision.pdf",
+      "provenance": [
+        {
+          "claim_id": "claim-b628313a6cfe5b085ae984906b818025",
+          "chunk_id": "chunk-a17a2555359bf6b506116a09dfeff727",
+          "section_number": "4.2",
+          "quote": "Saar claims that this effect causes outbreaks to be more likely to show up at HSM than one might expect otherwise;",
+          "span": [
+            3,
+            117
+          ],
+          "tier": "T1"
+        }
+      ],
+      "children": [
+        {
+          "card_id": "card-00294",
+          "node_id": "n-00682",
+          "text": "However, HSM cases are observed to be slightly frontloaded to earlier in the outbreak.",
+          "strength": 0.5,
+          "document": "eric_decision.pdf",
+          "provenance": [
+            {
+              "claim_id": "claim-c65f20643c02c98dee0aaa3ff38f0f11",
+              "chunk_id": "chunk-b4b3e904dc00e4eb47646582e826ba65",
+              "section_number": "4.5.6",
+              "quote": "whereas we instead observe that HSM cases are slightly frontloaded to earlier in the outbreak.",
+              "span": [
+                324,
+                418
+              ],
+              "tier": "T1"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "card_id": "card-00385",
+      "node_id": "n-00770",
+      "text": "The most likely explanation for the lab leak hypothesis involves an early case going to HSM and starting a cluster of covid cases.",
+      "strength": 0.507812,
+      "document": "eric_decision.pdf",
+      "provenance": [
+        {
+          "claim_id": "claim-ccc53bab2120c70c4490c5ae357637e9",
+          "chunk_id": "chunk-bc5ef4c7856e8be0923336836ad95c04",
+          "section_number": "5.1",
+          "quote": "The most likely explanation for the lab leak hypothesis involves an early case going to HSM and starting a cluster of covid cases",
+          "span": [
+            0,
+            129
+          ],
+          "tier": "T1"
+        }
+      ],
+      "children": [
+        {
+          "card_id": "card-00209",
+          "node_id": "n-01111",
+          "text": "Rootclaim identified the possibility that the mahjong room in HSM may have been a nexus of early covid cases.",
+          "strength": 0.5,
+          "document": "eric_decision.pdf",
+          "provenance": [
+            {
+              "claim_id": "claim-37d7e0e9ff164a0e5d9fdeb3c36603b2",
+              "chunk_id": "chunk-7006394c7f08b55d062df95c05a3550d",
+              "section_number": "A.3",
+              "quote": "Rootclaim identified the possibility that the mahjong room in HSM may have been a nexus of early covid cases.",
+              "span": [
+                0,
+                109
+              ],
+              "tier": "T1"
+            }
+          ],
+          "children": []
+        },
+        {
+          "card_id": "card-00251",
+          "node_id": "n-00050",
+          "text": "Multiple people who were employed at HSM became sick with a virus resembling sars-cov-1.",
+          "strength": 0.5,
+          "document": "eric_decision.pdf",
+          "provenance": [
+            {
+              "claim_id": "claim-4bbf77536302a22bd429606927587dc7",
+              "chunk_id": "chunk-75a21443969bf27f013158d9548c8b55",
+              "section_number": "1.1.1",
+              "quote": "Thus when multiple people who were employed at HSM became sick with a virus resembling sars-cov-1,",
+              "span": [
+                775,
+                873
+              ],
+              "tier": "T1"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "card_id": "card-00224",
+      "node_id": "n-00726",
+      "text": "Some animals at HSM might later be infected by humans.",
+      "strength": 0.5,
+      "document": "eric_decision.pdf",
+      "provenance": [
+        {
+          "claim_id": "claim-ea369a1e03ed2cbd8a39cb2ba695deb3",
+          "chunk_id": "chunk-034688a09b0107d8a35c8a909a28c192",
+          "section_number": "4.6.2",
+          "quote": "(It is quite possible that some would later be infected by humans.)",
+          "span": [
+            851,
+            918
+          ],
+          "tier": "T1"
+        }
+      ],
+      "children": []
+    }
+  ]
+}
