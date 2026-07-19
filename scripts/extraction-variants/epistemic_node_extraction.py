@@ -118,8 +118,9 @@ DEFAULT_MODEL = os.getenv(
 
 PROMPT_VERSION = "epistemic-nodes-v1"
 
-# Used only for a friendly cost estimate.
-RATE_PER_MTOK = 0.88
+# Used only for a friendly cost estimate. Together's listed rate for
+# meta-llama/Llama-3.3-70B-Instruct-Turbo as of 2026-07-19 (together.ai/pricing).
+RATE_PER_MTOK = 1.04
 
 
 # ---------------------------------------------------------------------------

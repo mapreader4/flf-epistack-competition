@@ -55,16 +55,29 @@ def norm_key(text: str) -> str:
     return re.sub(r"[^a-z0-9]", "", clean(text).lower())
 
 
-def extract_pages() -> list[str]:
-    reader = PdfReader(str(PDF))
+def extract_pages(pdf_path: "Path | None" = None) -> list[str]:
+    """Read and clean every page of a PDF.
+
+    `pdf_path` defaults to the module-level PDF constant (eric_decision.pdf),
+    so existing no-argument callers are unaffected; pass an explicit path to
+    read a different document.
+    """
+    reader = PdfReader(str(pdf_path if pdf_path is not None else PDF))
     return [clean(p.extract_text() or "") for p in reader.pages]
 
 
-def parse_toc(pages: list[str]) -> list[dict]:
-    """Pull the canonical section list out of the table of contents pages."""
+def parse_toc(pages: list[str], toc_page_start: int = 1, toc_page_end: int = 4) -> list[dict]:
+    """Pull the canonical section list out of the table of contents pages.
+
+    `toc_page_start`/`toc_page_end` slice which pages are scanned for TOC lines
+    (0-based, half-open -- defaults to pages[1:4], eric_decision.pdf's contents
+    on pages 2-3). A different document whose TOC lives elsewhere can override
+    these; a document with no machine-extractable TOC returns an empty list,
+    which callers must treat as "no TOC" rather than a bug.
+    """
     toc: list[dict] = []
     seen: set[str] = set()
-    for page in pages[1:4]:  # contents live on pages 2-3
+    for page in pages[toc_page_start:toc_page_end]:  # contents live on pages 2-3
         for raw in page.split("\n"):
             line = raw.strip()
             m = TOC_LINE.match(line) or TOC_LINE_NODOTS.match(line)
@@ -195,20 +208,21 @@ def pack_chunks(text: str) -> list[str]:
     return chunks
 
 
-def main() -> None:
-    pages = extract_pages()
-    toc = parse_toc(pages)
-    print(f"parsed {len(toc)} sections from table of contents")
+def chunk_sections(
+    sections: list[dict],
+    body: str,
+    offsets: list[tuple[int, int]],
+    verbose: bool = True,
+) -> list[dict]:
+    """Pack each located section's raw text into chunk dicts.
 
-    body, offsets = build_body(pages, first_body_page=4)
-    sections = locate_headings(body, toc)
-    print(f"located {len(sections)}/{len(toc)} section headings in the body")
-
-    missing = {t["number"] for t in toc} - {s["number"] for s in sections}
-    if missing:
-        print(f"  WARNING unlocated sections: {sorted(missing)}")
-
-    chunks = []
+    Lifted verbatim from what main() used to inline, so main() (and any other
+    caller) gets byte-identical chunk output. `sections` is locate_headings()'s
+    result, `body`/`offsets` are build_body()'s. Returns the list of chunk
+    dicts; the duplicate-chunk-id warning and per-tier page-match stats print
+    here when `verbose` is true.
+    """
+    chunks: list[dict] = []
     page_match_tiers = {"exact": 0, "fuzzy": 0, "reject": 0}
     for sec in sections:
         sub = body[sec["start"]:sec["end"]]
@@ -257,16 +271,70 @@ def main() -> None:
                 "n_tokens": n_tokens(text),
             })
 
-    print(f"  chunk->page offsets: {page_match_tiers['exact']} exact, "
-          f"{page_match_tiers['fuzzy']} fuzzy, {page_match_tiers['reject']} "
-          f"rejected (fell back to section start)")
+    if verbose:
+        print(f"  chunk->page offsets: {page_match_tiers['exact']} exact, "
+              f"{page_match_tiers['fuzzy']} fuzzy, {page_match_tiers['reject']} "
+              f"rejected (fell back to section start)")
 
-    # A duplicate chunk text would collide on chunk_id and silently merge in the
-    # graph, so surface it rather than letting it pass.
-    ids = [c["chunk_id"] for c in chunks]
-    dupes = len(ids) - len(set(ids))
-    if dupes:
-        print(f"  WARNING {dupes} duplicate chunk texts (will merge into one graph node)")
+        # A duplicate chunk text would collide on chunk_id and silently merge in
+        # the graph, so surface it rather than letting it pass.
+        ids = [c["chunk_id"] for c in chunks]
+        dupes = len(ids) - len(set(ids))
+        if dupes:
+            print(f"  WARNING {dupes} duplicate chunk texts (will merge into one graph node)")
+
+    return chunks
+
+
+def recover_document(
+    pdf_path: "Path",
+    first_body_page: int = 4,
+    toc_page_start: int = 1,
+    toc_page_end: int = 4,
+) -> dict:
+    """Run the full section/chunk recovery pipeline for one PDF and return
+    everything a caller needs in one dict.
+
+    Centralizes what extraction-variants scripts otherwise copy-paste as a
+    private recover_sections() helper. The default first_body_page/toc slice
+    values are calibrated to eric_decision.pdf's specific layout and will
+    likely need per-document overrides for a genuinely different document.
+
+    `sections` in the returned dict is locate_headings()'s result (each with
+    "number"/"title"/"toc_page"/"start"/"end"). An empty `toc` (and hence
+    empty `sections`) means the document has no machine-extractable TOC --
+    a real, expected outcome for e.g. a typical arXiv paper, not a bug; the
+    caller must detect and handle it.
+    """
+    pages = extract_pages(pdf_path)
+    toc = parse_toc(pages, toc_page_start=toc_page_start, toc_page_end=toc_page_end)
+    body, offsets = build_body(pages, first_body_page=first_body_page)
+    sections = locate_headings(body, toc)
+    chunks = chunk_sections(sections, body, offsets, verbose=False)
+    return {
+        "pages": pages,
+        "toc": toc,
+        "body": body,
+        "offsets": offsets,
+        "sections": sections,
+        "chunks": chunks,
+    }
+
+
+def main() -> None:
+    pages = extract_pages()
+    toc = parse_toc(pages)
+    print(f"parsed {len(toc)} sections from table of contents")
+
+    body, offsets = build_body(pages, first_body_page=4)
+    sections = locate_headings(body, toc)
+    print(f"located {len(sections)}/{len(toc)} section headings in the body")
+
+    missing = {t["number"] for t in toc} - {s["number"] for s in sections}
+    if missing:
+        print(f"  WARNING unlocated sections: {sorted(missing)}")
+
+    chunks = chunk_sections(sections, body, offsets, verbose=True)
 
     OUT_DIR.mkdir(exist_ok=True)
     (OUT_DIR / "chunks.json").write_text(json.dumps(chunks, indent=2))

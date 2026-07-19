@@ -118,9 +118,10 @@ DEFAULT_SECTIONS = [
     "5.4", "5.4.1", "5.4.2", "5.4.3", "5.4.4",
 ]
 
-# Rough Together price for Llama-3.3-70B-Instruct-Turbo (blended in+out), USD per
-# 1M tokens. Only used for a friendly running estimate; not authoritative.
-RATE_PER_MTOK = 0.88
+# Together's listed rate for Llama-3.3-70B-Instruct-Turbo, USD per 1M tokens,
+# as of 2026-07-19 (together.ai/pricing). Only used for a friendly running
+# estimate; not authoritative -- re-check if it drifts again.
+RATE_PER_MTOK = 1.04
 
 # Defaults describe eric_decision.pdf (this repo's case study) but are now
 # plain CLI-overridable args rather than baked into the prompt strings, so the
