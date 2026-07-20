@@ -1,0 +1,26 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "prompt_version": "label-v1",
+  "pairs_in": 3000,
+  "cards_out": 1678,
+  "by_kind": {
+    "CA": 296,
+    "RA": 1382
+  },
+  "by_channel": {
+    "contradiction": 56,
+    "data->argument": 633,
+    "argument->question": 300,
+    "top_down": 689
+  },
+  "relation_rate": 0.559,
+  "tokens": {
+    "total": 636451,
+    "new": 636451
+  },
+  "est_cost_usd": 0.1909,
+  "validation_errors": 0,
+  "aborted_on_budget": false,
+  "events_emitted": 0,
+  "generated": "2026-07-20T00:15:07"
+}

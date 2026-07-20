@@ -1,0 +1,131 @@
+% ---------------------------------------------------------------------------
+% Report assets: (1) HippoRAG-2 vs. typed epistemic graph comparison,
+%                (2) illustrative queries (grounded in the eric+will graph),
+%                (3) a pipeline figure (TikZ).
+% ADD TO PREAMBLE: \usepackage{booktabs}
+%                  \usepackage{tikz}
+%                  \usetikzlibrary{positioning,arrows.meta,fit,backgrounds}
+% Single-column `article`-safe (no starred floats). Numbers verified on-disk.
+% ---------------------------------------------------------------------------
+
+\section{Baseline and comparison}
+\label{sec:comparison}
+
+HippoRAG~2 is our baseline, not a component we build on. It constructs an open-domain
+knowledge graph of entities and OpenIE relation triples (plus synonymy edges) over the
+corpus, and at query time runs Personalized PageRank---seeded by the entities a query
+mentions---to \emph{rank passages}; the top passages are handed to a single reader LLM.
+It is a strong \emph{multi-hop retriever}. But its graph encodes topical association, not
+argument: every relation is an unlabeled open-domain predicate, the object it ranks is a
+passage rather than a claim, and the reader still just reads text. It therefore has no
+representation of one claim \emph{supporting} or \emph{attacking} another, no scoring of
+competing hypotheses, and no cross-document argument structure.
+
+Our system builds a \emph{typed epistemic graph}: claims become typed nodes
+(hypothesis / evidence / assumption / estimate / \ldots), and pairs are labeled into
+reified \emph{support} (RA) and \emph{attack} (CA) cards scored by a discontinuity-free
+QuAD (DF-QuAD) semantics. This makes the objects a reviewer actually asks about---the
+evidence \emph{for} a hypothesis, where sources \emph{disagree}, the \emph{weakest
+link}---first-class and queryable (Table~\ref{tab:comparison}).
+
+\begin{table}[t]
+\centering
+\small
+\setlength{\tabcolsep}{5pt}
+\renewcommand{\arraystretch}{1.15}
+\begin{tabular}{@{}p{2.5cm}p{5.1cm}p{5.1cm}@{}}
+\toprule
+\textbf{Capability} & \textbf{HippoRAG~2 (baseline)} & \textbf{Typed epistemic graph (ours)} \\
+\midrule
+Retrieval unit & passage / chunk & typed claim node \\
+Relations & open-domain, unlabeled & typed \emph{support}/\emph{attack} (RA/CA) \\
+``Evidence for $X$'' & top-$k$ passages mentioning $X$ & ranked support chain w/ provenance \\
+``Where do sources disagree?'' & \emph{not expressible} & contested nodes (support vs.\ attack) \\
+``Weakest link?'' & \emph{not expressible} & DF-QuAD ablation over cards \\
+Hypothesis scoring & none & strength $\in[0,1]$ per node \\
+Cross-document reasoning & passage co-retrieval & document-attributed support/attack cards \\
+Answer grounding & passage text & byte-exact spans + section numbers \\
+\bottomrule
+\end{tabular}
+\caption{HippoRAG~2 answers topical retrieval well; epistemic queries require the typed
+argument structure it does not represent.}
+\label{tab:comparison}
+\end{table}
+
+\subsection{Illustrative queries (two-document graph: eric + will)}
+\label{sec:queries}
+
+All figures below are from the built graph (2{,}232 nodes; 1{,}678 cards;
+Figure~\ref{fig:pipeline}).
+
+\paragraph{Q1. ``What is the evidence for hypothesis $H$?''}
+For \emph{``an animal host at the Huanan Seafood Market was responsible for the emergence
+of SARS-CoV-2''}, the graph returns a ranked support chain of \textbf{47 premises} that
+\emph{spans both judges}---\textbf{45 from Eric's decision, 2 from Will's} (query mode
+\texttt{grouped\_by\_document}). HippoRAG returns passages mentioning ``HSM'' or
+``animal'', with no notion that a datum \emph{supports} the hypothesis nor which document
+it came from.
+
+\paragraph{Q2. ``Where do the two judges agree or disagree?''}
+Unaskable of a retriever. Our graph has \textbf{82 contested nodes} (both supporters and
+attackers), of which \textbf{31 span both documents}. E.g.\ \emph{``the index case was
+most likely a laboratory worker''} is \emph{net-attacked} (supporters: 10 Eric $+$ 1 Will;
+attackers: 8 Eric $+$ 2 Will; strength $0.495$), whereas both zoonosis hypotheses are
+net-supported---the two judges converging on zoonosis, expressed as graph structure rather
+than prose.
+
+\paragraph{Q3. Cross-document links are explicit.}
+Of 1{,}678 cards, \textbf{230 are cross-document} (109 Will$\to$Eric, 121 Eric$\to$Will).
+For instance, Will's estimate \emph{``prior odds of lab leak to zoonosis $=1.7\times
+10^{-3}$''} \emph{supports} Eric's claim \emph{``the probability of a lab leak is not
+placed above 1/50''}---agreement made traceable, not left for a reader to infer.
+
+% ---------------------------------------------------------------------------
+\begin{figure}[t]
+\centering
+\resizebox{\columnwidth}{!}{%
+\begin{tikzpicture}[
+  font=\footnotesize,
+  >={Stealth[round]},
+  stg/.style={draw, rounded corners, align=center, minimum height=0.85cm,
+              text width=2.05cm, fill=blue!5},
+  node distance=6mm and 6mm,
+]
+% Ingestion row
+\node[stg, fill=orange!10] (pdf)     {PDF(s)};
+\node[stg, fill=orange!10, right=of pdf]   (chunk)   {chunk\\(section-aware)};
+\node[stg, fill=orange!10, right=of chunk] (extract) {typed extraction\\$+$ dedup};
+% Structure row
+\node[stg, below=1.7cm of pdf]         (embed) {embed};
+\node[stg, right=of embed]             (pair)  {pairing funnel\\(retype, 4 ch.)};
+\node[stg, right=of pair]              (label) {label pairs\\(RA/CA cards)};
+\node[stg, right=of label]             (score) {DF-QuAD\\score};
+% Query
+\node[stg, fill=green!8, right=of score] (query)
+     {\textbf{query}\\evidence-for /\\contested /\\weakest-link};
+
+\draw[->] (pdf) -- (chunk);
+\draw[->] (chunk) -- (extract);
+% wrap from ingestion to structure through the clear inter-row gap
+\draw[->] (extract.south) -- ++(0,-0.6) -| (embed.north);
+\draw[->] (embed) -- (pair);
+\draw[->] (pair) -- (label);
+\draw[->] (label) -- (score);
+\draw[->] (score) -- (query);
+
+\begin{scope}[on background layer]
+  \node[rounded corners, fill=orange!7, fit=(pdf)(chunk)(extract),
+        inner sep=5pt, label=above:{\textbf{Ingestion}}] {};
+  \node[rounded corners, fill=blue!6, fit=(embed)(pair)(label)(score),
+        inner sep=5pt, label=below:{\textbf{Structure (typed graph)}}] {};
+\end{scope}
+\end{tikzpicture}%
+}
+\caption{Pipeline. Ingestion turns PDF(s) into section-aware chunks and typed, dedup'd
+claim nodes; the Structure layer embeds them, builds support/attack cards through the
+top-down/bottom-up pairing funnel, and scores every node with DF-QuAD. Queries traverse
+the scored graph and hand the reader a ranked, provenance-carrying evidence chain, not
+chunks. The multi-document extension stamps each node with its source document, enabling
+cross-document support/attack.}
+\label{fig:pipeline}
+\end{figure}
