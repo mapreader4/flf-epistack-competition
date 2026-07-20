@@ -153,8 +153,11 @@ class Provenance:
     quote: str | None = None
     span: list[int] | None = None
     tier: str = "T1"
-    # source document id; None on the single-document corpus (resolve_document falls
-    # back to the default doc via chunk_id). Set explicitly by document-aware ingestion.
+    # Which source document this grounding came from. Optional and unset for the
+    # current single-document corpus (chunk_id alone is unambiguous there); once
+    # ingestion spans multiple real documents, extraction should stamp this so a
+    # node's provenance is self-describing instead of relying on there being only
+    # one document to guess from.
     document: str | None = None
 
     def validate(self) -> list[str]:
