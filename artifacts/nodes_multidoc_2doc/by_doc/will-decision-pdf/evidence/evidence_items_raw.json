@@ -1,0 +1,178 @@
+[
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "evidence",
+    "node_text": "The prior odds of a lab‑leak origin versus a zoonotic origin were 1.7 × 10⁻³ (P0(LL)/P0(ZO) = 1.7E-3).",
+    "quote": "P0(LL) /P0(ZO) = 1.7E-3"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "evidence",
+    "node_text": "The product of the Bayesian updates yielded a likelihood ratio of 2.125 (P(LL)/P(ZO) = 2.125).",
+    "quote": "P(LL) /P(ZO) = 2.125"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "evidence",
+    "node_text": "The final combined odds of a lab‑leak versus zoonotic origin were 3.6 × 10⁻³ (P0(LL)/P0(ZO) * P(LL)/P(ZO) = 3.6E-3).",
+    "quote": "P0(LL) /P0(ZO) *P(LL) / P(ZO)  =  3.6E-3"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "evidence",
+    "node_text": "The analysis estimated approximately a 1 in 300 chance that SARS‑CoV‑2 resulted from a lab leak.",
+    "quote": "there  is approximately   a 1  in300  chance   that SARS-CoV-2      was  the  result of a lab leak."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "evidence",
+    "node_text": "The major factors weighing against a lab‑leak hypothesis were the probability that the Wuhan Institute of Virology could carry out DEFUSE‑style work and that the epicenter was HSM.",
+    "quote": "the major  factors weighing   against  LL  were  the  probability that WIV could carry out DEFUSE     style work,  and  the epicenter   being  HSM."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "evidence",
+    "node_text": "The debates lasted approximately 18 hours.",
+    "quote": "The  debates   lasted ~18  hours"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "evidence",
+    "node_text": "The judge reviewed over 750 slides provided by the two sides.",
+    "quote": "I reviewed   over 750  slides  provided  by  the sides."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "evidence",
+    "node_text": "The furin cleavage site (FCS) in SARS‑CoV‑2 is the only FCS within the subgenus Sarbecovirus.",
+    "quote": "the furin cleavage   site (FCS)  in SARS-CoV-2      is the  only FCS   within  the subgenus    Sarbecovirus"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "evidence",
+    "node_text": "A spreadsheet used to justify and execute each step of the Bayesian analysis is linked in the document (and discussed in section 3).",
+    "quote": "The  spreadsheet     Iused   to justify/carry out each   step in the Bayesian    analysis islinked  here  (and  discussed   in section  3)."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "evidence",
+    "node_text": "The lab‑leak side (LL) assumed truth claim A in one part of the debate and assumed not‑A in another part, depending on strategic utility.",
+    "quote": "LL would   assume    truth claim  A  inone   part of the debate,   and then assume    not  A in another   part of the debate,   depending    on  the strategic  utilityof A/ ⌐A."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "evidence",
+    "node_text": "The lab‑leak side misrepresented the strength of evidence by omitting qualifying information.",
+    "quote": "the  LL  side misrepresented     the  strength  of evidence   by  leaving  out qualifying  information"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "evidence",
+    "node_text": "The author made two updates to the base‑rate numbers after calculation, both favoring the lab‑leak hypothesis.",
+    "quote": "I did make two updates to numbers    inthe  base  rate  after Icalculated   it-both  in LL's favor"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "node_type": "evidence",
+    "node_text": "Multiple betacoronoviruses (e.g. SARS1 and MERS) with pandemic potential emerged in the last 20 years.",
+    "quote": "Multiple betacoronoviruses    (e.g. SARS1    and  MERS)    with pandemic    potential emerged    in the last20 years."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "node_type": "evidence",
+    "node_text": "Early research on the novel biology and potential for public health consequences of these viruses unlocked academic and public health funding, leading to the establishment of research programs dedicated to understanding coronaviruses.",
+    "quote": "Early research  on  the novel  biology and  potential  forpublic  health  consequences     of these  viruses unlocked   academic    and  public health  funding,  leading  to the  establishment   of research   programs dedicated   tounderstanding     coronaviruses."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "node_type": "evidence",
+    "node_text": "Many of these research programs were started in China due to their unique access to potentially novel coronaviruses and a rapidly improving scientific apparatus.",
+    "quote": "Many   of these  research   programs   were   started in China   due totheir unique   access   to potentially novel  coronaviruses    and  a rapidly  improving   scientific apparatus."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "node_type": "evidence",
+    "node_text": "There have been many previous lab leaks across the world, including four leaks of SARS1.",
+    "quote": "There  have   been  many   previous   lab leaks  across  the world,  including  four leaks  of SARS1."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "node_type": "evidence",
+    "node_text": "The conclusion was that the base rate of leakage of pathogens from labs is much higher than popularly believed.",
+    "quote": "The   conclusion   was  that the base   rate of leakage   of pathogens   from  lab is much   higher  than  popularly\n         believed."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "node_type": "evidence",
+    "node_text": "WIV practices for working with infectious viruses were particularly bad and substantially increased the likelihood of release.",
+    "quote": "WIV  practices   forworking   with infectious  viruses  were  particularly bad  and  substantially  increased\n         the likelihood  of release."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "node_type": "evidence",
+    "node_text": "The DEFUSE work and other coronavirus work were done in BSL-2 or BSL-3.",
+    "quote": "the DEFUSE     work   (as well as other  coronavirus   work)  were   done  in BSL-2   or BSL-3."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "node_type": "evidence",
+    "node_text": "Most researchers, including some of the DEFUSE authors, believed that BSL-2 was woefully insufficient for the work they proposed.",
+    "quote": "Most\n         researchers,   including  some   of the DEFUSE     authors,  believed   that BSL-2   was  woefully\n         insufficient forthe  work  they  proposed."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "node_type": "evidence",
+    "node_text": "Biotech trends over the last twenty years all increase the baseline probability of lab leaks.",
+    "quote": "Biotech  trends  over  the last twenty  years  allincrease   the baseline   probability of lab leaks."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "node_type": "evidence",
+    "node_text": "The LL side noted decreased sequencing costs, decreased cost/difficulty in using synthetic biology tools, and increased construction of BSL-3 and BSL-4 labs in China.",
+    "quote": "The  LL\n         side noted  decreased    sequencing    costs,  decreased    cost/difficultyin using  synthetic  biology  tools,\n         and  increased   construction  of BSL-3   and  BSL-4   labs  inChina."
+  }
+]

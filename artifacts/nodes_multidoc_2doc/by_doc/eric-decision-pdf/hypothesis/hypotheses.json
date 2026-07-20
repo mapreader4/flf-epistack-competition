@@ -1,0 +1,4942 @@
+[
+  {
+    "node_id": "hypothesis-ba743ec0699758e54fee6f235dfb2521",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-7ccd048fb5c8f1c3bea2d826d7a24b21",
+    "node_text": "COVID-19 originated from a laboratory leak.",
+    "quote": "was covid a lab leak?",
+    "span": [
+      694,
+      715
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-f02976027274dd4ab4a484c3affeef55",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-f19517cde7a840bdab0a3bb2c8819f0b",
+    "node_text": "A COVID-19 outbreak occurred in the Huanan Seafood Market, as expected under the lab leak hypothesis.",
+    "quote": "expecting a covid outbreak there under the lab leak hypothesis",
+    "span": [
+      476,
+      538
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-6152c00fed8bf5e5dfb5cc3682b165cf",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-f19517cde7a840bdab0a3bb2c8819f0b",
+    "node_text": "The COVID-19 outbreak in the Huanan Seafood Market was significant.",
+    "quote": "how significant was the covid outbreak in the Huanan Seafood Market?",
+    "span": [
+      340,
+      408
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9706,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-05abf053ef81d1fbc9b923a71ddc9cf6",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.1.1",
+    "chunk_id": "chunk-75a21443969bf27f013158d9548c8b55",
+    "node_text": "An animal host at the Huanan Seafood Market was responsible for the emergence of SARS‑CoV‑2.",
+    "quote": "it was natural to suspect the possibility of an animal host at the market being responsible",
+    "span": [
+      874,
+      965
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-0acd6771f2ee41271910e00608e2ad2e",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.1.1",
+    "chunk_id": "chunk-75a21443969bf27f013158d9548c8b55",
+    "node_text": "The progenitor of SARS‑CoV‑2 is almost certainly found in south China.",
+    "quote": "where the progenitor of sars-cov-2 is almost certainly found",
+    "span": [
+      708,
+      768
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-10adf40b0f5f5c57bc5952b9819f1242",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.2",
+    "chunk_id": "chunk-2f447dce9e692799303d82beb07bd6b4",
+    "node_text": "Cleavage of the spike protein into two pieces facilitates merging the virus envelope with the cellular membrane and delivering the genome into the cell.",
+    "quote": "after binding, the spike is then cleaved into two pieces, which for reasons inscrutable to me facilitates merging the virus envelope with the cellular membrane and so delivering the genome into the cell.",
+    "span": [
+      117,
+      320
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-1789f7b5a97f491453730bd53ac836c6",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.2.1",
+    "chunk_id": "chunk-be341df3dbb056a6f179b03f25ad1aaf",
+    "node_text": "Recombination plays a role in the genetic history of sarbecoviruses.",
+    "quote": "recombination appears to play a role in the genetic history of sarbecoviruses, complicating efforts to reconstruct a phylogeny",
+    "span": [
+      273,
+      399
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-55d87739b35788d5b8ec6ed0e6da2372",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.2.1",
+    "chunk_id": "chunk-8c34711523eef7bae319ae38a143e54e",
+    "node_text": "The D614G mutation is directly related to the worldwide March‑May peak observed in many countries.",
+    "quote": "The D614G mutation first became prominent in Italy in 2020 March, and I believe is directly related to the worldwide March‑May peak many countries observed.",
+    "span": [
+      0,
+      156
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9936,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-5e3cbf25d4eeb7f5142e5f830667e961",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.2.2",
+    "chunk_id": "chunk-9f2e607ebb6d6e93a018526148bd46d2",
+    "node_text": "The proper functioning of sars-cov-2 necessitates that the boundary between S1 and S2 is a furin cleavage site (FCS).",
+    "quote": "The proper functioning of sars-cov-2 therefore necessitates that the boundary between S1 and S2 is an FCS.",
+    "span": [
+      693,
+      799
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-d72bb472bdb977358eadf9f449fb8e01",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.2.2",
+    "chunk_id": "chunk-0b06fd1ef4882f20d1bd6bcadd3591f5",
+    "node_text": "A furin cleavage site (FCS) may be evolutionarily harmful for bat coronaviruses.",
+    "quote": "consequentially an FCS may be evolutionarily harmful.",
+    "span": [
+      63,
+      116
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-381b73f9143868fbeb8c0c37304d18ab",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.2.2",
+    "chunk_id": "chunk-b9e17be1ef00afbdf2750ee3da237057",
+    "node_text": "It is possible for distantly related samples to have similar genomes by chance because the same mutations can arise more than once independently.",
+    "quote": "It is possible for distantly related samples to have similar genomes by chance, as the same mutations can arise more than once independently.",
+    "span": [
+      632,
+      773
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-eb100b7f866402cd5189333eeae4d082",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.3",
+    "chunk_id": "chunk-a87fe851508657c252ee437edf6a3a52",
+    "node_text": "Rootclaim claims that the SARS‑CoV‑2 outbreak was caused by gain‑of‑function laboratory research.",
+    "quote": "Rootclaim's claim that the sars-cov-2 outbreak was due to gain-of-function laboratory research",
+    "span": [
+      1277,
+      1371
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9787,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-c1cea0937710fe47054fa58b86566fbf",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.3",
+    "chunk_id": "chunk-a87fe851508657c252ee437edf6a3a52",
+    "node_text": "Peter challenges that the SARS‑CoV‑2 outbreak resulted from natural spillover from wildlife without laboratory involvement.",
+    "quote": "Peter's challenge that it was the result of natural spillover from wildlife without laboratory involvement",
+    "span": [
+      1378,
+      1484
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-68e62a188a1e84bbcaad4c0cefa742cb",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.3",
+    "chunk_id": "chunk-4de6a1b5d6131d6b5b2d2fe07886e979",
+    "node_text": "Rootclaim suggests that the insert in SARS‑CoV‑2 is the nucleotide sequence CCT CGG CGG GCA and that there was a fourth point mutation from TCT to TCA immediately before it.",
+    "quote": "alternatively Rootclaim suggests that the insert is CCT CGG CGG GCA , and there was a fourth point mutation from TCT to TCA immediately before it.",
+    "span": [
+      69,
+      215
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-f60bedd75e618457eb76235f71f8120f",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-507fecc4f891dedc503e260532d68345",
+    "node_text": "The residue probability (the amount by which each row sums to less than 1) represents the chance of a hypothetical alternative in which at least one of the observations did not happen.",
+    "quote": "This residue probability (ie, the amount by which each row sums to less than 1) represents the chance of some hypothetical alternative in which at least one of the observations didn't happen.",
+    "span": [
+      771,
+      962
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-a4f166ff027c293e973b727f31e2c1f0",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "2.1",
+    "chunk_id": "chunk-9b5766555fca8c804427e37b5e0a5e8d",
+    "node_text": "Null hypothesis A (or H0)",
+    "quote": "null hypothesis A (or, more commonly, H0, but we will mimic the notation from above)",
+    "span": [
+      371,
+      455
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-33975a922b8f2083a18988e83d07800f",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "2.1",
+    "chunk_id": "chunk-9b5766555fca8c804427e37b5e0a5e8d",
+    "node_text": "Alternate hypothesis B that is the negation of A (or Ha)",
+    "quote": "alternate hypothesis B =¬A (usually denoted Ha)",
+    "span": [
+      464,
+      511
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-48723afe1d7134a626dca87729ecb816",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "2.1",
+    "chunk_id": "chunk-9d127b42ab1eeb190fcff01195432fb3",
+    "node_text": "The coin is fair (null hypothesis for the coin‑flip example)",
+    "quote": "null hypothesis is that the coin is fair",
+    "span": [
+      252,
+      292
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-eed3d12182ad891dc0db3ec270d78989",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-274ae47b4f5b469290bc06b36ffa8d1f",
+    "node_text": "The senator is secretly a space lizard.",
+    "quote": "perhaps they are not human at all, but rather secretly a lizard from space.",
+    "span": [
+      1039,
+      1114
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-1c5a00e99bcfe4eab1e4f1dd8d33cbc8",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-12f6fd45fe180c5825de7645849cc7ff",
+    "node_text": "The senator’s extremely long ring finger indicates that the senator is a lizard.",
+    "quote": "their ring finger is extremely long - at p = 0.01 it is highly anomalous, a 1 in 100 coincidence. Clearly a lizard!",
+    "span": [
+      848,
+      963
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-fb24954fe1ee467c3eeb11e4ff5b3c23",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-364f7670cc956753c31bb053faa7b7a4",
+    "node_text": "Fifty pieces of weak evidence can produce a total Bayes factor of 2^50, which overwhelmingly supports the secret space lizard hypothesis.",
+    "quote": "with 50 such pieces of weak evidence your total Bayes factor is 2 50, totally overwhelming any prior you had against secret space lizards.",
+    "span": [
+      84,
+      222
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-216c3f42a58a932158c4f5f4f9acd4e2",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-a1108a56f3a13f5a70197dfd97777efc",
+    "node_text": "A random collection of 100 observations will most likely yield strong evidence for either lizardness or humanness.",
+    "quote": "we will most likely find strong evidence either in favor of lizardness or humanness.",
+    "span": [
+      190,
+      274
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-2fbea3796429fc63a6643c2f85a87ae9",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-e9e880becd221f3e6c0a30da8c542bc2",
+    "node_text": "Biasing data collection by overlooking half the data in favor of humanity will consistently lead to a strong conclusion favoring lizardness (confidence about e^46 to 1).",
+    "quote": "leading us consistently to the conclusion in favor of lizardness with a confidence of about e46 to 1.",
+    "span": [
+      625,
+      726
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-f48b649eed99e8f454d21e6231b61462",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-e9e880becd221f3e6c0a30da8c542bc2",
+    "node_text": "The observed bias in the data could be due to the true state being lizardness, with the data accurately reflecting that reality.",
+    "quote": "such bias in the data could also exist because lizardness is the right conclusion, and the data is accurately reflecting that!",
+    "span": [
+      738,
+      863
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9921,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-82d39f78e227b2a73732acd2bb294e8d",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-ecc8ef6912fdf33fab8b9822712e4389",
+    "node_text": "Using a canonical collection of evidence (e.g., considering all fingers) makes it much harder to introduce bias.",
+    "quote": "If instead of a haphazard collection of observations one makes a collection of evidence that is in some way canonical it is much harder to introduce bias; say, one considers all fingers, but only fingers.",
+    "span": [
+      397,
+      601
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-7115e113aead280601f499c5b2e9f78b",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-ecc8ef6912fdf33fab8b9822712e4389",
+    "node_text": "Breaking a hypothesis into necessary subparts reduces the potential for bias in evidence selection.",
+    "quote": "if a hypothesis can be broken down into subparts, each necessary for the hypothesis as a whole to hold, then there is less potential for bias in the selection of evidence.",
+    "span": [
+      1101,
+      1272
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9883,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-7a9acd4d6a94a1216b780987e14b3e1c",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.1",
+    "chunk_id": "chunk-7fa31e87ebd4b4037593777336c21833",
+    "node_text": "The pandemic started in Wuhan from zoonotic spillover and the first detected superspreader event (SSE) is at the location of zoonotic spillover.",
+    "quote": "let An be the event that the pandemic started in Wuhan from zoonotic spillover and the first (detected) SSE is at the location of zoonotic spillover",
+    "span": [
+      879,
+      1026
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9932,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-7cf0b2a4ff8e7c4e4d955c49fc302c0d",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.1",
+    "chunk_id": "chunk-7fa31e87ebd4b4037593777336c21833",
+    "node_text": "The pandemic started in Wuhan from zoonotic spillover and the first detected superspreader event (SSE) is not at the location of zoonotic spillover.",
+    "quote": "let Ot be the event that the pandemic started in Wuhan from zoonotic spillover and the first (detected) SSE is not at the location of zoonotic spillover",
+    "span": [
+      1035,
+      1187
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9934,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-81fb9c35dfdfcaf044180698bbff6dbf",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.1",
+    "chunk_id": "chunk-7fa31e87ebd4b4037593777336c21833",
+    "node_text": "The proximity of the HSM SSE to animal sources of virus in the market is probably a coincidence, providing very weak evidence in favor of zoonosis.",
+    "quote": "the proximity of the HSM SSE to animal sources of virus in the market is probably a coincidence, and provides very weak evidence in favor of zoonosis.",
+    "span": [
+      420,
+      570
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-9698b9565518b263d63a1d39014dc174",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.1",
+    "chunk_id": "chunk-de69314fa019a77a45c61d21f3d29f0b",
+    "node_text": "The HSM SSE is the first observed superspreader event.",
+    "quote": "Saar would concede the claim by Peter that the HSM SSE is the first one.",
+    "span": [
+      810,
+      882
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-cb1e873126f10f9087feb6a7c7b89f6b",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.1",
+    "chunk_id": "chunk-3fc89863ea6de03853cf81de5a98280d",
+    "node_text": "Early cases not associated with HSM do not exist.",
+    "quote": "I think most likely such cases do not exist.",
+    "span": [
+      844,
+      888
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-2204de2f6fe73a6b658310b4b86368dd",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.1",
+    "chunk_id": "chunk-3fc89863ea6de03853cf81de5a98280d",
+    "node_text": "If the pandemic started far from HSM, then an infected person must travel to HSM for a superspreader event to occur there.",
+    "quote": "If the pandemic started far from HSM, then someone infected must travel to HSM for an SSE to occur there.",
+    "span": [
+      1018,
+      1123
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-d9def336afd79b5c625ec74707af2adf",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.1",
+    "chunk_id": "chunk-3fc89863ea6de03853cf81de5a98280d",
+    "node_text": "HSM is ten times more likely to become a superspreader event than the average location.",
+    "quote": "they estimate that HSM is 10 times more likely to become an SSE than the average location.",
+    "span": [
+      1260,
+      1350
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-48be668efd2fb8ebb37ab5efe4aa992c",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.1",
+    "chunk_id": "chunk-6541cd5f2bfb6fa0ebf9dccf7015600e",
+    "node_text": "Even conditioning on zoonotic spillover, the hypothesis Ot better explains the observations of early case distribution than the hypothesis An.",
+    "quote": "the hypothesisOt better explains the observations of early case distribution than the hypothesis An.",
+    "span": [
+      318,
+      418
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-7736ab270d5434757ef0a641d4c22628",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.2",
+    "chunk_id": "chunk-82ba99698676e16bf3c215807e460010",
+    "node_text": "Rootclaim believes that more than half of pandemics in which an intermediate host has not been identified are lab leaks.",
+    "quote": "does Rootclaim believe more than half of pandemics where we have failed to identify an intermediate host are lab leaks?",
+    "span": [
+      1319,
+      1438
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-e91de395e4c503963d6d8d5e2daa7c3b",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.2",
+    "chunk_id": "chunk-bb876c44f44234776a2a1cb319805ad1",
+    "node_text": "Rootclaim evaluates that 80% of pandemics that first appear in Wuhan are lab leaks.",
+    "quote": "Rootclaim evaluates 80% of pandemics that first appear in Wuhan to be lab leaks.",
+    "span": [
+      11,
+      91
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-6fa8376b87c6a26a849b525129f1cb32",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.2",
+    "chunk_id": "chunk-bb876c44f44234776a2a1cb319805ad1",
+    "node_text": "The \"adjust for BSL-2\" factor implies that half of all pandemics with highly contagious viruses for which BSL‑2 is inadequate are lab leaks.",
+    "quote": "it seems to have the effect that half of all pandemics with highly contagious viruses for which BSL-2 is inadequate would also be lab leaks.",
+    "span": [
+      190,
+      330
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-bc3da1113469a231c635cc97e9ea1c9b",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.2",
+    "chunk_id": "chunk-82ba99698676e16bf3c215807e460010",
+    "node_text": "Observations are selected primarily on the basis of how much they stand out rather than on any canonical or complete collection of evidence.",
+    "quote": "observations seem to be selected primarily on the basis of how much they stand out rather than any canonical or complete collection of evidence.",
+    "span": [
+      651,
+      795
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-9b993b180e7b2cc853a313cadd8a0f26",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.2",
+    "chunk_id": "chunk-82ba99698676e16bf3c215807e460010",
+    "node_text": "Factors of 2 or less in favor of a hypothesis should be plentiful for any hypothesis, whether true or false.",
+    "quote": "Rootclaim includes five factors of 2 or less in their favor, and these should be plentiful to find for any hypothesis, true or false.",
+    "span": [
+      949,
+      1082
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-65a8e743dcf2530a8517866cfba832c8",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.3",
+    "chunk_id": "chunk-c7d48e6233c442bfd1c130d7cb9243b1",
+    "node_text": "Bayesian reasoning is best suited for dealing with a small number of strong but conflicting pieces of evidence.",
+    "quote": "Bayesian reasoning is best suited for dealing with a small number of strong but conflicting pieces of evidence.",
+    "span": [
+      87,
+      198
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-2836dbad20910a8323c4d29d589c1fa1",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.3",
+    "chunk_id": "chunk-c7d48e6233c442bfd1c130d7cb9243b1",
+    "node_text": "Each additional multiplicand introduces a great deal of error in the final result.",
+    "quote": "Each additional multiplicand introduces a great deal of error in the final result, both from the uncertainty of its value, but also from the potential sources of bias.",
+    "span": [
+      291,
+      458
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-54f94b3a44ba8de970296625a0a08f85",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.3",
+    "chunk_id": "chunk-c7d48e6233c442bfd1c130d7cb9243b1",
+    "node_text": "Including another factor of 2 has the potential to do more harm than good if you cannot be highly confident of controlling the error.",
+    "quote": "Including another factor of 2 has the potential to do more harm than good if you cannot be highly confident of controlling the error.",
+    "span": [
+      459,
+      592
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-fa460fb2d16f7a4b744096172db6fab1",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.3",
+    "chunk_id": "chunk-c7d48e6233c442bfd1c130d7cb9243b1",
+    "node_text": "Any naively-computed Bayes factors would have to be renormalized towards 1 to account for the steel-manning of both hypotheses.",
+    "quote": "Most likely, any naively-computed Bayes factors would have to be renormalized towards 1 to account for the steel-manning of both hypotheses;",
+    "span": [
+      874,
+      1014
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-ac6b6e959f1fb5f975199bdce10c4aca",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.3",
+    "chunk_id": "chunk-c7d48e6233c442bfd1c130d7cb9243b1",
+    "node_text": "If you have any Bayes factors of 1000 and you are not doing a physics experiment then your calculation is probably flawed.",
+    "quote": "if you have any Bayes factors of 1000 and you are not doing a physics experiment then your calculation is probably flawed.",
+    "span": [
+      1043,
+      1165
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-4874b1350b836322a2a0b9b077b0502e",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.3",
+    "chunk_id": "chunk-5b49ddeca0dc30a4ecdc6a718936a963",
+    "node_text": "Bayesian reasoning gives the right answer (in general or for this specific application).",
+    "quote": "why one expects Bayesian reasoning to give the right answer, either in general or for this specific application.",
+    "span": [
+      306,
+      418
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-792cf6535fcf23e051d10fe199ca1ad9",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.3",
+    "chunk_id": "chunk-5b49ddeca0dc30a4ecdc6a718936a963",
+    "node_text": "Rootclaim's conclusions are robust against the possibility that one or more of their observations have errors.",
+    "quote": "they make a point of how their conclusions are robust against the possibility that one or more of their observations have errors.",
+    "span": [
+      630,
+      759
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-e1f7a5e6e743b02f93b3d3cc98ca3529",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.3",
+    "chunk_id": "chunk-5b49ddeca0dc30a4ecdc6a718936a963",
+    "node_text": "Rootclaim's conclusions are brittle against the possibility of small, consistent bias.",
+    "quote": "their conclusions remain brittle against the possibility of small, consistent bias;",
+    "span": [
+      768,
+      851
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-84500ab202318b1215e9775ff13ee6b3",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.3",
+    "chunk_id": "chunk-5b49ddeca0dc30a4ecdc6a718936a963",
+    "node_text": "A factor of 2 too generous applied to 20 observations yields million to one odds.",
+    "quote": "a factor of 2 too generous applied to 20 observations yields million to one odds.",
+    "span": [
+      852,
+      933
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-db7fdc6e3713e8a278014aa844a2aa1a",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.3",
+    "chunk_id": "chunk-c784f47a54d8d4a707df1c3578bc0a59",
+    "node_text": "It is harder to introduce a bias with three factors of 100 each than with twenty factors of 2 each.",
+    "quote": "it is harder to introduce a bias with 3 factors of 100 each than 20 factors of 2 each.",
+    "span": [
+      537,
+      623
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-feeb2a16d74b5af8ce4ed91a20fccd99",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.3",
+    "chunk_id": "chunk-c784f47a54d8d4a707df1c3578bc0a59",
+    "node_text": "If the bias deliberately added against your side is larger than the bias inadvertently added towards your side, then your result will be conservative.",
+    "quote": "If the bias you deliberately add against your side is larger than whatever bias you inadvertently add towards your side, then your result will be conservative.",
+    "span": [
+      1092,
+      1251
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-4f8d0eb38485134a94f64a9d540115d6",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4",
+    "chunk_id": "chunk-775e26ab0745cdd0248fb6b88d101050",
+    "node_text": "A primary case must transmit the illness to at least one close contact for a global pandemic to occur.",
+    "quote": "but to result in a global pandemic you would have to pass it on to one or more of your close contacts",
+    "span": [
+      304,
+      405
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-f71d570fe621dad3200c3d790fd9929e",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.1",
+    "chunk_id": "chunk-108c06ccb76fc6e2d10510002a8626b5",
+    "node_text": "The index case follows a uniform distribution among all people at most n steps from the primary case.",
+    "quote": "Our simple model is to say that the index case follows a uniform distribution within that sphere; that is, that the index case is equally likely to be any of the people at most n steps from the primary case.",
+    "span": [
+      568,
+      775
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-93e1512f9a95821c6bd868fbc925d32f",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.1",
+    "chunk_id": "chunk-979183c41c81ef2ca87696aa6715bab3",
+    "node_text": "The model in which a random walk ends up uniformly distributed within a sphere of radius n is very good when the contact graph is a Bethe lattice.",
+    "quote": "Our model that the random walk ends up uniformly distributed within a sphere of radius n is very good on a Bethe lattice.",
+    "span": [
+      213,
+      334
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-09b11b94f22526cdc3ceb1c17cf1dbc1",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.1",
+    "chunk_id": "chunk-979183c41c81ef2ca87696aa6715bab3",
+    "node_text": "A Bethe lattice is a fair representation of the connectivity of close contacts at a very small scale.",
+    "quote": "On a very small scale, a Bethe lattice is a fair representation of the connectivity of close contacts (this results in the \"small-world phenomenon\").",
+    "span": [
+      522,
+      671
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-ef28fb536440fda95462aec874cbb637",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.1",
+    "chunk_id": "chunk-979183c41c81ef2ca87696aa6715bab3",
+    "node_text": "If each node on a Bethe lattice represents a small collection of closely connected people such as a household or workplace, then distances should be counted while ignoring transmissions within the same group.",
+    "quote": "One could also imagine that each node on the Bethe lattice represents not a person but a small collection of closely connected people, such as a household or workplace; if so, when counting distances we would ignore transmissions within the same group.",
+    "span": [
+      672,
+      924
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-883f591dd1b312b70389f3c1a788bcc5",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.1",
+    "chunk_id": "chunk-979183c41c81ef2ca87696aa6715bab3",
+    "node_text": "The Bethe lattice approximation breaks down around the size of a city because disease transmission requires physical proximity.",
+    "quote": "On a larger scale, around the size of a city, this Bethe lattice approximation breaks down, because disease transmission is a physical process that requires proximity.",
+    "span": [
+      925,
+      1092
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-ad5426a51aacbd15cb0ef865bcb5aabb",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.1",
+    "chunk_id": "chunk-37b36823f1738e3a4b29b06e613f531f",
+    "node_text": "When a 2D integer lattice is used to represent the contact graph at city scale, diffusion is much slower, with a random walk of n steps ending on average at a distance of approximately √n from its starting location.",
+    "quote": "If we use a 2D integer lattice to represent the contact graph at this scale, we see that diffusion is much slower; for any finite dimension, a random walk of n steps will on average end up a distance of ∼√n from its starting location.",
+    "span": [
+      0,
+      234
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-f2ae1b0a1129e40ccebb81ad61335104",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.1",
+    "chunk_id": "chunk-37b36823f1738e3a4b29b06e613f531f",
+    "node_text": "The simple model can be partially salvaged by using a sphere of radius √n, although the model performs less well than with the Bethe lattice.",
+    "quote": "Our simple model can be somewhat salvaged by using a sphere of radius√n, though the model is less good than with the Bethe lattice.",
+    "span": [
+      237,
+      368
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9847,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-010f845e0f67e79fe457b3ba12d62df5",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.1",
+    "chunk_id": "chunk-2c2854d7eca1a382f8be87027d5bf7c6",
+    "node_text": "The radius of the smallest circle that includes the index case is a posterior best guess for n, and the probability assigned to that index case is the inverse of the number of people in that circle.",
+    "quote": "the radius of this smallest circle that includes the index case is a posterior best guess for n, and the probability we expect for that index case is the inverse of the number of people in that circle.",
+    "span": [
+      113,
+      314
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-5f5899d8e097d6d11d46c942a2b9da2d",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.1",
+    "chunk_id": "chunk-108c06ccb76fc6e2d10510002a8626b5",
+    "node_text": "The model is greatly insensitive to quantitative details of the close‑contact graph.",
+    "quote": "while we do not know the quantitative details of the close-contact graph, fortunately our model is greatly insensitive to these details.",
+    "span": [
+      50,
+      186
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-b2f8aa4ab1a2ef28e1e48f4861b4d635",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.2",
+    "chunk_id": "chunk-8ea4d8b4bb6d0d8b0f2f008a97d2a9bc",
+    "node_text": "Zoonotic spillover of COVID-19 took place at an east Asian wildlife market.",
+    "quote": "LetZ be the event that zoonotic spillover of covid took place at an east Asian wildlife market,",
+    "span": [
+      0,
+      95
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-1eb029b11500ec6895987dcbd530eb11",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.2",
+    "chunk_id": "chunk-8ea4d8b4bb6d0d8b0f2f008a97d2a9bc",
+    "node_text": "COVID-19 resulted as a lab-leak from a laboratory conducting gain-of-function research.",
+    "quote": "andLL be the event that covid resulted as a lab-leak from a lab conducting gain-of-function research.",
+    "span": [
+      96,
+      197
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-2b4e3f845f76e44487c025b2551ad2df",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.2",
+    "chunk_id": "chunk-a17a2555359bf6b506116a09dfeff727",
+    "node_text": "Asymmetries in the contact graph cause outbreaks to be more likely to show up at HSM than one might expect otherwise, raising the probability of P(H|LL) but not changing P(H|Z).",
+    "quote": "Saar claims that this effect causes outbreaks to be more likely to show up at HSM than one might expect otherwise; if so, this raises the probability of P (H|LL), but does not change P (H|Z) because under the zoonotic hypothesis our circle is already been restricted to HSM.",
+    "span": [
+      3,
+      277
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-718eee57fb5d827d0a6f96bb9bc65ff1",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.2",
+    "chunk_id": "chunk-a17a2555359bf6b506116a09dfeff727",
+    "node_text": "The analysis outcome is sensitive to which individual is considered the index case; a slight change in events could make the earliest case someone not at HSM.",
+    "quote": "We should also ask whether our analysis should be so sensitive to who the index case is: the earliest cases were all close in time, and under a slight change in events the earliest among them could easily have been someone else, plausibly even someone not at HSM.",
+    "span": [
+      278,
+      541
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-d8f4ad09b9a4777b8f7a05f582561999",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.2",
+    "chunk_id": "chunk-a17a2555359bf6b506116a09dfeff727",
+    "node_text": "Zoonotic spillover could have occurred at a restaurant that processes live animals.",
+    "quote": "Notably, Saar observes [7] the possibility of zoonotic spillover at a restaurant that processes live animals.",
+    "span": [
+      1256,
+      1365
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-e8b346c0537cb99ff6651d549ab2a2a0",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.2",
+    "chunk_id": "chunk-a285eca95f46da55bb7988b2836f9347",
+    "node_text": "Expanding Z to include restaurants and locations outside east Asia would enlarge the circle and reduce P(H|Z) proportionally.",
+    "quote": "If we were to expand Z to include restaurants and locations outside of east Asia, our circle would grow enormously, and P (H|Z) be reduced in proportion.",
+    "span": [
+      0,
+      153
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-f7ea9ab27e49430117827c66b6a38ae8",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.2",
+    "chunk_id": "chunk-a285eca95f46da55bb7988b2836f9347",
+    "node_text": "If COVID-19 had appeared in a different city lacking WIV but with other laboratories conducting dangerous coronavirus research, the lab-leak hypothesis (LL) would still be applicable to the debate.",
+    "quote": "Similarly, one could ask ifLL was chosen appropriately; would we be having the same debate if covid appeared in a different city that lacked WIV but had other research laboratories engaged in potentially dangerous coronavirus research?",
+    "span": [
+      705,
+      940
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-6b432f278193cab9c5b170ce0f1fceb6",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.3",
+    "chunk_id": "chunk-0ed6bd932bd937f22bee03eb0a88da37",
+    "node_text": "The probability of an outbreak occurring at a location can be scaled by the size of that location's subpopulation.",
+    "quote": "we can scale the probability of an outbreak occurring at a location by the size of that location's subpopulation",
+    "span": [
+      304,
+      416
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-682db98aed4b0166adb969d4b43305ef",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.3",
+    "chunk_id": "chunk-0ed6bd932bd937f22bee03eb0a88da37",
+    "node_text": "Rootclaim argues that HSM was a likely place for an earlier outbreak to arise.",
+    "quote": "Rootclaim's argument that HSM was a likely place for an earlier outbreak to arise",
+    "span": [
+      1228,
+      1309
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-097c0173a0aea573ca994274715220ba",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.3",
+    "chunk_id": "chunk-8a37ada7e79d7b4da0fe0b33679b61c4",
+    "node_text": "An outbreak on a train will likely be between visitors (passengers) who will mostly not return to the same train for further transmission.",
+    "quote": "an outbreak on a train will likely be between visitors (ie passengers) who will mostly not return to the same train for further transmission",
+    "span": [
+      43,
+      183
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-2d7bdcbfd6d1f344ee5354022be6b99a",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.3",
+    "chunk_id": "chunk-8a37ada7e79d7b4da0fe0b33679b61c4",
+    "node_text": "An outbreak among train staff would be proportionately less likely than an outbreak among HSM residents.",
+    "quote": "we'd expect an outbreak among train staff to be proportionately less likely than one among HSM residents",
+    "span": [
+      462,
+      565
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9904,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-f38a25036e5de9e117704363f89ebc4b",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.4",
+    "chunk_id": "chunk-27332cfc8d742d10199230212cd3dc39",
+    "node_text": "The early ascertainment rate of COVID was somewhere around 5% to 10% based on the hospitalization rate of COVID.",
+    "quote": "We can roughly estimate the early ascertainment rate as somewhere around 5% to 10% based on the hospitalization rate of covid.",
+    "span": [
+      629,
+      755
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-a90cc4386cb77fcd42045371141d1cff",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.4",
+    "chunk_id": "chunk-27332cfc8d742d10199230212cd3dc39",
+    "node_text": "The ascertainment rate for hospitalized COVID cases was quite good, and the ascertainment rate for non-hospitalized COVID cases was effectively zero.",
+    "quote": "I think the ascertainment rate for hospitalized cases to be quite good, and effectively zero for non-hospitalized cases;",
+    "span": [
+      1030,
+      1150
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-d6aa689c95b86ab80343d18728a5b9a4",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.4",
+    "chunk_id": "chunk-27332cfc8d742d10199230212cd3dc39",
+    "node_text": "If the ascertainment rate for hospitalized cases is quite good and effectively zero for non-hospitalized cases, then that places a sharp upper bound on how much bias could exist.",
+    "quote": "if so, that places a sharp upper bound on how much bias could exist.",
+    "span": [
+      1151,
+      1219
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-b30e631196ff452887c962cc12a63e83",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.4",
+    "chunk_id": "chunk-27332cfc8d742d10199230212cd3dc39",
+    "node_text": "Rootclaim argued that ascertainment rate bias made COVID more likely to be detected early at HSM even when there could be clusters in multiple locations.",
+    "quote": "Rootclaim initially argued that ascertainment rate bias made covid more likely to be de-tected early at HSM even when there could be clusters in multiple locations.",
+    "span": [
+      1306,
+      1470
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9939,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-458339603bcf3a1e23667d16f9b68143",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.4",
+    "chunk_id": "chunk-27332cfc8d742d10199230212cd3dc39",
+    "node_text": "The eventual mooting of the point by Rootclaim renders any ascertainment bias irrelevant to the discussion of where the first SSE took place.",
+    "quote": "they eventually mooted this point (correctly, in my opinion), which makes any ascertainment bias irrelevant to the discussion of where the first SSE took place.",
+    "span": [
+      1479,
+      1639
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-cec73999baa4d098586ec5eab47a21b9",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5",
+    "chunk_id": "chunk-c0522593b02f44d6cdbf95ee44de74af",
+    "node_text": "Outbreaks are disproportionately likely to appear in HSM compared to other locations.",
+    "quote": "whether outbreaks are disproportionately likely to appear in HSM compared to other locations",
+    "span": [
+      402,
+      494
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-2f9071bdb1721d0e31b89f7583366029",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5",
+    "chunk_id": "chunk-c0522593b02f44d6cdbf95ee44de74af",
+    "node_text": "Residents at HSM have 1000 times the chance of being the index case than the average Wuhan resident.",
+    "quote": "Since residents at HSM are 0.01% of the population of Wuhan, this is equivalent to saying that residents at HSM have 1000 times the chance of being the index case than the average Wuhan resident.",
+    "span": [
+      627,
+      822
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-d35751918269fc840c35ed178623b648",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5",
+    "chunk_id": "chunk-c0522593b02f44d6cdbf95ee44de74af",
+    "node_text": "HSM gives uniquely good conditions for the spread of covid between vendors.",
+    "quote": "The core of their argument is the claim that HSM gives uniquely good conditions for the spread of covid between vendors.",
+    "span": [
+      983,
+      1103
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-1ca9f308b7127dd1a09a11f78322e574",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5",
+    "chunk_id": "chunk-014b05d09712d5a53cde6aedf686daf0",
+    "node_text": "High visitor numbers combined with resident return to HSM cause a growing cluster of cases at HSM that outpaces infections elsewhere.",
+    "quote": "The idea is that lots of people visit HSM, so even when there are few sick people in Wuhan there is a decent chance of one visiting the market; then if a resident becomes sick, the resident will return to HSM to infect others; and the growing cluster of cases at HSM will outpace infections elsewhere.",
+    "span": [
+      414,
+      715
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-8ea5424d14e9ab95b6d4c8a384688dfe",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5",
+    "chunk_id": "chunk-c6520d3241fa4dbe449147edcb01fa8f",
+    "node_text": "Households are collectively likely to be the first cluster because of their large number and high transmission risk within a household.",
+    "quote": "Households are individually too small to have a significant chance of being the first cluster, but are collectively likely due to the large number of them and the quite high risk of transmission within a household.",
+    "span": [
+      213,
+      427
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-66420eb8160493f2b23528e90bfd6af6",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5",
+    "chunk_id": "chunk-c6520d3241fa4dbe449147edcb01fa8f",
+    "node_text": "Temperature has a causative role in flu transmission and possibly in covid transmission.",
+    "quote": "the causative role of temperature in flu transmission remains uncertain, and covid likewise.",
+    "span": [
+      998,
+      1090
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-17692b8bf42b0db36431881525d6c07a",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5",
+    "chunk_id": "chunk-c6520d3241fa4dbe449147edcb01fa8f",
+    "node_text": "UV radiation causally reduces the growth rate of covid.",
+    "quote": "UV radiation is correlated with lower growth rate of covid",
+    "span": [
+      784,
+      842
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-a1ddae9bdc821b3277174e554249a464",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-4fc60178af3cfcdfb8e465a9173a62c9",
+    "node_text": "The primary case occurs at the Wuhan Institute of Virology (WIV).",
+    "quote": "The primary case occurs at WIV.",
+    "span": [
+      381,
+      412
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-8c21d7d43520b565326e8723ef3400e9",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-4fc60178af3cfcdfb8e465a9173a62c9",
+    "node_text": "After seven doublings, there are 128 COVID‑19 cases in Wuhan out of a population of 12 million.",
+    "quote": "After 7 doublings, there are 128 cases in Wuhan out of a population of 12 million.",
+    "span": [
+      416,
+      498
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-7b43af59fe5dd773f5d194f10c9b69a7",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-4fc60178af3cfcdfb8e465a9173a62c9",
+    "node_text": "With 10,000 daily visitors at the Huanan Seafood Market (HSM), it takes on average ten days for a sick person to visit HSM.",
+    "quote": "With 10000 daily visitors at HSM, it takes on average 10 days for a sick person to visit HSM.",
+    "span": [
+      499,
+      592
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-d907d4eb74c68b9eb3bd92537bdac18a",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-4fc60178af3cfcdfb8e465a9173a62c9",
+    "node_text": "A visitor to HSM infects a resident at HSM.",
+    "quote": "The visitor infects a resident at HSM.",
+    "span": [
+      596,
+      634
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-6ffdf675b31098a6a67ca961539e3aa8",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-4fc60178af3cfcdfb8e465a9173a62c9",
+    "node_text": "The doubling time of HSM‑linked cases is half that of non‑HSM cases.",
+    "quote": "The doubling-time of HSM-linked cases is half that of other cases.",
+    "span": [
+      638,
+      704
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-23661dd09f0480993e7f30613366cefb",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-4fc60178af3cfcdfb8e465a9173a62c9",
+    "node_text": "After five additional doublings, there are 4,096 cases outside HSM and 1,024 cases associated with HSM.",
+    "quote": "After 5 more doublings, there are 4096 cases outside HSM and 1024 cases associated with HSM.",
+    "span": [
+      705,
+      797
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-b2955e2caa35d4c45cdab653904b8ffa",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-4fc60178af3cfcdfb8e465a9173a62c9",
+    "node_text": "One‑thirty‑second of non‑HSM cases are hospitalized and one‑sixteenth of HSM cases are hospitalized, yielding 128 known non‑HSM cases and 64 known HSM cases.",
+    "quote": "1/32 non-HSM cases are hospitalized, and 1/16 HSM cases are hospitalized, yielding 128 known non-HSM cases and 64 known HSM cases.",
+    "span": [
+      801,
+      931
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-d8c027c4b883c7148f508aae2fa747d9",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-91e452ccec7745069e816d190987f931",
+    "node_text": "At 5 % case ascertainment, there is only a 0.14 % chance that none of the 128 pre‑HSM cases are found.",
+    "quote": "At 5% ascertainment, there is only a 0.14% chance none of the 128 pre-HSM cases are found;",
+    "span": [
+      0,
+      90
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-7ce9e7219454c352fb8593089a49c18c",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-91e452ccec7745069e816d190987f931",
+    "node_text": "At 10 % case ascertainment, the chance that none of the 128 pre‑HSM cases are found falls to 0.00014 %.",
+    "quote": "at 10% ascertainment, this falls to 0.00014% chance.",
+    "span": [
+      91,
+      143
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-b4848a8d702c8b1e381b83cfde7aefe1",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-91e452ccec7745069e816d190987f931",
+    "node_text": "None of the 128 pre‑HSM cases directly lead to super‑spreading events unconnected to HSM.",
+    "quote": "none of these 128 cases directly lead to super-spreading events unconnected to HSM.",
+    "span": [
+      251,
+      334
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-d2a69b3954545ca8a784eb3dcd75b364",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-91e452ccec7745069e816d190987f931",
+    "node_text": "Step 3 of the model (the visitor infects a resident) is a low‑probability event.",
+    "quote": "Second, Saar entirely omitted step 3, which is a low probability event.",
+    "span": [
+      335,
+      406
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-1ff5153df8808ba01aff99b71fe0481b",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-91e452ccec7745069e816d190987f931",
+    "node_text": "A person going shopping might have face‑to‑face contact with a vendor for several minutes, facilitating transmission.",
+    "quote": "A person going shopping might have face-to-face contact with a vendor for several minutes, facilitating transmission;",
+    "span": [
+      407,
+      524
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-f06ad4b5d1733da75fe176eaf4221488",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-91e452ccec7745069e816d190987f931",
+    "node_text": "During a typical shopping trip, a shopper will have broadly comparable levels of contact with dozens or hundreds of other people, such as other shoppers and public‑transit riders.",
+    "quote": "in a typical shopping trip they will have broadly comparable levels of contact with dozens or hundreds of other people, such as other shoppers and on public transit.",
+    "span": [
+      538,
+      703
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-a8bd3b1fb740aa1f28287e51798c7d90",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-91e452ccec7745069e816d190987f931",
+    "node_text": "The great disparity in growth rates between HSM‑linked cases and non‑HSM‑linked cases after COVID‑19 reaches the market is implausible.",
+    "quote": "Third, the great disparity in growth rates between HSM-linked cases and non-HSM-linked cases after covid reaches the market is implausible,",
+    "span": [
+      1027,
+      1166
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-08eed722e3860d787f15fda6eb90f8d1",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-91e452ccec7745069e816d190987f931",
+    "node_text": "HSM‑linked cases become non‑HSM‑linked cases if they lose their epidemiological connection to HSM.",
+    "quote": "HSM-linked cases become non-HSM-linked cases if they lose their epidemiological connection to HSM.",
+    "span": [
+      1208,
+      1306
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-43c6d3702dd9d3b14d67c7c36555898e",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-fd563d0db195cdf9b4d239d8ef58f341",
+    "node_text": "In the ordinary doubling time of COVID‑19, a resident with COVID‑19 on average infects two vendors and two visitors.",
+    "quote": "in the ordinary doubling time of covid, a resident with covid on average infects two vendors and two visitors",
+    "span": [
+      176,
+      285
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-49a01eb41e90318b242419e7de73b100",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-fd563d0db195cdf9b4d239d8ef58f341",
+    "node_text": "\"HSM‑linked\" includes all infected residents and visitors but excludes any indirect infections.",
+    "quote": "\"HSM-linked\" includes all infected resident and visitors but not any indirect infections.",
+    "span": [
+      393,
+      482
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-42fffa75862e98b8896566e78db3f2a2",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-720671a267223e8473780ed6947675bf",
+    "node_text": "After the first doubling, the growth rate of HSM cases is entirely driven by the resident‑to‑resident infection rate.",
+    "quote": "the growth rate of HSM cases after the first doubling is entirely driven by the resident-to-resident infection rate,",
+    "span": [
+      931,
+      1047
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-edd649a13b74232e1e4c8167782a0b55",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-720671a267223e8473780ed6947675bf",
+    "node_text": "To obtain roughly 2–10 HSM cases within five doublings, each resident must infect almost four other residents.",
+    "quote": "To get 2 10 HSM cases within 5 doublings we need each resident to infect (almost) 4 other residents.",
+    "span": [
+      1147,
+      1247
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-b2d3abd73d341ffcb76e7398d7596589",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-6b10418abc2ed0387c626f2de6a5a352",
+    "node_text": "To maintain the observed half‑half split of HSM cases between residents and visitors, each resident must infect four visitors.",
+    "quote": "to maintain the observed half-half split of HSM cases between residents and visitors, we need each resident to infect 4 visitors",
+    "span": [
+      6,
+      134
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9844,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-2f323ff439f1909a163ab5ffaefad53a",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-6b10418abc2ed0387c626f2de6a5a352",
+    "node_text": "The total infectivity rate at HSM is four times that elsewhere in Wuhan.",
+    "quote": "so the total infectivity rate at HSM is 4 times that elsewhere in Wuhan,",
+    "span": [
+      138,
+      210
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-8280da80b476ac926619e2d280453970",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-6b10418abc2ed0387c626f2de6a5a352",
+    "node_text": "Even with HSM having four times the infectivity of non‑HSM, HSM‑linked cases can never exceed two‑thirds of all cases.",
+    "quote": "HSM-linked cases still can never exceed 2/3 of all cases.",
+    "span": [
+      548,
+      605
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-6195e21be2d183dccb18d31073f0ba7d",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-6b10418abc2ed0387c626f2de6a5a352",
+    "node_text": "There is no believable way to obtain the observed case distribution from Rootclaim’s model.",
+    "quote": "there is no believable way to get the observed case distribution from Rootclaim's model.",
+    "span": [
+      857,
+      945
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9773,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-443c285cfc357193a22965f3d71e81d4",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.2",
+    "chunk_id": "chunk-1a93932e5670cc9058d40bdd28f60a7a",
+    "node_text": "Rootclaim's model is correct",
+    "quote": "assuming Rootclaim's model is correct",
+    "span": [
+      43,
+      80
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-9267bfe19c9b63f2ebee1e50e26dc53c",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.2",
+    "chunk_id": "chunk-3b8b08606c2011cfe525611421b108a8",
+    "node_text": "Rootclaim's model looks good after the HSM closure",
+    "quote": "Rootclaim's model looks good after the HSM closure",
+    "span": [
+      532,
+      582
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-dc557680f2c1a379f2f306dec63b02e3",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.2",
+    "chunk_id": "chunk-3b8b08606c2011cfe525611421b108a8",
+    "node_text": "Rootclaim's model overestimates cases outside HSM",
+    "quote": "it overestimates cases outside HSM",
+    "span": [
+      652,
+      686
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-4bbbbb448415611072e846c69cce93fe",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.2",
+    "chunk_id": "chunk-3b8b08606c2011cfe525611421b108a8",
+    "node_text": "Rootclaim's model underestimates cases within HSM",
+    "quote": "and underestimates cases within",
+    "span": [
+      687,
+      718
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-3199a5bfc0c9a05b3d4988b34b54ccde",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.2",
+    "chunk_id": "chunk-3b8b08606c2011cfe525611421b108a8",
+    "node_text": "Assuming some randomness in the timing of the index cases, the ascertainment rates, and the doubling time, the model numbers can be made kind of consistent with observations",
+    "quote": "Assuming some randomness in the timing of the index cases and the ascertainment rates and the doubling time, we can finangle the model numbers to be kind of consistent with observations",
+    "span": [
+      720,
+      905
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-4068adf8cae617faf9801003e7ca5bdb",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.2",
+    "chunk_id": "chunk-3b8b08606c2011cfe525611421b108a8",
+    "node_text": "The model gets worse and worse the earlier in the outbreak one looks",
+    "quote": "it clearly gets worse and worse the earlier in the outbreak one looks",
+    "span": [
+      911,
+      980
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-c0853d309e2ac424c384406022423e80",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.4",
+    "chunk_id": "chunk-e7e2041dcbb8d6f1d0763bb2f0eeb382",
+    "node_text": "A super-spreading event is expected to occur first at the Huanan Seafood Market (HSM) rather than concurrently elsewhere.",
+    "quote": "a super-spreading event is expected to occur first at HSM and not concurrently elsewhere",
+    "span": [
+      14,
+      101
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9886,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-2ae259751afa34910d134ba58e1e1992",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.4",
+    "chunk_id": "chunk-e7e2041dcbb8d6f1d0763bb2f0eeb382",
+    "node_text": "When case numbers are low (thousands or fewer), a single super-spreading event can completely overwhelm a twofold infectivity difference and cause the less infectious location to have more cases sooner.",
+    "quote": "a single super-spreading event can completely overwhelm such a difference and drive the less infectious location to have more cases sooner",
+    "span": [
+      1008,
+      1146
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-b473fe34d3173f03712a44af31459da8",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.4",
+    "chunk_id": "chunk-e7e2041dcbb8d6f1d0763bb2f0eeb382",
+    "node_text": "The location of the first COVID-19 cluster will have a flatter distribution than would be expected by analyses that consider only average growth rates at each location.",
+    "quote": "the location of the first cluster will have a flatter distribution than would be expected by an analysis that considers only average growth rates at each location",
+    "span": [
+      1268,
+      1430
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-01f06ba21ef1376ced3caad482e0fcbb",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.4",
+    "chunk_id": "chunk-af0f6ab9bcfc1568dd3db4d02462cff7",
+    "node_text": "If half of infected individuals transmit to no one and the other half transmit to four people, there is a 50% chance that the HSM outbreak stops immediately.",
+    "quote": "there is a 50% chance the HSM outbreak stops immediately",
+    "span": [
+      144,
+      200
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-dde47b337704a5f21b0d1c8c41f17726",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.4",
+    "chunk_id": "chunk-af0f6ab9bcfc1568dd3db4d02462cff7",
+    "node_text": "Outside HSM, the number of secondary infections per case follows a distribution with mean μ and variance σ², while within HSM it follows a distribution with mean 2μ and variance 4σ².",
+    "quote": "outside of HSM the number of people a given case infects follows a certain distribution with mean μ and variance σ2, and that within HSM it follows a similar distribution with mean 2 μ and variance 4σ2.",
+    "span": [
+      255,
+      457
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-59de261da5b563afb191be7028d26c42",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.4",
+    "chunk_id": "chunk-fc07b4b1689f613a1a86412f5a2b1635",
+    "node_text": "If at least half of COVID-19 cases cause no secondary infections, then the mean μ of the secondary‑infection distribution is less than or equal to its standard deviation σ, so μ/σ lies between 0 and 1.",
+    "quote": "if we impose the constraint that at least half of people with covid pass on no secondary infections, then it follows that μ≤σ and so μ/σ has to lie in the interval from 0 to 1",
+    "span": [
+      454,
+      629
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-1d9933f4c7eedff5d795d63a01aced0d",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.4",
+    "chunk_id": "chunk-fc07b4b1689f613a1a86412f5a2b1635",
+    "node_text": "The derived expression p≈√(5√τ n) exp(−n/10) provides a lower bound on the probability that a cluster outside HSM outcompetes a same‑sized cluster within HSM for a single generation.",
+    "quote": "This is a lower-bound on the probability that a cluster outside of HSM outcompetes a cluster within HSM of the same size for a single generation.",
+    "span": [
+      831,
+      976
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-e5ec84b435f1623f7e04550436be8a1d",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.4",
+    "chunk_id": "chunk-1e748294380c5155289b80fd71ff8690",
+    "node_text": "Under Rootclaim's model with 128 competing clusters, the probability that the HSM cluster becomes the largest is slightly greater than 1/128.",
+    "quote": "The probability that HSM becomes the biggest of the 128 clusters is more than 1 / 128, but not much more.",
+    "span": [
+      692,
+      797
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-e1de75f1ad42f9ea28cbc795f37224fc",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.4",
+    "chunk_id": "chunk-e7e2041dcbb8d6f1d0763bb2f0eeb382",
+    "node_text": "If one location has twice the infectivity of another, its case count is expected to grow twice as fast exponentially.",
+    "quote": "If one location has twice the infectivity of another, we expect its case count to grow twice as exponentially-fast",
+    "span": [
+      839,
+      953
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-3c54524aaac6da9975648920d6757e39",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.4",
+    "chunk_id": "chunk-e7e2041dcbb8d6f1d0763bb2f0eeb382",
+    "node_text": "COVID-19 is not especially infectious outside the Huanan Seafood Market.",
+    "quote": "it is not especially infectious elsewhere",
+    "span": [
+      184,
+      225
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-b7781f9caf0fd5c24b59c95055bb861d",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.5",
+    "chunk_id": "chunk-c978a2169cc08e3cc4be0280ce9ed14b",
+    "node_text": "Rootclaim estimates that there was a 10% chance that the first COVID outbreak appeared in HSM.",
+    "quote": "Rootclaim estimates that there was a 10% chance of the first covid outbreak appearing in HSM",
+    "span": [
+      0,
+      92
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-906fb586986cb47934b826a3da25f108",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.5",
+    "chunk_id": "chunk-c978a2169cc08e3cc4be0280ce9ed14b",
+    "node_text": "Rootclaim's reasoning that there was a 10% chance of the first COVID outbreak appearing in HSM applies equally well to other respiratory diseases.",
+    "quote": "their reasoning applies equally well to other respiratory diseases",
+    "span": [
+      94,
+      160
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-02cc87aee88d8f5bdb6bd209c36316a7",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.5",
+    "chunk_id": "chunk-c978a2169cc08e3cc4be0280ce9ed14b",
+    "node_text": "In a typical winter, HSM is expected to have one of the first ten flu outbreaks in Wuhan.",
+    "quote": "We should expect, then, that in a typical winter HSM has one of the first 10 flu outbreaks in Wuhan",
+    "span": [
+      162,
+      261
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-5fcde28672dafb118480030e2d8c449b",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.5",
+    "chunk_id": "chunk-c978a2169cc08e3cc4be0280ce9ed14b",
+    "node_text": "Comparable markets elsewhere in Wuhan or in other cities are expected to be early nexuses of flu, colds, and other diseases.",
+    "quote": "Comparable markets elsewhere in Wuhan or in other cities should similarly be early nexuses of flus, colds, and other diseases",
+    "span": [
+      265,
+      390
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.984,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-c187c4405c3f87c05549c3d3eb51cd2b",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.5",
+    "chunk_id": "chunk-c978a2169cc08e3cc4be0280ce9ed14b",
+    "node_text": "If it were true that HSM is an early nexus for diseases, someone would have noticed by now (as strongly suspected by the author).",
+    "quote": "I strongly suspect that if it were true someone would have noticed by now",
+    "span": [
+      464,
+      537
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-ed2cf1012cd0c981655b0da1255e7969",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.5",
+    "chunk_id": "chunk-c978a2169cc08e3cc4be0280ce9ed14b",
+    "node_text": "Saar argues that the factors favoring HSM are not unique to situations with very few cases present in a city, because the high rate of visitor traffic becomes less relevant when the disease is abundant everywhere.",
+    "quote": "Saar contests that the factors favoring HSM are unique to when there are very few cases present in a city, as the high rate of visitor traffic becomes less relevant when the disease is abundant everywhere",
+    "span": [
+      668,
+      872
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-865b75da9347351ce08c4f8bdecbdf0e",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.5",
+    "chunk_id": "chunk-c978a2169cc08e3cc4be0280ce9ed14b",
+    "node_text": "Disease transmission should remain linear at low case counts.",
+    "quote": "disease transmission should remain linear at low case counts",
+    "span": [
+      897,
+      957
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-986f7fc91440564116ab2265b81b4d03",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.5",
+    "chunk_id": "chunk-c978a2169cc08e3cc4be0280ce9ed14b",
+    "node_text": "Nonlinearities in disease transmission only begin when some subpopulation has so many cases as to create significant immunity.",
+    "quote": "nonlinearities only begin when some subpopulation has so many cases as to create significant immunity",
+    "span": [
+      963,
+      1064
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-00f8be02df2546f2425e5ea184a603db",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.5",
+    "chunk_id": "chunk-c978a2169cc08e3cc4be0280ce9ed14b",
+    "node_text": "If the number of infected people in a city is doubled, the rate of outbreaks at every location is doubled, and the chance that a certain location is first remains unchanged.",
+    "quote": "If the number of infected people in a city is doubled, the rate of outbreaks at every location is doubled, and the chance that a certain location is first remains unchanged",
+    "span": [
+      1066,
+      1238
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-dc00771983aac9218555001e6fd51f21",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.5",
+    "chunk_id": "chunk-c978a2169cc08e3cc4be0280ce9ed14b",
+    "node_text": "Cross-year immunity to the flu and other endemic diseases will slightly dampen inter-location variation in infectivity.",
+    "quote": "people have cross-year immunity to the flu and other endemic diseases, which will slightly dampen inter-location variation in infectivity",
+    "span": [
+      1249,
+      1386
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-4565c0e0e2d65d00edbe9b66e5d01fca",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.6",
+    "chunk_id": "chunk-8d081d1253d4de7a4dc463bf5d04aa2a",
+    "node_text": "Rootclaim hypothesizes that the outbreak in HSM preceded outbreaks elsewhere because the infection growth rate in HSM was so much higher as to overcome the head start of cases elsewhere in Wuhan.",
+    "quote": "Rootclaim explains the outbreak in HSM preceding outbreaks elsewhere as a consequence of the infection growth rate in HSM being so much higher as to overcome the head start of cases elsewhere in Wuhan.",
+    "span": [
+      0,
+      201
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-d3a56c50d83c32eb7931f1428323acd5",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.6",
+    "chunk_id": "chunk-8d081d1253d4de7a4dc463bf5d04aa2a",
+    "node_text": "One of the first covid patients went to HSM.",
+    "quote": "One of the first covid patients goes to HSM",
+    "span": [
+      270,
+      313
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-fe09cb44b6607100ae04add86f11211f",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.6",
+    "chunk_id": "chunk-8d081d1253d4de7a4dc463bf5d04aa2a",
+    "node_text": "The first (or one of the first) covid patients to visit HSM infected an HSM resident, and the infection took hold as a local cluster.",
+    "quote": "The first (or one of the first) covid patients to visit HSM infects an HSM resident, and the infection takes hold as a local cluster",
+    "span": [
+      317,
+      449
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-1fba0adfbceae371635ab8299f13d052",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.6",
+    "chunk_id": "chunk-8d081d1253d4de7a4dc463bf5d04aa2a",
+    "node_text": "The HSM cluster grew so rapidly as to outpace non-HSM cases.",
+    "quote": "The HSM cluster grows so rapidly as to outpace non-HSM cases",
+    "span": [
+      453,
+      513
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-0432c3bdb8e245794200869dfd8facc4",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.6",
+    "chunk_id": "chunk-a05450cb48dd10f88bf7a77b92abfb34",
+    "node_text": "The first sick person to visit HSM was super contagious and got lots of people sick.",
+    "quote": "Maybe the first sick person to visit HSM was super contagious and got lots of people sick",
+    "span": [
+      0,
+      89
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-c67758ad6b04cbbacdcf930e428fbbb2",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.6",
+    "chunk_id": "chunk-a05450cb48dd10f88bf7a77b92abfb34",
+    "node_text": "All of the pre-HSM cases were super contagious.",
+    "quote": "Or maybe all of the pre-HSM cases were super contagious",
+    "span": [
+      259,
+      314
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-c1313e4850097cc9b244ba74b9f0dbd5",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.6",
+    "chunk_id": "chunk-a05450cb48dd10f88bf7a77b92abfb34",
+    "node_text": "Multiple sick people visited HSM for the outbreak to take hold there.",
+    "quote": "Or maybe it took multiple sick people visiting HSM for the outbreak to take hold there",
+    "span": [
+      354,
+      440
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-25830bed5a6eccb653cf7a4e2ec553bc",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.6",
+    "chunk_id": "chunk-a05450cb48dd10f88bf7a77b92abfb34",
+    "node_text": "Non-HSM cases did not have a big head start.",
+    "quote": "Perhaps non-HSM cases did not have a big head start",
+    "span": [
+      612,
+      663
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-1389f512e2ada01a73415cd01cd96435",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.6",
+    "chunk_id": "chunk-b4b3e904dc00e4eb47646582e826ba65",
+    "node_text": "One of the first 5 or 10 covid patients went to HSM and infected a vendor there, and the HSM outbreak steadily outpaced non-HSM cases.",
+    "quote": "I think the maximal likelihood way to make this model consistent with observations is to suppose that one of the first 5 or 10 covid patients went to HSM and infected a vendor there, and the HSM outbreak steadily outpaced non-HSM cases.",
+    "span": [
+      548,
+      784
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-3530326228fc16674e9f1e23c7c74a0e",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.6",
+    "chunk_id": "chunk-b4b3e904dc00e4eb47646582e826ba65",
+    "node_text": "Connor Reed (or other people) had covid before the HSM outbreak.",
+    "quote": "This can be substantially ameliorated if you believe Connor Reed, or other people, had covid before the HSM outbreak",
+    "span": [
+      986,
+      1102
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-4bb8de502b59fcdec9c32022c12d410b",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.6",
+    "chunk_id": "chunk-6a078cb957f6c51889157b660d34c742",
+    "node_text": "Chen was sick on Dec 8 instead of Dec 16.",
+    "quote": "Even a small change like Chen being sick on Dec 8 instead of Dec 16 makes Rootclaim's model something like 4 times more likely",
+    "span": [
+      0,
+      126
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-8f749274e6c69304e2f173c1a783e9a4",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.1",
+    "chunk_id": "chunk-c1a9dd8224f20ec4cb9a1893e8dcdddf",
+    "node_text": "The lack of positive animal samples is expected because most samples were taken from dead animals in cold storage.",
+    "quote": "None of the 457 animal samples tested positive for sars-cov-2. This is to be expected, due to the nature of the sample selection.",
+    "span": [
+      380,
+      509
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-c2b13e564f584b54746ed494f6354c73",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.1",
+    "chunk_id": "chunk-4640d8c4573d0f7cac4733a8d4819d82",
+    "node_text": "SARS‑CoV‑2 was imported to the market in an animal.",
+    "quote": "Testing for other viruses also directly supports the possibility of sars-cov-2 being imported to the market in an animal: in particular, a bamboo rat betacoronavirus was found that likely originated in a bamboo rat farm in Gaungxi, which borders Vietnam and Yunnan.",
+    "span": [
+      232,
+      497
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-9e537c7b124cfecb5b94a7edf87932b2",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.1",
+    "chunk_id": "chunk-4640d8c4573d0f7cac4733a8d4819d82",
+    "node_text": "The bamboo rat betacoronavirus likely originated in a bamboo rat farm in Guangxi.",
+    "quote": "a bamboo rat betacoronavirus was found that likely originated in a bamboo rat farm in Gaungxi, which borders Vietnam and Yunnan.",
+    "span": [
+      369,
+      497
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-5e066911da71a968be004b5f85f117ad",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.1",
+    "chunk_id": "chunk-4640d8c4573d0f7cac4733a8d4819d82",
+    "node_text": "A zoonotic spillover of SARS‑CoV‑2 took place at a very specific location identified by the distribution of positive environmental samples.",
+    "quote": "their distribution narrowly identifies a very specific location for a zoonotic spillover to have taken place.",
+    "span": [
+      1144,
+      1253
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-b7acc68df97231698d7515e87aee0a57",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.1",
+    "chunk_id": "chunk-556a97d6173f3c6d6e22966a6a47f077",
+    "node_text": "Store 6:29 is a potential location of a novel disease spillover.",
+    "quote": "the latter store in particular had live raccoon dogs (one of the species suspected to be intermediary for sars-cov-2) and was specifically identified in 2014 as a potential location of a novel disease spillover",
+    "span": [
+      446,
+      656
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-fa69ba5012bb11606cd67b76cb87a9dd",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.1",
+    "chunk_id": "chunk-556a97d6173f3c6d6e22966a6a47f077",
+    "node_text": "Raccoon dogs are an intermediary species for SARS‑CoV‑2.",
+    "quote": "live raccoon dogs (one of the species suspected to be intermediary for sars-cov-2)",
+    "span": [
+      481,
+      563
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-97368352a63722a2f13c18a5875721c6",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.2",
+    "chunk_id": "chunk-034688a09b0107d8a35c8a909a28c192",
+    "node_text": "the judge expects that disease communication between animals at HSM would have been lower than disease communication between humans at HSM who could move between multiple shops and interact with other humans",
+    "quote": "disease communication between animals would presumably have been lower than between humans at HSM who could and did move between multiple shops and interact with other humans",
+    "span": [
+      508,
+      682
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-4a7a8098f7380b188547d841cc629e03",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.2",
+    "chunk_id": "chunk-034688a09b0107d8a35c8a909a28c192",
+    "node_text": "the judge expects that at the time of spillover, very few animals at HSM would have been carrying sars-cov-2 infections, compared to the number of animals that might be susceptible to it",
+    "quote": "I expect that at the time of spillover, very few animals at HSM would have been carrying sars-cov-2 infections, compared to the number who might be susceptible to it",
+    "span": [
+      684,
+      849
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-bbb1b7e2b1208a6a3c8c4a0d9bded1e1",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.2",
+    "chunk_id": "chunk-034688a09b0107d8a35c8a909a28c192",
+    "node_text": "the judge considers it quite possible that some animals at HSM would later be infected by humans",
+    "quote": "(It is quite possible that some would later be infected by humans.)",
+    "span": [
+      851,
+      918
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-118632d2a6d79d1bde387cc612315aa6",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.2",
+    "chunk_id": "chunk-034688a09b0107d8a35c8a909a28c192",
+    "node_text": "the judge hypothesizes that any positive correlation between samples containing raccoon dog DNA and samples testing positive for sars-cov-2 would only occur if the samples happened to contain material from the specific raccoon dogs that were carrying sars-cov-2",
+    "quote": "Any positive correlation between samples that contain raccoon dog DNA and samples that test for sars-cov-2 would only occur if the samples happened to contain material from the specific raccoon dogs that were carrying sars-cov-2.",
+    "span": [
+      919,
+      1148
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-00b45980ed20f782d8f1dd53fc3982dc",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.2",
+    "chunk_id": "chunk-034688a09b0107d8a35c8a909a28c192",
+    "node_text": "the judge hypothesizes that there are probably few or no samples containing material from raccoon dogs that were carrying sars-cov-2, so the expected correlation under the zoonotic hypothesis would be weak or zero",
+    "quote": "There are probably few or no such samples, so the expected correlation under the zoonotic hypothesis would be weak or zero.",
+    "span": [
+      1149,
+      1272
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-4d3db5f99561dbe279b655f9caaf1cac",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.2",
+    "chunk_id": "chunk-be79032223070f33912706faf5be65e7",
+    "node_text": "the judge hypothesizes that among the several species in HSM suspected as potential sars-cov-2 intermediaries (such as raccoon dog, civet, and bamboo rat), only one could have any positive correlation, while the others would have zero correlation because they are irrelevant",
+    "quote": "presumably only one of them could have any positive correlation, with the others being zero as they are irrelevant.",
+    "span": [
+      146,
+      261
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-a75378931d31cd4a5f3c928cae298334",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.2",
+    "chunk_id": "chunk-be79032223070f33912706faf5be65e7",
+    "node_text": "the judge hypothesizes that even if there were a positive correlation, it could be overwhelmed by confounding factors",
+    "quote": "Even if there were a positive correlation, it could be overwhelmed by confounding factors.",
+    "span": [
+      262,
+      352
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-c060efcd15c543cfb8bb38473af922ae",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.2",
+    "chunk_id": "chunk-be79032223070f33912706faf5be65e7",
+    "node_text": "the judge hypothesizes that the second round of testing, conducted two weeks later, would have had a lower positivity rate due to the additional time for the sars-cov-2 RNA to decay",
+    "quote": "This sampling, two weeks later on January 12, would have had a lower positivity rate due to the additional time for the sars-cov-2 RNA to decay.",
+    "span": [
+      575,
+      719
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-abc640cbf7730b90e57992c3c96213c0",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.2",
+    "chunk_id": "chunk-be79032223070f33912706faf5be65e7",
+    "node_text": "the judge hypothesizes that the lower positivity rate would induce a negative correlation between samples with wildlife and samples with sars-cov-2",
+    "quote": "Consequentially this would induce a negative correlation between samples with wildlife and samples with sars-cov-2.",
+    "span": [
+      720,
+      835
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-36099b344394f3c7ada8e4fdac0869ab",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.3",
+    "chunk_id": "chunk-1661e1ac141058d44bc6cc7464acc9bd",
+    "node_text": "Rootclaim hypothesizes that no animal vendors at HSM tested positive for covid.",
+    "quote": "Rootclaim claims that no animal vendors at HSM tested positive for covid, in contrast to a significant association between people who worked with wild animals and seropositivity for SARS-1",
+    "span": [
+      0,
+      188
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-9e0b08c4590a7e23f399b189d8b1b829",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.3",
+    "chunk_id": "chunk-1661e1ac141058d44bc6cc7464acc9bd",
+    "node_text": "The author expects that there would not be a trend connecting animal vendors with testing positive for covid even if SARS-CoV-2 spilled over at HSM.",
+    "quote": "I would not particularly expect to find a trend connecting animal vendors with testing positive for covid even if sars-cov-2 did spill over at HSM",
+    "span": [
+      326,
+      472
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-f52dfaa24da71859f5ebeeda8692e2b4",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.3",
+    "chunk_id": "chunk-1661e1ac141058d44bc6cc7464acc9bd",
+    "node_text": "Only one animal vendor would have been directly infected by an animal, unless there were two spillovers, in which case two animal vendors would have been directly infected.",
+    "quote": "Only one animal vendor would have been directly infected by an animal (or two if there were two spillovers, as discussed in section 5.1)",
+    "span": [
+      474,
+      610
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-f4901887e3c5dcab857ce3c901e4ec2d",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.3",
+    "chunk_id": "chunk-1661e1ac141058d44bc6cc7464acc9bd",
+    "node_text": "There is roughly a 5% chance that the primary case would be ascertained directly via hospitalization.",
+    "quote": "we expect a low chance that the primary case would be ascertained directly: roughly 5%, the hospitalization rate",
+    "span": [
+      836,
+      948
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-8cba8e3553bbefadcf73d1b58c7e3eea",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.3",
+    "chunk_id": "chunk-1661e1ac141058d44bc6cc7464acc9bd",
+    "node_text": "Given a 95% chance that the primary case was not hospitalized, there is no strong reason to focus on animal vendors to find early infections.",
+    "quote": "In the 95% chance that the primary case was not hospitalized, we have no strong reason to be looking specifically to animal vendors to find early infections",
+    "span": [
+      950,
+      1106
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-306407855f0d3e95c9a39bd8fc77515b",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.3",
+    "chunk_id": "chunk-35170c9dd2c291492987237b23c80ca8",
+    "node_text": "The author thinks it is probably true that no animal vendors at HSM tested positive for covid, based on the WHO map showing no cases at the 10 stalls that sell live animals.",
+    "quote": "The HSM map published by the WHO labels 10 stalls known to sell live animals, and does not show any cases at those stalls; this makes me think it is probably true",
+    "span": [
+      230,
+      392
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-b91a4bc3f20fda0e944b2747cb9241c5",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.3",
+    "chunk_id": "chunk-35170c9dd2c291492987237b23c80ca8",
+    "node_text": "The live animal vendors are included in the \"others\" category in the WHO vendor breakdown.",
+    "quote": "perhaps this is included in \"others\"",
+    "span": [
+      1049,
+      1085
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-0ed432cf4994925b3e7c4f9c90f68009",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.3",
+    "chunk_id": "chunk-35170c9dd2c291492987237b23c80ca8",
+    "node_text": "The live animal vendors are included in the meat sellers category if the animals are being butchered on site.",
+    "quote": "or perhaps they are included in meat sellers if the animals are being butchered on site",
+    "span": [
+      1087,
+      1174
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-3a405e39da883c642a57e16b66881424",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.3",
+    "chunk_id": "chunk-35170c9dd2c291492987237b23c80ca8",
+    "node_text": "The live animal sellers also sold other products.",
+    "quote": "or perhaps the live animal sellers also sold other products",
+    "span": [
+      1176,
+      1235
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-2c9b4a66010929e8fedc05cd38d8120f",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.1",
+    "chunk_id": "chunk-4e2ab9e3cd1b30d0eaf3662df80413b7",
+    "node_text": "It is very unlikely that the root of the SARS‑CoV‑2 phylogeny is an intermediate genome.",
+    "quote": "a simple geometric argument suggests that it is very unlikely the root is an intermediate genome.",
+    "span": [
+      647,
+      744
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-f35412c871846ba647cf3dd5819ff980",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.1",
+    "chunk_id": "chunk-4e2ab9e3cd1b30d0eaf3662df80413b7",
+    "node_text": "Lineage A is the root of SARS‑CoV‑2.",
+    "quote": "outgroup analysis suggests that lineage A is the root of sars-cov-2.",
+    "span": [
+      898,
+      966
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-a8ccab3b734fcba1d30b47a220f95950",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.1",
+    "chunk_id": "chunk-4e2ab9e3cd1b30d0eaf3662df80413b7",
+    "node_text": "Lineage B is the root of SARS‑CoV‑2.",
+    "quote": "it appears that lineage B may predate lineage A by a few days or weeks and would therefore be the root.",
+    "span": [
+      1046,
+      1149
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-2db47ab019de071a975aa595b569bc98",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.1",
+    "chunk_id": "chunk-ef39d9943614d54b643840738e3f964b",
+    "node_text": "Lineages A and B represent separate introductions of SARS‑CoV‑2 into humans.",
+    "quote": "what if lineages A and B represent separate introductions of sars-cov-2 into humans?",
+    "span": [
+      51,
+      135
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-27e292dc8d88636478720f5dc64d94c9",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.1",
+    "chunk_id": "chunk-ef39d9943614d54b643840738e3f964b",
+    "node_text": "SARS‑CoV‑2 underwent multiple introductions into humans.",
+    "quote": "If true, and sars-cov-2 underwent multiple introductions into humans, then we could be all but certain that the zoonotic hypothesis is correct.",
+    "span": [
+      760,
+      903
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-9a1ae23c5f98be9d94ac0bc86c6abade",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.1",
+    "chunk_id": "chunk-8f4f137de25029ff3622ff6588aff8cf",
+    "node_text": "Disease transmission dynamics differ between animals and humans.",
+    "quote": "the only way that the number of introductions is relevant is if disease transmission has different dynamics in animals and humans.",
+    "span": [
+      196,
+      326
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-93f0afb08b2030557ca94c3f142f8d30",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.1",
+    "chunk_id": "chunk-8f4f137de25029ff3622ff6588aff8cf",
+    "node_text": "Animal‑to‑human transmission of SARS‑CoV‑2 is comparatively rare and the virus was circulating in a small reservoir of animals.",
+    "quote": "we must suppose that animal-to-human transmission is comparatively rare, and that covid was circulating in a small reservoir of animals",
+    "span": [
+      529,
+      664
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-a0df3d377da194e1e522b90aa5e61cc1",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.1",
+    "chunk_id": "chunk-8f4f137de25029ff3622ff6588aff8cf",
+    "node_text": "There were multiple introductions of SARS‑CoV‑2 into humans.",
+    "quote": "the possibility that there were multiple introductions of sars-cov-2 into humans",
+    "span": [
+      843,
+      923
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.975,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-464bb1c3e18c92d648cc3370078c0f60",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.1",
+    "chunk_id": "chunk-8f4f137de25029ff3622ff6588aff8cf",
+    "node_text": "Lineage B is more likely to be the ancestral lineage of SARS‑CoV‑2.",
+    "quote": "I would be inclined to believe Pekar et al that lineage B is more likely to be ancestral",
+    "span": [
+      991,
+      1079
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-efc03056577fdf6a0ecdeaf5cbbc6cf1",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.1",
+    "chunk_id": "chunk-8f4f137de25029ff3622ff6588aff8cf",
+    "node_text": "Lineage A is the ancestral lineage of SARS‑CoV‑2.",
+    "quote": "while other researchers identified lineage A as ancestral",
+    "span": [
+      1081,
+      1138
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-447c866c2a70c89d4ea9f339cbd15fab",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.1",
+    "chunk_id": "chunk-bc5ef4c7856e8be0923336836ad95c04",
+    "node_text": "The lab‑leak hypothesis involves an early case going to HSM and starting a cluster of COVID cases.",
+    "quote": "the most likely explanation for the lab leak hypothesis involves an early case going to HSM and starting a cluster of covid cases",
+    "span": [
+      0,
+      129
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-6c99cbe29c8068e4ade15f5dc15ffc50",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.2",
+    "chunk_id": "chunk-5143c8d00b36ccf36b9f0ec9ff9330f9",
+    "node_text": "Lineage A is ancestral to lineage B.",
+    "quote": "based on outgroup analysis, it appears that lineage A is ancestral to lineage B",
+    "span": [
+      662,
+      741
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-7bdcba0701e6bc70e9bcac11b2ecaacb",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.2",
+    "chunk_id": "chunk-5143c8d00b36ccf36b9f0ec9ff9330f9",
+    "node_text": "The lab leak theory posits that lineage A was leaked from the Wuhan Institute of Virology (WIV).",
+    "quote": "presumably it was lineage A that was leaked from WIV",
+    "span": [
+      746,
+      798
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-4e7ab1d98bbd4d82465d73fc9b7e1192",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.2",
+    "chunk_id": "chunk-5143c8d00b36ccf36b9f0ec9ff9330f9",
+    "node_text": "A descendant of lineage A mutated to become the root of lineage B, which includes the HSM primary case.",
+    "quote": "One of the lineage A descendants mutated to become the root of lineage B, which would include the HSM primary case",
+    "span": [
+      800,
+      914
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-589d16ed7dbcab7b57ac2104aaf47e0c",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.2",
+    "chunk_id": "chunk-5143c8d00b36ccf36b9f0ec9ff9330f9",
+    "node_text": "If the lab leak scenario is correct, the HSM outbreak and all cases descended from the HSM primary case would be entirely lineage B, while Wuhan as a whole would have a mix of lineages A and B.",
+    "quote": "Thus, the HSM outbreak, and all cases descended from the HSM primary case, would be entirely lineage B, whereas Wuhan as a whole would have a mix of the two lineages.",
+    "span": [
+      916,
+      1082
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-b8ed5127c38bee70c47e02b5ca3ee628",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.2",
+    "chunk_id": "chunk-b834d4891d62f74de8391e7a4df57c46",
+    "node_text": "The zoonotic theory posits that lineage B was ancestral to lineage A.",
+    "quote": "to suppose that lineage B was ancestral",
+    "span": [
+      35,
+      74
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-3ec322387ab1a0b4de74565af2722617",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.2",
+    "chunk_id": "chunk-b834d4891d62f74de8391e7a4df57c46",
+    "node_text": "According to the zoonotic explanation, there were fewer lineage A cases, and by chance none of the 11 HSM‑associated cases were lineage A.",
+    "quote": "so there were fewer lineage A cases, and by chance did not include any of the 11 associated with HSM",
+    "span": [
+      76,
+      176
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-444567a4e54a3a32a4097998f826e355",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.2",
+    "chunk_id": "chunk-b834d4891d62f74de8391e7a4df57c46",
+    "node_text": "If the primary COVID case were in HSM, then the genetic diversity of SARS‑CoV‑2 within HSM should be equal to the genetic diversity within all of Wuhan.",
+    "quote": "if the primary covid case were in HSM, then the genetic diversity of sars-cov-2 within HSM should be equal to the genetic diversity within all of Wuhan",
+    "span": [
+      537,
+      688
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-a5f27fc53fdeedb6c43e9bbecd82421c",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.2",
+    "chunk_id": "chunk-b834d4891d62f74de8391e7a4df57c46",
+    "node_text": "The genetic diversity within HSM is lower than that of Wuhan as a whole, indicating that HSM is not the origin of the pandemic.",
+    "quote": "the genetic diversity within HSM is lower than that of Wuhan as a whole, and therefore that HSM is not the origin of the pandemic",
+    "span": [
+      779,
+      908
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-d7fabe998d85938386a911b9a95163dc",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.2",
+    "chunk_id": "chunk-4d9375a1cf56edcd49ed90ab4cb440e7",
+    "node_text": "Both lineages A and B were located in or near the market.",
+    "quote": "both lineages A and B were located in or near the market",
+    "span": [
+      834,
+      890
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-3520ea1372e6a8a5c074b0fb0c7e5a49",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.2",
+    "chunk_id": "chunk-b834d4891d62f74de8391e7a4df57c46",
+    "node_text": "Lineage A was present in HSM early, as indicated by a lineage A environmental glove sample.",
+    "quote": "A glove in HSM (shop 7:15,17) was tested for covid, and was the one environmental sample to be sequenced with lineage A",
+    "span": [
+      1011,
+      1130
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-de34d5b19f94c0fd8dfb2b7cf3a18b2b",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.3",
+    "chunk_id": "chunk-1a8531477f4986b4081a87a7651c3584",
+    "node_text": "Rootclaim argues that the presence of two consecutive CGG codons in the FCS is evidence against a natural origin of the FCS.",
+    "quote": "Rootclaim argues that this is evidence against a natural origin to the FCS, as it has two consecutive CGG codons.",
+    "span": [
+      536,
+      649
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-684951bee9ac10467077024e7bed3c87",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.3",
+    "chunk_id": "chunk-1a8531477f4986b4081a87a7651c3584",
+    "node_text": "The author expects that the codon frequency in an inserted fragment will reflect the frequency of the source of the fragment rather than match the surrounding genome.",
+    "quote": "I would not expect a priori the codon frequency in an insert to match that of the surrounding genome, but rather to reflect the frequency of the source of the fragment;",
+    "span": [
+      659,
+      827
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-060531f3430e6077ff0bb3fb495e5074",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.3",
+    "chunk_id": "chunk-3c997c792aee23b95c0f2a5ef0572503",
+    "node_text": "The author hypothesizes that after a fragment from an outside source is inserted, it takes time for the mutational bias against C and G nucleotides to impact the novel fragment.",
+    "quote": "After a fragment from an outside source has been inserted, it takes time for this mutational bias to impact the novel fragment.",
+    "span": [
+      238,
+      365
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-91c4f3b0ee2cb7e84dd645cb11aaca76",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.3",
+    "chunk_id": "chunk-3c997c792aee23b95c0f2a5ef0572503",
+    "node_text": "The author suggests that if the fragment was inserted naturally, the source may not have had the same alignment or even been a coding region.",
+    "quote": "if the fragment was inserted naturally, we do not know if the source had the same alignment, or even was a coding region at all.",
+    "span": [
+      379,
+      507
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-0cefc3aab165c8d1826f4503f152722d",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.3",
+    "chunk_id": "chunk-3c997c792aee23b95c0f2a5ef0572503",
+    "node_text": "The author states that analyzing the frequency of non-aligned codons is required to properly assess the likelihood that the CGGCGG sequence arose from a natural source.",
+    "quote": "We would have to analyze the frequency of the non-aligned codons to properly assess the likelihood of the CGGCGG sequence from a natural source.",
+    "span": [
+      508,
+      652
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-14ddaa36cf7c26ac935cabf5042254b9",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.3",
+    "chunk_id": "chunk-3c997c792aee23b95c0f2a5ef0572503",
+    "node_text": "The author claims that the CGGCGG sequence is not particularly significant and can be explained by random chance.",
+    "quote": "I do not see any particular significance to the CGGCGG sequence. It is slightly odd, but one expects to observe many slightly odd things through random chance.",
+    "span": [
+      653,
+      812
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-8f7c5d3b22e80917cb3664f8909d69f9",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.3",
+    "chunk_id": "chunk-3c997c792aee23b95c0f2a5ef0572503",
+    "node_text": "The author proposes that the main reason CGG is rare in sars-like viruses is a mutational bias against the C and G nucleotides.",
+    "quote": "The main reason CGG is rare in sars-like viruses is that there is a mutational bias against the C and G nucleotides;",
+    "span": [
+      0,
+      116
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-7f0f2cd3e4b0bc87b9f60a7dd0dad34b",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-6197f750ce57000d30c32357e0590b6c",
+    "node_text": "SARSr‑CoV spike proteins with mismatches in proteolytic cleavage sites can be activated by exogenous trypsin or cathepsin L.",
+    "quote": "SARSr‑CoV S with mismatches in proteolytic cleavage sites can be activated by exogenous trypsin or cathepsin L.",
+    "span": [
+      821,
+      932
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.991,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-1ec9e477f31e09d3e126f4a1f78ef814",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-07afdefd72654f86be09b17c4ab96844",
+    "node_text": "Furin is human‑specific (uncertain).",
+    "quote": "It is unclear to me whether furin is human-specific.",
+    "span": [
+      910,
+      962
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-3ca96cea60be9b0361b9f6fe4aab864e",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "No genetic engineering would be performed at the Wuhan Institute of Virology.",
+    "quote": "no genetic engineering would be performed at WIV",
+    "span": [
+      771,
+      819
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-3d4ca3f8fc370eddffe895da5d6c5c65",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "No chimeric viruses would be brought to the Wuhan Institute of Virology, except prototype vaccines that use a raccoonpox chimera.",
+    "quote": "no chimeric viruses would be brought there, except prototype vaccines which use a raccoonpox chimera",
+    "span": [
+      828,
+      927
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.93,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-5b32266bf3dce1c9786a611c974596c8",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.2",
+    "chunk_id": "chunk-c6f9641301412c43b741a3faa41fcb9f",
+    "node_text": "The Wuhan Institute of Virology would be involved with samples collected from bats.",
+    "quote": "WIV was to be involved with samples collected from bats",
+    "span": [
+      928,
+      983
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-1307cb1903aaf726e28488e3cf92b0ac",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.3",
+    "chunk_id": "chunk-3f642681bf8e8f93ca3c82d95e95cd1c",
+    "node_text": "Replacing the spike protein of WIV1 with spike proteins from Yunnan bat viruses is hypothesized to affect the infectivity of the recombinant virus in human and monkey cells.",
+    "quote": "In one project, they edited WIV1 by replacing its spike protein with spike proteins found in viruses collected from bats in Yunnan [19]. Human and monkey cells were then exposed to the recombinant viruses to determine its infectivity.",
+    "span": [
+      337,
+      571
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-8f50467d31e9a7574fe464163b3840cf",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.3",
+    "chunk_id": "chunk-3f642681bf8e8f93ca3c82d95e95cd1c",
+    "node_text": "Removing a gene in WIV1 that is absent in sars-cov-1 is hypothesized to determine whether the virus would still work in human and monkey cells.",
+    "quote": "In another project, they removed a gene in WIV1 that is absent in sars-cov-1 to see if the virus would still work in human and monkey cells [37].",
+    "span": [
+      572,
+      717
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-476361b7ae13b55e784afcabb53f7352",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.3",
+    "chunk_id": "chunk-3f642681bf8e8f93ca3c82d95e95cd1c",
+    "node_text": "WIV1 is hypothesized to lack pandemic potential, making it presumably safer to work with than a pathogenic virus.",
+    "quote": "chosen for its lack of \"pandemic potential\", and thus presumably safer to work with than a pathogenic virus.",
+    "span": [
+      228,
+      336
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-163684abc94ed82d0320e094fd571ce0",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "Project DEFUSE shows that the virology research community was broadly interested in making chimeric viruses with features that could pose lab‑leak risk if mishandled, and does not indicate that the Wuhan Institute of Virology specifically planned a research path that would create SARS‑CoV‑2.",
+    "quote": "Project DEFUSE is most relevant in that it shows that the community of virologists was broadly interested in making chimeric viruses with certain features which have the potential for lab leak risk if handled improperly, and not that WIV in specific planned to do a particular research path that would lead to creating sars-cov-2.",
+    "span": [
+      1028,
+      1358
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-2ceeec7cfe931ba197bb7ff68cce25df",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.5",
+    "chunk_id": "chunk-daf303c08ff47cafabdf47d20048994e",
+    "node_text": "Pangolins served as an intermediate host, allowing SARS‑CoV‑2 to adapt to pangolin ACE2 and thereby partially to human ACE2.",
+    "quote": "if pangolins were an intermediate host, then sars-cov-2 could have adapted to pangolin ACE2 and thus partially to human ACE2",
+    "span": [
+      432,
+      556
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-5305eedf6d0cc6ced178c428b43b68ab",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.5",
+    "chunk_id": "chunk-daf303c08ff47cafabdf47d20048994e",
+    "node_text": "Lab workers screened many different wild viruses to identify those that bind well to human ACE2.",
+    "quote": "lab workers screening many different wild viruses to identify those that bind well to human ACE2",
+    "span": [
+      630,
+      726
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-f3873ccbf4f12985150f7e0902a70ad1",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.5",
+    "chunk_id": "chunk-daf303c08ff47cafabdf47d20048994e",
+    "node_text": "Researchers possibly then passaged the virus through mouse hosts that have been genetically modified to have human ACE2 receptors.",
+    "quote": "possible then passaging the virus through mouse hosts that have been genetically modified to have human ACE2 receptors",
+    "span": [
+      732,
+      850
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-b4b9dd7e40f2b68ef19fd74e2422d8a1",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.5",
+    "chunk_id": "chunk-daf303c08ff47cafabdf47d20048994e",
+    "node_text": "The screening process used simulations that differ from those employed by Piplani et al.",
+    "quote": "this screening process may use different simulations than Piplani et al used",
+    "span": [
+      1234,
+      1310
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-66b4492d02d7b97eb04f636b99674495",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.5",
+    "chunk_id": "chunk-fac8b96cf62f40652132ec533ca4d61d",
+    "node_text": "Human ACE2, either in reality or in the simulation of Piplani et al, is particularly good at binding to spike proteins.",
+    "quote": "maybe human ACE2, either in reality or in the simulation of Piplani et al, is just particularly good at binding to spike proteins?",
+    "span": [
+      28,
+      158
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-535b506c2b51d3a60158472f900e9595",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.6",
+    "chunk_id": "chunk-8894c82d459d34bef45ef0cfb4340d97",
+    "node_text": "The author suggests that a laboratory worker might insert a sequence like RRA because the RRAR subsequence constitutes a furin cleavage site.",
+    "quote": "a laboratory worker might insert a sequence like RRA",
+    "span": [
+      249,
+      301
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-39dcde4982e1a1ed1be958e203189f80",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.6",
+    "chunk_id": "chunk-8894c82d459d34bef45ef0cfb4340d97",
+    "node_text": "The author considers it unlikely that the natural precursor virus naturally had an inserted proline at the exact location where researchers add an additional insert.",
+    "quote": "it seems quite unlikely that the natural precursor virus happened to have such an inserted proline at the exact location that researchers add an additional insert",
+    "span": [
+      444,
+      606
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-ea1c752d707709372d5337201876786d",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.6",
+    "chunk_id": "chunk-8894c82d459d34bef45ef0cfb4340d97",
+    "node_text": "The author states that the proline does not require a specific explanation under the lab leak theory.",
+    "quote": "I do not think the proline requires a specific explanation under the lab leak theory",
+    "span": [
+      876,
+      960
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-5ebeaad61b2957eaca5ce216b7f3ab41",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.6",
+    "chunk_id": "chunk-8894c82d459d34bef45ef0cfb4340d97",
+    "node_text": "The author asserts that genetic engineering experiments involve many arbitrary choices, so it is hardly strange if some choices are not the most canonical or optimal.",
+    "quote": "There are many arbitrary choices during the course of a genetic engineering experiment, and it is hardly strange if a few of them are not the most canonical or optimal.",
+    "span": [
+      707,
+      875
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-0e99ceef19380d310cf7647daa33f04b",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.7",
+    "chunk_id": "chunk-714044bdc6c1463673e6fb9ec5c9053c",
+    "node_text": "The 12-nucleotide insertion at the furin cleavage site in SARS‑CoV‑2 could have arisen by chance.",
+    "quote": "There is no particular reason that this mutation could not have evolved by chance.",
+    "span": [
+      257,
+      339
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-48950333fb105a85b71315bb642dd9f5",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.7",
+    "chunk_id": "chunk-714044bdc6c1463673e6fb9ec5c9053c",
+    "node_text": "The S1/S2 boundary region of SARS‑CoV‑2 is under high evolutionary pressure, especially when the virus crosses species into mammal hosts that could utilize the furin cleavage site.",
+    "quote": "we do expect the S1/S2 boundary region to be under high evolutionary pressure, especially as the virus crosses species into mammal hosts that could make use of the FCS.",
+    "span": [
+      474,
+      642
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-fe9f7f9a513e8eb14e1ab7659b59edb6",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.7",
+    "chunk_id": "chunk-714044bdc6c1463673e6fb9ec5c9053c",
+    "node_text": "SARS‑CoV‑2 and the bat virus banal‑20‑52 have been separated by decades of evolutionary time and likely experienced multiple recombination events with other viruses.",
+    "quote": "likely multiple recombination events with other viruses.",
+    "span": [
+      853,
+      909
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-6445776c210c6f913716c40f90d4bb85",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.7",
+    "chunk_id": "chunk-714044bdc6c1463673e6fb9ec5c9053c",
+    "node_text": "The bat virus banal‑20‑52 is not sufficiently close to SARS‑CoV‑2 to allow the type of comparison that Rootclaim seeks to perform.",
+    "quote": "it is not close enough to make the kind of comparison that Rootclaim seeks to do with sars-cov-2.",
+    "span": [
+      689,
+      786
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-b41188dd2873df02a4ef659da40e8d44",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "6",
+    "chunk_id": "chunk-69f4073431f3ab76120530b2fbca077e",
+    "node_text": "Zero people know the artificial origin of SARS-CoV-2.",
+    "quote": "Possibly zero people know.",
+    "span": [
+      750,
+      776
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-b39d19410e13e9a95ff8950f08b6992d",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "6",
+    "chunk_id": "chunk-69f4073431f3ab76120530b2fbca077e",
+    "node_text": "Researchers could have inserted an FCS into a virus, created SARS-CoV-2, gotten sick and released it from the lab without ever realizing that the virus in the lab was the same as the one in the wild.",
+    "quote": "Researchers could have inserted an FCS into a virus, created sars-cov-2, gotten sick and released it from the lab without ever realizing - even in retrospect - that the virus in the lab was the same as the one in the wild.",
+    "span": [
+      777,
+      999
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-c1ad77a4a4a60379e7047f77678d698c",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "6",
+    "chunk_id": "chunk-69f4073431f3ab76120530b2fbca077e",
+    "node_text": "Researchers at the Wuhan Institute of Virology had already examined a preliminary sequence for SARS-CoV-2 by 2019 December 27 and would have thought at some point to compare that sequence to viruses in their lab.",
+    "quote": "Researchers at the WIV had already examined a preliminary sequence for sars-cov-2 by 2019 December 27, 63 wouldn't they have thought at some point to look at that sequence and see if it is like one of the viruses in their lab?",
+    "span": [
+      1054,
+      1280
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-ecc6e9b1c1d15dda570a3363ac126b10",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "6",
+    "chunk_id": "chunk-69f4073431f3ab76120530b2fbca077e",
+    "node_text": "One person knows the artificial origin of SARS-CoV-2.",
+    "quote": "Possibly one person knows.",
+    "span": [
+      1281,
+      1307
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-b87a59b5f2ca24444806f698a440a177",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7",
+    "chunk_id": "chunk-c300642270d05f1b62f98c141f39fba6",
+    "node_text": "COVID emerged from a zoonotic spillover in the Huanan Seafood Market (HSM)",
+    "quote": "LetZ be the hypothesis that covid emerged from a zoonotic spillover in HSM",
+    "span": [
+      327,
+      401
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-4195d4d1a3e3ffd3c635dcc8a9245c23",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7",
+    "chunk_id": "chunk-c300642270d05f1b62f98c141f39fba6",
+    "node_text": "COVID resulted from gain-of-function research at the Wuhan Institute of Virology (WIV)",
+    "quote": "LL that covid resulted from gain-of-function research in WIV",
+    "span": [
+      407,
+      467
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-e94de5af326f48f0cdd9cc9009fc8789",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.1",
+    "chunk_id": "chunk-5ce20429331d68cc6124e97de841f1ef",
+    "node_text": "Spillovers from animals to humans are rare and, when they occur, they sample a random virus from the continuum of animal viruses.",
+    "quote": "Spillovers from animals to humans are rare, and when they happen they effectively sample a random virus from that continuum of viruses that exist in animals.",
+    "span": [
+      635,
+      792
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-c4c81c119c5163235c0717814b9f0974",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.1",
+    "chunk_id": "chunk-eb66d8f46539dadc2223da3edda7903e",
+    "node_text": "Potential spillover events are quite common.",
+    "quote": "Potential spillover events are quite common, 64 and the primary limitation on pandemics is not whether the animal-to-human transmission occurs but rather whether a virus with the necessary properties evolves in an animal population humans are exposed to.",
+    "span": [
+      27,
+      281
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9961,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-77a4a304001971c9300ea5106cbbfc5b",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.1",
+    "chunk_id": "chunk-eb66d8f46539dadc2223da3edda7903e",
+    "node_text": "The primary limitation on pandemics is whether a virus with the necessary properties evolves in an animal population humans are exposed to, rather than whether animal-to-human transmission occurs.",
+    "quote": "the primary limitation on pandemics is not whether the animal-to-human transmission occurs but rather whether a virus with the necessary properties evolves in an animal population humans are exposed to.",
+    "span": [
+      79,
+      281
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-a132f2baad5d95706fbf8e9613f68059",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.1",
+    "chunk_id": "chunk-eb66d8f46539dadc2223da3edda7903e",
+    "node_text": "The multiple spillovers of SARS-1 and MERS are not independent events because the limiting factor is evolution of a suitable virus, not the spillover itself, so they should each be counted only once.",
+    "quote": "The multiple spillovers of SARS-1 and MERS are not independent events; since the limiting factor seems to be the evolution of a suitable virus, not its spillover, these should only count once each.",
+    "span": [
+      582,
+      779
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-9ae74ffd6f3f443d71de29ea9df9930f",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.1",
+    "chunk_id": "chunk-3eba16b6aafc47ab35b1324e7911a50a",
+    "node_text": "The risk of pandemics has grown greatly on the timescale of decades due to changes in land use, agricultural intensity, and population.",
+    "quote": "I believe the risk of pandemics has grown greatly on the timescale of decades, due to changes of land use, agricultural intensity, and population; consider the increasing size and frequency of Ebola outbreaks in the last 10 to 30 years.",
+    "span": [
+      192,
+      428
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-56dfa0d0e0e19a8cb924d2c51044f2e5",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.1",
+    "chunk_id": "chunk-3eba16b6aafc47ab35b1324e7911a50a",
+    "node_text": "A less terrible virus would not have led to a pandemic.",
+    "quote": "Perhaps a less terrible virus would not have lead to a pandemic.",
+    "span": [
+      986,
+      1050
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-9ee741d7a57356a771fb719b50a6d65a",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.1",
+    "chunk_id": "chunk-7ccd7514b86112b6365c5db4bcdbcb57",
+    "node_text": "If a new sars-like virus emerges, it is expected to appear somewhere in East Asia, not necessarily at the Huanan Seafood Market.",
+    "quote": "If a new sars-like virus emerges, one expects probably to see it somewhere in east Asia, not necessarily HSM in specific.",
+    "span": [
+      298,
+      419
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-090820249724c9693fcc18cb6ebf2f4f",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.1",
+    "chunk_id": "chunk-80b5c20b44fd3dea9e66a09052bc80a3",
+    "node_text": "Pandemics can emerge in locations other than wildlife markets.",
+    "quote": "Conversely, pandemics can emerge in locations other than wildlife markets.",
+    "span": [
+      485,
+      559
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-d23ce6d23c538de0aeafa21ff69b8729",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.1",
+    "chunk_id": "chunk-eae399b91313aef00d01af368d0b902e",
+    "node_text": "Flu evolution dynamics are fundamentally different from coronavirus evolution, making flu pandemics not useful for assessing the zoonotic prior.",
+    "quote": "Because the dynamics of flu evolution is fundamentally different than that of coronaviruses, I do not find flu pandemics/epidemics/outbreaks useful for assessing the prior P (Z).",
+    "span": [
+      270,
+      448
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-ee1845c922f6c72c0ce5e3c1c1e18acb",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.1",
+    "chunk_id": "chunk-6f43a5cbb96092c2da2048fe360661b8",
+    "node_text": "The expected rate of emergence of novel human coronaviruses is approximately 1 per 14 years (or 1.5 per 21 years).",
+    "quote": "this would give a rate of 1.5 per 21 years or 1 per 14 years.",
+    "span": [
+      121,
+      182
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-c83f13af367be141bf68d28465934d1c",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.1",
+    "chunk_id": "chunk-3eba16b6aafc47ab35b1324e7911a50a",
+    "node_text": "Assuming attention limited to the last 40 years, the overall rate of novel coronavirus emergence is about 1 per 20 years.",
+    "quote": "we get an overall rate of 1 per 20 years.",
+    "span": [
+      573,
+      614
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-4c09e779cfe1d246ea45be791bffd55e",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.1",
+    "chunk_id": "chunk-7ccd7514b86112b6365c5db4bcdbcb57",
+    "node_text": "Peter estimates the probability that a spillover in East Asia occurs at the Huanan Seafood Market as 1/50.",
+    "quote": "Conditioned on the emergence being a wildlife market in east Asia, Peter gives the probability of HSM as 1 /50 [8];",
+    "span": [
+      420,
+      535
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-b0b1fc466d7c36231d078e804912028f",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.1",
+    "chunk_id": "chunk-7ccd7514b86112b6365c5db4bcdbcb57",
+    "node_text": "Saar estimates the probability that a spillover in East Asia occurs at the Huanan Seafood Market as 1/500.",
+    "quote": "Saar gives it as 1 /500 [7].",
+    "span": [
+      536,
+      564
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-76dd4e4d936571bea3a9b76b7be86a78",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.1",
+    "chunk_id": "chunk-80b5c20b44fd3dea9e66a09052bc80a3",
+    "node_text": "Holmes and the Wuhan CDC consider the Huanan Seafood Market a possible location for a future pandemic spillover.",
+    "quote": "Holmes and the Wuhan CDC specifically called out HSM as a possible location for a future pandemic spillover [26, 39].",
+    "span": [
+      364,
+      481
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-05ff50fa0d61ff36c4e02e8cfef24191",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "WIV conducts gain‑of‑function research similar to Project DEFUSE.",
+    "quote": "WIV conducts GoF research a la \"DEFUSE\" 1/50",
+    "span": [
+      535,
+      579
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-5c077512a64738b099cce9024c3de734",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "WIV uses a suitable starting virus for the gain‑of‑function research.",
+    "quote": "WIV uses suitable starting virus 1/2",
+    "span": [
+      599,
+      635
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-3dd98b0eb69899e29abe2ef78e257c2b",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "WIV research is successful.",
+    "quote": "WIV research is successful 1/2",
+    "span": [
+      636,
+      666
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-04e483fd0dac9e8f2b82e55ddbba3fb1",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "A lab leak of that virus occurs at WIV.",
+    "quote": "lab leak of that virus occurs at WIV 1/50",
+    "span": [
+      667,
+      708
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-80096b05690ef0f84976d6cd83d34b38",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.2",
+    "chunk_id": "chunk-0750a6341e30806e362f3e6f8ebe71cc",
+    "node_text": "For a lab leak to occur, WIV had to undertake the contents of Project DEFUSE alone without collaborators.",
+    "quote": "For LL to occur, WIV had to undertake the contents of Project DEFUSE alone without collaborators (presumably their former collaborators would know of a falling out between them?)",
+    "span": [
+      872,
+      1050
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-88a1d5506ff9742b87397556b7a5029f",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.2",
+    "chunk_id": "chunk-0750a6341e30806e362f3e6f8ebe71cc",
+    "node_text": "For a lab leak to occur, WIV had to abandon the idea of using wild viruses closely related to SARS‑CoV‑1 and instead use wild backbones.",
+    "quote": "abandon the idea of using wild viruses closely related to sars-cov-1, use wild back‑bones instead of safe backbones",
+    "span": [
+      1053,
+      1168
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9826,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-6958237875c256d110d8840801bf16a1",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.2",
+    "chunk_id": "chunk-0750a6341e30806e362f3e6f8ebe71cc",
+    "node_text": "For a lab leak to occur, WIV had to rush the project in half the proposed time.",
+    "quote": "rush the project in half the proposed time",
+    "span": [
+      1174,
+      1216
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-779aa1f3b6d85491948c2de79d2d1601",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.2",
+    "chunk_id": "chunk-7e899e697fa27babd25f8f30bbb36acd",
+    "node_text": "Under the lab‑leak hypothesis, WIV must find and choose a sufficiently dangerous virus to start with, which requires such a virus to exist.",
+    "quote": "Under LL, WIV must find and choose a sufficiently dangerous virus to start with, which at minimum requires such a virus to exist.",
+    "span": [
+      622,
+      751
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-d7b661a49581da007fa49bf2a41c2b14",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.2",
+    "chunk_id": "chunk-7e899e697fa27babd25f8f30bbb36acd",
+    "node_text": "The probability of all of the required conditions for a lab leak is at most 1/50.",
+    "quote": "I find the probability of all of this to be at most 1/50.",
+    "span": [
+      287,
+      344
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-b26dfe05e8453e93a54c660bc3b390b3",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.2",
+    "chunk_id": "chunk-7e899e697fa27babd25f8f30bbb36acd",
+    "node_text": "Assuming a Poisson distribution of lab leaks, the annualized probability of the first lab leak occurring after 1.7 years is at most 1 per 1.7 years.",
+    "quote": "Assuming a Poisson distribution of lab leaks with unknown parameter, after 1.7 years the annualized probability of the first lab leak occurring is at most 1 per 1.7 years.",
+    "span": [
+      450,
+      621
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-f1301067297e26a8509ce37dbd2e4543",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.2",
+    "chunk_id": "chunk-748a6e21bad12b6fd9443792016b4133",
+    "node_text": "The Bayes factor P(LL)/P(Z) = 2 calculated by the author is grossly too high.",
+    "quote": "My intuition is that the Bayes factor P (LL)/P (Z) = 2 I calculated is grossly too high.",
+    "span": [
+      278,
+      366
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-e9229bc4b05166d9a2282a0eb51ebad7",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.2",
+    "chunk_id": "chunk-ed5004e7a35f9094e790d9729204a2f5",
+    "node_text": "The chance of a lab leak is lower than the chance that a leak is followed by an outbreak in the lab.",
+    "quote": "The chance of a lab leak is surely lower than the chance that leak is followed by an outbreak in the lab",
+    "span": [
+      664,
+      767
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9904,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-57af90d9520cd9baec60156689c561c0",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "Z predicts that the index case is a resident in the west half of HSM",
+    "quote": "For Z this is simply the west half of HSM",
+    "span": [
+      409,
+      450
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-72581324ed8cf53b98adfe84553849e5",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "LL predicts that the index case could be anywhere in Wuhan",
+    "quote": "for LL this is all of Wuhan",
+    "span": [
+      456,
+      483
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-09b2bd70820e94ed54184c98198cb953",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "The author thinks a market vendor is more likely to catch an illness than the average resident of Wuhan",
+    "quote": "I do think a market vendor is more likely to catch an illness than the average resident of Wuhan",
+    "span": [
+      564,
+      660
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-027aecae9255bcd15685cc6333dc9fe5",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.4",
+    "chunk_id": "chunk-623a9078cb497bb81d8d7db9006df36a",
+    "node_text": "The distribution of positive SARS‑CoV‑2 samples in the HSM points to shop 6:29 as the pandemic spillover location.",
+    "quote": "the distribution of positive sars-cov-2 samples within HSM appears to generally point to the region where live animals were kept, or more specifically point to shop 6:29 which had been identified as a potential pandemic spillover location.",
+    "span": [
+      31,
+      270
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-26d20ab963d86e6858397bf5add24746",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.4",
+    "chunk_id": "chunk-623a9078cb497bb81d8d7db9006df36a",
+    "node_text": "The observation yields a Bayes factor of 15 in favor of the zoonosis hypothesis (Z) because the lab‑leak hypothesis (LL) has no viable explanation for the coincidence.",
+    "quote": "Arguably, this observation has a Bayes factor of 15 in favor of Z, as LL has no viable explanation for this coincidence.",
+    "span": [
+      406,
+      526
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-26586b705e6783cdd962ce099abafd81",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.4",
+    "chunk_id": "chunk-623a9078cb497bb81d8d7db9006df36a",
+    "node_text": "More careful statistical analysis places shop 6:29 at the geographical center of the sample positivity ratio and implicates alley 6 via positive drainage samples.",
+    "quote": "more careful statistical analysis places 6:29 at the geographical center of the sample positivity ratio, and the positive drainage samples likewise implicate alley 6.",
+    "span": [
+      578,
+      744
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-694b7ca57036ad8a33b7ae47529aedbd",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.6",
+    "chunk_id": "chunk-ce047fa58a6a9a1b1473c58519593f7e",
+    "node_text": "The lab leak hypothesis posits that the Project DEFUSE proposal is the central explanation for the origin of SARS‑CoV‑2.",
+    "quote": "The centerpiece of the lab leak explanation is the Project DEFUSE proposal, and the observation that a number of features from that proposal match features of sars-cov-2:",
+    "span": [
+      0,
+      170
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-633f349f95ae9060a416390ca55d7874",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.6",
+    "chunk_id": "chunk-ce047fa58a6a9a1b1473c58519593f7e",
+    "node_text": "The zoonotic hypothesis posits that the lack of a known intermediate host for SARS‑CoV‑2 is an essential step in the zoonotic theory.",
+    "quote": "the lack of a known intermediate host for sars-cov-2 could be analogously considered an essential \"step\" to the zoonotic theory",
+    "span": [
+      442,
+      569
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-21ffc67c0d8dbd43d961806d433a4907",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.6",
+    "chunk_id": "chunk-dc0bde058d55cd8e718d2fd5a6a72cca",
+    "node_text": "The zoonotic spillover hypothesis is strongly supported by the physical evidence that COVID‑19 began near live animals susceptible to SARS‑like coronaviruses and by the precedent of previous coronavirus epidemics starting in a similar manner.",
+    "quote": "While the lab leak hypothesis has only loose circumstantial evidence in its favor, the physical evidence of the covid pandemic starting in the immediate vicinity of live animals susceptible to sars-like coronaviruses and the precedent of previous coronavirus epidemics starting in an analogous manner together point strongly in favor of the hypothesis of zoonotic spillover.",
+    "span": [
+      712,
+      1086
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-ebbf3f8384ed9cb24a3f20d6869f799e",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.6",
+    "chunk_id": "chunk-dc0bde058d55cd8e718d2fd5a6a72cca",
+    "node_text": "Project DEFUSE is presented as the only significant evidence that suggests the possibility of a gain‑of‑function lab leak.",
+    "quote": "Project DEFUSE is the only signif- icant evidence suggesting the possibility of a GoF lab leak.",
+    "span": [
+      339,
+      434
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-b96b3f5c47f1db9b453a59dbb561a6c8",
+    "node_type": "hypothesis",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.6",
+    "chunk_id": "chunk-dc0bde058d55cd8e718d2fd5a6a72cca",
+    "node_text": "The zoonotic hypothesis explains the identified details of SARS‑CoV‑2 as being known to be relevant to pandemics.",
+    "quote": "the zoonotic hypothesis has a neat explanation: these details were identified because they were known to be relevant to pandemics.",
+    "span": [
+      1097,
+      1227
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  }
+]

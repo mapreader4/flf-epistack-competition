@@ -1,0 +1,338 @@
+[
+  {
+    "node_id": "analysis-33734afec8dde66f81db9681648bec33",
+    "node_type": "analysis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-9da825dcad23048253d616ec1a926688",
+    "node_text": "The lack of evidence of circulating virus prior to the Huanan Seafood Market superspreading event implies that early infections at the market were contained or close to the index case.",
+    "quote": "Lack of evidence of circulating virus prior to HSM superspreading event, implying early HSM infections contained (or were close) to the index case",
+    "span": [
+      979,
+      1317
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "analysis-ad8a183c4ea9703c0461d8a1c175d2d0",
+    "node_type": "analysis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-d560015bff0054da6fc21dedcbe207e1",
+    "node_text": "The scenario that a lab worker contracted the virus due to insufficient laboratory protocol is plausible because there were at least three prior SARS‑1 lab escapes caused by improper biosafety procedures.",
+    "quote": "This is a plausible scenario, as there  were  at least  3 cases ofSARS1     escape   from  labs  due  to improper   biosafety  procedures.",
+    "span": [
+      203,
+      345
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "analysis-c3f069ae44f9eb4a7a9812c92c125ff1",
+    "node_type": "analysis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-8e33c7d68112de5ab55cb88c1dee614a",
+    "node_text": "Considering an environmental release of SARS‑CoV‑2 as the initial laboratory leak is a reasonable probability given the other parts of the scenario are true, and it resolves several questions that weakened the lab‑leak side in the debate.",
+    "quote": "I believe  thisis both  a reasonable   probability (given all the other  parts of the scenario   are true) and   itresolves  some   of the questions   that ended   up hurting the  LL side  inthis debate.",
+    "span": [
+      992,
+      1195
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "analysis-249524625b9c78ea59a458b2ad72450e",
+    "node_type": "analysis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-01b9c30d95ea33957ab7e1a3ee2f7f51",
+    "node_text": "Based on sequence divergence rates in betacoronaviruses, the ancestor of SARS‑CoV‑2 must have diverged from a RaTG13‑like ancestor 40–70 years ago.",
+    "quote": "Based   on sequence    divergence    rates inbetacoronaviruses,     the ancestor   to SARS-CoV-2      must  have  diverged   from  an  RATG13-like    ancestor 40-70  years  ago",
+    "span": [
+      207,
+      383
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "analysis-9271e5a796061fe533f9ff011196099d",
+    "node_type": "analysis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-01b9c30d95ea33957ab7e1a3ee2f7f51",
+    "node_text": "It is possible that the pangenome of a population of bat viruses evolved toward SARS‑CoV‑2, similar to the evolutionary process thought to have produced SARS‑1.",
+    "quote": "While  there may   have  been   a specific single  ancestor   to SARS-CoV-2,     itis also possible   that the pangenome     of a population   of viruses  (e.g. those  found  in a single cave)  evolved   towards   SARS-CoV-2. This is thought  to be  the case  with  SARS1.",
+    "span": [
+      625,
+      897
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "analysis-dc8dcd0572d0253c7b149fbb145dc1d4",
+    "node_type": "analysis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-51a8645e337258a8cdd3ceda575affc7",
+    "node_text": "Shortly after spillover from bats, farmed animals maintained a reservoir of fully constituted SARS‑CoV‑2.",
+    "quote": "Thus,  shortly after spillover from  the  bats, the farmed   animals   are maintaining   a reservoir  of the fully constituted  SARS-CoV-2.",
+    "span": [
+      857,
+      996
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "analysis-b8724a44fb6f35cedc05bc5d46144e67",
+    "node_type": "analysis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-ae37122a7e8b1e3a25a457c42cb7b466",
+    "node_text": "Because SARS‑CoV‑2 transmission requires fairly high population density, early rural infections of animal handlers and farmers likely led to abortive transmission chains.",
+    "quote": "Because   SARS-CoV-2 transmission   patterns  require  fairlyhigh  population  density,  these  early (likely rural)infections  of handlers and  farmers  lead  to abortive  transmission   chains.",
+    "span": [
+      170,
+      365
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "analysis-d07bddf2c2ceadd6d343898fe189ce2b",
+    "node_type": "analysis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-9fa6c2ade980e62f149900aadc340878",
+    "node_text": "Wuhan was a reasonably unlikely place for a single SARS‑CoV‑2 zoonotic emergence, but conditioned on emergence occurring in Wuhan, the Huanan Seafood Market is by far the most likely place for an outbreak.",
+    "quote": "Insummary,    I think Wuhan    was  a reasonably   unlikely  place  fora single  SARS-CoV-2      zoonotic emergence.    But, conditioned   on occurring  in Wuhan,   I think the HSM   is by far the most   likelyplace  for an outbreak.",
+    "span": [
+      0,
+      231
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "analysis-bbb185a862381fdd22a4dfad94c2d136",
+    "node_type": "analysis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-9fa6c2ade980e62f149900aadc340878",
+    "node_text": "The author was not convinced by the lab‑leak side’s arguments that the Huanan Seafood Market was unique in its physical properties, and therefore under the lab‑leak hypothesis the market was not a likely place for emergence.",
+    "quote": "Iwas   not convinced   by  the LL  arguments   that HSM    was  unique   inits physical  properties  (e.g. Mahjong   halls, ventilation, fomite  survival, etc.).I think under  the LL  hypothesis,   HSM   was  not  a likely place for emergence.",
+    "span": [
+      232,
+      475
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "analysis-aaa342739fde5e2df51e7d932dfa5d10",
+    "node_type": "analysis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-1123d84c32b735cde5abd9ef3cf59f73",
+    "node_text": "The lack of seropositive results in influenza‑like‑illness throat swabs and routine blood draws provides stronger evidence against early community circulation of SARS‑CoV‑2 than self‑reported positive test claims.",
+    "quote": "I think on balance, the fact that ILI samples and blood draws found no seropositivity ismuch   stronger   than  self-reported claims  of SARS-CoV-2      positive  test results.",
+    "span": [
+      352,
+      538
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9939,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "analysis-eb1bb64fc1f46dd13cf841636f122375",
+    "node_type": "analysis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-e760291b8eece2f092b4dc8ecf584875",
+    "node_text": "The observed lack of multiple spillovers or prior infections supports the lab‑leak hypothesis because multiple spillovers would be more likely under a zoonotic scenario, as seen with SARS‑1.",
+    "quote": "Ithink the  observed   lack  of multiple  spillovers or prior infections  supports   the  lab leak  hypothesis.",
+    "span": [
+      126,
+      237
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "analysis-ee021a4ec2693627e57d74d6feb7518b",
+    "node_type": "analysis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-e760291b8eece2f092b4dc8ecf584875",
+    "node_text": "SARS‑CoV‑2 does not exhibit a slow, smoldering infection pattern like SARS‑1; it must spread quickly or die out, meaning a fully functional virus would need to quickly infect humans or retain human infectivity in a reservoir or intermediate species.",
+    "quote": "SARS-CoV-2 doesn't  have   a slow/smoldering     infection pattern  like that seen   inSARS-CoV      (e.g  Yuri, debate   2, slide 55). It needs  to spread   fast or itdies  out. This  means    that wherever   fully functional  SARS-CoV-2      was   constituted  (e.g. by  recombining/evolving     the  functional  FCS),   it needed    to quickly get  into humans    or itneeded    to retain human    infectivityin a reservoir/intermediate    species.",
+    "span": [
+      439,
+      930
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "analysis-5e889618b2a83405f04ad71faef8789b",
+    "node_type": "analysis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-37b1bf557919a61d40c09e3f809e0397",
+    "node_text": "Under the logic that a virus must quickly reach humans, the first human outbreak location is more likely to be near the physical origin of the infectious virus.",
+    "quote": "Under this logic, itseems   far likelierthat  the firsthuman    outbreak   location  would  be  near  the physical  origin  ofthe  infectious  virus.",
+    "span": [
+      614,
+      774
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "analysis-b72854fa5171cfd890891efe079eed58",
+    "node_type": "analysis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-5af5928ee824988d0cc53e3abbc0a0b5",
+    "node_text": "Both sides agree that the probability of a zoonotic pandemic emergence in Wuhan, conditioned on a coronavirus being present in China, is approximately 1 %.",
+    "quote": "Both  sides  agree that the probability  of zoonotic   emergence     of a pandemic    in Wuhan    (conditioned   on itbeing   a coronavirus   in China)   is~1%.",
+    "span": [
+      646,
+      808
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "analysis-347dd7da900f3f92e7f7d792c12813b3",
+    "node_type": "analysis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-04a06c938fc3b595613f31194be34054",
+    "node_text": "The author calculates the initial odds ratio of a lab leak versus a zoonotic origin as the product of the probability that WIV made SARS‑CoV‑2 by 2019 and the probability that WIV leaked SARS‑CoV‑2 in 2019 divided by the product of the probability that natural processes made SARS‑CoV‑2 by 2019 and the probability that zoonotic processes leaked SARS‑CoV‑2 in 2019.",
+    "quote": "To get my  starting  odds  ratio Icompared:\nP0(LL)  /P0(ZO)    = [P(WIV   made   SARS-CoV-2      by 2019)   *P(WIV    leaked  SARS-CoV-2      in2019)]  /\n[P(Natural  processes   made    SARS-CoV-2     by  2019)  * P(Zoonotic   processes    leaked   SARS-CoV-2      in  2019)]",
+    "span": [
+      276,
+      549
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "analysis-4ad31f898196fc064cf4c532e7813d45",
+    "node_type": "analysis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": null,
+    "node_text": "The author chose this calculation because he could not determine how to incorporate evidence about WIV’s ability to create or leak SARS‑CoV‑2 into a Bayesian update that uses likelihood ratios conditioned on each hypothesis.",
+    "quote": "The reason I decided on this calculation was because I couldn't figure out how to incorporate arguments about whether WIV could have made, or would have leaked, SARS-CoV-2 in my Bayesian update process. Specifically, updates took the form of P(new evidence |LL) /P(new evidence | ZO).",
+    "span": null,
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9965,
+    "chunk_match": "split_across_chunks",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "analysis-95feb7233e10b1bc94372af7ded84131",
+    "node_type": "analysis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-bdfa8f18cfaa35a953c5b0b29b3325a8",
+    "node_text": "The lab‑leak side argues that the historical frequency of many previous lab leaks, including four SARS‑1 leaks, implies that the base rate of pathogen leakage from labs is much higher than commonly believed.",
+    "quote": "There have been many previous lab leaks across the world, including four leaks of SARS1. The conclusion was that the base rate of leakage of pathogens from lab is much higher than popularly believed.",
+    "span": [
+      595,
+      839
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "analysis-425fa68c4d020c241e8a37d70405b53e",
+    "node_type": "analysis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": null,
+    "node_text": "The lab‑leak side argues that WIV’s poor biosafety practices, such as conducting work in BSL‑2 or BSL‑3 facilities that many researchers consider insufficient, substantially increase the likelihood of a viral release.",
+    "quote": "WIV practices forworking with infectious viruses were particularly bad and substantially increased the likelihood of release. The LL side focused on statements by the Zhi (check spelling) lab that the DEFUSE work (as well as other coronavirus work) were done in BSL-2 or BSL-3. Most researchers, including some of the DEFUSE authors, believed that BSL-2 was woefully insufficient forthe work they proposed.",
+    "span": null,
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "split_across_chunks",
+    "is_appendix": false,
+    "is_excluded": false
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "section_number": "1.2",
+    "node_type": "hypothesis",
+    "node_text": "The genetic code is not random; mutations tend to be synonymous and nonsynonymous mutations tend to yield amino acids with similar chemical properties more often than would be expected from a randomly designed genetic code.",
+    "quote": "The genetic code is not random: mutations tend to be synonymous, and nonsynonymous mutations tend to yield amino acids with similar chemical properties, or at least more often than one would expect from a randomly designed genetic code."
+  },
+  {
+    "section_number": "4.2",
+    "node_type": "hypothesis",
+    "node_text": "Narrowing Z to zoonotic spillover at HSM, or even to a specific shop, is a possible definition of Z.",
+    "quote": "Conversely, since we are interested in an outbreak that we know took place in Wuhan, we could reduce Z to zoonotic spillover at HSM, or perhaps even down to a specific shop."
+  },
+  {
+    "section_number": "4.3",
+    "node_type": "hypothesis",
+    "node_text": "Locations associated with more people have a higher chance of having outbreaks.",
+    "quote": "locations associated with more people will of course have a higher chance of having outbreaks"
+  },
+  {
+    "section_number": "4.5",
+    "node_type": "hypothesis",
+    "node_text": "Hospitals are often nexuses of outbreaks early in a pandemic.",
+    "quote": "Hospitals, while usually well-ventilated, are often nexuses of outbreaks early in a pandemic."
+  },
+  {
+    "section_number": "4.5.2",
+    "node_type": "hypothesis",
+    "node_text": "Rootclaim's model does not line up with observations early in the market outbreak",
+    "quote": "Rootclaim's model ... does not line up with observations early in the market outbreak"
+  },
+  {
+    "section_number": "4.5.4",
+    "node_type": "hypothesis",
+    "node_text": "Even if the average COVID-19 growth rate within HSM is twice that of locations without HSM, large variation at small cluster sizes makes achieving that average uncertain.",
+    "quote": "Even if the average growth rate within HSM were twice as high as without HSM, large variation at small n makes attaining that average uncertain."
+  },
+  {
+    "section_number": "4.5.6",
+    "node_type": "hypothesis",
+    "node_text": "If there were 128, 245, or 500 sick people going around Wuhan at the time of the HSM primary case, other large SSEs would start popping up in other locations.",
+    "quote": "If there are 128 or 245 or 500 sick people going around Wuhan at the time of the HSM primary case, shouldn't we expect other large SSEs to start popping up in other locations?"
+  },
+  {
+    "section_number": "5.4.2",
+    "node_type": "hypothesis",
+    "node_text": "The Wuhan Institute of Virology would be involved with tests on bats.",
+    "quote": "WIV was to be involved with tests on bats"
+  },
+  {
+    "section_number": "5.4.2",
+    "node_type": "hypothesis",
+    "node_text": "The Wuhan Institute of Virology would be involved with tests on people who live near bats.",
+    "quote": "WIV was to be involved with tests on people who live near bats"
+  },
+  {
+    "section_number": "5.4.2",
+    "node_type": "hypothesis",
+    "node_text": "The Wuhan Institute of Virology would be involved with experiments in bat caves.",
+    "quote": "WIV was to be involved with experiments in bat caves"
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "node_id": "research_question-e6a9204719baf948ce1d4fc9fbd5af42",
+    "node_type": "research_question",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-bfa0f4f744a2e30da0c547cd3db00b28",
+    "node_text": "What did the judge decide?",
+    "quote": "What      did    I decide?",
+    "span": [
+      0,
+      26
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-f0da02b8d64d655117e059b26d08e092",
+    "node_type": "research_question",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-c4c22c9803e7f796cd9d7f4b65dd8568",
+    "node_text": "How did the judge decide?",
+    "quote": "How      did    I decide?",
+    "span": [
+      389,
+      414
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-74fe4e3e54b5c4ae190255788449cca8",
+    "node_type": "research_question",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-67051f9e7c71306b4374029ad59f6d9b",
+    "node_text": "What is the judge's background and bias?",
+    "quote": "What       is  my     background/bias?",
+    "span": [
+      376,
+      414
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-5674bc838fb44f7d8a28cb4bb011f6ea",
+    "node_type": "research_question",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-bfa0f4f744a2e30da0c547cd3db00b28",
+    "node_text": "Is SARS‑CoV‑2 more likely to be of zoonotic origin than a product of intentional engineering?",
+    "quote": "SARS-CoV-2      is substantially   more   likely to be  of zoonotic    origin  than  a product   of intentional  engineering.",
+    "span": [
+      39,
+      164
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-044e9f0a075b3cb5f4c056c32b4372e4",
+    "node_type": "research_question",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-0fbc3ea433183c4345e4d54db6bef476",
+    "node_text": "What is the probability that SARS‑CoV‑2 was the result of a lab leak?",
+    "quote": "I concluded   that there  is approximately   a  1  in300  chance   that SARS-CoV-2      was  the  result of a lab leak.",
+    "span": [
+      656,
+      773
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9902,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-e8b9217b9a0f306401f9804a73af768b",
+    "node_type": "research_question",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-0fbc3ea433183c4345e4d54db6bef476",
+    "node_text": "Is SARS‑CoV‑2 more likely than not to have a natural (zoonotic) origin?",
+    "quote": "Ithink SARS-CoV-2      more   likelythan  not had  a natural  origin",
+    "span": [
+      84,
+      152
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-409423b0fb04ba9e8bd5e41aea378a78",
+    "node_type": "research_question",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-c06bdc84cc1851bf3dcb4a07251ecaee",
+    "node_text": "What does it mean to be \"SARS-like\"?",
+    "quote": "1.   What   does  itmean    tobe  \"SARS-like\"?",
+    "span": [
+      688,
+      732
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-3739eb054bce27052f9d3ca12ecfa584",
+    "node_type": "research_question",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-c06bdc84cc1851bf3dcb4a07251ecaee",
+    "node_text": "How common are furin cleavage sites (FCSs) in natural‑origin SARS‑like viruses?",
+    "quote": "2.   How   common     are FCSs    innatural  origin SARS-like    viruses?",
+    "span": [
+      733,
+      804
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-4761160819190f5f672c6bdd10ebb11d",
+    "node_type": "research_question",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-a4b76172ef2c6342685b5e56333cb52d",
+    "node_text": "Is SARS‑CoV‑2 unusually well adapted to humans?",
+    "quote": "IsSARS-CoV-2      unusually   well adapted   to humans?",
+    "span": [
+      1468,
+      1523
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-721357e3b55186eeaa929635194331d9",
+    "node_type": "research_question",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-c06bdc84cc1851bf3dcb4a07251ecaee",
+    "node_text": "Should one be more surprised that SARS‑CoV‑2 has the only FCS in the Sarbecovirus if it evolved naturally or was constructed in a lab?",
+    "quote": "The  question   isshould   Ibe  more   surprised  that SARS-CoV-2      has  the  only FCS  in the  Sarbecovirus    ifitevolved   naturally or was   constructed   in a lab?",
+    "span": [
+      449,
+      620
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-8890efb91b42aec885d8c3e36210a2cc",
+    "node_type": "research_question",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-56d3596c5578aadede08f826dba233bd",
+    "node_text": "What is the base probability of a lab leak versus a zoonotic event for SARS‑CoV‑2?",
+    "quote": "For both  my decision  making   methods    Ihad  to assess   the base   probability of lab leak  or a zoonotic  event",
+    "span": [
+      200,
+      318
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-d7506316365f648a6f709c4fa7e2aa86",
+    "node_type": "research_question",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-04a06c938fc3b595613f31194be34054",
+    "node_text": "Which probabilities need to be estimated to assess the prior odds of a lab leak versus a zoonotic origin?",
+    "quote": "Inthis debate,  I decided   that Ihad  to estimate   the following  quantities:",
+    "span": [
+      0,
+      79
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-f73c1d05c4e82d2218338b4175171f35",
+    "node_type": "research_question",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-04a06c938fc3b595613f31194be34054",
+    "node_text": "How can arguments about whether WIV could have made or would have leaked SARS‑CoV‑2 be incorporated into a Bayesian update?",
+    "quote": "I couldn't figure out how   to incorporate  arguments about  whether   WIV  could  have  made,   or would   have  leaked,  SARS-CoV-2      in my  Bayesian   update process.",
+    "span": [
+      613,
+      785
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9933,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-25d927a4470ccf0882f359cc4b86468f",
+    "node_type": "research_question",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-bdfa8f18cfaa35a953c5b0b29b3325a8",
+    "node_text": "Would WIV have leaked SARS‑CoV‑2 if it made it?",
+    "quote": "Would   WIV  have  leaked   SARS-CoV-2      ifitmade   it?",
+    "span": [
+      494,
+      552
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-58c87d3837ef9a677ab5c95ff81b233d",
+    "node_type": "research_question",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-b1cd8df391a5567e43324869074778ba",
+    "node_text": "What factors influence the probability of a lab leak?",
+    "quote": "I believe the relevant  factors  influencing   the probability  of a lab  leak are:  the goal  of the research,   the  scale  of the  operation  (numbers    of infectious   particles created/year),   the  number    of types  of experiments    - especially those  at multiple  different biosafety   levels or where   samples    are  transported   out of labs,  the laboratory equipment    (e.g. hoods,   respirators,  aerosol  minimizing    lab equipment),    the sterilization  infrastructure (on-site vs. offsite, autoclave/EO/H2O2,       etc.), and  the  training and  experience    of the  lab workers.",
+    "span": [
+      0,
+      604
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  }
+]

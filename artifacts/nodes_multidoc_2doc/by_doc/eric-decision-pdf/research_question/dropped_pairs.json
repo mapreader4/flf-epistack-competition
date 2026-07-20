@@ -1,0 +1,14 @@
+[
+  {
+    "section_number": "4.5.1",
+    "node_type": "research_question",
+    "node_text": "Is the assumption that HSM-linked cases have double the infectivity rate of other cases plausible?",
+    "quote": "the doubling-time of HSM-linked cases is half that of other cases. ... this retains Rootclaim's assumption of HSM being twice as infective, which I think is too high"
+  },
+  {
+    "section_number": "4.5.1",
+    "node_type": "research_question",
+    "node_text": "Is the low‑probability event of a visitor infecting a resident at HSM (step 3) realistic?",
+    "quote": "Second, Saar entirely omitted step 3, which is a low probability event. A person going shopping might have face-to-face contact with a vendor for several minutes, facilitating transmission; but I expect ... Either it was unlikely for the vendor to be one of the few people infected by the visitor, or the visitor was infecting dozens of people."
+  }
+]

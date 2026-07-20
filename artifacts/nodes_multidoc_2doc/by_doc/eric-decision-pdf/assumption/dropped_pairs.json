@@ -1,0 +1,50 @@
+[
+  {
+    "section_number": "1.2",
+    "node_type": "assumption",
+    "node_text": "Nonsynonymous mutations tend to yield amino acids with similar chemical properties, or at least more often than expected from a randomly designed genetic code.",
+    "quote": "and nonsynonymous mutations tend to yield amino acids with similar chemical properties, or at least more often than one would expect from a randomly designed genetic code."
+  },
+  {
+    "section_number": "1.3",
+    "node_type": "assumption",
+    "node_text": "Only information provided through the debate material and its references may be considered; the judge's prior beliefs or private research cannot be used.",
+    "quote": "Only the information provided through the debate material, and references therein may be considered; no prior beliefs or private research of my own can be used,"
+  },
+  {
+    "section_number": "4.1",
+    "node_type": "assumption",
+    "node_text": "Most individuals generally stay in roughly one area on the surface of the Earth during their illness, making the contact graph approximately two‑dimensional.",
+    "quote": "As most individuals generally stay in roughly one area on the surface of the Earth during their illness, the contact graph becomes approximately two-dimensional."
+  },
+  {
+    "section_number": "4.5",
+    "node_type": "assumption",
+    "node_text": "Hospitals are often nexuses of outbreaks early in a pandemic.",
+    "quote": "Hospitals, while usually well-ventilated, are often nexuses of outbreaks early in a pandemic"
+  },
+  {
+    "section_number": "4.5.4",
+    "node_type": "assumption",
+    "node_text": "A protocluster of n cases can be considered at a location outside of HSM.",
+    "quote": "If we consider a protocluster of n cases at one location (outside of HSM), the number of people infected in total by those n people has mean nμ and variance nσ2."
+  },
+  {
+    "section_number": "5.1",
+    "node_type": "assumption",
+    "node_text": "Simulations show that a single introduction is unlikely to produce a phylogenetic tree with two distinct taxa whose roots differ by exactly two mutations.",
+    "quote": "They find in simulations that it is unlikely for a single introduction to yield a phylogenetic tree with two clearly distinct and prominent taxa whose roots are exactly two mutations apart; when this does happen, it is usually because an early infection underwent two successive mutations rapidly."
+  },
+  {
+    "section_number": "5.4.1",
+    "node_type": "assumption",
+    "node_text": "Introducing the identified high‑risk cleavage site changes from low‑abundant viruses into high‑abundant low‑risk parental strains is a valid experimental approach.",
+    "quote": "...and if so, introduce these changes into the appropriate high abundant, low risk parental strain."
+  },
+  {
+    "section_number": "7.5",
+    "node_type": "assumption",
+    "node_text": "The only genetic observations considered are the strange 12 nucleotide insert creating a furin cleavage site and the strong affinity of SARS‑CoV‑2 for human ACE2.",
+    "quote": "What we are left with is two observations: the strange 12 nucleotide insert creating a furin cleavage site, and the strong affinity of sars-cov-2 to bind to human ACE2 over other species."
+  }
+]

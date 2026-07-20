@@ -1,0 +1,2545 @@
+[
+  {
+    "node_id": "research_question-0f05f2bfcb9e2d0c9b37bdb1dc94e25e",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-7ccd048fb5c8f1c3bea2d826d7a24b21",
+    "node_text": "Was COVID-19 a lab leak?",
+    "quote": "was covid a lab leak?",
+    "span": [
+      694,
+      715
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-1a38e10fef17e3519cc614ac54a4faa2",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-f19517cde7a840bdab0a3bb2c8819f0b",
+    "node_text": "How significant was the COVID-19 outbreak in the Huanan Seafood Market?",
+    "quote": "how significant was the covid out-\nbreak in the Huanan Seafood Market?",
+    "span": [
+      339,
+      409
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-551e1738201b37a18c77b4d324b0a961",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-f19517cde7a840bdab0a3bb2c8819f0b",
+    "node_text": "Why has there been no whistleblower for the origin of COVID-19?",
+    "quote": "why there has been no whistleblower for the origin of covid",
+    "span": [
+      756,
+      815
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-426e9cecdb95cfa0a78f6fd681335755",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.1.1",
+    "chunk_id": "chunk-75a21443969bf27f013158d9548c8b55",
+    "node_text": "What is the significance of the Huanan Seafood Market?",
+    "quote": "what is the significance of HSM?",
+    "span": [
+      4,
+      36
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-2478ef768fc2f92b0481f393b650da53",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.1.1",
+    "chunk_id": "chunk-75a21443969bf27f013158d9548c8b55",
+    "node_text": "Were any bats sold in the Huanan Seafood Market?",
+    "quote": "it is not known that any bats were sold in the market",
+    "span": [
+      473,
+      526
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-1b519212f544d166925950a170bcd328",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.1.1",
+    "chunk_id": "chunk-75a21443969bf27f013158d9548c8b55",
+    "node_text": "What intermediate species between bats and humans were present at the Huanan Seafood Market?",
+    "quote": "any intermediate species between bats and humans are unknown.",
+    "span": [
+      528,
+      589
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-d2e6cf900877aecc0553f709daaefcfd",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.1.1",
+    "chunk_id": "chunk-75a21443969bf27f013158d9548c8b55",
+    "node_text": "Was an animal host at the Huanan Seafood Market responsible for the early COVID-19 cases?",
+    "quote": "it was natural to suspect the possibility of an animal host at the market being responsible",
+    "span": [
+      874,
+      965
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-b41b810189fef561a43d6cfa1082e47d",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.2.1",
+    "chunk_id": "chunk-6ebe14c7b8e5614fda23392a9313c796",
+    "node_text": "What is the phylogenetic relationship between the roots of the A and B lineages of SARS‑CoV‑2?",
+    "quote": "The phylogenetic relationship between the roots of the A and B lineages is not immediately clear without further analysis.",
+    "span": [
+      343,
+      465
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-8f9816065613f4cff1aaa3680c9f1c16",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.2.2",
+    "chunk_id": "chunk-0b06fd1ef4882f20d1bd6bcadd3591f5",
+    "node_text": "Is a furin cleavage site (FCS) evolutionarily harmful for bat coronaviruses that are transmitted via gastrointestinal routes?",
+    "quote": "This creates a different life cycle for virus replication, and consequently an FCS may be evolutionarily harmful.",
+    "span": [
+      1,
+      114
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9735,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-4040843aeae661cf7c56e2077fc5b0c8",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.2.2",
+    "chunk_id": "chunk-0b06fd1ef4882f20d1bd6bcadd3591f5",
+    "node_text": "How does the nucleotide sequence at the S1/S2 furin cleavage site region of sars-cov-2 compare to that of the closest known wild virus banal-20-52?",
+    "quote": "We can compare sars-cov-2 to the closest known wild virus banal-20-52 at this location ([3] at 35:30):",
+    "span": [
+      117,
+      219
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-9703f7263faf8a1adabe3735cbef3209",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.2.2",
+    "chunk_id": "chunk-0b06fd1ef4882f20d1bd6bcadd3591f5",
+    "node_text": "By how many nucleotides is the furin cleavage site region shorter in the bat coronavirus banal-20-52 compared to sars-cov-2?",
+    "quote": "More notably, however, is that banal-20-52 is 12 nucleotides shorter here, as it is missing the sequence T CCT CGG CGG GC",
+    "span": [
+      454,
+      575
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-e70cbcb03293ccc244dfc9fd5b6158e0",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.3",
+    "chunk_id": "chunk-a87fe851508657c252ee437edf6a3a52",
+    "node_text": "What is the relative likelihood of the hypothesis that the SARS‑CoV‑2 outbreak resulted from gain‑of‑function laboratory research versus the hypothesis that it resulted from natural spillover from wildlife without laboratory involvement?",
+    "quote": "Per the rules of the debate, I am to evaluate the relative likelihood of the two hypotheses advanced: Rootclaim's claim that the sars-cov-2 outbreak was due to gain-of-function laboratory research, and Peter's challenge that it was the result of natural spillover from wildlife without laboratory involvement.",
+    "span": [
+      1174,
+      1483
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9935,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-9a160ea617c89e0eccb7a4043bc8ce0b",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.3.1",
+    "chunk_id": "chunk-6e9357d8ebe94e3cd10a1fd11bc02f96",
+    "node_text": "What are the origins of COVID‑19?",
+    "quote": "My foremost goal in this document is to give the best possible account for the origins of covid as I understand them",
+    "span": [
+      0,
+      116
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-7cd198bfdd443254e8ac043f7db61060",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.3.1",
+    "chunk_id": "chunk-6e9357d8ebe94e3cd10a1fd11bc02f96",
+    "node_text": "Which of the two conflicting theories is more likely based on the information from the debate?",
+    "quote": "In section 7 I present an uncomfortably quantitative analysis of the two conflicting theories and my affirmative conclusion for which is more likely based on the information from the debate.",
+    "span": [
+      630,
+      820
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-d6605cd6a7f1c29576868ae26def9cc4",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "1.3.1",
+    "chunk_id": "chunk-6e9357d8ebe94e3cd10a1fd11bc02f96",
+    "node_text": "Why did the author believe the arguments for one theory and not be persuaded by the arguments against it?",
+    "quote": "However it felt unsatisfying to say why I believed the arguments for one theory without also saying why I failed to be persuaded by the arguments against it.",
+    "span": [
+      821,
+      978
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-99623bef37f9ebcd760d46fcef27a1f4",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-507fecc4f891dedc503e260532d68345",
+    "node_text": "What benefit does the described Bayesian computation provide?",
+    "quote": "Ok, what good has this done us?",
+    "span": [
+      963,
+      994
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-152ac3aec4744aa7abeb6af8f7d1f2bc",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-f891d717fd6658d6a6b31320cd05022c",
+    "node_text": "How does the described Bayesian updating work in practice?",
+    "quote": "How does this work in practice?",
+    "span": [
+      659,
+      690
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-0a43d80308a5b4548bbd65eabba02166",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-c7055ed71f0a2a01d32270e91a78b9e1",
+    "node_text": "Have all available pieces of evidence been accounted for in the Bayesian analysis?",
+    "quote": "did you account for all the available evidence?",
+    "span": [
+      786,
+      833
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-7af00262a9e7c3eda72fd30db4fae5b4",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-c7055ed71f0a2a01d32270e91a78b9e1",
+    "node_text": "How accurate are the estimated probabilities used in the Bayesian analysis?",
+    "quote": "how accurate are your probabilities?",
+    "span": [
+      834,
+      870
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-40d2f7816e352b06f4299c8a54eeeeec",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-c7055ed71f0a2a01d32270e91a78b9e1",
+    "node_text": "How robust is the result of the Bayesian analysis to changes in the data?",
+    "quote": "how robust is your result to changes in the data?",
+    "span": [
+      871,
+      920
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-e5138c94d9dc61203150864d89d9eaa5",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "2.1",
+    "chunk_id": "chunk-9b5766555fca8c804427e37b5e0a5e8d",
+    "node_text": "What is the probability of an observation (or collection of observations) O conditional on the null hypothesis A?",
+    "quote": "We ask, what is the probability of an observation (or collection of observations) O, conditional on A?",
+    "span": [
+      513,
+      615
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-45712d1f0bd8bf1d3ac9abb37b7e9d73",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "2.1",
+    "chunk_id": "chunk-9d127b42ab1eeb190fcff01195432fb3",
+    "node_text": "How do we choose the map that assigns p-values to possible values of O?",
+    "quote": "So how do we choose the map?",
+    "span": [
+      460,
+      488
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-9c26406ba5ddf0bcb31718f746841dfe",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-a1108a56f3a13f5a70197dfd97777efc",
+    "node_text": "What is the effect of a slight bias in data collection on the outcome of a Bayesian analysis testing whether a senator is a space lizard?",
+    "quote": "However, what happens if we have a slight bias?",
+    "span": [
+      1200,
+      1247
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-b46bf4c76c93403f5ae34380b300d24c",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-ecc8ef6912fdf33fab8b9822712e4389",
+    "node_text": "Why do we not observe any alien life despite each star being a potential host for intelligent alien life and the ability to observe billions of stars?",
+    "quote": "If each star is a potential host for intelligent alien life, and we can observe billions of stars, why do we not observe any alien life?",
+    "span": [
+      1401,
+      1537
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-5495d8e6703d3f6b437ae2810342cdb1",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.1",
+    "chunk_id": "chunk-6541cd5f2bfb6fa0ebf9dccf7015600e",
+    "node_text": "Does hypothesis Ot (pandemic started via zoonotic spillover with the first superspreader event not at the location of zoonotic spillover) better explain the observations of early case distribution than hypothesis An (pandemic started via zoonotic spillover with the first superspreader event at the location of zoonotic spillover) when conditioning on zoonotic spillover?",
+    "quote": "The goal of Rootclaim is to get a Bayes factor comfortably greater than 1: if so, then even conditioning on zoonotic spillover, the hypothesisOt better explains the observations of early case distribution than the hypothesis An.",
+    "span": [
+      190,
+      418
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-593df5ddfa09227b5b12b4b9e04cab0a",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.1",
+    "chunk_id": "chunk-7fa31e87ebd4b4037593777336c21833",
+    "node_text": "Is the proximity of the HSM superspreader event to animal sources of virus in the market a coincidence that provides very weak evidence in favor of zoonosis?",
+    "quote": "If so, then the proximity of the HSM SSE to animal sources of virus in the market is probably a coincidence, and provides very weak evidence in favor of zoonosis.",
+    "span": [
+      408,
+      570
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-5eda04647307c99132a109bd28931176",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.1",
+    "chunk_id": "chunk-d9b34771486bc3392ffef3e54ba7ca44",
+    "node_text": "How can the numbers presented by Rootclaim be made consistent with their estimate that 10 % of coronavirus pandemics that start in Wuhan would have their first superspreader event in HSM?",
+    "quote": "Furthermore I do not see how to make the numbers Rootclaim gives here consistent with their estimate that 10% of coronavirus pandemics that start in Wuhan would have their first SSE in HSM (conditioned on the location of the SSE being unrelated to the location of the primary case) [7];",
+    "span": [
+      0,
+      286
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-0da9a6150f04a736cc23fb3c97eb92b0",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.1",
+    "chunk_id": "chunk-3fc89863ea6de03853cf81de5a98280d",
+    "node_text": "How can the existence of early cases not associated with HSM be explained?",
+    "quote": "This is asking how to explain the existence of early cases not associated with HSM (I think the slide has a typo?).",
+    "span": [
+      728,
+      843
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-29583c7e9f109440e6cbd17f796c64fa",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.1",
+    "chunk_id": "chunk-3fc89863ea6de03853cf81de5a98280d",
+    "node_text": "What explanation is required for the observation labeled “mahjong” when conditioned on the Animal hypothesis?",
+    "quote": "It is a little unclear here what is in need of explanation when conditioned on An.",
+    "span": [
+      902,
+      984
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-e409abfa6bdd9d9d369d917bcf5ae43b",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.2",
+    "chunk_id": "chunk-82ba99698676e16bf3c215807e460010",
+    "node_text": "Does Rootclaim believe that more than half of pandemics where an intermediate host has not been identified are lab leaks?",
+    "quote": "does Rootclaim believe more than half of pandemics where we have failed to identify an intermediate host are lab leaks?",
+    "span": [
+      1319,
+      1438
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-89fca50496bdb5ccb4255d0a9c10ad41",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.3",
+    "chunk_id": "chunk-5b49ddeca0dc30a4ecdc6a718936a963",
+    "node_text": "Can Saar provide justification for why Bayesian reasoning is expected to give the correct answer, either in general or for the specific application of assessing COVID-19 origins?",
+    "quote": "if he could give some justification for why one expects Bayesian reasoning to give the right answer, either in general or for this specific application",
+    "span": [
+      266,
+      417
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-2b46dda2ba9050bf9bf5ca3fb8e32480",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "3.3",
+    "chunk_id": "chunk-5b49ddeca0dc30a4ecdc6a718936a963",
+    "node_text": "What is the best explanation for a real-world observation that appears to be a one-in-a-thousand coincidence?",
+    "quote": "what is the best explanation for that observation?",
+    "span": [
+      1291,
+      1341
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-b5819b31f64ff53f0177369b8eccfff2",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4",
+    "chunk_id": "chunk-5008291cd421befbd5c7f041929d1df9",
+    "node_text": "What is the probability distribution of who will be the index case for a particular hypothetical primary case?",
+    "quote": "what is the probability distribution of who will be the index case?",
+    "span": [
+      879,
+      946
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-8e4c95f7d7130b48e1363af95d898aca",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.1",
+    "chunk_id": "chunk-108c06ccb76fc6e2d10510002a8626b5",
+    "node_text": "How good is the uniform sphere model for the index case?",
+    "quote": "How good of a model is this?",
+    "span": [
+      776,
+      804
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-ffd08f2dcf68fabfe40d0070615a6e3e",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.1",
+    "chunk_id": "chunk-37b36823f1738e3a4b29b06e613f531f",
+    "node_text": "What is the probability that a specific person is the index case given a candidate primary case?",
+    "quote": "we want to know the probability of observing a specific person being the index case.",
+    "span": [
+      652,
+      736
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-c1653b68226b7fbabf5e74773f3ec78d",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.2",
+    "chunk_id": "chunk-8ea4d8b4bb6d0d8b0f2f008a97d2a9bc",
+    "node_text": "For each hypothesis (zoonotic spillover Z and lab-leak LL), how large of a circle must be drawn around the primary case to include the index case?",
+    "quote": "So, for each hypothesis, how large of a circle do we have to draw around the primary case to include the index case?",
+    "span": [
+      361,
+      477
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-7eff1248e0e2a8c91fe82767de50f76b",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.2",
+    "chunk_id": "chunk-a17a2555359bf6b506116a09dfeff727",
+    "node_text": "Should the analysis be sensitive to which individual is considered the index case?",
+    "quote": "We should also ask whether our analysis should be so sensitive to who the index case is:",
+    "span": [
+      278,
+      366
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-7683b0a1db14fceaff9ef19b83cc6511",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.2",
+    "chunk_id": "chunk-a285eca95f46da55bb7988b2836f9347",
+    "node_text": "Which choice of Z (zoonotic spillover definition) is correct?",
+    "quote": "which choice of Z is \"correct\"?",
+    "span": [
+      673,
+      704
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-919bf52cf6196435305823b55255c2c6",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.2",
+    "chunk_id": "chunk-a285eca95f46da55bb7988b2836f9347",
+    "node_text": "Was LL (lab‑leak hypothesis) chosen appropriately; would the debate be the same if COVID appeared in a different city that lacked WIV but had other research laboratories engaged in potentially dangerous coronavirus research?",
+    "quote": "would we be having the same debate if covid appeared in a different city that lacked WIV but had other research laboratories engaged in potentially dangerous coronavirus research?",
+    "span": [
+      761,
+      940
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-7003ddb28cf52756a10aa27b62809e41",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.3",
+    "chunk_id": "chunk-3a75210bcbe8453d122d621bcac73766",
+    "node_text": "What error magnitude is introduced by using the wrong subpopulation (residents versus visitors) in the analysis?",
+    "quote": "using the wrong subpopulation introduces an error of 40 times.",
+    "span": [
+      401,
+      463
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-d0e659d1f203c9ece3146def42d717be",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.3",
+    "chunk_id": "chunk-0ed6bd932bd937f22bee03eb0a88da37",
+    "node_text": "How can the probability of an outbreak at a location be scaled based on the size of that location's subpopulation?",
+    "quote": "To a first order, we can scale the probability of an outbreak occurring at a location by the size of that location's subpopulation.",
+    "span": [
+      286,
+      417
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-2771b26e84543682f0a78b07b81eadde",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.3",
+    "chunk_id": "chunk-0ed6bd932bd937f22bee03eb0a88da37",
+    "node_text": "What adjustment factor is required to account for most people being strongly associated with two locations when scaling outbreak probability?",
+    "quote": "Doing so may require introducing a factor of roughly 2 to account for the fact that most people are strongly associated with 2 locations.",
+    "span": [
+      418,
+      555
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-7bd1cfde21c975d322d5e3dd92263984",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.3",
+    "chunk_id": "chunk-0ed6bd932bd937f22bee03eb0a88da37",
+    "node_text": "How does including all weekly visitors at HSM affect the required adjustment factor for scaling outbreak probability?",
+    "quote": "If we include all the weekly visitors at HSM as part of its population, then we must use a much larger adjustment factor, as the typical person is a visitor of many more than 2 locations.",
+    "span": [
+      607,
+      794
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-4aaaafcc9089abbb6ded124728a24f11",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.3",
+    "chunk_id": "chunk-0ed6bd932bd937f22bee03eb0a88da37",
+    "node_text": "Where is the epidemiological center of the HSM outbreak located: among residents or among visitors?",
+    "quote": "the epidemiological \"center\" of the outbreak is amongst the residents.",
+    "span": [
+      1006,
+      1076
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-c0fd9500e9adef82b68b297d49e0d0a9",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.3",
+    "chunk_id": "chunk-8a37ada7e79d7b4da0fe0b33679b61c4",
+    "node_text": "How does the likelihood of an outbreak among train staff compare to the likelihood of an outbreak among HSM residents?",
+    "quote": "we would expect an outbreak among train staff to be proportionately less likely than one among HSM residents.",
+    "span": [
+      460,
+      569
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.945,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-5607b5be17fbeb7f04eb5bd054f1fa78",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.4",
+    "chunk_id": "chunk-27332cfc8d742d10199230212cd3dc39",
+    "node_text": "What was the early ascertainment rate of COVID-19 cases?",
+    "quote": "We can roughly estimate the early ascertainment rate as somewhere around 5% to 10% based on the hospitalization rate of covid.",
+    "span": [
+      629,
+      755
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-85a14fc772bc27a44aca308da031a585",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.4",
+    "chunk_id": "chunk-27332cfc8d742d10199230212cd3dc39",
+    "node_text": "How large could ascertainment rate bias be for non-hospitalized COVID-19 cases?",
+    "quote": "if so, that places a sharp upper bound on how much bias could exist.",
+    "span": [
+      1151,
+      1219
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-94058ba7e5b12db12dffb60ade29a29d",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.4",
+    "chunk_id": "chunk-27332cfc8d742d10199230212cd3dc39",
+    "node_text": "Does ascertainment rate bias affect the determination of the location of the first superspreading event (SSE)?",
+    "quote": "which makes any ascertainment bias irrelevant to the discussion of where the first SSE took place.",
+    "span": [
+      1541,
+      1639
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-c35c4f19f778aa852d9152806c66548a",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5",
+    "chunk_id": null,
+    "node_text": "Are the factors identified by Rootclaim (high traffic, permanent residents, enclosed poor ventilation, density, organic materials, temperature, and no UV radiation) uniquely favorable for COVID‑19 spread at the Huanan Seafood Market compared to other venues such as restaurants, schools, universities, dormitories, apartment complexes, community centers, and hospitals?",
+    "quote": "The core of their argument is the claim that HSM gives uniquely good conditions for the spread of covid between vendors. They identify several properties:",
+    "span": null,
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "split_across_chunks",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-f01d0b951c2322cda0b99698f0ed485e",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5",
+    "chunk_id": "chunk-857c4695342f4076e7f800c9d2df9cd6",
+    "node_text": "Is the ventilation at the Huanan Seafood Market uniquely poor compared to other open‑air structures?",
+    "quote": "I'm not sure if this is in comparison to other open-air structures or in general.",
+    "span": [
+      183,
+      264
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-a5268328e57e99ae4bb01b426876fa7f",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5",
+    "chunk_id": "chunk-857c4695342f4076e7f800c9d2df9cd6",
+    "node_text": "What is the relevance of having permanent residents at the Huanan Seafood Market for COVID‑19 transmission?",
+    "quote": "(In section 4.3 I briefly discussed the relevance of having \"permanent residents\"; this warrants further consideration, but I lack the time.)",
+    "span": [
+      559,
+      700
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-b3fcfb3f1dbd2d7ef0ae7fff88b1647d",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5",
+    "chunk_id": "chunk-c6520d3241fa4dbe449147edcb01fa8f",
+    "node_text": "Does UV radiation have a causative relationship with lower COVID‑19 growth rate, or is the observed correlation merely incidental?",
+    "quote": "I don't see any obvious flaw with Rootclaim's source [10] that UV radiation is correlated with lower growth rate of covid, I am very skeptical that there is any causative relationship; in any case, it is equally relevant for any indoors location.",
+    "span": [
+      721,
+      967
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-648b45e9ae6fabde90fcfc521ad0dfa8",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5",
+    "chunk_id": "chunk-c6520d3241fa4dbe449147edcb01fa8f",
+    "node_text": "Does temperature play a causative role in COVID‑19 transmission?",
+    "quote": "While more plausible than UV, the causative role of temperature in flu transmission remains uncertain, and covid likewise.",
+    "span": [
+      968,
+      1090
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-344cbe8d8827a6ffbc23a1a26d66e13e",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5",
+    "chunk_id": "chunk-c6520d3241fa4dbe449147edcb01fa8f",
+    "node_text": "Is the presence of organic materials relevant to human‑to‑human transmission of COVID‑19?",
+    "quote": "The presence of organic materials is mostly irrelevant to human-to-human transmission which is dominated by respiratory transmission, not fomite transmission.",
+    "span": [
+      1091,
+      1249
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-ddc4c25db0b720b0d3fae64412ac27ec",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5",
+    "chunk_id": "chunk-c6520d3241fa4dbe449147edcb01fa8f",
+    "node_text": "Is the Huanan Seafood Market 10 to 4 times more likely than a typical place to be a superspreader location?",
+    "quote": "This is difficult to reconcile with their estimate elsewhere that HSM is 10 to 4 times more likely than a typical place to be a superspreader location ([1] at 3:14:00).",
+    "span": [
+      2,
+      170
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-38a86a00e854c04b90451f9b1e83fdfd",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-4fc60178af3cfcdfb8e465a9173a62c9",
+    "node_text": "Does Rootclaim's market model realistically achieve the WHO-reported case numbers of 55 HSM-linked and 119 non-HSM-linked COVID-19 cases in 2019?",
+    "quote": "Rootclaim created a quantitative model ([5] at 2:29:40) to illustrate how an initial patient unassociated with HSM could yield the observed outbreak; the goal is to show in principle how one might achieve the WHO numbers, which were 55 HSM-linked cases and 119 non-HSM-linked cases in 2019.",
+    "span": [
+      0,
+      290
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9966,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-f5ddc386e120c347d58a778e4c633dc3",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-fd563d0db195cdf9b4d239d8ef58f341",
+    "node_text": "Which modeling approach for the loss of epidemiological connection to HSM is most appropriate given what is known about the early case data?",
+    "quote": "There are several ways one could model this process, and which is most appropriate depends on what is known about the early case data.",
+    "span": [
+      0,
+      134
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-81ed3e5244bff9ff86c9820aed312656",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.1",
+    "chunk_id": "chunk-6b10418abc2ed0387c626f2de6a5a352",
+    "node_text": "Can the observed half‑half split of HSM cases between residents and visitors be reproduced under realistic infectivity assumptions?",
+    "quote": "Also to maintain the observed half-half split of HSM cases between residents and visitors, we need each resident to infect 4 visitors - so the total infectivity rate at HSM is 4 times that elsewhere in Wuhan, when I already find the 2 times rate Rootclaim proposed unreasonable.",
+    "span": [
+      0,
+      278
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9928,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-61188f9d05b98ffdaf0510ee823a6ad7",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.2",
+    "chunk_id": "chunk-1a93932e5670cc9058d40bdd28f60a7a",
+    "node_text": "Why were cases not ascertained outside of HSM for so long?",
+    "quote": "the difficulty in explaining why cases were not ascertained outside of HSM for so long;",
+    "span": [
+      781,
+      868
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-820030c942bbb31fe10dd3521745bd37",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.2",
+    "chunk_id": "chunk-3b8b08606c2011cfe525611421b108a8",
+    "node_text": "Does Rootclaim's model line up with observations early in the market outbreak?",
+    "quote": "Rootclaim's model looks good after the HSM closure but does not line up with observations early in the market outbreak;",
+    "span": [
+      532,
+      651
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-547d91af07db64f4850982653707d958",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.2",
+    "chunk_id": "chunk-3b8b08606c2011cfe525611421b108a8",
+    "node_text": "How does Rootclaim's model estimate case numbers outside HSM compared to within HSM?",
+    "quote": "it overestimates cases outside HSM and underestimates cases within.",
+    "span": [
+      652,
+      719
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-86ec43ee04ed480aad4ba38f2d22c66a",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.2",
+    "chunk_id": "chunk-3b8b08606c2011cfe525611421b108a8",
+    "node_text": "What was the observed doubling time in December according to the data presented?",
+    "quote": "In December we have 3 doublings in 21 days for a doubling time of 7 days,",
+    "span": [
+      232,
+      305
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-26320a487fe25a8867b10213d0073da6",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.2",
+    "chunk_id": "chunk-3b8b08606c2011cfe525611421b108a8",
+    "node_text": "What was the observed doubling time in January according to the data presented?",
+    "quote": "We get a reasonable chronology for January: 4.76 doublings in 23 days is 4.8 days doubling time,",
+    "span": [
+      0,
+      96
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-7e8065a533e5d00fb84e9b428fdfbd47",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.3",
+    "chunk_id": "chunk-fecc66cefa0a86275a7b5202326ebd2e",
+    "node_text": "What is the infectivity rate of being in one particular shopping center?",
+    "quote": "now we hope to quantify the infectivity rate of being in one particular shopping center?",
+    "span": [
+      276,
+      364
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-5dd402ed18c3147ebd9cf298151363b0",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.4",
+    "chunk_id": "chunk-af0f6ab9bcfc1568dd3db4d02462cff7",
+    "node_text": "What is the probability that a protocluster outside of HSM is growing faster than a same-sized protocluster at HSM?",
+    "quote": "What is the probability that protocluster is growing faster than a same-sized protocluster at HSM?",
+    "span": [
+      862,
+      960
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-d9fe53b47a222af48b825d9d20367ba5",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.4",
+    "chunk_id": "chunk-fc07b4b1689f613a1a86412f5a2b1635",
+    "node_text": "What is the probability that a cluster outside of HSM outcompetes a cluster within HSM of the same size for a single generation?",
+    "quote": "This is a lower-bound on the probability that a cluster outside of HSM outcompetes a cluster within HSM of the same size for a single generation.",
+    "span": [
+      831,
+      976
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-0f28d870c1f8213e6dac7a11e86851cc",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.4",
+    "chunk_id": "chunk-1e748294380c5155289b80fd71ff8690",
+    "node_text": "What is the probability that HSM becomes the biggest of the 128 clusters?",
+    "quote": "The probability that HSM becomes the biggest of the 128 clusters is more than 1 / 128, but not much more.",
+    "span": [
+      692,
+      797
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-4a840d3bd6908b24893c0aafe067d575",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.5",
+    "chunk_id": "chunk-c978a2169cc08e3cc4be0280ce9ed14b",
+    "node_text": "Is it true that, in a typical winter, Huanan Seafood Market (HSM) has one of the first ten flu outbreaks in Wuhan?",
+    "quote": "Is this true?",
+    "span": [
+      392,
+      405
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-bc4e5785d66c98eb0b5b061d75cc116a",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.6",
+    "chunk_id": "chunk-6a078cb957f6c51889157b660d34c742",
+    "node_text": "Given 128 to 500 sick people circulating in Wuhan at the time of the HSM primary case, should we expect other large superspreading events to start occurring in other locations?",
+    "quote": "If there are 128 or 245 or 500 sick people going around Wuhan at the time of the HSM primary case, shouldn't we expect other large 55Somewhere in the ballpark of 1 /100· 1/20· 1/5, not coincidentally very close to the Bayes factor I will eventually assign in section 7.6 to the outbreak starting in HSM. SSEs to start popping up in other locations?",
+    "span": [
+      720,
+      1068
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-d1e871e5128e12dcd6b015f8d41534b7",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.5.6",
+    "chunk_id": "chunk-6a078cb957f6c51889157b660d34c742",
+    "node_text": "Why was there a one‑month delay before the first COVID‑19 cases appeared outside of China (or Wuhan)?",
+    "quote": "Why was it another month before the first trickle of covid cases outside of China (or Wuhan) emerged?",
+    "span": [
+      1069,
+      1170
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-7f8a3a8f00d155744234d699c12a5675",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.1",
+    "chunk_id": "chunk-c1a9dd8224f20ec4cb9a1893e8dcdddf",
+    "node_text": "What proportion of the 457 animal samples collected from HSM tested positive for SARS‑CoV‑2?",
+    "quote": "None of the 457 animal samples tested positive for sars-cov-2.",
+    "span": [
+      380,
+      442
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-e7d559b5b89d749653a766286bfe66a5",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.1",
+    "chunk_id": "chunk-c1a9dd8224f20ec4cb9a1893e8dcdddf",
+    "node_text": "Which of the 457 animal samples came from species that are plausible carriers of SARS‑CoV‑2?",
+    "quote": "Of the 457 samples, only 16 came from animals (six different bamboo rats 57) that were plausible carriers of sars-cov-2; the other 441 samples are irrelevant to identifying the origin of sars-cov-2.",
+    "span": [
+      733,
+      931
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9949,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-bbe01360ca45e2b2e6691b8e104e5389",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.2",
+    "chunk_id": "chunk-034688a09b0107d8a35c8a909a28c192",
+    "node_text": "Is there a correlation between environmental samples that contain DNA from raccoon dog and samples that test positive for SARS‑CoV‑2?",
+    "quote": "statistical analysis of environmental samples show no or negative correlation between samples that contain DNA from species such as raccoon dog and samples that test positive.",
+    "span": [
+      41,
+      216
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-2fa563ed628bd9d47ed0959481aa3f86",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.2",
+    "chunk_id": "chunk-be79032223070f33912706faf5be65e7",
+    "node_text": "Do samples containing DNA from other suspected intermediate species such as civet or bamboo rat show a positive correlation with SARS‑CoV‑2 positivity?",
+    "quote": "presumably only one of them could have any positive correlation, with the others being zero as they are irrelevant.",
+    "span": [
+      146,
+      261
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-eb519f4d9000980e8636e9fe534fa624",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.2",
+    "chunk_id": "chunk-be79032223070f33912706faf5be65e7",
+    "node_text": "Does the later timing of the second round of sampling (two weeks later on January 12) induce a negative correlation between samples with wildlife DNA and samples with SARS‑CoV‑2?",
+    "quote": "This sampling, two weeks later on January 12, would have had a lower positivity rate due to the additional time for the sars-cov-2 RNA to decay. Consequentially this would induce a negative correlation between samples with wildlife and samples with sars-cov-2.",
+    "span": [
+      575,
+      835
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-e916a3afca2c2056a723de5a40e12422",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.3",
+    "chunk_id": "chunk-1661e1ac141058d44bc6cc7464acc9bd",
+    "node_text": "Did any animal vendors at HSM test positive for covid?",
+    "quote": "Rootclaim claims that no animal vendors at HSM tested positive for covid",
+    "span": [
+      0,
+      72
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-66dd1e9211ac1e30a092bc484251ae0b",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.3",
+    "chunk_id": "chunk-35170c9dd2c291492987237b23c80ca8",
+    "node_text": "How many of the 20 of 168 December cases who self-reported exposure to live animals were at HSM?",
+    "quote": "It does say that 20 of 168 December cases self-report exposure to live animals ([32] page 45), but does not clarify how many of those were at HSM",
+    "span": [
+      684,
+      829
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-ffd8c5135afc9e9bb3c1ce6a51cefaa5",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.3",
+    "chunk_id": "chunk-35170c9dd2c291492987237b23c80ca8",
+    "node_text": "What was the nature of the exposure to live animals among the 20 December cases (could it include pets?)",
+    "quote": "nor the nature of that exposure (could it include pets? but would only 11.8% of people have pets?)",
+    "span": [
+      831,
+      929
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-4b593f92415dec7be8b9edcf586c6a20",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.3",
+    "chunk_id": "chunk-35170c9dd2c291492987237b23c80ca8",
+    "node_text": "How are live animal vendors categorized in the breakdown of all vendors at HSM by type of goods sold (e.g., under \"others\", meat sellers, or other categories)?",
+    "quote": "The breakdown of all vendors at HSM by type of goods sold ([32] annex page 182) does not mention live animals at all; perhaps this is included in \"others\", or perhaps they are included in meat sellers if the animals are being butchered on site, or perhaps the live animal sellers also sold other products.",
+    "span": [
+      931,
+      1236
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-ae3f6c0ed8ea8b572c3aefbfa073c03d",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "4.6.3",
+    "chunk_id": "chunk-35170c9dd2c291492987237b23c80ca8",
+    "node_text": "Is there any explicit mention in the WHO report that no animal vendors were positive for covid?",
+    "quote": "I could not find any explicit mention in the text that no animal vendors were positive",
+    "span": [
+      437,
+      523
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-64dd7870bb5c22a1c6c92287edccc589",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.1",
+    "chunk_id": "chunk-ef39d9943614d54b643840738e3f964b",
+    "node_text": "Do lineages A and B represent separate introductions of SARS‑CoV‑2 into humans?",
+    "quote": "what if lineages A and B represent separate introductions of sars-cov-2 into humans?",
+    "span": [
+      51,
+      135
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-43bacefaeb8cfb1744c552341c47b235",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.1",
+    "chunk_id": "chunk-8f4f137de25029ff3622ff6588aff8cf",
+    "node_text": "Which lineage, A or B, is the ancestral (root) lineage of SARS‑CoV‑2?",
+    "quote": "whether lineage A or lineage B were ancestral",
+    "span": [
+      944,
+      989
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-5d8cdc3406a553081ccfd22be0dbdb1a",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.1",
+    "chunk_id": "chunk-4e2ab9e3cd1b30d0eaf3662df80413b7",
+    "node_text": "Does lineage B predate lineage A and constitute the root of SARS‑CoV‑2?",
+    "quote": "lineage B may predate lineage A by a few days or weeks and would therefore be the root",
+    "span": [
+      1062,
+      1148
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-b912339a327f85c0894248135cb9ff42",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.1",
+    "chunk_id": "chunk-ef39d9943614d54b643840738e3f964b",
+    "node_text": "Does the two‑introductions hypothesis better explain the observed phylogenetic evidence than a single‑introduction hypothesis?",
+    "quote": "two separate introductions better explains the observed phylogenetic evidence",
+    "span": [
+      681,
+      758
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-364d009d901a133c8804df4992d18720",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.2",
+    "chunk_id": "chunk-5143c8d00b36ccf36b9f0ec9ff9330f9",
+    "node_text": "Where was lineage A located among the early COVID-19 cases?",
+    "quote": "where was the lineage A?",
+    "span": [
+      265,
+      289
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-0e4d9d952b5f1306c4ef7a579d2c766b",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.2",
+    "chunk_id": "chunk-5143c8d00b36ccf36b9f0ec9ff9330f9",
+    "node_text": "Why was there no lineage A in the Huanan Seafood Market (HSM)?",
+    "quote": "why was there no lineage A in HSM?",
+    "span": [
+      570,
+      604
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-0051e4019276688e7cf941a3c49a71d0",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.2",
+    "chunk_id": "chunk-4d9375a1cf56edcd49ed90ab4cb440e7",
+    "node_text": "How did lineage A reach the Huanan Seafood Market (HSM) so early?",
+    "quote": "how did lineage A reach HSM so early?",
+    "span": [
+      194,
+      231
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-17efcfe7c7376c706220fa4ae0ef3dbc",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.3",
+    "chunk_id": "chunk-3c997c792aee23b95c0f2a5ef0572503",
+    "node_text": "What is the likelihood that the CGGCGG sequence could arise from a natural source?",
+    "quote": "We would have to analyze the frequency of the non-aligned codons to properly assess the likelihood of the CGGCGG sequence from a natural source.",
+    "span": [
+      508,
+      652
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-2424ce2157b35dc056b525a62704a508",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.3",
+    "chunk_id": "chunk-1a8531477f4986b4081a87a7651c3584",
+    "node_text": "Does the codon frequency in an inserted fragment reflect the frequency of the source organism rather than the surrounding viral genome?",
+    "quote": "I would not expect a priori the codon frequency in an insert to match that of the surrounding genome, but rather to reflect the frequency of the source of the fragment; note that CGG is the most common encoding of arginine in humans, for example.",
+    "span": [
+      659,
+      905
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-8f1efc67f5b44d7161a874d265f2dba0",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.3",
+    "chunk_id": "chunk-3c997c792aee23b95c0f2a5ef0572503",
+    "node_text": "How does the mutational bias against C and G nucleotides affect the codon composition of an inserted fragment over time?",
+    "quote": "After a fragment from an outside source has been inserted, it takes time for this mutational bias to impact the novel fragment.",
+    "span": [
+      238,
+      365
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-b914081bb8ecfc94ef4d780210c1c971",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.3",
+    "chunk_id": "chunk-3c997c792aee23b95c0f2a5ef0572503",
+    "node_text": "Was the source of the inserted fragment aligned with the viral genome and a coding region?",
+    "quote": "we do not know if the source had the same alignment, or even was a coding region at all.",
+    "span": [
+      419,
+      507
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-20c4ea709e5035dfd9043d7dd40d6fe5",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.3",
+    "chunk_id": "chunk-3c997c792aee23b95c0f2a5ef0572503",
+    "node_text": "What is the frequency of non-aligned codons in the inserted fragment?",
+    "quote": "We would have to analyze the frequency of the non-aligned codons to properly assess the likelihood of the CGGCGG sequence from a natural source.",
+    "span": [
+      508,
+      652
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-fdf524cebf755213ae0f9bde3f254fa9",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-4e7811bac13482229c68ce4eb9900fe5",
+    "node_text": "Does the S gene of SARSr-CoV bind human ACE2?",
+    "quote": "We will analyze the S gene for its ability to bind human ACE2 by Biocore or virus entry assay.",
+    "span": [
+      326,
+      420
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-f4fd3e021edc071a94d55302367a374a",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-6197f750ce57000d30c32357e0590b6c",
+    "node_text": "Do SARSr-CoV S gene sequences contain appropriately conserved proteolytic cleavage sites in the S2 subregion and potential furin cleavage sites?",
+    "quote": "We will analyze all SARSr-CoV S [spike] gene sequences for appropriately conserved proteolytic cleavage sites in S2 [spike subregion 2] and for the presence of potential furin cleavage sites.",
+    "span": [
+      628,
+      819
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9895,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-38ebd3a86c1c3b72098ddca7bb08431f",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-6197f750ce57000d30c32357e0590b6c",
+    "node_text": "Does introducing human-specific cleavage sites into SARSr-CoV S affect growth potential in Vero cells and human airway epithelial cell cultures?",
+    "quote": "Where clear mismatches occur, we will introduce appropriate human-specific cleavage sites and evaluate growth potential in Vero [monkey kidney] cells and HAE [human airway epithelial cells] cultures.",
+    "span": [
+      933,
+      1132
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9899,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-28715db2969c4f5ed9fd080e62cf6629",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-07afdefd72654f86be09b17c4ab96844",
+    "node_text": "Do low abundant high risk SARSr-CoV encode functional proteolytic cleavage sites?",
+    "quote": "We will also review deep sequence data for low abundant high risk SARSr-CoV that encode functional proteolytic cleavage sites, and if so, introduce these changes into the appropriate high abundant, low risk parental strain.",
+    "span": [
+      191,
+      414
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9372,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-28de21e7314b6eebc92d765ee6025c36",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-07afdefd72654f86be09b17c4ab96844",
+    "node_text": "Is the furin cleavage site human-specific?",
+    "quote": "It is unclear to me whether furin is human-specific.",
+    "span": [
+      910,
+      962
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-1d203cfdeeb5593708977b50aa0dfa1e",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-4e7811bac13482229c68ce4eb9900fe5",
+    "node_text": "Do isolated SARSr-CoV strains bind to human ACE2 in in vitro pseudovirus and live virus binding assays?",
+    "quote": "We will conduct in vitro [in test tube] pseudovirus binding assays, using established techniques, and live virus binding assays (at WIV to prevent delays and unnecessary dissemination of viral cultures) for isolated strains.",
+    "span": [
+      833,
+      1057
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-fbd838a1403903c6a1ce212951d7675e",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-4e7811bac13482229c68ce4eb9900fe5",
+    "node_text": "Are chimeric SARSr-CoV viruses with SHCO14 or WIV16 molecular clone backbones pathogenic to hACE2 transgenic mice?",
+    "quote": "These are BSL-3, not select agents or subject to P3CO (they use bat SARSr-CoV backbones which are exempt) and are pathogenic to hACE2 [human ACE2] transgenic mice.",
+    "span": [
+      663,
+      826
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-eca8081ad6cc76e4dfb714670a46a3ea",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.1",
+    "chunk_id": "chunk-4e7811bac13482229c68ce4eb9900fe5",
+    "node_text": "What SARSr-CoV nucleic acids are present in screened samples?",
+    "quote": "We will screen samples for SARSr-CoV [sars-cov-1-related coronavirus] nucleic acid [...] Full-length genomes or S [spike] genes of all SARSr- CoVs will be high-throughput sequenced followed by genome walking.",
+    "span": [
+      117,
+      325
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-79a4b2c3fb8d98058954daa2af8e7fe4",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.3",
+    "chunk_id": "chunk-3f642681bf8e8f93ca3c82d95e95cd1c",
+    "node_text": "Does the recombinant WIV1 virus with bat-derived spike proteins infect human and monkey cells?",
+    "quote": "Human and monkey cells were then exposed to the recombinant viruses to determine its infectivity.",
+    "span": [
+      474,
+      571
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-3ffde96e207cafd89862ad5232b5aabb",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.3",
+    "chunk_id": "chunk-3f642681bf8e8f93ca3c82d95e95cd1c",
+    "node_text": "Does removal of a gene absent in sars-cov-1 from WIV1 allow the virus to still work in human and monkey cells?",
+    "quote": "they removed a gene in WIV1 that is absent in sars-cov-1 to see if the virus would still work in human and monkey cells",
+    "span": [
+      592,
+      711
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-6f105dab74f1fe4a8dc162a1d85e17cd",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "Does the proposal add furin cleavage sites to viruses?",
+    "quote": "The proposal does not explicitly state it would add furin cleavage sites to viruses, but it does discuss adding cleavage sites in general shortly after referring to furin cleavage sites by name.",
+    "span": [
+      0,
+      194
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-5acac45c5bf50c38cd5c157af9fc199f",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "Does the proposal involve any in vivo genetic modification?",
+    "quote": "The proposal does not, as far as I understand, discuss any in vivo genetic modification; all editing was to be done by directly altering sequences, not by passaging through humanized mice or other organisms.",
+    "span": [
+      302,
+      509
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-60c943473489dd4a2f0ea2691f07cf7b",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "Does the proposal screen for wild viruses with high affinity for human ACE2?",
+    "quote": "The proposal does specifically say it would screen for wild viruses with high affinity towards human ACE2.",
+    "span": [
+      572,
+      678
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-dfe239cffa56924e4e1c0aaa36faeeb6",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "Is the proposal a blueprint for building SARS‑CoV‑2?",
+    "quote": "the proposal is hardly a blueprint for building sars-cov-2, containing many irrelevancies and missing key components.",
+    "span": [
+      910,
+      1027
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-3358a5a0791dabbd642e9b7c170fae92",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.4.4",
+    "chunk_id": "chunk-f8d926388409d4011719cdfa69a34428",
+    "node_text": "Does Project DEFUSE demonstrate that the virology community was broadly interested in making chimeric viruses with features that have potential lab‑leak risk if handled improperly?",
+    "quote": "Project DEFUSE is most relevant in that it shows that the community of virologists was broadly interested in making chimeric viruses with certain features which have the potential for lab leak risk if handled improperly, and not that WIV in specific planned to do a particular research path that would lead to creating sars-cov-2.",
+    "span": [
+      1028,
+      1358
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-754ff57cbc99b39fd80f339b995d2c2e",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.5",
+    "chunk_id": "chunk-fac8b96cf62f40652132ec533ca4d61d",
+    "node_text": "Is human ACE2, either in reality or in the simulation of Piplani et al, particularly good at binding to spike proteins?",
+    "quote": "maybe human ACE2, either in reality or in the simulation of Piplani et al, is just particularly good at binding to spike proteins?",
+    "span": [
+      28,
+      158
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-511c9a42283cdde1ba2ec238efdd2798",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.6",
+    "chunk_id": "chunk-8894c82d459d34bef45ef0cfb4340d97",
+    "node_text": "Why was a proline (P) included at this location in the SARS‑CoV‑2 furin cleavage site?",
+    "quote": "wherefore the proline P?",
+    "span": [
+      307,
+      331
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-7949d28c244a734dfa2531459d281f36",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.6",
+    "chunk_id": "chunk-8894c82d459d34bef45ef0cfb4340d97",
+    "node_text": "What might motivate the decision to include a proline at this location?",
+    "quote": "what might motivate the decision to include a proline at this location",
+    "span": [
+      368,
+      438
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-8ad8574dc5594d9f9a1f44cb00611f4c",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.7",
+    "chunk_id": "chunk-714044bdc6c1463673e6fb9ec5c9053c",
+    "node_text": "What is the origin of the 12 nucleotide insert at the furin cleavage site (FCS) in SARS‑CoV‑2?",
+    "quote": "there is a lack of definite information to say anything more than that",
+    "span": [
+      185,
+      255
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-cf83b900bee4da896beef4d548e0b95b",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.7",
+    "chunk_id": "chunk-714044bdc6c1463673e6fb9ec5c9053c",
+    "node_text": "Could the 12 nucleotide insert at the FCS in SARS‑CoV‑2 have evolved by chance?",
+    "quote": "There is no particular reason that this mutation could not have evolved by chance",
+    "span": [
+      257,
+      338
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-b218f9a19008c9d0e93d7025932f2353",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "5.7",
+    "chunk_id": "chunk-714044bdc6c1463673e6fb9ec5c9053c",
+    "node_text": "Is banal‑20‑52 sufficiently close to SARS‑CoV‑2 to allow a meaningful comparison of the 12‑nt insert at the FCS?",
+    "quote": "While banal-20-52 is the closest known virus, it is not close enough to make the kind of comparison that Rootclaim seeks to do with sars-cov-2",
+    "span": [
+      643,
+      785
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-a1724d3f993da3b4b2c9938085637270",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "6",
+    "chunk_id": "chunk-69f4073431f3ab76120530b2fbca077e",
+    "node_text": "Could a laboratory-created SARS‑CoV‑2 be kept secret?",
+    "quote": "If sars-cov-2 were made in a lab, could it be kept a secret?",
+    "span": [
+      0,
+      60
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-5efc893524b6b704ed653e4bff484f03",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "6",
+    "chunk_id": "chunk-2ca9cccaa0de50a819c4105e9969227d",
+    "node_text": "Could the truth of COVID‑19's origins be openly circulating on Chinese social media while western investigators fail to see it?",
+    "quote": "(Could the truth of covid's origins be openly circulating on Chinese social media and western investigators just never see it?)",
+    "span": [
+      1283,
+      1410
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-301cf015e4326ed87e534e30d3c7b988",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7",
+    "chunk_id": "chunk-c300642270d05f1b62f98c141f39fba6",
+    "node_text": "What is the origin of the COVID pandemic?",
+    "quote": "origin of the covid pandemic",
+    "span": [
+      133,
+      161
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-60003d4ea5dcead59bcb0a6b78ce0a04",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7",
+    "chunk_id": "chunk-c300642270d05f1b62f98c141f39fba6",
+    "node_text": "What are the prior probabilities of the hypothesis that COVID emerged from a zoonotic spillover in HSM (Z) and the hypothesis that COVID resulted from gain-of-function research in WIV (LL)?",
+    "quote": "to estimate the priors P (Z) and P (LL)",
+    "span": [
+      900,
+      939
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-24a6a4f6fd41023023d15604727be753",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.1",
+    "chunk_id": "chunk-6f43a5cbb96092c2da2048fe360661b8",
+    "node_text": "What is the expected gap between consecutive novel coronaviruses, ignoring SARS‑CoV‑2, from 2002 to 2023?",
+    "quote": "What we want to know is the expected gap between consecutive novel coronaviruses; ignoring sars-cov-2, from 2002 to 2023 there were sars-cov-1 in 2002 and MERS in 2012.",
+    "span": [
+      821,
+      989
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.994,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-fe21a80f7c039a77e4b92dd36c462212",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.1",
+    "chunk_id": "chunk-3eba16b6aafc47ab35b1324e7911a50a",
+    "node_text": "How much prior to the year 2002 should be considered when estimating the prior rate of novel coronavirus emergence?",
+    "quote": "but how much prior?",
+    "span": [
+      172,
+      191
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-388b909b3c525acda716f11c8e968cde",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "What is the probability that the Wuhan Institute of Virology (WIV) conducts gain‑of‑function (GoF) research a la Project DEFUSE?",
+    "quote": "WIV conducts GoF research a la \"DEFUSE\" 1/50",
+    "span": [
+      535,
+      579
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-87cffc0d710fb7a23c08db6ec151a1d8",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "What is the probability that WIV uses a suitable starting virus for GoF research?",
+    "quote": "WIV uses suitable starting virus 1/2",
+    "span": [
+      599,
+      635
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-fa5d1c1074398bab68b6810755d6327e",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "What is the probability that WIV research is successful?",
+    "quote": "WIV research is successful 1/2",
+    "span": [
+      636,
+      666
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-2bdab0fd3e9e393dbe62d1361debea4d",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "What is the probability that a lab leak of that virus occurs at WIV?",
+    "quote": "lab leak of that virus occurs at WIV 1/50",
+    "span": [
+      667,
+      708
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-2c417fbb422105f122aa4211c1a241b9",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.2",
+    "chunk_id": "chunk-7e899e697fa27babd25f8f30bbb36acd",
+    "node_text": "What is the annualized probability of the first lab leak occurring at WIV?",
+    "quote": "after 1.7 years the annualized probability of the first lab leak occurring is at most 1 per 1.7 years.",
+    "span": [
+      519,
+      621
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-4d25b33d98a261cbf26da7c7906398f2",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.2",
+    "chunk_id": "chunk-7e899e697fa27babd25f8f30bbb36acd",
+    "node_text": "What is the probability that the virus actually escapes from the lab?",
+    "quote": "Finally, we estimate the chance of the virus actually escaping.",
+    "span": [
+      1038,
+      1101
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-83c8f75db806f25a3c1324793ebafc64",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.2",
+    "chunk_id": "chunk-b0358a1f9177f826e1fb035804b834c2",
+    "node_text": "What is the overall probability of a lab leak (LL) leading to SARS‑CoV‑2?",
+    "quote": "To estimate P (LL), rather than extrapolating from historical lab leak events, I will work forwards from first principles.",
+    "span": [
+      0,
+      122
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-e406c6c2bd5fb53b0695c5f278c7e7a3",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "What is the probability of observing H (the index case residing in the west half of HSM) given a zoonotic origin (Z)?",
+    "quote": "P (H|Z) = 1",
+    "span": [
+      495,
+      506
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-177bf89562b9efe77831862fabb61c24",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.3",
+    "chunk_id": "chunk-b47e928925123b47f0039b35a8e2e96a",
+    "node_text": "What is the probability of observing H (the index case residing in the west half of HSM) given a lab‑leak origin (LL)?",
+    "quote": "P (H|LL) = 1 /1.2· 107",
+    "span": [
+      507,
+      528
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9545,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-4ebe3d19b2384ac5c5388769dfbfad92",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.4",
+    "chunk_id": "chunk-623a9078cb497bb81d8d7db9006df36a",
+    "node_text": "Does the distribution of positive sars-cov-2 samples within HSM point to shop 6:29 as a potential pandemic spillover location?",
+    "quote": "the distribution of positive sars-cov-2 samples within HSM appears to generally point to the region where live animals were kept, or more specifically point to shop 6:29 which had been identified as a potential pandemic spillover location.",
+    "span": [
+      31,
+      270
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-53cbcb301363bdda32efa4326b0c24aa",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.4",
+    "chunk_id": "chunk-623a9078cb497bb81d8d7db9006df36a",
+    "node_text": "Does the observation of sample positivity at shop 6:29 provide a Bayes factor favoring hypothesis Z over hypothesis LL?",
+    "quote": "Arguably, this observation has a Bayes factor of 15 in favor of Z, as LL has no viable explanation for this coincidence.",
+    "span": [
+      406,
+      526
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-fa1552fb70b6f1c4d12a2de203e22e32",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.6",
+    "chunk_id": "chunk-bb0a81c50f1ebd73fa0b3d7010179330",
+    "node_text": "Is the probability of a lab leak only 1 in 1300?",
+    "quote": "Do I believe the probability of a lab leak is only 1 in 1300?",
+    "span": [
+      946,
+      1007
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-ef1a94bcb4a2027bb7a1a02f39e83fcc",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.6",
+    "chunk_id": "chunk-945c6d4d7cdc30208982bdd9644a68dd",
+    "node_text": "Is the Bayesian calculation an appropriate way to estimate the relative posterior probability of the zoonotic and lab leak hypotheses?",
+    "quote": "Moreover I am not convinced that this Bayesian calculation is even an appropriate way to estimate the relative posterior probability of Z and LL;",
+    "span": [
+      369,
+      514
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-7e0f86c2c22e4e35efeedeaea623177b",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.6",
+    "chunk_id": "chunk-3db7374b026cba89a2f4c5880aa55556",
+    "node_text": "Is the author's selection of evidence sensible or motivated?",
+    "quote": "It is worthwhile to at least briefly consider whether my selection of evidence is sensible or motivated.",
+    "span": [
+      0,
+      104
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "research_question-4f7750142a8bdcc6a22627d6d3c69587",
+    "node_type": "research_question",
+    "doc_id": "eric-decision-pdf",
+    "document_name": "eric_decision.pdf",
+    "section_number": "7.6",
+    "chunk_id": "chunk-bb0a81c50f1ebd73fa0b3d7010179330",
+    "node_text": "What is the conditional probability that the origin is a lab leak given the observed evidence?",
+    "quote": "which gives a conditional probability of P (LL|O) = 0.07529%",
+    "span": [
+      298,
+      358
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  }
+]

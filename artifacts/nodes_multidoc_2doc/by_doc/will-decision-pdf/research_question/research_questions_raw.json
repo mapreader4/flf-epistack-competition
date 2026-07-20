@@ -1,0 +1,122 @@
+[
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "research_question",
+    "node_text": "What did the judge decide?",
+    "quote": "What      did    I decide?"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "research_question",
+    "node_text": "How did the judge decide?",
+    "quote": "How      did    I decide?"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "research_question",
+    "node_text": "What is the judge's background and bias?",
+    "quote": "What       is  my     background/bias?"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "research_question",
+    "node_text": "Is SARS‑CoV‑2 more likely to be of zoonotic origin than a product of intentional engineering?",
+    "quote": "SARS-CoV-2      is substantially   more   likely to be  of zoonotic    origin  than  a product   of intentional  engineering."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "research_question",
+    "node_text": "What is the probability that SARS‑CoV‑2 was the result of a lab leak?",
+    "quote": "I concluded   that there  is approximately   a  1  in300  chance   that SARS-CoV-2      was  the  result of a lab leak."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "research_question",
+    "node_text": "Is SARS‑CoV‑2 more likely than not to have a natural (zoonotic) origin?",
+    "quote": "Ithink SARS-CoV-2      more   likelythan  not had  a natural  origin"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "node_type": "research_question",
+    "node_text": "What does it mean to be \"SARS-like\"?",
+    "quote": "1.   What   does  itmean    tobe  \"SARS-like\"?"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "node_type": "research_question",
+    "node_text": "How common are furin cleavage sites (FCSs) in natural‑origin SARS‑like viruses?",
+    "quote": "2.   How   common     are FCSs    innatural  origin SARS-like    viruses?"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "node_type": "research_question",
+    "node_text": "Is SARS‑CoV‑2 unusually well adapted to humans?",
+    "quote": "IsSARS-CoV-2      unusually   well adapted   to humans?"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "node_type": "research_question",
+    "node_text": "Should one be more surprised that SARS‑CoV‑2 has the only FCS in the Sarbecovirus if it evolved naturally or was constructed in a lab?",
+    "quote": "The  question   isshould   Ibe  more   surprised  that SARS-CoV-2      has  the  only FCS  in the  Sarbecovirus    ifitevolved   naturally or was   constructed   in a lab?"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "node_type": "research_question",
+    "node_text": "What is the base probability of a lab leak versus a zoonotic event for SARS‑CoV‑2?",
+    "quote": "For both  my decision  making   methods    Ihad  to assess   the base   probability of lab leak  or a zoonotic  event"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "node_type": "research_question",
+    "node_text": "Which probabilities need to be estimated to assess the prior odds of a lab leak versus a zoonotic origin?",
+    "quote": "Inthis debate,  I decided   that Ihad  to estimate   the following  quantities:"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "node_type": "research_question",
+    "node_text": "How can arguments about whether WIV could have made or would have leaked SARS‑CoV‑2 be incorporated into a Bayesian update?",
+    "quote": "I couldn't figure out how   to incorporate  arguments about  whether   WIV  could  have  made,   or would   have  leaked,  SARS-CoV-2      in my  Bayesian   update process."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "node_type": "research_question",
+    "node_text": "Would WIV have leaked SARS‑CoV‑2 if it made it?",
+    "quote": "Would   WIV  have  leaked   SARS-CoV-2      ifitmade   it?"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "node_type": "research_question",
+    "node_text": "What factors influence the probability of a lab leak?",
+    "quote": "I believe the relevant  factors  influencing   the probability  of a lab  leak are:  the goal  of the research,   the  scale  of the  operation  (numbers    of infectious   particles created/year),   the  number    of types  of experiments    - especially those  at multiple  different biosafety   levels or where   samples    are  transported   out of labs,  the laboratory equipment    (e.g. hoods,   respirators,  aerosol  minimizing    lab equipment),    the sterilization  infrastructure (on-site vs. offsite, autoclave/EO/H2O2,       etc.), and  the  training and  experience    of the  lab workers."
+  }
+]

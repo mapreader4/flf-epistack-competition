@@ -1,0 +1,743 @@
+[
+  {
+    "node_id": "hypothesis-f979c2b1b6df830b1d46215ab7a5d804",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-bfa0f4f744a2e30da0c547cd3db00b28",
+    "node_text": "SARS-CoV-2 is substantially more likely to be of zoonotic origin than a product of intentional engineering.",
+    "quote": "I find that  SARS-CoV-2      is substantially   more   likely to be  of zoonotic    origin  than  a product   of intentional  engineering.",
+    "span": [
+      27,
+      164
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9916,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-ab1799903d458745425f711ccdd9fec7",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-bfa0f4f744a2e30da0c547cd3db00b28",
+    "node_text": "Peter, for the zoonosis side, presented the superior case and is the winner of the debate.",
+    "quote": "I believe  that  Peter, for the  zoonosis    side,  presented    the superior   case, and  is the winner   of the  debate.",
+    "span": [
+      165,
+      287
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-f833b1d08be8452cbcbddf0d2a7bc4f1",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-0fbc3ea433183c4345e4d54db6bef476",
+    "node_text": "There is approximately a 1 in 300 chance that SARS-CoV-2 was the result of a lab leak.",
+    "quote": "I concluded   that there  is approximately   a  1  in300  chance   that SARS-CoV-2      was  the  result of a lab leak.",
+    "span": [
+      656,
+      773
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9902,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-34df6c17fd8d132f4d1ecf1e1d3a3fd6",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-c4c22c9803e7f796cd9d7f4b65dd8568",
+    "node_text": "Zoonosis was the more likely cause of SARS-CoV-2.",
+    "quote": "I concluded   that zoonosis   was the more   likely cause  of SARS-CoV-2.",
+    "span": [
+      314,
+      388
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-f314ac8064c4beff974f20f057d13be9",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-c4c22c9803e7f796cd9d7f4b65dd8568",
+    "node_text": "The major factors weighing against a lab leak were the probability that the Wuhan Institute of Virology could carry out DEFUSE‑style work, and the epicenter being HSM.",
+    "quote": "the major  factors weighing   against  LL  were  the  probability that WIV could carry out DEFUSE     style work,  and  the epicenter   being  HSM.",
+    "span": [
+      39,
+      187
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-07127fd0be3a1b8bf66c992bc7fe1b73",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-6831d2885045e005f6e9987a2bdc5591",
+    "node_text": "The Bayesian decision‑making/evaluation methods are not any more \"objective\" than the author's first method.",
+    "quote": "I am skeptical that the Bayesian    decision  making/evaluation     methods    are  any  more  \"objective\" than this method.",
+    "span": [
+      920,
+      1046
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9909,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-f623ac729ff27f7c691421d83866ce67",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-1c969e0cd3d155be671f32278eef32a2",
+    "node_text": "Bayesian analysis maximizes legibility, not objectivity, and tends to hide the intuitive/heuristic portion in the data‑inclusion step and values.",
+    "quote": "Ithink they maximize    legibility,not objectivity, and  tend  to hide   the intuitive/heuristic portion in the  data inclusion  step  and  values,  where   it'sharder   to see.",
+    "span": [
+      0,
+      177
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-5cf682a9dd0253607877d4e7eeabe435",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-67051f9e7c71306b4374029ad59f6d9b",
+    "node_text": "At the fundamental rules‑of‑the‑universe level, Bayesian analysis must be the best way to evaluate evidence.",
+    "quote": "At the fundamental     rules of the  universe  level, Bayesian   analysis  must   be  the best  way  to evaluate   evidence.",
+    "span": [
+      0,
+      124
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-5124b40d13f21341b5dc703037d6debb",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-67051f9e7c71306b4374029ad59f6d9b",
+    "node_text": "It is uncertain whether Bayesian analysis is a good strategy for a human given cognitive limitations, and uncertain whether it is truly used dispassionately where outcomes are driven by social desirability, fame, or Twitter likes.",
+    "quote": "I am unsure that it's a good strategy  for a  human    given  our cognitive  limitations,  and  doubly  unsure   it'struly being  used  (in the dispassionate sense)   where   the outcome    is social  desirability/fame/Twitter   likes.",
+    "span": [
+      132,
+      375
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9858,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-2257f1d2cdfdf46cfe54fdd3b81b1513",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-0fbc3ea433183c4345e4d54db6bef476",
+    "node_text": "SARS‑CoV‑2 more likely than not had a natural origin.",
+    "quote": "Ithink SARS-CoV-2 more   likelythan  not had  a natural  origin",
+    "span": [
+      84,
+      152
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-fa361b5331fdb9eebbbbea6874335be1",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-9da825dcad23048253d616ec1a926688",
+    "node_text": "Zoonotic origin (ZO) is more likely than a laboratory leak (LL).",
+    "quote": "Ifind that ZO ismore likely.",
+    "span": [
+      0,
+      31
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-19ee9656eeef50504f8369d59dbb14fc",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-ab5cacd31ef9b753e0333aad9f586c32",
+    "node_text": "The index case of COVID‑19 was most likely a laboratory worker.",
+    "quote": "LL argued that the index case was most likely to have been a lab worker.",
+    "span": [
+      989,
+      1070
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9722,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-8e2a3464f0705b15f23c652b813504df",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-d560015bff0054da6fc21dedcbe207e1",
+    "node_text": "The laboratory leak could have occurred via aerosolization of virus outside a proper tissue‑culture hood or from improperly contained mouse experiments.",
+    "quote": "LL suggested that the containment breach could have been due to aerosolization of virus outside a proper tissue culture hood, from improperly contained mouse experiments, etc.",
+    "span": [
+      0,
+      202
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-57baa97b33fc6a46540cb1c19bce349f",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-8e33c7d68112de5ab55cb88c1dee614a",
+    "node_text": "The initial laboratory leak could have occurred via environmental release of SARS‑CoV‑2 rather than a lab‑acquired infection (LAI).",
+    "quote": "LL did not strongly consider that the initial laboratory leak could have occurred via environmental release of SARS‑CoV‑2 as opposed to LAI.",
+    "span": [
+      665,
+      820
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9714,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-1ec7423d238050bf8716d720be80d445",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-01b9c30d95ea33957ab7e1a3ee2f7f51",
+    "node_text": "The most plausible zoonotic origin scenario mimics the emergence of SARS‑1.",
+    "quote": "The most plausible ZO scenario mimics the emergence of SARS1.",
+    "span": [
+      133,
+      206
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-22419c6f5db60ea347012efa460ca3eb",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-01b9c30d95ea33957ab7e1a3ee2f7f51",
+    "node_text": "A pangenome of viruses in a single cave could have evolved toward SARS‑CoV‑2.",
+    "quote": "it is also possible that the pangenome of a population of viruses (e.g. those found in a single cave) evolved towards SARS‑CoV‑2.",
+    "span": [
+      706,
+      850
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9767,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-b41e6f4d03aa6758b11477426306236d",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-51a8645e337258a8cdd3ceda575affc7",
+    "node_text": "One farmed animal was infected with a direct SARS‑CoV‑2 ancestor that has the exact genomic architecture of SARS‑CoV‑2.",
+    "quote": "One of these animals is infected with a direct SARS‑CoV‑2 ancestor with the exact genomic architecture of SARS‑CoV‑2.",
+    "span": [
+      403,
+      537
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9658,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-b8f2f7aa1aae209c6dfa937f98ff352d",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-51a8645e337258a8cdd3ceda575affc7",
+    "node_text": "The intermediate host could have been infected with a recombinant SARS‑CoV‑2 ancestor lacking key features such as the furin cleavage site (FCS) and the A372 mutation.",
+    "quote": "It is also possible that the intermediate host was infected with a recombinant SARS‑CoV‑2 ancestor not containing key features like the FCS and other mutations (e.g. A372).",
+    "span": [
+      536,
+      734
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9767,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-8c7312a9fa877c44cd31f1cbe169576b",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-51a8645e337258a8cdd3ceda575affc7",
+    "node_text": "If the virus lacked key features (e.g., FCS) during spillover, it quickly acquired them afterwards.",
+    "quote": "if the virus did not have these features during spillover, it quickly gained them.",
+    "span": [
+      766,
+      856
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9634,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-757b9b52675adbc6bdd8b09408233b8a",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-c609cabce72e6dde3156c333856e4567",
+    "node_text": "Two separate spillover events of lineage A and lineage B SARS‑CoV‑2 occurred within the Huanan Seafood Market (HSM) in the relevant timeframe.",
+    "quote": "ZO argued that there were two spillover events of lineage A and lineage B SARS‑CoV‑2 within the HSM market in this timeframe.",
+    "span": [
+      17,
+      157
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.984,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-037763ea7dc6a5b5278ae7d01484b583",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-c609cabce72e6dde3156c333856e4567",
+    "node_text": "The Huanan Seafood Market contained the index cases (not just the first ascertained case) and was the first superspreading event of SARS‑CoV‑2.",
+    "quote": "ZO also argued that HSM contains the index cases (not just first ascertained) and was the first superspreading event of SARS‑CoV‑2.",
+    "span": [
+      158,
+      309
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9695,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-d995cfccca104c46d805889f1703951f",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-e760291b8eece2f092b4dc8ecf584875",
+    "node_text": "The observed lack of multiple spillovers or prior infections supports the laboratory‑leak hypothesis.",
+    "quote": "I think the observed lack of multiple spillovers or prior infections supports the lab leak hypothesis.",
+    "span": [
+      126,
+      238
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9902,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-8b20559aa7f7f13aa440578a5163056c",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-74665e720718aee296d1075f61303b38",
+    "node_text": "The high binding efficiency of the SARS‑CoV‑2 spike protein to human ACE2, the presence of the furin cleavage site, its local genetic context, the nucleotides encoding the FCS, the virus’s evolutionary rate, and the T372A mutation are all unusual features that would not be expected from a randomly selected Sarbecovirus, implying a laboratory origin.",
+    "quote": "LL claims that the high binding efficiency of the SARS‑CoV‑2 spike protein to human ACE2, the existence of the FCS, the local genetic context (cleanness of insert) of the FCS, the nucleotides encoding the FCS, the rate of SARS‑CoV‑2 evolution, and the N‑glycan pattern (T372A mutation) are all unusual features that would not be expected (or have never been observed) from a randomly selected Sarbecovirus.",
+    "span": [
+      17,
+      490
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9803,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-08496a9a7c6460dae5a6736110d7fcd9",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-ef2f7a61073686a461e8a5a9cbe386c8",
+    "node_text": "Under a laboratory‑leak scenario, a low early mutation rate of SARS‑CoV‑2 in humans is expected.",
+    "quote": "Under Lab Leak: The low early mutation rate is expected under DEFUSE style research, which screened for RBDs that match human ACE2.",
+    "span": [
+      34,
+      191
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9924,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-51f7d257763fd62ec0317aff03b7fc3f",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-ef2f7a61073686a461e8a5a9cbe386c8",
+    "node_text": "DEFUSE‑style research that optimizes the receptor‑binding domain (RBD) would only pre‑adapt the RBD and would not place the rest of the genome under selection.",
+    "quote": "DEFUSE style research optimizing the RBD would only lead to pre‑adaptation of the RBD. The rest of the genome should not be under selection.",
+    "span": [
+      194,
+      357
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9929,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-8720e07b7e7420b14bad682aab490381",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-ef2f7a61073686a461e8a5a9cbe386c8",
+    "node_text": "During construction of gain‑of‑function (GOF) mutants, viral passaging could have allowed pre‑adaptation of the whole genome.",
+    "quote": "One plausible response would be that during construction of GOF mutants, the viral passaging that occurred allowed pre‑adaptation.",
+    "span": [
+      565,
+      713
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9923,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-0ac0c90dbbe719fd30003bdb2565cc80",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-d560015bff0054da6fc21dedcbe207e1",
+    "node_text": "A laboratory worker who acquired the index infection could remain asymptomatic yet spread the virus outside the lab.",
+    "quote": "The lab worker that acquires the index infection does not develop significant symptoms, but spreads the virus outside the lab.",
+    "span": [
+      346,
+      490
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-5841f7c3df632e5a233ed8b05eb67f00",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-d560015bff0054da6fc21dedcbe207e1",
+    "node_text": "The initial lab‑acquired infection (LAI) occurred in late September 2019, after which the virus spread slowly through the community with primarily abortive transmission.",
+    "quote": "LL argued that the initial LAI was in late September 2019, after which the virus spread slowly through the community with primarily abortive transmission.",
+    "span": [
+      633,
+      807
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9935,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-fe1831c29bb0daf026c3af52245be1db",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-d560015bff0054da6fc21dedcbe207e1",
+    "node_text": "After a later infection at the Huanan Seafood Market, the market became the first superspreading event.",
+    "quote": "At some point, the virus infects someone at HSM, and the HSM then becomes the first superspreading event.",
+    "span": [
+      808,
+      932
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9905,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-03c51fd05189443cb775de53ae00088d",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-93b1c7698deb2ad665fdc0472cb2cd75",
+    "node_text": "The Huanan Seafood Market’s limited ventilation, cold temperatures, organic matter on surfaces, and unique visitor population made it the most likely location for the first superspreading event.",
+    "quote": "LL argued that HSM had several properties that would make it the most likely place for the first superspreading event to be ascertained including: the limited ventilation (increased particulates/unit volume), cold temperatures and organic matter coating many surfaces (longer fomite survival times), and unique population (many of the same visitors in close proximity).",
+    "span": [
+      0,
+      420
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9946,
+    "chunk_match": "fuzzy",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-935471948492408691dd9580b1762cd2",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-bdfa8f18cfaa35a953c5b0b29b3325a8",
+    "node_text": "The base rate of pathogen leakage from labs is much higher than popularly believed (as concluded by the lab‑leak side).",
+    "quote": "The conclusion was that the base   rate of leakage   of pathogens   from  lab is much   higher  than  popularly believed.",
+    "span": [
+      697,
+      839
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-b34753bca0f981673b8d54ccc978d896",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-bdfa8f18cfaa35a953c5b0b29b3325a8",
+    "node_text": "WIV practices for working with infectious viruses were particularly bad and substantially increased the likelihood of release (as argued by the lab‑leak side).",
+    "quote": "WIV  practices   forworking   with infectious  viruses  were  particularly bad  and  substantially  increased the likelihood  of release.",
+    "span": [
+      843,
+      989
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-f7ae64dcf42684b1ef9996f2a742756a",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-a6d27dd04df1dcc5307cf6e461eefd8b",
+    "node_text": "BSL‑2 was woefully insufficient for the work proposed (as believed by most researchers, including some DEFUSE authors).",
+    "quote": "Most researchers,   including  some   of the DEFUSE     authors,  believed   that BSL-2   was  woefully insufficient forthe  work  they  proposed.",
+    "span": [
+      186,
+      350
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-8d3a134c076acf95bfd22b9522f0ec4f",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-a6d27dd04df1dcc5307cf6e461eefd8b",
+    "node_text": "Biotech trends over the last twenty years increase the baseline probability of lab leaks (as claimed by the lab‑leak side).",
+    "quote": "Biotech  trends  over  the last twenty  years  allincrease   the baseline   probability of lab leaks.",
+    "span": [
+      354,
+      455
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-53e3742a8948f94e06caba99e5a53501",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-a6d27dd04df1dcc5307cf6e461eefd8b",
+    "node_text": "There is a small probability of leak from any BSL‑2/3/4 lab (as stated by the lab‑leak side).",
+    "quote": "there is a (small) probability of leak  from  any BSL-2/3/4    lab",
+    "span": [
+      674,
+      749
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-eba3a6b1b140da21d646a6c2d5dc4095",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-a6d27dd04df1dcc5307cf6e461eefd8b",
+    "node_text": "More labs doing more work (because of cheaper tools) linearly increases the risk of lab leaks (as asserted by the lab‑leak side).",
+    "quote": "more  labs  doing  more  work   (because   of cheaper tools) linearly increases   thisrisk.",
+    "span": [
+      756,
+      856
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-ffa0330b6f0557e5804ffc1fd2505c0c",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-31b6998a57958445ff08a7effefa9b80",
+    "node_text": "WIV practices for doing gain‑of‑function (GOF) work were substantially inadequate (as the author concluded after being convinced by the lab‑leak side).",
+    "quote": "WIV   practices  for doing  GOF    work  were   substantially  inadequate.",
+    "span": [
+      308,
+      382
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-2e974bc99510593cb1d4749bdfbc9a2f",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-bdfa8f18cfaa35a953c5b0b29b3325a8",
+    "node_text": "If the author were more comfortable with Bayesian analytical methods and mathematically more gifted, they could have incorporated arguments about WIV’s ability to make or leak SARS‑CoV‑2 in a better way.",
+    "quote": "I suspect  that ifIwere  more   comfortable   with Bayesian    analytical methods    and  mathematically    more   gifted,I could  have done  this a better way.",
+    "span": [
+      333,
+      493
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "hypothesis-4a4bb8e92f1f43d823dab06a7e3b4a0a",
+    "node_type": "hypothesis",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-b1cd8df391a5567e43324869074778ba",
+    "node_text": "The probability of a lab leak is influenced by the goal of the research, the scale of the operation (numbers of infectious particles created per year), the number of types of experiments (especially those at multiple biosafety levels or with sample transport), the laboratory equipment, the sterilization infrastructure, and the training and experience of lab workers (as believed by the author).",
+    "quote": "I believe the relevant  factors  influencing   the probability  of a lab  leak are:  the goal  of the research,   the  scale  of the  operation  (numbers    of infectious   particles  created/year),   the  number    of types  of experiments    - especially those  at multiple  different biosafety   levels or where   samples    are  transported   out of labs,  the laboratory equipment    (e.g. hoods,   respirators,  aerosol  minimizing    lab equipment),    the sterilization  infrastructure (on-site vs. offsite, autoclave/EO/H2O2,       etc.), and  the  training and  experience    of the  lab workers.",
+    "span": [
+      0,
+      604
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  }
+]

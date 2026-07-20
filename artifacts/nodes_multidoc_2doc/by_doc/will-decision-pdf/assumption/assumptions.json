@@ -1,0 +1,249 @@
+[
+  {
+    "node_id": "assumption-b50b96bf30b140bfe5dc1ac6eee514db",
+    "node_type": "assumption",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-bfa0f4f744a2e30da0c547cd3db00b28",
+    "node_text": "The judge assumes that he should rely on claims made by the debaters to the greatest degree possible.",
+    "quote": "subject to the constraint that I would rely on (to the greatest degree possible) claims made by the debaters.",
+    "span": [
+      428,
+      553
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9725,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "assumption-3769540bb39310c401955240f3566549",
+    "node_type": "assumption",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-84048df3b7c151dc3ac1bc9c3cc23a97",
+    "node_text": "The judge assumes that giving the benefit of the doubt to a side's claims is appropriate when the other side does not contest them.",
+    "quote": "Give the benefit of the doubt to each side's claims when the other side did not contest them",
+    "span": [
+      62,
+      168
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9891,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "assumption-c9bb8fa1da19707f4ac9629e1e9770d6",
+    "node_type": "assumption",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-84048df3b7c151dc3ac1bc9c3cc23a97",
+    "node_text": "The judge assumes that only sources listed by the debaters should be read and analyzed.",
+    "quote": "Read/analyze only sources that were listed by the debaters",
+    "span": [
+      174,
+      243
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9828,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "assumption-caa7b6379ce9706b20e0dfdb5c25944a",
+    "node_type": "assumption",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-84048df3b7c151dc3ac1bc9c3cc23a97",
+    "node_text": "The judge assumes that his own analysis should be used only when he feels the debaters misrepresented evidence or made a claim that wasn't supported by the cited evidence.",
+    "quote": "Rely on my own analysis only when I felt the debaters misrepresented their evidence or made a claim that wasn't supported by the cited evidence",
+    "span": [
+      253,
+      425
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.993,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "assumption-faf679b3e47bfcbd516048bfc0346191",
+    "node_type": "assumption",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-84048df3b7c151dc3ac1bc9c3cc23a97",
+    "node_text": "The judge assumes that he should not be influenced by who he thought performed better debating rhetorically or strategically.",
+    "quote": "Not to be influenced by who I thought did the better \"debating\" either rhetorically or strategically",
+    "span": [
+      435,
+      543
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.99,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "assumption-2f97d98129ece7b6153bca72d61283be",
+    "node_type": "assumption",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-6831d2885045e005f6e9987a2bdc5591",
+    "node_text": "The judge assumes that both parties have extremely high integrity and are not willfully dishonest.",
+    "quote": "I don't believe this was willful dishonesty - I believe both parties have extremely high integrity.",
+    "span": [
+      0,
+      110
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9697,
+    "chunk_match": "fuzzy",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "assumption-991dcba348f61170f9d2d04f55b9ca59",
+    "node_type": "assumption",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-67051f9e7c71306b4374029ad59f6d9b",
+    "node_text": "The judge assumes that Bayesian analysis must be the best way to evaluate evidence at the fundamental rules of the universe level.",
+    "quote": "At the fundamental rules of the universe level, Bayesian analysis must be the best way to evaluate evidence.",
+    "span": [
+      0,
+      124
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "assumption-d1071e5dac121a37d441288b69a1bc07",
+    "node_type": "assumption",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-67051f9e7c71306b4374029ad59f6d9b",
+    "node_text": "The judge assumes that Bayesian analysis may not be a good strategy for humans because of cognitive limitations.",
+    "quote": "I am unsure that it's a good strategy for a human given our cognitive limitations",
+    "span": [
+      137,
+      227
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.963,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "assumption-2d6dc0d5c250e32098dffb86fd3ea029",
+    "node_type": "assumption",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-67051f9e7c71306b4374029ad59f6d9b",
+    "node_text": "The judge assumes that his background as a scientist gives him direct experience with many administrative, physical, and theoretical portions of the debate.",
+    "quote": "My background as a scientist, both in academic settings, and running a startup, give me direct experience with many of the administrative (e.g. grant writing/execution), physical (e.g. fermentation and sterilization), and theoretical (e.g. evolutionary dynamics of pathogen adaptations) portions of this debate.",
+    "span": [
+      671,
+      1024
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "assumption-b66fd2f99753ed3996b2870080439ca8",
+    "node_type": "assumption",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-f486facd0a7f4474cab280d247721b1c",
+    "node_text": "The judge assumes that his limited knowledge of virology and molecular biology reduces his confidence in his decision.",
+    "quote": "Conversely, my knowledge of virology and molecular biology is limited; the fact I am extrapolating from work in bacteria and research methods used for bacteria reduces my confidence in my decision.",
+    "span": [
+      0,
+      232
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9949,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "assumption-87dd3f160b2e2bf881c4b869606994f2",
+    "node_type": "assumption",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-f486facd0a7f4474cab280d247721b1c",
+    "node_text": "The judge assumes that heuristics learned from debate influence his decision making.",
+    "quote": "the heuristics I learned in debate for evaluating the truth of a claim when I couldn't understand/know the source material definitely influenced my decision making.",
+    "span": [
+      460,
+      648
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9969,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "assumption-b7d80193701a38f6e43036f6f4d9cf66",
+    "node_type": "assumption",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-04a06c938fc3b595613f31194be34054",
+    "node_text": "The starting odds ratio for lab leak versus zoonotic origin can be expressed as the product of the probability that WIV made SARS‑CoV‑2 by 2019 and the probability that WIV leaked SARS‑CoV‑2 in 2019 divided by the product of the probability that natural processes made SARS‑CoV‑2 by 2019 and the probability that zoonotic processes leaked SARS‑CoV‑2 in 2019.",
+    "quote": "P0(LL)  /P0(ZO)    = [P(WIV   made   SARS-CoV-2      by 2019)   *P(WIV    leaked  SARS-CoV-2      in2019)]  /[P(Natural  processes   made    SARS-CoV-2     by  2019)  * P(Zoonotic   processes    leaked  SARS-CoV-2      in  2019)]",
+    "span": [
+      320,
+      548
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9944,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "assumption-f382dd5c4b35779f6d33bf15897a01c7",
+    "node_type": "assumption",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-bdfa8f18cfaa35a953c5b0b29b3325a8",
+    "node_text": "The base rate of pathogen leakage from laboratories is much higher than popularly believed.",
+    "quote": "The conclusion   was  that the base   rate of leakage   of pathogens   from  lab is much   higher  than  popularly believed.",
+    "span": [
+      697,
+      839
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  }
+]

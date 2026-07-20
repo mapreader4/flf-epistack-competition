@@ -1,0 +1,705 @@
+[
+  {
+    "node_id": "quantitative_result-58380104c7f622ab1bb259384551c0e4",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-0fbc3ea433183c4345e4d54db6bef476",
+    "node_text": "Judge's prior odds of lab leak to zoonosis (P0(LL)/P0(ZO)) = 1.7E-3",
+    "quote": "P0(LL)  /P0(ZO)    = 1.7E-3",
+    "span": [
+      490,
+      517
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-aaad6d997d9b73bfb29aa17b74b924ef",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-0fbc3ea433183c4345e4d54db6bef476",
+    "node_text": "Judge's odds ratio of lab leak to zoonosis after updates (P(LL)/P(ZO)) = 2.125",
+    "quote": "P(LL)  /P(ZO)   = 2.125",
+    "span": [
+      563,
+      586
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-76fc5adb745f382622999daaad949c81",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-0fbc3ea433183c4345e4d54db6bef476",
+    "node_text": "Judge's combined odds (P0(LL)/P0(ZO) * P(LL)/P(ZO)) = 3.6E-3",
+    "quote": "P0(LL)  /P0(ZO)    *P(LL)  / P(ZO)  =  3.6E-3",
+    "span": [
+      609,
+      654
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-11d41f8281c9bee3dc16e85f54c47ba7",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-0fbc3ea433183c4345e4d54db6bef476",
+    "node_text": "Judge's estimated probability that SARS-CoV-2 resulted from a lab leak is approximately 1 in 300",
+    "quote": "approximately   a 1  in300  chance",
+    "span": [
+      684,
+      718
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-b2b895eeec50a32826abd1aa6c14e284",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-0fbc3ea433183c4345e4d54db6bef476",
+    "node_text": "Judge spent approximately 70 hours evaluating and synthesizing arguments/evidence",
+    "quote": "~70  hours  of time spent",
+    "span": [
+      238,
+      263
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-d6e75daa2bf59e23c04ff91ac3a21741",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-c4c22c9803e7f796cd9d7f4b65dd8568",
+    "node_text": "Debates lasted approximately 18 hours",
+    "quote": "lasted ~18  hours",
+    "span": [
+      430,
+      447
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-9b264609e3ec49c3a6bf7eecc0199573",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-c4c22c9803e7f796cd9d7f4b65dd8568",
+    "node_text": "Judge reviewed over 750 slides",
+    "quote": "over 750  slides",
+    "span": [
+      468,
+      484
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-8bbf614c587fddfb82377e9710eecbb1",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-67051f9e7c71306b4374029ad59f6d9b",
+    "node_text": "Judge has worked in the field for approximately 10 years",
+    "quote": "past 10  years",
+    "span": [
+      556,
+      570
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-260abffc397672026782c6d33d2b8509",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "chunk_id": "chunk-f486facd0a7f4474cab280d247721b1c",
+    "node_text": "Judge has judged hundreds of debates",
+    "quote": "hundreds    of debates",
+    "span": [
+      364,
+      386
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-0b3d38c66ab0069ff828997231df56e0",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-01b9c30d95ea33957ab7e1a3ee2f7f51",
+    "node_text": "The estimated divergence time between the SARS-CoV-2 ancestor and a RaTG13-like ancestor is 40 to 70 years.",
+    "quote": "the ancestor to SARS-CoV-2 must have diverged from an RATG13-like ancestor 40-70 years ago",
+    "span": [
+      275,
+      383
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-634a7b9f34009e1dd71858637faacf43",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-ab5cacd31ef9b753e0333aad9f586c32",
+    "node_text": "Each graduate student is estimated to have about two research projects.",
+    "quote": "perhaps each grad student has ~2 research projects",
+    "span": [
+      81,
+      140
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-6d88abd06a2615a10e1bd07d3cb4b316",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-a292560820872950dd3c451be030010d",
+    "node_text": "The grant was described as 30% completed and 70% to be done.",
+    "quote": "I was taught to write grants that were \"30% completed and 70% to be done\"",
+    "span": [
+      665,
+      749
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9863,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-582ada80de125be3cbd9c71a7d82104c",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-d560015bff0054da6fc21dedcbe207e1",
+    "node_text": "There were at least three documented cases of SARS‑1 escape from laboratories due to biosafety failures.",
+    "quote": "as there were at least 3 cases of SARS1 escape from labs due to improper biosafety procedures.",
+    "span": [
+      237,
+      345
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9894,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-e7db84325c27990d040ece78653ee6d0",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-db6e4792f7aaa76a3c907f6347b39a2e",
+    "node_text": "The 1979 anthrax lab leak released between 0.5 and 1 kilogram of biological material.",
+    "quote": "1979 Anthrax - this lab leak occurred due to the release of 0.5-1 kg of biological material",
+    "span": [
+      327,
+      429
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-638bde97b6ed20d482e7da44f5ab46f5",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-db6e4792f7aaa76a3c907f6347b39a2e",
+    "node_text": "The anthrax spores released in the 1979 incident were between 0.001 and 1 gram.",
+    "quote": "containing between 0.001 and 1 gram of anthrax spores",
+    "span": [
+      468,
+      534
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9811,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-0ae652d5fbd21af8da8fe59c72b7c86d",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-a15a557228c090eb9f647515bc9238a5",
+    "node_text": "The Sverdlovsk facility operated at 3 to 4 orders of magnitude greater scale than the Wuhan facility.",
+    "quote": "the leak from Sverdlovsk occurred from a facility operating at 3-4 orders of magnitude greater scale",
+    "span": [
+      0,
+      117
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-09034024c776a19db6ed5985c1c66492",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-82cb267c18c3c566e7cd81b4d7c3f9d0",
+    "node_text": "Immediately prior to the 2007 foot‑and‑mouth disease leak, 6,000 liters (possibly 12,000) of cell‑culture media were used.",
+    "quote": "Immediately prior to the leak, 6000 liters(possibly 12,000) of cell culture media was used",
+    "span": [
+      469,
+      572
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-5bcf9d720daa0cffdb9a2141d097a85e",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-0dcb354710dea57418157b0ffd955089",
+    "node_text": "3850 blood‑bank samples collected from September to December 2019 showed no positive antibodies.",
+    "quote": "3850 blood bank samples from Sep-Dec 2019 show no positives for antibodies",
+    "span": [
+      202,
+      300
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-bd11ad89f4ccb8ee72316684a431984f",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-0dcb354710dea57418157b0ffd955089",
+    "node_text": "640 throat swabs collected between 6 Oct 2019 and 21 Jan 2020 yielded no positives in 2019 and nine positives in 2020.",
+    "quote": "640 throat swabs Oct 6th - Jan 21st 2020. No positives in 2019, 9 in 2020.",
+    "span": [
+      349,
+      440
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-685405134d812869d5c46a74618c3a39",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-1123d84c32b735cde5abd9ef3cf59f73",
+    "node_text": "A follow‑up of 92 influenza‑like‑illness cases identified 67 cases, none of which had antibodies.",
+    "quote": "followed up on 92 ILI cases later, could find only 67, none with antibodies.",
+    "span": [
+      45,
+      136
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9868,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-9aa140cccb9d40671859acaf32a35d33",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-7f296190021a5fca3c3c35234b3e02c6",
+    "node_text": "The 2021 SARS‑CoV‑2 strain exhibited approximately 10 % of the mutations expected for a strain derived from the 2014 outbreak.",
+    "quote": "the 2021 strain shows approximately ~10% of the expected mutations for a strain derived from the 2014 outbreak",
+    "span": [
+      524,
+      653
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9909,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-1321c669f47d887258bed1a4171eed5b",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-dc652678b9fc2aafd2bade5dc22ec5fa",
+    "node_text": "SARS‑CoV‑2 appears to have a mutation rate in deer about 35 % faster than in early humans.",
+    "quote": "the virus appears to have a slightly faster mutation rate in deer than it did in early humans (~35%).",
+    "span": [
+      352,
+      464
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9802,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-20a21a3a8fb2c0a4dc4f48beb6fda3b4",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-fdf6c6ea29ff991fe60c8ad8dcfad4bc",
+    "node_text": "Early SARS‑CoV‑2 variants in white‑tailed deer evolved at roughly 76 % of the rate observed in humans across five genomic regions.",
+    "quote": "early variants evolved at ~76% the rate in humans compared to white tailed deer when averaged across 5 genomic regions",
+    "span": [
+      293,
+      433
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-4067532ecb8b115ab0267a057ee06e8b",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-fdf6c6ea29ff991fe60c8ad8dcfad4bc",
+    "node_text": "Mink early‑evolution rates were reported to be nine times higher than human rates.",
+    "quote": "LL also cites mink early evolution rates being 9x human",
+    "span": [
+      624,
+      685
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-2871c34de2293d1e9cc1e9e98817503f",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-fdf6c6ea29ff991fe60c8ad8dcfad4bc",
+    "node_text": "The source cited by the LL side was judged to be about one order of magnitude higher than five other papers.",
+    "quote": "ZO contests that the source LL chose is substantially higher (~1 order of magnitude by eye) than 5 other papers",
+    "span": [
+      694,
+      820
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-838ccc942731b8dc719b4bb3a49a3c8c",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-5af5928ee824988d0cc53e3abbc0a0b5",
+    "node_text": "The probability of a zoonotic pandemic emergence in Wuhan, conditioned on it being a coronavirus in China, is estimated at roughly 1 %.",
+    "quote": "the probability of zoonotic emergence of a pandemic in Wuhan (conditioned on it being a coronavirus in China) is~1%.",
+    "span": [
+      672,
+      808
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9914,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-f44c9bd6c60c244091cf220620ed27bd",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-5af5928ee824988d0cc53e3abbc0a0b5",
+    "node_text": "The ZO side argued that the probability could be as high as 5 % based on certain claims.",
+    "quote": "ZO argues for up to 5% based on some claims",
+    "span": [
+      809,
+      860
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-6796628759f9df27c15896d00699c465",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-44382f33baab7dd2b4a59bef743bbcf9",
+    "node_text": "Yuri reported that SARS‑CoV‑2 differs from related viruses by about 3 % at the nucleotide level and 1 % at the amino‑acid level.",
+    "quote": "Yuri: ~3% NT, 1% AA difference",
+    "span": [
+      130,
+      165
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-55c867d16e2d326f412bc101d8e25ad7",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-44382f33baab7dd2b4a59bef743bbcf9",
+    "node_text": "BANAL‑52 shares 77 out of 78 amino‑acid residues in the RBM and 175 out of 180 residues in the RBD with SARS‑CoV‑2.",
+    "quote": "BANAL-52 has 77/78 and 175/180 AA identity in RBM and RBD, respectively",
+    "span": [
+      167,
+      251
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-231320f9cb40c02fd1eba878176de51f",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-436f8121aa4a324f11fa0e0f18850be8",
+    "node_text": "RmYN02 shares 93.3 % overall nucleotide identity with SARS‑CoV‑2.",
+    "quote": "RmYN02 - with 93.3% overall nucleotide identity",
+    "span": [
+      847,
+      901
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-20f16d3765c232ea255fdfa912dc204d",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-436f8121aa4a324f11fa0e0f18850be8",
+    "node_text": "Four of the five Betacoronavirus subgenera each contain at least one taxon with a furin cleavage site.",
+    "quote": "Four of five of the subgenera of Betacoronavirus contain at least one taxon with an FCS",
+    "span": [
+      391,
+      489
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-bad6f2357e18d1e2771314279b9fc670",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-8c78d6fd0d563735be03bbfcc4455890",
+    "node_text": "At least four closely related coronaviruses have insertions at the S1/S2 junction.",
+    "quote": "at least four closely related coronaviruses have insertions at the S1/S2 junction",
+    "span": [
+      294,
+      383
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-715e9343c36fef8361d68b57bb40a8f6",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-fe4749f6a183036afc70201bf105833d",
+    "node_text": "The Betacoronavirus genus comprises five subgenera.",
+    "quote": "The genus containing the SARS viruses (Betacoronavirus) has five subgenera.",
+    "span": [
+      737,
+      825
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-de98bfeb1b80e011a00fe5acce7afb20",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "2",
+    "chunk_id": "chunk-fe4749f6a183036afc70201bf105833d",
+    "node_text": "The Sarbecovirus subgenus contains five taxa.",
+    "quote": "Subgenus: Sarbecovirus (5)",
+    "span": [
+      377,
+      408
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-a77daee8db0b4d78101eee8893037b68",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-56d3596c5578aadede08f826dba233bd",
+    "node_text": "The full spreadsheet referenced in the analysis contains more than 10,000 words of explanation.",
+    "quote": "fullspreadsheet   as  itcontains  >10,000   words   of explanation.",
+    "span": [
+      121,
+      188
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-3b87e63ddba0e6874aa5374078c063b3",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-bdfa8f18cfaa35a953c5b0b29b3325a8",
+    "node_text": "The LL side cited four leaks of SARS1 as examples of previous lab leaks.",
+    "quote": "including  four leaks  of SARS1.",
+    "span": [
+      664,
+      696
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "quantitative_result-8ff77cd4bcf13b558b85e74c0c0eda16",
+    "node_type": "quantitative_result",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-a6d27dd04df1dcc5307cf6e461eefd8b",
+    "node_text": "The biotech trends considered span the last twenty years, which are said to increase the baseline probability of lab leaks.",
+    "quote": "over the last twenty  years  allincrease   the baseline   probability of lab leaks.",
+    "span": [
+      371,
+      455
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  }
+]

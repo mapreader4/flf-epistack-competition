@@ -1,0 +1,14 @@
+[
+  {
+    "section_number": "1.2",
+    "node_type": "evidence",
+    "node_text": "Nonsynonymous mutations tend to yield amino acids with similar chemical properties more often than would be expected from a randomly designed genetic code.",
+    "quote": "and nonsynonymous mutations tend to yield amino acids with similar chemical properties, or at least more often than one would expect from a randomly designed genetic code."
+  },
+  {
+    "section_number": "5.1",
+    "node_type": "evidence",
+    "node_text": "In those simulations, when such a tree occurs it is usually because an early infection underwent two successive mutations rapidly.",
+    "quote": "when this does happen, it is usually because an early infection underwent two successive mutations rapidly."
+  }
+]

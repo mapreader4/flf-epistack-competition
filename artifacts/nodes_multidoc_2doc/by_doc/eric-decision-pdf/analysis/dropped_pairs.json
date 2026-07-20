@@ -1,0 +1,38 @@
+[
+  {
+    "section_number": "1.2",
+    "node_type": "analysis",
+    "node_text": "The genetic code is not random because mutations tend to be synonymous and nonsynonymous mutations tend to yield amino acids with similar chemical properties more often than would be expected from a randomly designed genetic code.",
+    "quote": "The genetic code is not random: mutations tend to be synonymous, and nonsynonymous mutations tend to yield amino acids with similar chemical properties, or at least more often than one would expect from a randomly designed genetic code."
+  },
+  {
+    "section_number": "4.1",
+    "node_type": "analysis",
+    "node_text": "Because most individuals stay in roughly one area during illness, the contact graph becomes approximately two‑dimensional.",
+    "quote": "As most individuals generally stay in roughly one area on the surface of the Earth during their illness, the contact graph becomes approximately two-dimensional."
+  },
+  {
+    "section_number": "4.3",
+    "node_type": "analysis",
+    "node_text": "Transmission analysis from location to location is more difficult than person‑to‑person because locations vary widely in prominence, and locations associated with more people have a much higher chance of outbreaks.",
+    "quote": "Looking at transmission from location to location is much harder than person to person because locations vary wildly in how prominent they are: locations associated with more people will of course have a much higher chance of having outbreaks."
+  },
+  {
+    "section_number": "4.5.4",
+    "node_type": "analysis",
+    "node_text": "For a protocluster of n cases outside HSM, the total number of people infected by those n cases has mean n μ and variance n σ².",
+    "quote": "If we consider a protocluster of n cases at one location (outside of HSM), the number of people infected in total by those n people has mean nμ and variance nσ2."
+  },
+  {
+    "section_number": "5.1",
+    "node_type": "analysis",
+    "node_text": "When a single introduction does produce such a tree, the simulations indicate it is usually because an early infection underwent two successive mutations rapidly.",
+    "quote": "when this does happen, it is usually because an early infection underwent two successive mutations rapidly."
+  },
+  {
+    "section_number": "7.5",
+    "node_type": "analysis",
+    "node_text": "The author identifies two remaining observations: a strange 12-nucleotide insert that creates a furin cleavage site, and a strong affinity of SARS-CoV-2 for binding to human ACE2 compared with other species.",
+    "quote": "What we are left with is two observations: the strange 12 nucleotide insert creating a furin cleavage site, and the strong affinity of sars-cov-2 to bind to human ACE2 over other species."
+  }
+]

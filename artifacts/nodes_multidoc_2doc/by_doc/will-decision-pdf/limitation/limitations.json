@@ -1,0 +1,211 @@
+[
+  {
+    "node_id": "limitation-d11ee39c9ee487448d25866db836eed7",
+    "node_type": "limitation",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-56d3596c5578aadede08f826dba233bd",
+    "node_text": "Both parties in the debate did not spend enough time establishing what the prior odds should have been for the Bayesian analysis.",
+    "quote": "neither side spent enough time in this debate establishing what my prior odds should have been",
+    "span": [
+      471,
+      577
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9787,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-e69c2bb52e73d7ad7674b168abd736c9",
+    "node_type": "limitation",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-04a06c938fc3b595613f31194be34054",
+    "node_text": "The author could not determine how to incorporate arguments about whether the Wuhan Institute of Virology could have made or leaked SARS‑CoV‑2 into the Bayesian update process.",
+    "quote": "I couldn't figure out how to incorporate arguments about whether WIV could have made, or would have leaked, SARS-CoV-2, in my Bayesian update process",
+    "span": [
+      613,
+      785
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9866,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-7f57c0c5bbed2f5a3d18309b34dc0e0c",
+    "node_type": "limitation",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-bdfa8f18cfaa35a953c5b0b29b3325a8",
+    "node_text": "The author acknowledges that a greater comfort with Bayesian analytical methods and higher mathematical ability would have allowed a better incorporation of such arguments.",
+    "quote": "I suspect that if I were more comfortable with Bayesian analytical methods and mathematically more gifted, I could have done this a better way",
+    "span": [
+      331,
+      493
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9789,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-b87d769ae06c2c26ee3f9d20a075b06c",
+    "node_type": "limitation",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-e958cb3c94bf47bd6e086a40989cadc7",
+    "node_text": "The lab‑leak side (LL) defended only a laboratory‑acquired infection (LAI) scenario and did not consider environmental‑release scenarios despite prompting.",
+    "quote": "LL really only defended an LAI scenario, even when I prompted them to consider an environmental release",
+    "span": [
+      258,
+      381
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-a3384fc98c1b66556a8d8877d07dc662",
+    "node_type": "limitation",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-e958cb3c94bf47bd6e086a40989cadc7",
+    "node_text": "The LL side claimed agnosticism to the pathogen’s release mechanism but never actually discussed alternative release scenarios.",
+    "quote": "they never discussed these scenarios",
+    "span": [
+      610,
+      652
+    ],
+    "section_match_tier": "exact",
+    "section_match_score": 1.0,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-7bed301cb69e418c7cbaa74df52384d6",
+    "node_type": "limitation",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-31b6998a57958445ff08a7effefa9b80",
+    "node_text": "In‑depth assessments of per‑year lab‑leak probabilities from various sources were not included in the debate, and the author did not examine them extensively because neither side raised them.",
+    "quote": "There are in depth assessments of per-year lab leak probabilities from a variety of sources, but those were not included in this debate, and I didn't look into them extensively because neither side brought them up",
+    "span": [
+      0,
+      248
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9953,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-b554891f7aafd98e1330ea460060bbd7",
+    "node_type": "limitation",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-31b6998a57958445ff08a7effefa9b80",
+    "node_text": "The data cited about WIV practices modify the probability of a laboratory‑acquired infection but provide little information about the possibility of environmental release.",
+    "quote": "The cited data modify the probability of LAI, but don't speak much to environmental release, etc.",
+    "span": [
+      586,
+      697
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9897,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-60eee7de973fc803a0e7a7d2de3d53c7",
+    "node_type": "limitation",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-31b6998a57958445ff08a7effefa9b80",
+    "node_text": "The author found it difficult to evaluate claims about biotech trends and was uncertain how to weight the many factors influencing leak probability.",
+    "quote": "It was hard to evaluate these claims",
+    "span": [
+      714,
+      754
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9722,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-087940f8226b1dcd95fc31aefc00008d",
+    "node_type": "limitation",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-13a59188e6865ca6cec9d1d77d93142d",
+    "node_text": "The author was unsure how to assess the impact of cheaper sequencing and the increase in BSL‑3/4 labs on the probability of a leak from the Wuhan Institute of Virology.",
+    "quote": "I am not sure how to evaluate that in the context of a leak from WIV",
+    "span": [
+      408,
+      485
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9853,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-85f2b7d63bcb042020c9343eac789312",
+    "node_type": "limitation",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-13a59188e6865ca6cec9d1d77d93142d",
+    "node_text": "Relevant evidence about the specific activities at the Wuhan Institute of Virology that could inform leak probability was lacking.",
+    "quote": "More relevant evidence would have spoken to the activities at WIV - did they have",
+    "span": [
+      487,
+      581
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9877,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  },
+  {
+    "node_id": "limitation-cc75aa777d8832e62c171768d9130ee7",
+    "node_type": "limitation",
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "chunk_id": "chunk-56d3596c5578aadede08f826dba233bd",
+    "node_text": "The section relies on an external spreadsheet containing over 10,000 words of explanation, indicating that detailed justification is not provided within the text itself.",
+    "quote": "Please see the full spreadsheet as it contains >10,000 words of explanation",
+    "span": [
+      103,
+      188
+    ],
+    "section_match_tier": "fuzzy",
+    "section_match_score": 0.9733,
+    "chunk_match": "exact",
+    "is_appendix": false,
+    "is_excluded": false
+  }
+]

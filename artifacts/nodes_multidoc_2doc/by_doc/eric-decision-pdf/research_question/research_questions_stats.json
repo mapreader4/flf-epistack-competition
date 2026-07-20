@@ -1,0 +1,9 @@
+{
+  "doc_id": "eric-decision-pdf",
+  "node_type": "research_question",
+  "sections_processed": 48,
+  "nodes_extracted": 136,
+  "invalid_pairs": 0,
+  "nodes_resolved": 134,
+  "nodes_dropped": 2
+}

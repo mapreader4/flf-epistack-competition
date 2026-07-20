@@ -1,0 +1,106 @@
+[
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "assumption",
+    "node_text": "The judge assumes that he should rely on claims made by the debaters to the greatest degree possible.",
+    "quote": "subject to the constraint that I would rely on (to the greatest degree possible) claims made by the debaters."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "assumption",
+    "node_text": "The judge assumes that giving the benefit of the doubt to a side's claims is appropriate when the other side does not contest them.",
+    "quote": "Give the benefit of the doubt to each side's claims when the other side did not contest them"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "assumption",
+    "node_text": "The judge assumes that only sources listed by the debaters should be read and analyzed.",
+    "quote": "Read/analyze only sources that were listed by the debaters"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "assumption",
+    "node_text": "The judge assumes that his own analysis should be used only when he feels the debaters misrepresented evidence or made a claim that wasn't supported by the cited evidence.",
+    "quote": "Rely on my own analysis only when I felt the debaters misrepresented their evidence or made a claim that wasn't supported by the cited evidence"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "assumption",
+    "node_text": "The judge assumes that he should not be influenced by who he thought performed better debating rhetorically or strategically.",
+    "quote": "Not to be influenced by who I thought did the better \"debating\" either rhetorically or strategically"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "assumption",
+    "node_text": "The judge assumes that both parties have extremely high integrity and are not willfully dishonest.",
+    "quote": "I don't believe this was willful dishonesty - I believe both parties have extremely high integrity."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "assumption",
+    "node_text": "The judge assumes that Bayesian analysis must be the best way to evaluate evidence at the fundamental rules of the universe level.",
+    "quote": "At the fundamental rules of the universe level, Bayesian analysis must be the best way to evaluate evidence."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "assumption",
+    "node_text": "The judge assumes that Bayesian analysis may not be a good strategy for humans because of cognitive limitations.",
+    "quote": "I am unsure that it's a good strategy for a human given our cognitive limitations"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "assumption",
+    "node_text": "The judge assumes that his background as a scientist gives him direct experience with many administrative, physical, and theoretical portions of the debate.",
+    "quote": "My background as a scientist, both in academic settings, and running a startup, give me direct experience with many of the administrative (e.g. grant writing/execution), physical (e.g. fermentation and sterilization), and theoretical (e.g. evolutionary dynamics of pathogen adaptations) portions of this debate."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "assumption",
+    "node_text": "The judge assumes that his limited knowledge of virology and molecular biology reduces his confidence in his decision.",
+    "quote": "Conversely, my knowledge of virology and molecular biology is limited; the fact I am extrapolating from work in bacteria and research methods used for bacteria reduces my confidence in my decision."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "1",
+    "node_type": "assumption",
+    "node_text": "The judge assumes that heuristics learned from debate influence his decision making.",
+    "quote": "the heuristics I learned in debate for evaluating the truth of a claim when I couldn't understand/know the source material definitely influenced my decision making."
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "node_type": "assumption",
+    "node_text": "The starting odds ratio for lab leak versus zoonotic origin can be expressed as the product of the probability that WIV made SARS‑CoV‑2 by 2019 and the probability that WIV leaked SARS‑CoV‑2 in 2019 divided by the product of the probability that natural processes made SARS‑CoV‑2 by 2019 and the probability that zoonotic processes leaked SARS‑CoV‑2 in 2019.",
+    "quote": "P0(LL)  /P0(ZO)    = [P(WIV   made   SARS-CoV-2      by 2019)   *P(WIV    leaked  SARS-CoV-2      in2019)]  /[P(Natural  processes   made    SARS-CoV-2     by  2019)  * P(Zoonotic   processes    leaked  SARS-CoV-2      in  2019)]"
+  },
+  {
+    "doc_id": "will-decision-pdf",
+    "document_name": "will_decision.pdf",
+    "section_number": "3",
+    "node_type": "assumption",
+    "node_text": "The base rate of pathogen leakage from laboratories is much higher than popularly believed.",
+    "quote": "The conclusion   was  that the base   rate of leakage   of pathogens   from  lab is much   higher  than  popularly believed."
+  }
+]

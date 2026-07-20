@@ -1,0 +1,9 @@
+{
+  "doc_id": "will-decision-pdf",
+  "node_type": "analysis",
+  "sections_processed": 3,
+  "nodes_extracted": 19,
+  "invalid_pairs": 0,
+  "nodes_resolved": 18,
+  "nodes_dropped": 1
+}
