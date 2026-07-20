@@ -55,7 +55,7 @@ def norm_key(text: str) -> str:
     return re.sub(r"[^a-z0-9]", "", clean(text).lower())
 
 
-def extract_pages(pdf_path: "Path | None" = None) -> list[str]:
+def extract_pages(pdf_path: "Path | None" = None, extraction_mode: str = "plain") -> list[str]:
     """Read and clean every page of a PDF.
 
     `pdf_path` defaults to the module-level PDF constant (eric_decision.pdf),
@@ -63,7 +63,7 @@ def extract_pages(pdf_path: "Path | None" = None) -> list[str]:
     read a different document.
     """
     reader = PdfReader(str(pdf_path if pdf_path is not None else PDF))
-    return [clean(p.extract_text() or "") for p in reader.pages]
+    return [clean(p.extract_text(extraction_mode=extraction_mode) or "") for p in reader.pages]
 
 
 def parse_toc(pages: list[str], toc_page_start: int = 1, toc_page_end: int = 4) -> list[dict]:
@@ -286,11 +286,37 @@ def chunk_sections(
     return chunks
 
 
+def flat_sections(body: str, heading_regex: str) -> list[dict]:
+    """Split a body that has NO dotted TOC into sections by a flat heading pattern.
+
+    For a doc like will_decision.pdf whose only structure is repeated "Section N"
+    headings (no page-numbered contents page). `heading_regex` must capture the
+    section number in group 1; a section's content runs from just after its heading
+    line to the start of the next heading. Returns dicts shaped exactly like
+    locate_headings() output (number/title/start/end) so chunk_sections() consumes
+    them unchanged.
+    """
+    pat = re.compile(heading_regex, re.MULTILINE)
+    matches = list(pat.finditer(body))
+    out: list[dict] = []
+    for i, m in enumerate(matches):
+        number = m.group(1) if m.groups() else str(i + 1)
+        line_end = body.find("\n", m.end())
+        content_start = (line_end + 1) if line_end != -1 else m.end()
+        title = body[m.end():line_end].strip() if line_end != -1 else ""
+        end = matches[i + 1].start() if i + 1 < len(matches) else len(body)
+        out.append({"number": number, "title": title or f"Section {number}",
+                    "toc_page": None, "start": content_start, "end": end})
+    return out
+
+
 def recover_document(
     pdf_path: "Path",
     first_body_page: int = 4,
     toc_page_start: int = 1,
     toc_page_end: int = 4,
+    extraction_mode: str = "plain",
+    heading_regex: "str | None" = None,
 ) -> dict:
     """Run the full section/chunk recovery pipeline for one PDF and return
     everything a caller needs in one dict.
@@ -306,10 +332,10 @@ def recover_document(
     a real, expected outcome for e.g. a typical arXiv paper, not a bug; the
     caller must detect and handle it.
     """
-    pages = extract_pages(pdf_path)
-    toc = parse_toc(pages, toc_page_start=toc_page_start, toc_page_end=toc_page_end)
+    pages = extract_pages(pdf_path, extraction_mode=extraction_mode)
+    toc = [] if heading_regex else parse_toc(pages, toc_page_start=toc_page_start, toc_page_end=toc_page_end)
     body, offsets = build_body(pages, first_body_page=first_body_page)
-    sections = locate_headings(body, toc)
+    sections = flat_sections(body, heading_regex) if heading_regex else locate_headings(body, toc)
     chunks = chunk_sections(sections, body, offsets, verbose=False)
     return {
         "pages": pages,

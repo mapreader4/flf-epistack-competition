@@ -941,6 +941,8 @@ def load_documents_config(
                 "first_body_page": int(entry.get("first_body_page", DEFAULT_FIRST_BODY_PAGE)),
                 "toc_page_start": int(entry.get("toc_page_start", DEFAULT_TOC_PAGE_START)),
                 "toc_page_end": int(entry.get("toc_page_end", DEFAULT_TOC_PAGE_END)),
+                "extraction_mode": entry.get("extraction_mode", "plain"),
+                "heading_regex": entry.get("heading_regex"),
             }
         )
 
@@ -1666,9 +1668,11 @@ def main() -> None:
             first_body_page=d["first_body_page"],
             toc_page_start=d["toc_page_start"],
             toc_page_end=d["toc_page_end"],
+            extraction_mode=d["extraction_mode"],
+            heading_regex=d["heading_regex"],
         )
 
-        if not recovered["toc"] or not recovered["sections"]:
+        if not recovered["sections"]:
             print(
                 f"  WARNING: document '{name}' yielded an EMPTY table of "
                 f"contents (parse_toc found {len(recovered['toc'])} entries, "

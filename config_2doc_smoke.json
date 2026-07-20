@@ -1,0 +1,20 @@
+[
+  {
+    "pdf": "eric_decision.pdf",
+    "name": "eric_decision.pdf",
+    "description": "a judge's written decision in a structured public debate about COVID-19 origins (zoonosis vs. lab-leak), weighing competing hypotheses under explicit Bayesian argument.",
+    "sections": ["7"],
+    "first_body_page": 4,
+    "toc_page_start": 1,
+    "toc_page_end": 4
+  },
+  {
+    "pdf": "will_decision.pdf",
+    "name": "will_decision.pdf",
+    "description": "a second judge's written decision in the same COVID-19 origins debate (zoonosis vs. lab-leak): it summarizes each side's evidence and a Bayesian analysis and delivers a verdict that zoonotic origin is substantially more likely.",
+    "sections": ["1"],
+    "first_body_page": 2,
+    "extraction_mode": "layout",
+    "heading_regex": "^\\s*Section\\s+(\\d+)"
+  }
+]
